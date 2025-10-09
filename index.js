@@ -17,6 +17,16 @@ app.get('/', (req, res)=> {
   res.render('register')
 })
 
+app.get('/protected', (req, res)=> {
+  //const {user} = req.session
+  res.render('protected')
+  
+})
+app.post('/login', async (req, res) => {
+  const {username, password} = req.body
+  const user = await UserRepository.login({username, password})
+})
+
 app.post('/register', async (req, res) => {
   const {username, password} = req.body
   console.log(req.body)
