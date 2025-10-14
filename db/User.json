@@ -1,17 +1,1 @@
-[
-  {
-    "_id": "fc26e1f8-1988-4af0-acc5-668fd774262d",
-    "username": "PrimoWacho",
-    "password": "$2b$05$qfkuS9UWOXYKftdifYxB8.fjZuViC0UUaP3.xy712zF.b8tDcH81C"
-  },
-  {
-    "_id": "e38c2ed7-e420-4bb2-b13b-631900e2416d",
-    "username": "Messi1234",
-    "password": "$2b$05$RpEBxuqma2a6tpF8tNK5KOKdIUH6SS9nK569ZN62HSspyttya4GDC"
-  },
-  {
-    "_id": "8109ece6-738f-4413-83bf-d53b09b19fe0",
-    "username": "JuanAlberto",
-    "password": "$2b$05$7GJk2kLneD3Wq.UONV86Oer1g3GCgWmYZDzWMZxqHqqLk0o.kEIL2"
-  }
-]
+[{"_id":"5363b930-3b81-4d6d-8969-e011666610d4","username":"Asad","password":"$2b$05$.SiAhL5lRw8MVZ4ZakTJw.wdgSpW/CrG4xZuLQTPnlZXUb2PEsV7q"},{"_id":"fc26e1f8-1988-4af0-acc5-668fd774262d","username":"PrimoWacho","password":"$2b$05$qfkuS9UWOXYKftdifYxB8.fjZuViC0UUaP3.xy712zF.b8tDcH81C"},{"_id":"e38c2ed7-e420-4bb2-b13b-631900e2416d","username":"Messi1234","password":"$2b$05$RpEBxuqma2a6tpF8tNK5KOKdIUH6SS9nK569ZN62HSspyttya4GDC"},{"_id":"8109ece6-738f-4413-83bf-d53b09b19fe0","username":"JuanAlberto","password":"$2b$05$7GJk2kLneD3Wq.UONV86Oer1g3GCgWmYZDzWMZxqHqqLk0o.kEIL2"}]

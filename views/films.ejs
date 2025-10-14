@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestió de Llibres</title>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Gestió de pel</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Llista de Pelicules</h2>
+      <% if (data.peliculas && data.peliculas.length > 0) { %>
+        <ul class="pelicula-list">
+          <% data.peliculas.forEach(pelicula => { %>
+            <li class="pelicula-item">
+              <strong><%= pelicula.nombre %></strong>
+              <span>Director: <%= pelicula.director %></span>
+              <span>Any: <%= pelicula.year %></span>
+              <span>Productora: <%= pelicula.productora %></span>
+              <span>Presupuesto: <%= pelicula.presupuesto %> €</span>
+            </li>
+          <% }) %>
+        </ul>
+      <% } else { %>
+        <p>No hi ha llibres disponibles.</p>
+      <% } %>
+    </section>
+  </main>
+</body>
+</html>
