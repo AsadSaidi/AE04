@@ -38,3 +38,8 @@ app.post('/register', async (req, res) => {
     res.status(400).send(error.message)
   }
 })
+
+app.get('/', (req, res)=> {
+  //const {user} = req.session
+  res.render('register')
+})
