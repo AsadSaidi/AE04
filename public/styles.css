@@ -1,4 +1,6 @@
-/* Reset básico */
+/* protected.css - modo oscuro exclusivo para la página de películas */
+
+/* Reset básico para esta página */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,91 +9,104 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #f0f2f5;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  background-color: #121212;
+  color: #e0e0e0;
   padding: 2rem;
 }
 
-/* Contenedor principal */
-.container {
-  display: flex;
-  flex-direction: column; /* uno debajo del otro */
-  gap: 2rem; /* espacio entre login y register */
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  max-width: 400px;
-}
-
-/* Formularios */
-form#login-form,
-form#register-form {
-  background-color: #fff;
-  padding: 2rem 2.5rem;
-  border-radius: 8px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  transition: transform 0.2s ease;
-}
-
-form#login-form:hover,
-form#register-form:hover {
-  transform: translateY(-3px);
-}
-
-/* Títulos */
-form#login-form h2,
-form#register-form h2 {
+/* Títulos y descripción */
+h1 {
   text-align: center;
-  margin-bottom: 1rem;
-  color: #333;
+  color: #4CAF50;
+  margin-bottom: 0.5rem;
 }
 
-/* Labels e inputs */
-form#login-form label,
-form#register-form label {
-  font-weight: bold;
-  margin-bottom: 0.2rem;
-  color: #555;
-}
-
-form#login-form input,
-form#register-form input {
-  padding: 0.6rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 1rem;
-}
-
-/* Botones */
-form#login-form button,
-form#register-form button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 0.7rem;
-  border: none;
-  border-radius: 4px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background 0.3s ease;
-}
-
-form#login-form button:hover,
-form#register-form button:hover {
-  background-color: #45a049;
-}
-
-/* Mensajes de estado */
-form#login-form span,
-form#register-form span {
+span {
   display: block;
   text-align: center;
-  font-weight: bold;
-  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  color: #b0b0b0;
+}
+
+/* Tabla de películas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid #333;
+}
+
+th {
+  background-color: #2a2a2a;
+  color: #fafafa;
+}
+
+tr:hover {
+  background-color: #232323;
+}
+
+/* Botones de acción */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.5rem 0.7rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.1s ease;
+  margin: 0 0.2rem;
+}
+
+button:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+/* Formulario de CRUD */
+form#formPelicula {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 500px;
+  margin: 0 auto 2rem auto;
+  padding: 1.5rem;
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+form#formPelicula h2 {
+  text-align: center;
+  color: #fafafa;
+  margin-bottom: 1rem;
+}
+
+form#formPelicula input {
+  padding: 0.6rem;
+  border-radius: 4px;
+  border: 1px solid #333;
+  background-color: #2a2a2a;
+  color: #fff;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+form#formPelicula input:focus {
+  outline: none;
+  border-color: #4CAF50;
+  background-color: #333;
+}
+
+/* Scroll horizontal para tablas en pantallas pequeñas */
+table {
+  display: block;
+  overflow-x: auto;
 }

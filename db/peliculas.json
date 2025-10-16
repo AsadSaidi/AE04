@@ -350,5 +350,14 @@
     "director": "Chris Buck, Kevin Lima",
     "presupuesto": 130000000,
     "productora": "Walt Disney Pictures"
+  },
+  {
+    "id": null,
+    "nombre": "Sin novedad al frente",
+    "year": 2022,
+    "genero": "Guerra Mundial",
+    "director": "Edward Berger",
+    "presupuesto": 20000000,
+    "productora": "Amusement Park Films Sliding Down Rainbows Entertainmen"
   }
 ]

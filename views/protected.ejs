@@ -1,14 +1,134 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Página protegida</title>
+<link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
-    <span>Aixo es una pàgina protegida</span>
-    <script>
-        
-</script>
+  <h1>🎬 Películas</h1>
+  <span>Això és una pàgina protegida</span>
+
+  <table id="tablaPeliculas">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Año</th>
+        <th>Género</th>
+        <th>Director</th>
+        <th>Presupuesto</th>
+        <th>Productora</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <form id="formPelicula">
+    <h2 id="formTitulo">Agregar Película</h2>
+    <input type="text" id="nombre" placeholder="Nombre" required />
+    <input type="number" id="year" placeholder="Año" required />
+    <input type="text" id="genero" placeholder="Género" required />
+    <input type="text" id="director" placeholder="Director" required />
+    <input type="number" id="presupuesto" placeholder="Presupuesto" required />
+    <input type="text" id="productora" placeholder="Productora" required />
+    <button type="submit">Guardar</button>
+  </form>
+
+  <script>
+    const API_URL = '/api/peliculas';
+    const tbody = document.querySelector('#tablaPeliculas tbody');
+    const form = document.querySelector('#formPelicula');
+    const formTitulo = document.querySelector('#formTitulo');
+
+    let editId = null;
+
+    // Obtener todas las películas
+    async function cargarPeliculas() {
+      const res = await fetch(API_URL);
+      const peliculas = await res.json();
+      mostrarPeliculas(peliculas);
+    }
+
+    function mostrarPeliculas(peliculas) {
+      tbody.innerHTML = '';
+      peliculas.forEach(p => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${p.nombre}</td>
+          <td>${p.year}</td>
+          <td>${p.genero}</td>
+          <td>${p.director}</td>
+          <td>$${p.presupuesto.toLocaleString()}</td>
+          <td>${p.productora}</td>
+          <td>
+            <button onclick="editarPelicula(${p.id})">✏️</button>
+            <button onclick="eliminarPelicula(${p.id})">🗑️</button>
+          </td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    // Crear o actualizar película
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const data = {
+        nombre: form.nombre.value,
+        year: parseInt(form.year.value),
+        genero: form.genero.value,
+        director: form.director.value,
+        presupuesto: parseFloat(form.presupuesto.value),
+        productora: form.productora.value
+      };
+
+      if (editId === null) {
+        await fetch(API_URL, {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(data)
+        });
+      } else {
+        await fetch(`${API_URL}/${editId}`, {
+          method: 'PUT',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(data)
+        });
+        editId = null;
+        formTitulo.textContent = "Agregar Película";
+      }
+
+      form.reset();
+      cargarPeliculas();
+    });
+
+    // Editar película
+    window.editarPelicula = async (id) => {
+      const res = await fetch(`${API_URL}/${id}`);
+      const p = await res.json();
+
+      form.nombre.value = p.nombre;
+      form.year.value = p.year;
+      form.genero.value = p.genero;
+      form.director.value = p.director;
+      form.presupuesto.value = p.presupuesto;
+      form.productora.value = p.productora;
+
+      editId = id;
+      formTitulo.textContent = "Editar Película";
+    };
+
+    // Eliminar película
+    window.eliminarPelicula = async (id) => {
+      if (confirm("¿Seguro que quieres eliminar esta película?")) {
+        await fetch(`${API_URL}/${id}`, { method: 'DELETE' });
+        cargarPeliculas();
+      }
+    };
+
+    cargarPeliculas();
+  </script>
 </body>
 </html>
