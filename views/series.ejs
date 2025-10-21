@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CRUD Series</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+    body { background: #0f172a; color: white; }
+    .glass {
+        background: rgba(255,255,255,0.05);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255,255,255,0.2);
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+</style>
+</head>
+<body class="min-h-screen flex flex-col items-center p-4">
+
+<h1 class="text-3xl font-bold mb-4">CRUD Series</h1>
+
+<div class="glass w-full max-w-2xl mb-4">
+    <h2 class="text-xl font-semibold mb-2">Agregar / Editar Serie</h2>
+    <form id="serie-form" class="space-y-2">
+        <input type="hidden" id="serie-id">
+        <input type="text" id="serie-nombre" placeholder="Nombre" class="w-full p-2 rounded bg-white/10">
+        <input type="number" id="serie-year" placeholder="Año" class="w-full p-2 rounded bg-white/10">
+        <input type="text" id="serie-genero" placeholder="Género" class="w-full p-2 rounded bg-white/10">
+        <input type="text" id="serie-director" placeholder="Director" class="w-full p-2 rounded bg-white/10">
+        <input type="number" id="serie-temporadas" placeholder="Temporadas" class="w-full p-2 rounded bg-white/10">
+        <input type="text" id="serie-plataforma" placeholder="Plataforma" class="w-full p-2 rounded bg-white/10">
+        <div class="flex gap-2">
+            <button type="submit" class="bg-blue-600 px-4 py-2 rounded">Guardar</button>
+            <button type="button" id="btn-cancelar" class="bg-gray-600 px-4 py-2 rounded">Cancelar</button>
+        </div>
+    </form>
+</div>
+
+<div class="glass w-full max-w-2xl p-4">
+    <h2 class="text-xl font-semibold mb-2">Listado de Series</h2>
+    <div id="series-list" class="space-y-2"></div>
+</div>
+
+<script>
+const form = document.getElementById('serie-form');
+const btnCancelar = document.getElementById('btn-cancelar');
+const lista = document.getElementById('series-list');
+const API_URL = '/api/series';
+
+
+let editId = null;
+
+async function cargarSeries() {
+  try {
+    const token = localStorage.getItem('token');
+    console.log("Token:", token); // <- Verifica que exista
+    const res = await fetch(API_URL, {
+      headers: {
+        'Authorization': `Bearer ${token}`
+      }
+    });
+
+    if (!res.ok) throw new Error(res.statusText);
+
+    const series = await res.json();
+    mostrarSeries(series);
+  } catch (error) {
+    console.error("Error cargando series", error);
+  }
+}
+
+
+function mostrarSeries(series) {
+    lista.innerHTML = '';
+    series.forEach(s => {
+        const div = document.createElement('div');
+        div.className = "flex justify-between bg-white/10 p-2 rounded";
+        div.innerHTML = `
+            <span>${s.nombre} (${s.year}) - ${s.temporadas} temp - ${s.plataforma}</span>
+            <div class="flex gap-2">
+                <button onclick="editarSerie(${s.id})" class="bg-yellow-500 px-2 rounded">Editar</button>
+                <button onclick="eliminarSerie(${s.id})" class="bg-red-500 px-2 rounded">Eliminar</button>
+            </div>
+        `;
+        lista.appendChild(div);
+    });
+}
+
+async function guardarSerie(e) {
+    e.preventDefault();
+    const token = localStorage.getItem('token');
+    const serie = {
+        nombre: document.getElementById('serie-nombre').value,
+        year: parseInt(document.getElementById('serie-year').value),
+        genero: document.getElementById('serie-genero').value,
+        director: document.getElementById('serie-director').value,
+        temporadas: parseInt(document.getElementById('serie-temporadas').value),
+        plataforma: document.getElementById('serie-plataforma').value
+    };
+    const url = editId ? `/api/series/${editId}` : '/api/series';
+    const method = editId ? 'PUT' : 'POST';
+
+    try {
+        const res = await fetch(url, {
+            method,
+            headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${token}` },
+            body: JSON.stringify(serie)
+        });
+        if (!res.ok) throw new Error('Error guardando serie');
+        resetForm();
+        cargarSeries();
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+function resetForm() {
+    editId = null;
+    form.reset();
+}
+
+async function editarSerie(id) {
+    const token = localStorage.getItem('token');
+    const res = await fetch(`/api/series/${id}`, {
+        headers: { 'Authorization': `Bearer ${token}` }
+    });
+    const s = await res.json();
+    editId = s.id;
+    document.getElementById('serie-nombre').value = s.nombre;
+    document.getElementById('serie-year').value = s.year;
+    document.getElementById('serie-genero').value = s.genero;
+    document.getElementById('serie-director').value = s.director;
+    document.getElementById('serie-temporadas').value = s.temporadas;
+    document.getElementById('serie-plataforma').value = s.plataforma;
+}
+
+async function eliminarSerie(id) {
+    const token = localStorage.getItem('token');
+    await fetch(`/api/series/${id}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `Bearer ${token}` }
+    });
+    cargarSeries();
+}
+
+form.addEventListener('submit', guardarSerie);
+btnCancelar.addEventListener('click', resetForm);
+
+// Cargar al iniciar
+cargarSeries();
+</script>
+</body>
+</html>

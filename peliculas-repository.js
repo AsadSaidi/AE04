@@ -33,8 +33,14 @@ export class PeliculasRepository {
 
   static async delete(id) {
     const peliculas = await this.getAll();
-    const nuevas = peliculas.filter(p => p.id !== id);
-    await fs.writeFile(DB_PATH, JSON.stringify(nuevas, null, 2));
-    return { deleted: true };
+    const idNum = Number(id);
+    const index = peliculas.findIndex(p => Number(p.id) === idNum);
+    
+    if (index === -1) throw new Error(`No se encontró la película con id ${idNum}`);
+    
+    const [eliminada] = peliculas.splice(index, 1);
+    await fs.writeFile(DB_PATH, JSON.stringify(peliculas, null, 2));
+    return { deleted: true, eliminada };
   }
+
 }
