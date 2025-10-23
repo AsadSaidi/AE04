@@ -1,6 +1,6 @@
-# 🧩 AEA04 – Sistema complet amb autenticació i CRUD
+# AEA04 – Sistema complet amb autenticació i CRUD
 
-## 📋 Descripció general
+## Descripció general
 Aquest projecte implementa una aplicació completa amb **Node.js i Express** que integra:
 
 - Autenticació d’usuaris amb **JSON Web Tokens (JWT)**.
@@ -13,7 +13,7 @@ L’aplicació forma part de l’activitat **AEA04** del mòdul M14 (Desenvolupa
 
 ---
 
-## 🧠 Objectius principals
+## Objectius principals
 - Implementar un sistema complet d’autenticació amb JWT.
 - Desenvolupar CRUDs segurs i protegits amb middleware.
 - Utilitzar bones pràctiques de seguretat amb cookies i validacions.
@@ -22,7 +22,7 @@ L’aplicació forma part de l’activitat **AEA04** del mòdul M14 (Desenvolupa
 
 ---
 
-## 🗂️ Estructura del projecte
+## Estructura del projecte
 
 ```
 AEA04/
@@ -50,7 +50,7 @@ AEA04/
 
 ---
 
-## 🔐 Autenticació JWT
+## Autenticació JWT
 
 ### Rutes principals d’autenticació
 
@@ -71,7 +71,7 @@ secure: true
 
 ---
 
-## ⚙️ CRUD del sistema
+## CRUD del sistema
 
 S’han implementat dos CRUDs complets: **Sèries** i **Pel·lícules**, a més de l’autenticació d’usuaris.
 
@@ -103,7 +103,7 @@ S’han implementat dos CRUDs complets: **Sèries** i **Pel·lícules**, a més 
 
 ---
 
-## 🧰 Dependències principals
+## Dependències principals
 ```bash
 express
 bcrypt
@@ -116,7 +116,7 @@ nodemon
 
 ---
 
-## 🚀 Instruccions d’instal·lació i execució
+## Instruccions d’instal·lació i execució
 
 1. **Clona el repositori**
    ```bash
