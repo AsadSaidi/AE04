@@ -1,11 +1,15 @@
 {
-  "name": "ae03",
+  "name": "ae04-vue",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "npm run dev:backend & npm run dev:frontend",
+    "dev:backend": "nodemon index.js",
+    "dev:frontend": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
@@ -16,13 +20,15 @@
     "cookie-parser": "^1.4.7",
     "crypto": "^1.0.1",
     "db-local": "^3.1.0",
-    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "jws": "^4.0.0"
+    "jws": "^4.0.0",
+    "vue": "^3.4.0"
   },
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
   }
 }

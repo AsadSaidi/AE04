@@ -12,12 +12,10 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser()); 
 app.use(express.static("public"));
-app.set('view engine', 'ejs');
-app.set('views', './views');
 
 // Middleware JWT
 const authMiddleware = (req, res, next) => {
-  const token = req.cookies.token || (authHeader && authHeader.split(' ')[1]);
+  const token = req.cookies.token || (req.headers.authorization && req.headers.authorization.split(' ')[1]);
   if (!token) return res.status(401).json({ error: 'No autorizado' });
   
   try {
@@ -28,17 +26,6 @@ const authMiddleware = (req, res, next) => {
     return res.status(403).json({ error: 'Token inválido' });
   }
 };
-
-
-
-// Rutas normales
-app.get('/', (req, res) => {
-  res.render('register'); // o 'login' si quieres otro archivo
-});
-
-app.get('/protected', authMiddleware, (req, res) => {
-  res.render('protected');
-});
 
 
 
