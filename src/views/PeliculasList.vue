@@ -58,8 +58,6 @@
 
 <script setup>
 defineProps({
-
-    
   peliculas: {
     type: Array,
     default: () => []

@@ -7,8 +7,8 @@
 
 <script setup>
 import { ref } from 'vue'
-import LoginRegister from './components/LoginRegister.vue'
-import Dashboard from './components/Dashboard.vue'
+import LoginRegister from './views/LoginRegister.vue'
+import Dashboard from './views/Dashboard.vue'
 
 const isAuthenticated = ref(false)
 
