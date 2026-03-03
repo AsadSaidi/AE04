@@ -9,26 +9,32 @@
     "dev:backend": "nodemon index.js",
     "dev:frontend": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "db:push": "drizzle-kit push"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
+    "better-sqlite3": "^11.10.0",
     "body-parser": "2.2.0",
     "cookie-parser": "^1.4.7",
     "crypto": "^1.0.1",
     "db-local": "^3.1.0",
+    "drizzle-orm": "^0.37.0",
     "express": "^5.1.0",
+    "h3": "^2.0.1-rc.14",
     "jsonwebtoken": "^9.0.2",
     "jws": "^4.0.0",
-    "vue": "^3.4.0"
+    "vue": "^3.4.0",
+    "zod": "^3.23.8"
   },
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.10",
     "@vitejs/plugin-vue": "^5.0.0",
+    "drizzle-kit": "^0.30.5",
+    "nodemon": "^3.1.10",
     "vite": "^5.0.0"
   }
 }
