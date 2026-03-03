@@ -5,7 +5,6 @@ export default defineConfig({
   schema: './server/db/schema.ts',
   out: './server/db/migrations',
   dbCredentials: {
-    // La base de datos SQLite se guardará en esta ruta relativa
     url: './data/database.sqlite',
   },
 });
