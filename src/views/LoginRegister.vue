@@ -124,10 +124,17 @@ const handleLogin = async () => {
   loadingLogin.value = true
   try {
     const data = await api.login(loginForm.value.username, loginForm.value.password)
-    if (data.error) {
-      loginError.value = data.error
+
+    if (data && data.error) {
+      // Nos aseguramos de mostrar siempre un mensaje de texto
+      loginError.value = typeof data.error === 'string'
+        ? data.error
+        : 'Usuario o contraseña incorrectos'
     } else {
-      localStorage.setItem('username', data.username)
+      // Si el backend no devuelve username, usamos el del formulario
+      const username = data && data.username ? data.username : loginForm.value.username
+      localStorage.setItem('username', username)
+      loginError.value = ''
       emit('login')
     }
   } catch (error) {
@@ -164,8 +171,10 @@ const handleRegister = async () => {
   loadingRegister.value = true
   try {
     const data = await api.register(registerForm.value.username, registerForm.value.password)
-    if (data.error) {
-      registerError.value = data.error
+    if (data && data.error) {
+      registerError.value = typeof data.error === 'string'
+        ? data.error
+        : 'No se ha podido registrar el usuario'
     } else {
       registerSuccess.value = 'Registro exitoso. Ahora puedes iniciar sesión.'
       registerForm.value = { username: '', password: '', confirm: '' }

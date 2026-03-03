@@ -8,6 +8,18 @@ export const api = {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ username, password })
     })
+    if (!res.ok) {
+      try {
+        const data = await res.json()
+        return {
+          // Propagamos siempre el mensaje real del backend si existe
+          error: data?.error ?? 'No se ha podido registrar el usuario'
+        }
+      } catch {
+        return { error: 'No se ha podido registrar el usuario' }
+      }
+    }
+
     return res.json()
   },
 
@@ -18,6 +30,22 @@ export const api = {
       body: JSON.stringify({ username, password }),
       credentials: 'include'
     })
+
+    // Si la respuesta no es OK, devolvemos siempre un error de forma consistente
+    if (!res.ok) {
+      try {
+        const data = await res.json()
+        return {
+          error: typeof data?.error === 'string'
+            ? data.error
+            : 'Usuario o contraseña incorrectos'
+        }
+      } catch {
+        return { error: 'Usuario o contraseña incorrectos' }
+      }
+    }
+
+    // Éxito: devolvemos el JSON tal cual (debería incluir username)
     return res.json()
   },
 

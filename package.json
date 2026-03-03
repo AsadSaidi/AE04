@@ -10,7 +10,8 @@
     "dev:frontend": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "db:push": "drizzle-kit push"
+    "db:push": "drizzle-kit push",
+    "dev:nuxt": "nuxi dev"
   },
   "keywords": [],
   "author": "",
