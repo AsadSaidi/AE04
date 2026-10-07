@@ -1,0 +1,48 @@
+# Lección 18 — 18. Comprar Dominio y Vincular Shopify.mp4 (04:07)
+[00:00] que lo siguiente debería ser el color, pero es el vídeo siguiente y lo meto y aquí porque luego se nos va a olvidar a
+[00:06] vosotros y a mí y no lo vamos a hacer bien, ¿vale? Así de claro lo voy a decir. Bien, ¿qué es lo siguiente comprar un dominio?
+[00:12] ¿Dónde lo compramos? Yo siempre he recomendado GoDaddy, Hostinger, bueno, todo lo que queráis, pero últimamente
+[00:18] no sé qué están haciendo en Shopify y quedan errores, o sea, intentan vincularlos y dan un montón de errores. Entonces
+[00:23] en Shopify son un poco más caros, pero te da error cero. Entonces, qué hacemos? Venimos a configuración, le damos,
+[00:29] vamos a dominios o Domain, si tenéis la página en inglés,
+[00:32] le damos aquí y le damos a comprar un nuevo dominio. El nuestro es TrimPause, ¿vale? Te dice TrimPause, no está disponible.
+[00:39] ¿Qué podemos hacer si no está disponible el punto com?
+[00:43] Bien, o voy a ser 100% honesto. Hay mucha gente que compra un shop, que compra un punto store y casi siempre están disponibles y encima son más baratos.
+[00:52] ¿Podéis hacerlo? Sí, podéis hacerlo, pero no me jodáis. Por cinco dólares comprar un punto com más, pero es que el
+[00:57] dominion.com no está, ¿vale? Pues ¿qué hacemos si no están punto com? Le ponemos un D delante, ¿vale?
+[01:03] Yo le pongo un D de TrimPause y seguramente o no, ves si que está disponible, 16 dólares. Y el otro valía 10
+[01:09] por 6 dólares, no me jodáis. Ahora bien, que esto no lo dije, la búsqueda del nombre.
+[01:14] Si tenéis poco capital, si tenéis poco presupuesto, podéis utilizar el nombre de la marca, que no significa nada, por ejemplo,
+[01:22] yo tengo de TrimPause, pero podríamos poner
+[01:25] esto. No sé si significa algo, pero vamos a suponer que no significa nada como tal, ¿vale? Si yo pongo BLEAME,
+[01:32] a mí me sirve para vender esto y me sirve para vender un producto de perros, lo único que le cambio es la tipografía haciendo logo,
+[01:38] pero el nombre es el mismo. Entonces, si no tenéis mucho presupuesto, comprar un dominio, tener un nombre de web, que no
+[01:44] significa nada. ¿Para qué? Para poder utilizarlo con todos los productos y no tener que estar comprando dominios, dominios, dominios, dominios.
+[01:50] Yo, en mi caso, voy fuerte, siempre apuesto por lo que hago y lo que hago es esto, en cambio, vosotros,
+[01:57] si vais a probar un producto de mascotas, luego otro de belleza, luego otro de galle, luego otro de tal,
+[02:01] estar comprando dominios cada cuatro o cinco días, pues es un dinero que os podéis arrar al mes, porque a lo mejor lo que
+[02:06] está diciendo es dólares, con eso casi casi podéis testear otro producto. Entonces, si queréis
+[02:11] buscar nombres que no significuen nada, con lo que hicimos de NameLeaks y ChatGPT, le podéis decir en el prompt
+[02:17] dame nombres que no significuen nada. Y con esos nombres, pues venís aquí y hacéis eso. Dicho esto,
+[02:22] yo lo que voy a hacer y le voy a dar a comprar, aquí lo estoy viendo todo pixelado, ¿vale? Y yo le voy a quitar
+[02:27] el renovar automáticamente cada año. ¿Por qué? Porque luego se nos olvida, ya no estamos con esta
+[02:32] web, nos empiezan a cobrar dominios y es una locura, ¿vale? Entonces, yo lo desactivo y si lo
+[02:36] quiero renovar lo renovo manualmente. Si tenéis una marca ya bastante fuerte, pues obviamente
+[02:41] estar atentos que nos lo quiten. Entonces, lo desactivamos y ahora ya tienen los datos
+[02:45] de la tarjeta porque hemos pagado el plan y todo el rollo y le doy a comprar dominio. Aquí me sale
+[02:50] esto, le doy a ver estado del dominio, como vamos a ver aquí y pone verifica tu correo electrónico
+[02:54] para finalizar el registro. Vamos al correo y lo verificamos. Yo ahora no lo voy a hacer,
+[02:59] no es necesario. Entonces, lo que tenemos que hacer es volver a darle a dominios, ¿vale? Y
+[03:04] fijaros que te pone SSL pendiente. Esto pasa siempre, ¿vale? No os preocupéis. Hay que
+[03:08] poner el www como principal. Si lo pones sin el www también funciona. Entonces, le doy aquí,
+[03:13] dentro, ¿vale? Le doy a cambiar tipo de dominio y lo pongo como dominio principal para que se
+[03:20] cambie por ese dominio principal. Entonces, ahora si yo busco este dominio, es probable que me dé
+[03:25] error porque está el SSL pendiente, pero cuando no esté el SSL pendiente buscaré el dominio y
+[03:30] no me dará error. Entonces, vamos a esperar a que se acabe y listo, ¿vale? Bien, bueno,
+[03:34] vamos a buscarlo para que lo veáis de trim, pause. Entonces, seguramente de error porque está
+[03:39] esperando el SSL, pero ya veréis que a medida que hagamos la web, esto se va a arreglar y listo,
+[03:45] ¿vale? Tarda poco, tarda mejor cinco minutos, cosas así, ¿vale? Tampoco os asustéis y tardo
+[03:49] un poco más, ir haciendo la web y ya está. Entonces, así se compra el dominio, podéis
+[03:53] comprarlo en GoDaddy, le tendréis que dar a conectar existente y aquí poner el dominio y
+[03:58] hacer toda la vinculación, lo podéis comprar en Hostinger o donde salga, pero ya habéis
+[04:02] visto, en Shopify son tres minutos. Bien, ahora sí, vamos con los colores y seguimos.
