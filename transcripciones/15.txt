@@ -1,0 +1,19 @@
+# Lección 15 — 15. Extensión Para Ver Web en Formato Móvil.mp4 (01:11)
+[00:00] este vídeo lo añado porque sé que os va a pasar sé que os va a pasar vale no
+[00:05] tiene que ver con tienda muchas veces vuestra competencia estará usando el
+[00:09] tema serraín y vosotros lo queréis ver cómo lo tienen todo en formato móvil
+[00:12] le vais a dar f12 que para quien no sepas decir si yo me voy a esta tienda y
+[00:16] le doy f12 se me pone en formato móvil entonces puedo ver cómo se ve en
+[00:21] formato móvil pero si yo me voy a una tienda serraín y le doy a f12 no sé
+[00:24] si lo escucháis pero no hace nada entonces como hacemos esto tendría
+[00:28] que abrir el móvil bien nosotros de verdad no es de tienda pero es para que lo
+[00:31] tengáis nosotros utilizamos esta extensión de chrome vale que es simulador
+[00:35] móvil herramienta os dejo el enlace en la descripción vale para que lo tengáis le
+[00:39] damos a añadir chrome añadir extensión vale cuando ahora que está
+[00:43] cargando le damos a low cookies y hacemos todo esto le damos arriba
+[00:48] derecha la fijamos para que nos salga aquí y entonces si vamos aquí y le doy
+[00:54] fijaros que ahora sí que me sale en formato móvil entonces es un momento de
+[00:58] gratis no cuesta absolutamente nada y podéis hacer esto para no tener que
+[01:03] estar yendo al móvil ordenador móvil ordenador vale es es una historia o sea
+[01:07] perdón es una historia no es un vídeo muy tonto pero bueno para que lo sepa
+[01:10] y vamos con lo siguiente
