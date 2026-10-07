@@ -1,0 +1,28 @@
+# Lección 12 — 12. Cambiar Idioma y Nombre de la Tienda.mp4 (02:20)
+[00:00] me quedaba un vídeo por hacer antes de ir con las cosas serias que es cambiar el idioma hay diferentes
+[00:05] idiomas está el idioma del dashboard esto de aquí sale en inglés y luego está el idioma de la
+[00:11] tienda vale el del dashboard le damos aquí le damos encima de lo que es el el mail vale y se te
+[00:19] abre esta pestaña al salir de esta pestaña tienes que poner aquí esto hace falta que lo
+[00:24] pongas esto no hace falta que lo pongas y aquí te pone idioma inglés pues ponemos español vale le
+[00:31] dan podemos cambiar también la hora en el caso de que le queramos la hora de madrid pues buscamos
+[00:35] madrid vale que en este caso pues saldrá por aquí lo buscamos por palabras pero no sale vale pero
+[00:40] bueno bruselas yo que sé vale lo que sea le damos a safe y ahora si volvemos aquí fijaros
+[00:45] que está todo en inglés les de actualizar y automática vale no nos a veces tarda vamos a
+[00:51] vamos a esperar aquí ahora vale perdón que me había dejado muy mal entonces aquí ya se ha
+[00:57] cambiado entonces el dashboard ya lo tienes en español que es en alemán en alemán en inglés
+[01:01] en inglés solo tenemos que ir ahí para cambiar el idioma de la tienda es en configuración
+[01:05] idiomas y aquí lo tocas vale tienes el inglés predeterminado en el caso de que quedas
+[01:10] en español tendrías que darle aquí cambiar predeterminado de inglés nos vamos a español
+[01:14] le damos a guardar y listo vale antes teníamos la tienda en inglés y ahora la tenemos
+[01:20] en español vamos aquí y las secciones nos han español aunque te salen muchas cosas en inglés
+[01:26] por el tema vale es decir esto de esto de catalogue y tal esto es por el tema vale nos preocupéis por
+[01:33] esto no no sufráis luego lo vamos a hacer todos juntos y lo voy a meter en este vídeo para cambiar
+[01:38] el nombre de la tienda que es mays tor y es bastante feo configuración general le damos
+[01:43] a editar y en nombre de la tienda ponemos trim paus vale y ya lo tendríamos si queremos
+[01:49] cambiar las monetas de la tienda porque vamos a vender en dólares sería desde aquí también le
+[01:54] damos donde pone euros le damos aquí cambiar moneda de la tienda y aquí pondríamos dólares yo no
+[01:58] lo voy a hacer porque vamos a hacer todo en español y listo vale luego obviamente tocaremos todo esto
+[02:03] para que tengáis un poco la la percepción de dónde está todo aunque lo iremos haciendo con
+[02:08] los punto paso por paso nos preocupéis así que así se cambia el idioma del dashboard así
+[02:13] se cambia el idioma de la tienda y así se cambia el nombre de la tienda para que no
+[02:17] quede tan feo así que vamos con lo siguiente
