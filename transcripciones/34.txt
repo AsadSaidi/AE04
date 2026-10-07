@@ -1,0 +1,60 @@
+# Lección 34 — 34. Image Vídeo Slider o Reel Up.mp4 (05:47)
+[00:00] Vamos al lío vamos a rellenar las secciones una por una y en ésta va la de image and video slayers
+[00:05] Vale le damos aquí donde tenemos image and video slayers y le cambiamos el título nosotros normalmente ponemos un e t
+[00:14] un e t a más de
+[00:16] 21,500
+[00:19] dueños
+[00:20] o 21,500
+[00:22] 21,500 clientes contentos o clientes satisfechos o algo así vale si son muchas letras lo ponemos en pequeño
+[00:29] vale en vez de clientes contentos por ejemplo esto
+[00:36] podemos poner un más
+[00:38] para que acorte un e t a más de 21,500 clientes contentos lo podemos dejar así en medium también estaría así vale le damos a guardar
+[00:47] vale importante el esquema de esto siempre lo dejamos en blanco porque viene aquí no queremos colores raros vale entonces aquí empezamos a tocar las cosas
+[00:54] display section ad esto de igual display on all devices solo quieres que sea móvil o ordenador puedes tocarlo vale pero no me voy a enrollar mucho vamos a lo que
+[01:02] a lo que toca en hable autoplay que no parecen de reproducirse lo dejamos para que se vayan reproduciendo vale
+[01:07] entonces podemos tocar diferentes cosas aunque no suelen cambiar yo lo dejo un classic siempre drag podemos poner disable
+[01:14] vale podemos poner free como veis no hay cambio entonces lo dejamos como estaba que era
+[01:19] aquí que no eran enable si eran enable vale lo dejamos aquí bien siguiente
+[01:24] dots color podemos poner que sean diferente color no es necesario transparent arroz tampoco es necesario
+[01:30] bien vamos a lo que realmente importa lo que tenemos que hacer es quitarle el relleno superior para que se pega arriba para que esté todo
+[01:36] lo más compacto posible vale si veis que está muy cerca pues le dais un poquito pero lo más lo más cerca posible y por abajo igual le
+[01:42] quitamos que no se pegue al 100 por ciento le ponemos un 4 también vale o podemos poner un 6 un 8 vale que no esté
+[01:49] ni muy separado ni muy separado ni muy junto le damos a guardar bien de donde sacamos estos vídeos
+[01:55] como sabéis aquí ponemos vídeos light cuántos pongo mark los que quiera vale de mínimo 3 o 4 como mínimo vale y
+[02:02] tienen que ser sin texto vale para que parezcan reseñas de verdad ahora bien por ejemplo al darle aquí
+[02:08] tienes que poner el vídeo te pone el vídeo looping mutate autoplay sobre todo que estén mute o sea que no se reproduzca
+[02:14] vale de donde sacamos los vídeos bien tiktok y instagram es vuestro mayor aliado
+[02:18] ponemos doc trimmer pao vale no tienen que ser vídeos virales no importa solo queremos vídeos que no tengan texto por
+[02:26] ejemplo esto es un volumen esto es un vídeo perfecto porque fíjate que aquí lo está haciendo pues que hago
+[02:32] copio este tiktok o le doy aquí a copiar ellace busco ss tic en internet punto y o en google lo pego lo descargo
+[02:41] le doy así marca de agua descargar vale y si no sale pues ahora cuando quité esto le vuelves a dar
+[02:46] vale le doy aquí y le doy así marca de agua descargar y automáticamente arriba a derecha se ha descargado
+[02:52] lo que hago es para que dure menos me vengo a camba crear pongo aquí tiktok vale vídeo de tiktok o vídeo de
+[03:01] instagram no importa y lo subo lo está viendo pixelado nos asustéis una vez lo hemos subido lo
+[03:07] ponemos aquí lo muteamos vale para que no se escuche importante y lo hacemos grande entonces
+[03:16] ahora lo que tenemos que hacer es recortarlo para la zona que queremos porque 19 segundos son
+[03:20] muchos y va a pesar mucho vale le damos aquí a recortar entonces por ejemplo aquí está bien
+[03:26] porque nuestro producto vale aquí recorta va perfecto recorta en otra posición vale está
+[03:34] bien y ahí también entonces es muy largo se conciente aquí lo recorto y me vengo hasta aquí
+[03:41] vale tenemos un vídeo de 11 segundos es demasiado entonces qué hacemos aquí vale por reproduzco
+[03:46] aquí está bien y aquí está bien vale y aquí lo quito entonces es más o menos aquí me vengo
+[03:54] hasta aquí y es un vídeo de cinco segundos se hará reproduzco podemos ver que pero voy a ponerle
+[04:00] un poquito más de lejos para que se vea más tiempo el producto aquí perfecto perfecto y
+[04:08] perfecto vale le voy a compartir descargar vídeo mp4 y lo descargo sencillito una vez se nos ha
+[04:15] descargado volvemos a la tienda el uno ya lo teníamos pues ahora vamos al dos cambiar reemplazar
+[04:21] lo vais a ver todo pixelado de nuevo seleccionamos el que acabamos de descargar que se esté aquí
+[04:25] y esperamos a que cargue una vez acargado le damos un clic los seleccionamos y fijaros
+[04:31] que ya sale ahora tenemos dos y se ve de una calidad bastante buena si pesa mucho el archivo
+[04:36] podéis ir a google y poner comprimir vídeo mp4 y os lo comprimer bajo un poco la calidad pero no
+[04:41] pesa tanto vale entonces ya tenemos dos no creo que haga falta que lo haga más veces es ir a tiktok
+[04:46] buscar acordaros sin texto importante sin texto para que parezcan reseñas de verdad vale buscamos
+[04:54] sin texto ejemplo este es el que yo he agarrado antes vale este de aquí a ver vale vamos a
+[05:03] ver por ejemplo por ejemplo podemos piar este aunque el perro ahí se aqueja un poco vale no lo suyo
+[05:09] este la verdad este de aquí y que sea el mismo producto obviamente no pilles un producto que no es
+[05:14] vale entonces sobre todo sin texto vale sin texto para que parezcan reseñas de verdad entonces
+[05:19] vais buscando y si no pues cuando tengáis el producto vosotros lo hacéis siempre hay y
+[05:24] siempre y si no hay cachos que hay sin texto puedes hacer el vídeo más grande y recortar
+[05:29] el texto etcétera entonces así se completaría esta sección vale tocamos las cosas que os he
+[05:34] dicho añadimos entre tres cuatro cinco tampoco hace falta que añadas 56 aunque bueno si las
+[05:39] tiene bien le damos a guardar y ya lo tendríamos yo en este caso tengo dos repetidos no importa
+[05:44] vale y uno duro 30 segundos pero vamos con lo siguiente
