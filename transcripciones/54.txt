@@ -1,0 +1,52 @@
+# Lección 54 — 54. EZ gif.mp4 (03:08)
+[00:00] En la formación habréis visto, vais a ver, ya lo hemos hecho, dependiendo del punto en el que estéis,
+[00:06] que recomendamos a ZGIF o hacemos algunas cosas con el ZGIF.
+[00:09] Esto es una web totalmente gratuita y, por ejemplo, para una de las cosas que lo utilizamos,
+[00:14] es si tenemos un vídeo de TikTok, pero queremos hacerlo GIF para la página,
+[00:17] venimos aquí, le damos a Video to GIF, seleccionamos el archivo, ¿vale?
+[00:22] Una vez hemos seleccionado el archivo le damos a Upload Video.
+[00:25] Entonces aquí lo que podemos hacer, lo voy a explicar muy rápido,
+[00:28] es bastante sencillito de entender, luego vais a ver a Mark como le baja la calidad, el peso, ¿vale?
+[00:34] Aquí lo que tenemos que hacer es poner de que segundo a que segundo queremos.
+[00:38] Vale, este dura 19, la imagen dice, Mar, yo quiero este, ¿vale?
+[00:42] Cuando empieza a hacer el Trimmer, ¿vale? Pues desde el segundo 2 hasta, ¿vale Mar?
+[00:46] Yo lo quiero hasta, hasta, a ver, a ver, hasta aquí, ¿vale?
+[00:52] Pues es el segundo 9, vos ponemos segundo 9.
+[00:55] Entonces, del 2 al 9 le damos a Convert to GIF y, automáticamente, ahora cuando cargue,
+[01:00] nos va a salir abajo del segundo 2 al 9, no con los 19 segundos.
+[01:03] Mirad, aquí lo tenemos, ¿vale? Le bajo un poquito la calidad, se ve un poco, bueno, Formato GIF, ¿vale?
+[01:08] Entonces, aquí lo que podemos hacer, Mark es que es muy grande, yo lo quiero cuadrado,
+[01:12] le damos a Crop y seleccionamos, a veces da error, no se asustate, ¿vale?
+[01:16] Fijaros, ahora no hace nada, le tenéis que dar varias veces,
+[01:19] a veces yo le doy a Resize y luego le doy a Crop otra vez, ¿vale?
+[01:23] Para que me dejes seleccionar lo que quiero hacer Crop, de verdad, lo digo de corazón,
+[01:27] es gratis, a veces da problemas, pero bueno, un poquito de paciencia, ¿vale?
+[01:30] Entonces, viendo que no quiere, voy a probar a darle aquí, a ver si ahora sí que quiere, qué barbaridad.
+[01:37] No lo corto porque quiero que lo dejéis, porque a veces pues hace estas cosas, ¿vale?
+[01:41] A ver en Resize, nada, que no quiere.
+[01:43] Cuando le das a Crop, en teorías, si no hace cosas raras, te deja hacer el Crop,
+[01:47] es decir, seleccionar el, aquí veis, mirad, ahora deja, habéis visto,
+[01:52] que ahora sale como un más, es mi ratón.
+[01:54] Entonces, aquí lo que hacéis es, ¿vale? Pues yo quiero solo la zona buena, ¿vale?
+[01:58] Mira, para que lo veáis bien, lo voy a hacer más pequeño.
+[02:00] ¿Vale, Mario? Yo quiero la zona buena, ¿vale?
+[02:01] Por la zona buena hemos visto que era desde aquí arriba, ¿vale?
+[02:05] Más o menos desde aquí para no cortar la pata y abajo pues hago así, ¿vale?
+[02:11] Y miro a ver si está todo dentro, ¿vale?
+[02:13] Aquí podría ir un poquito más arriba, aquí está bien, un poquito más arriba, ¿vale?
+[02:19] Y aquí estaría bien, más o menos.
+[02:21] Entonces, le hago así, entonces se queda seleccionado, le doy a Crop, ¿vale?
+[02:25] Ahora sí, después de 500 pruebas y ahora me lo devuelve cuadrado.
+[02:29] Fijaros, ¿vale? El tamaño que le he puesto.
+[02:31] Entonces, ahora lo que lo que hacemos es le damos a Safe
+[02:34] y automáticamente tenemos ese GIF que es el que podemos poner en la tienda.
+[02:37] Entonces, esta aplicación sirve para pasar un vídeo a GIF,
+[02:40] para hacerlo más pequeño, como veréis que Marcos lo explica,
+[02:43] sirve para un montón de cosas, ¿vale?
+[02:45] Entonces, yo quería hacer un vídeo rápido para explicarlo,
+[02:47] para que lo entendáis, que no digáis Dios, ¿y de dónde sale esto?
+[02:50] Pero, de nuevo, sirve para muchas cosas, GIF Maker, Resize,
+[02:55] para quitar todo el tema de los megas, como veréis con Marc, etcétera.
+[02:58] Es muy fácil de utilizar, es intuitivo utilizarlo solo para lo que recomendamos nosotros.
+[03:03] Lo GIF, ya lo habéis visto, lo de los segundos, el Crop y eso.
+[03:06] Y lo de Marc lo veréis luego, así que vamos a ello.
