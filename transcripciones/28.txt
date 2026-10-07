@@ -1,0 +1,35 @@
+# Lección 28 — 28. Payment Budge - Iconos de Pago.mp4 (02:48)
+[00:00] Algo que funciona muy bien hay países en los que no funciona tan bien y en otros que sí pero normalmente casi sí en todos
+[00:07] Entonces recomiendo que lo pongáis en la gran mayoría vale es debajo del carrito
+[00:12] Darle pues donde estamos aquí botones de compra vale debajo del carrito le damos a agregar bloque y buscamos payment badges
+[00:19] Le damos aquí y te sale esto entonces qué payment badges tenemos que poner aquí bien tenemos que ponerlos que tengamos y los más comunes
+[00:27] Entonces yo por ejemplo lo que hago es cojo esta lista me vengo aquí y le digo a chat gpt
+[00:32] Quiero poner los payment budgets debajo de mi
+[00:37] carrito
+[00:38] en mi tienda de Shopify
+[00:40] quiero poner
+[00:42] los más usados por orden de relevancia y
+[00:47] Si por orden de relevancia y le copio esto estos son los disponibles
+[00:52] Vale entonces se lo pongo aquí en el caso de que tengáis un país o yo lo voy a hacer en méxico por le decís
+[00:58] Quiero poner los payment badges debajo de mi carrito voy a vender en méxico
+[01:01] Vale le decimos eso voy a vender en méxico entonces aquí te lo pones y venden en europe a estados uníos y latino américa con enfoque
+[01:07] Dropshipping sería visa master paypal apple pay google pay Shopify y pay clarna etc
+[01:12] Entonces vengo aquí y cómo se pone aquí nos sale la lista por ejemplo si vamos a poner visa ponemos visa
+[01:18] Y automáticamente ya sale visa ponemos una como hay un espacio y ponemos master que sería más cercar como hay espacio ponemos paypal
+[01:27] Como hay espacio espacio perdón apple apple no apple pay vale lo ponemos aquí
+[01:34] Como hay espacio podemos poner por ejemplo clarna
+[01:38] Vale si vamos a poner otro sería software que no sé ni qué es
+[01:43] Y si se nos queda en la misma línea lo dejamos vale entonces en este caso
+[01:47] Vamos a poner alguno que tenga un poco más de idea que sería google pay
+[01:52] Google pay
+[01:53] Vale este estaría bien y en el caso de añadir otro que sería vamos a poner
+[01:57] litecoin
+[01:58] Si ya se me va abajo entonces no puedo tengo que dejarlo así vale siempre en una línea y los más comunes
+[02:05] Ok le doy a guardar y ya lo tendríamos y
+[02:08] Haríamos lo mismo en el carrito le damos a agregar al carrito y automáticamente aquí te pone cart drawer aquí en la izquierda
+[02:15] Vale entonces aquí tienes absolutamente todo y en payment badges haces lo mismo
+[02:20] Vienes aquí donde estabas antes que era aquí
+[02:23] Payment badges le das un clic copias luego vienes a cart drawer payment badges
+[02:30] Perdón le doy un clic los pongo todos y en el caso le de aguardar siempre que ponemos cosas en el carrito no se echa para atrás
+[02:37] Es un error que tiene rain que espero que lo solucionen en el caso de que se queden en una línea perfecto en el caso de que se queden en
+[02:43] 2 pues tengo que ir borrando vale entonces esto sería vamos con lo siguiente
