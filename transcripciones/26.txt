@@ -1,0 +1,118 @@
+# Lección 26 — 26. Bundles o Selección de Variantes.mp4 (10:43)
+[00:00] bien este vídeo va a ser lo más corto posible porque no voy a explicar todo el tema de las ofertas
+[00:06] porque eso lo vamos a hacer en otra sección que vamos a entrar en profundidad con el tema de las
+[00:10] ofertas esto lo que tenéis que saber es que son vándals que son los vándals bien compra uno a
+[00:15] tanto compra dos ya ahorrate tanto compra tres y compra y llevate tanto vale entonces siempre
+[00:20] tenemos que tener vándals porque a ver siempre no pero siempre tenemos que intentar que la
+[00:24] gente se gaste lo máximo posible comprando dos o comprando varias unidades ok entonces
+[00:29] lo primero si tenemos vándals este precio lo quitamos como le damos un clic encima te pone
+[00:35] precio aquí y le damos al ojito y ya no se ve porque lo quitamos porque los precios salen aquí y
+[00:39] no hay que repetir información porque son bloques de añadido que es absurdo vale después le damos
+[00:44] a guardar y en el caso de que vayáis a poner vándals cosas que deberíais para que compren
+[00:49] dos si queréis hacer una oferta de llevate uno se compra uno y llevate uno gratis etcétera se
+[00:53] empiezan a tocar desde aquí bien una vez hemos quitado el precio le tenemos que dar a
+[00:57] quantity selector y entonces nos sale así la gran mayoría lo vais a usar entonces vamos a adaptarlo
+[01:01] vale posición normal te pone a la izquierda pero como estamos en móvil nos sale vale luego aquí
+[01:08] may quantity select entonces esto no lo tocamos aquí en hable disco un quantity si lo quitamos se
+[01:13] quita vale entonces lo tenemos activado van de la safe aquí podemos cambiar por ejemplo
+[01:17] podemos poner ofertas y descuentos o alguna frase más potente pero para que me entendáis
+[01:23] luego el estilo podemos cambiar el estilo que sea así compacto que sea vertical o que sea el clásico
+[01:29] que es este que es el que usamos la gran mayoría vale entonces opción pre seleccionada la 1 la 2 la
+[01:34] 3 o la 4 bien siempre vas a tener 2 o 3 porque si tienes una para eso no tendrías un bundle bien
+[01:39] aumenta mucho la conversión y bueno la conversión no tanto lo que se gasta la gente siempre poniendo
+[01:44] la opción 2 pre seleccionada es decir que cuando la gente entre por primera vez a la web le
+[01:49] salga la 2 pre seleccionada que es la que es la que va a ser más inteligente luego la gente te
+[01:53] compra la 1 si quiere pero siempre ponemos la opción la opción 2 pre seleccionada y le damos a guardar
+[01:58] como siempre ok aquí podríamos cambiar si quisemos cambiar los colores vale podemos cambiarlo no lo
+[02:04] vamos a cambiar porque es en el color de la web y aquí ya empezamos a tocar lo siguiente corne
+[02:08] radius border width es decir el corne radius podemos poner que sea totalmente cuadrado fijaros
+[02:13] o que sea totalmente redondo yo normalmente depende mucho del producto es decir si tenéis
+[02:19] dudas dejarlo como estaba vale si tu vuestro producto muy redondo lo pone muy redondo si tu
+[02:22] vuestro producto muy cuadrado lo pone muy cuadrado pero los botones con formas y un poquito redonda
+[02:27] convierte en mejor vale ok vamos bajando y vamos tocando diferentes cosas si tenéis en el uno
+[02:34] pero tenéis variantes imaginar que tenéis variantes de color tendríais que activar enable
+[02:37] variant selector on single quantity para que para que cuando la gente le da a comprar una
+[02:41] les algo un desplegable para elegir los colores etcétera vale entonces la activaríamos
+[02:46] en este caso no tenemos variantes y aquí ya es donde empezamos a tocar lo importante bajamos bajamos
+[02:51] bajamos y miedo bajamos bajamos bajamos hasta que lleguemos a donde ponga by one que sería el primer
+[02:57] quantity que es este quantity option amount and pricing ok tenemos el uno que en este caso
+[03:03] el uno pues si es sólo compra uno pues lo dejamos así vale compra uno ahora le cambiamos
+[03:08] el texto nos preocupéis que lo tenéis aquí compra uno y se cambia vale y aquí pone
+[03:14] yusave pues pones te ahorras y lo cambias vale sencillito si muchas historias ok bien aquí
+[03:22] algo importante que es lo que el por eso el vídeo que no quería largarme mucho pero se va a
+[03:26] largar porque tenemos que hacer esto vale si tú tienes dos una son 29 dos son 59 con 90 vale
+[03:33] pero tú quieres un descuento bien ahora si tú vas a la dos te pone percentage of es
+[03:39] decir cuando te compren te van a comprar dos unidades vale son dos unidades puedes poner
+[03:46] un descuento fijo vale puedes poner un descuento fijo pues un 10 por ciento de descuento y
+[03:50] automáticamente se baja el precio puedes poner que en vez de un descuento sean pues quiero que
+[03:54] se ahorren 5 euros pues te baja 5 euros y ya estaría ahora si lo voy a guardar fijaros
+[04:00] que se agregó un alcarrito serían 29 con 95 y si compró dos serían 59 con 90 era marc está mal no
+[04:13] porque porque por eso he dicho que se va a largar tenéis que hacer vosotros los descuentos vale tenéis
+[04:18] que hacer los descuentos como venimos aquí salir sale vamos para afuera le damos a descuentos le
+[04:24] damos a crear descuento descuento en productos porque en este caso es un descuento vale
+[04:28] es decir aplica descuentos a productos específicos o colecciones de productos le damos aquí le
+[04:33] damos a descuento automático y ponemos comprados por ejemplo no porcentaje o monto fijo en este
+[04:38] caso se van a ahorrar 5 dólares vale se aplica a productos específicos le damos a explorar
+[04:43] seleccionamos el producto y una vez por pedido o no vale es decir lo dejamos para que si
+[04:50] siguen añadiendo que no se le siga descontando vale a gente no te va a comprar más entonces
+[04:54] sin requisitos mínimos esto da igual si añaden 2 se pueden comprar luego descuento de producto nada
+[05:00] le damos aquí a guardar y ahora pasaría lo siguiente si yo vengo a la tienda antes acordaros
+[05:05] que yo ponía 54 pero cuando agregaba ponía 59 entonces ahora si le voy a agregar al carrito
+[05:10] si me perdón que tenía 4 vale vamos a hacerlo de nuevo si le voy a agregar al carrito ponen
+[05:16] 54 con 90 ya se ha puesto el descuento es decir si ponéis aquí el la opción es decir
+[05:23] si ponéis aquí vamos a buscarlo si ponéis aquí la opción es decir lo que se descuenta vale son
+[05:29] 59 con 90 tenéis que ponerlo es decir tenéis que poner cuánto se ahorra pero si no hacéis lo de
+[05:35] crear el descuento cuando la agrega el carrito no se le va a ahorrar el dinero entonces el cliente
+[05:39] va a decir me está estafando me voy sabes entonces muy importante y en el caso imaginaros
+[05:44] que vais a hacer compra una y llévate una gratis no o compra una no por ejemplo y en el
+[05:49] compra 2 la una son 29 con 95 vamos a poner que sería compra 2 vamos a ponerlo aquí
+[05:57] aquí compra 2 y llévate una gratis vale vamos a poner que éste entonces sería así en éste no
+[06:07] iría descuento porque sería compra 2 por 29 con 95 pero llévate una gratis claro la gente
+[06:12] ahora va a agarrar le va a dar aquí a agregar al carrito se le van a sumar los 59 vale momentito
+[06:20] perdón perdón aquí tendríamos que poner tres vale tres unidades vale pero tendríamos que ponerle
+[06:26] el descuento le pondríamos 29 con 90 le daríamos a guardar pero claro ahora la gente le daría
+[06:32] a agregar al carrito voy a borrarlo todo un momentito y tendría que tener tres porque es compra 2
+[06:37] y llévate una gratis entonces le voy a agregar al carrito y solo le sale o sea y sale que tiene
+[06:41] tres pero fijaros son 84 y aquí pone 59 como hacemos esto venimos a descuentos vale
+[06:47] venimos a descuentos le damos a crear descuento ponemos buy x get y regas es decir compra 1
+[06:53] llévate x entonces es descuento automático título compra 2 compra 2 y llévate perdonarme por escribir
+[07:02] mal llévate uno gratis vale entonces cantidad mínima artículos 2 productos específicos y
+[07:08] aquí seleccionamos el producto vale y que se lleva uno de producto específico y si fue
+[07:14] otro pues otro se lleva uno gratis aquí lo ponemos en gratis vale no ponemos número de
+[07:20] usos por pedido aquí no hacemos nada y le vamos a dar a guardar entonces ahora si lo hemos hecho bien
+[07:25] saldría así antes cuando le damos a compra 2 y llévate una gratis nos salía por 59 pero cuando
+[07:31] le agregamos ponía 84 y ahora si le damos nos sale que son 2 por 59 y una a coste totalmente
+[07:39] 0 entonces en los bundles tenéis que poner aquí como habéis visto espero que haya quedado claro en la
+[07:45] derecha tenéis que poner lo que ofrecéis es decir el descuento cuántas unidades ofrecéis
+[07:50] etcétera pero luego tenéis que ir a configurarlo con los descuentos y ponerlo en automático vale
+[07:54] que queden que queden muy claro que queden muy claro esto también como habéis visto podéis
+[07:59] cambiar aquí te ahorras tanto pues por ejemplo te ahorras y le ponemos pues que se ahorra 77
+[08:05] o x no lo que sea entonces en el caso de que no queráis una tercera y una cuarta lo único que
+[08:10] tendríais que hacer es en la opción 3 ponerlancero se quita y venir a la opción 4 vale que sería aquí
+[08:17] abajo aquí abajo opción 4 y quitarla entonces sólo tenemos estas dos opciones le damos a guardar y
+[08:23] ya estaría si compra una precio normal si compra 2 se lleva una gratis vale obviamente que os haga
+[08:27] rentable nosotros nos recomendamos poner más de 4 variantes máximo 3 y siempre la del
+[08:32] medio la seleccionada y seguimos tocando algunas cosas veis que el color está en lila esto tenemos
+[08:38] que quitarlo vale lo que tenemos que hacer es buscar donde hay un color lila vale vamos buscando sencillito
+[08:42] no hay que ser un lince y donde está el color lila ponemos el color de nuestra marca o ponemos
+[08:48] el color de ponemos el color de un negro normal vale en este caso vamos a coger el de la marca
+[08:54] voy a personalizar que lo tengo por aquí colores le doy a colores lo selecciono lo copio en
+[09:01] otra pestaña me vengo aquí y lo pego vale entonces ya salen en nuestro color le vamos a guardar y
+[09:07] ya estaría y a mí lo que me gusta hacer si tienes dos variantes o si tienes tres es ponerle una
+[09:12] etiqueta de mos popular o mejor o lo que compra todo el mundo etcétera que esto se haces de aquí en
+[09:18] badge text en el uno no lo queremos lo queremos en el dos que es el más importante que tenemos
+[09:23] entonces venimos al dos y donde pone badge text ponemos más más popular y entonces fijaros que
+[09:30] sale esto por aquí vale sale esto por aquí le damos a guardar y entonces la gente entra con esto
+[09:35] seleccionado si tenemos una tercera ponemos el dos también para que no entiendan que le queremos
+[09:39] venderlo más caro y aquí le ponemos no pongas compra uno pon algo como llevate este o si compra
+[09:46] uno también también pero entenderme tenés que ir jugando vale luego en ofertas y descuentos
+[09:51] en esto que hemos puesto aquí también podéis poner imaginaros que es black friday pues ponéis
+[09:54] black friday descuentos vale o imaginaros que viene el día de la madre por ofertas del día de la madre
+[10:04] es decir vais jugando con eso también algo que funciona muy bien es compra más ahorra más o
+[10:12] compra más para ahorrar más o algo así vale es decir vamos tirando chat gpt nos puede ayudar
+[10:16] más hemos una foto hoy esto lo otro esto lo otro le damos a guardar y ya estaría vale nunca más de
+[10:22] tres variantes casi siempre ponemos vandals para vender más si tenemos variantes es decir si tenemos
+[10:28] colores imagínate que esté tan negro en verde y no sé qué tendríamos que activar lo de las
+[10:32] variantes que he dicho antes no quiero repetirme igualmente cualquier duda no decir por el
+[10:35] seguimiento por todo es bastante sencillo es simplemente ir toqueteando pero sobre todo si
+[10:40] os da errores porque no habéis creado los descuentos vamos con lo siguiente
