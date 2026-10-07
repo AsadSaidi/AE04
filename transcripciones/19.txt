@@ -1,0 +1,219 @@
+# Lección 19 — 19. Paleta de Colores.mp4 (20:40)
+[00:00] Ok, mucha atención a este vídeo. Mucha, muchísima, ¿vale? Vamos a hablar de los colores.
+[00:07] Ok, mucha gente dice, vale, mi color es blanco, mi producto es de color blanco, tiene esto que es
+[00:13] como un rosita dorado tal, pues lo pongo rosita dorado, ya está, ya soy un genio del marketing,
+[00:17] no. Los colores tienen un impacto subconsciente en nuestra mente, ¿vale? Y hay una cosa llamada
+[00:25] la psicología de los colores a nivel neuromarketing. ¿Qué es esto? Cada color transmite algo en
+[00:31] nuestra mente. Nosotros vemos una rana, un sapo, caminando por la calle y ese sapo es de un color
+[00:37] marrón, verde normal, color tierra. Demos, ah, un sapo. A los que imagina te ves ese sapo rojo.
+[00:44] Dices, Dios venenoso, es un sapo, es el mismo sapo, solo ha cambiado el color. Lo
+[00:49] mismo con las serpientes, lo mismo con las arañas. Entonces, ¿qué quiere decir esto? Vale,
+[00:53] por ejemplo, una araña muy negra puede detectar o simbolizar muerte. Inconscientemente tú no piensas,
+[01:01] ah, es negra, es muerte, no. Es algo que tenemos dentro de nosotros a nivel psicología, a nivel de
+[01:07] sociedad de toda la vida, ¿vale? Entonces, por ejemplo, el rojo transmite dinamismo calidez, pero
+[01:13] también transmite agresivo, peligro. Entonces, es un arma de doble filo. Tienes que tener mucho
+[01:18] cuidado con poner un rojo a tu web. Luego el azul transmite profesional, seriedad, integridad,
+[01:24] sinceridad, calma infinito. No tiene nada malo. Por ejemplo, el rojo lo utiliza Nintendo, Coca-Cola,
+[01:29] esta marca no sé cuál es. Coca-Cola es energía, pasión, calidez, Nintendo es dinamismo,
+[01:34] calidez, energía. Bien, el verde es naturaleza, ética, crecimiento, frescura, serenidad
+[01:39] organico, Greenpeace, Android, lo usa. El amarillo, yo nunca lo usaría el amarillo
+[01:45] porque aunque tenga estos tonos, no se ve bien con el tema de las letras y tal. Yo nunca
+[01:51] usaría amarillo a no ser que sea. Y, vamos, que digas, Dios, es que no puedo poner otro color,
+[01:55] ¿vale? Pero es calidez, amabilidad, positividad, estimulante, alegría, luminoso, me parece
+[02:00] muy llamativo. Naranja, innovación, modernidad, juventud, diversión, accesibilidad, vitalidad,
+[02:05] que es SoundCloud, esto de Firefox, esto. No sé qué logo es, son todos iguales. Perdón,
+[02:10] que no me había fijado. Vale, es decir, cada color transmite algo, pero también tiene
+[02:17] que ir a acorde al producto. Es decir, si mi producto es azul, aunque transmita la psicología,
+[02:22] que lo tendría que poner rojo, no tendría mucho sentido. Hay que encontrar un punto medio
+[02:26] entre algo que quede bien con el producto y algo que sea de buena psicología de los
+[02:29] colores con lo que queremos transmitir. Por ejemplo, como que lo tenemos, blanco, inocencia,
+[02:34] paz, pureza, rojo, pasión, peligro, acción, naranja, ¿vale? Entonces, la psicología
+[02:37] de los colores es súper importante. Pero cuando digo súper es súper. ¿Por qué? Porque puede
+[02:44] hacer que un cliente se vaya sin haber leído nada, sin haber visto la oferta simplemente
+[02:47] por el color. Es súper importante. Ahora bien, elegirlo desde aquí es muy difícil. Y para
+[02:54] ello, vamos a usar toda la información que hemos obtenido de ese script, de ese vídeo
+[03:00] que nos ha explicado Mark, que nos ha explicado, pues, mirar con las reseñas, los puntos
+[03:04] de dolor, explicarlo todo a ChatGPT, para decirle qué color nos vendría bien aplicar
+[03:10] a nuestra web con la psicología de los colores y con toda esa información, con lo que queremos
+[03:14] transmitir y con los problemas que queremos solucionar. Yo no tengo ese script porque
+[03:18] lo voy a hacer manual. O sea, perdón, sí que lo tengo, pero no lo voy a aplicar,
+[03:22] porque quiero ver, quiero que veáis cómo pienso. ¿Vale? Yo le voy a decir, tengo
+[03:27] este producto y se lo voy a enviar, cojo el enlace de mi proveedor o Dalexpress
+[03:32] o donde sea y se lo envío. ¿Vale? Estoy creando una tienda de Shopify para vender este producto.
+[03:41] La información de mi cliente ideal es, y aquí iría, vuestro script, todo lo que habéis
+[03:46] sacado, mujer de entre 30 y 65 años, que quiere cuidar a su perro, que está preocupada
+[03:51] de no darle una buena vida a su perro, le explico todo eso a ChatGPT, copio, pego.
+[03:55] Pero en el caso de que no lo tengáis, que deberíais, ¿vale? Pues deberíais de
+[04:01] explicarle lo que queréis solucionar. Soluciono el problema de recortar las patas
+[04:09] de los perros para no tener hongos, para que no se resbalen, resbalen y puedan
+[04:16] tener, yo que sé, problemas o daños de lo como quieras. Es muy silencioso y eso
+[04:26] hace que la gente con perros pequeños o miedosos no tengan problemas, no se asusten,
+[04:34] gente con perros más viejos que no puedan tener un infarto por el susto o el mal rato.
+[04:41] Por ejemplo, no, también ahorra en peluquerías caninas que son excesivamente caras. Mi cliente
+[04:51] ideal suelen ser mujeres de entre 30 y 65 años, con perros pequeños o medianos que tienen miedo
+[05:04] y ellas sienten que no pueden cuidar bien a sus animales. Entonces, sabiendo esto, quiero
+[05:13] saber qué color le iría bien a mi web pensando en la psicología de colores, sabiendo que es de
+[05:22] cuidado, salud, peluquería canina, etcétera, ¿vale? Esto es lo que yo le he dicho, pero si tenéis,
+[05:32] obviamente si tenéis el script que deberíais, va a ser mucho más fácil porque va a tener
+[05:38] mucho más info. Entonces le decimos, oye, dame los colores, o sea, dame lo que necesito. Entonces,
+[05:43] como podemos ver, aquí nos dice azul, ¿por qué es ideal el azul? Es uno de los colores que más
+[05:48] transmite confianza, seguridad y calma, coño, lo que queremos con el producto. Para tus clientes,
+[05:53] en su mayoría mujeres que buscan lo mejor para sus mascotas, un color azul suave o pastel puede
+[05:57] ser perfecto y a que reduce la ansiedad y proporciona seneridad, serenidad. Además, el azul se
+[06:01] asocia con la salud y la higiene, piensa en los uniformes médicos, por ejemplo. Tonos
+[06:04] recomendados, azul pastel o azul celeste para transmitir suavidad y tranquilidad, azul marino,
+[06:09] para darle un toque de profesionalismo y autoridad, usos. Puedo usarlo en fondo, son botones de acción,
+[06:14] también es perfecto para encabezados o detalles importantes. Bueno, ya tenemos el azul. Bien,
+[06:19] verde. ¿Por qué es bueno? Salud bienestar y frescura. El verde es el color más asociado con
+[06:23] la salud, la naturaleza y el bienestar. Es un producto que ayuda a prevenir hongos y problemas
+[06:27] en las patas de los perros. El verde puede reforzar la idea de que es una solución natural
+[06:31] saludable para los animales. El verde transmite calma y tal. Blanco, pero que blanco es el fondo
+[06:35] de la web, que siempre lo vamos a tener en blanco. Blanco no sería una opción. Tonos de gris
+[06:40] o gris claro tampoco sería una opción porque es muy parecido al blanco, no es bonito. Entonces,
+[06:44] aquí estamos viendo que gana el azul y el verde. Si yo me vengo a la psicología de los colores,
+[06:50] puedo ver que el verde es crecimiento, renovación, relajación, juventud, orgánico,
+[06:55] seguridad. Bien, me sirve con relajación, perro relajado y seguridad. Pero si me vengo
+[07:02] al azul, podemos ver que es calma, me viene bien, serenidad, me viene perfecto, descanso,
+[07:08] me viene perfecto, el perro estará tranquilo y luego podrá tener una mejor vida. Confianza,
+[07:12] me viene perfecto. Entonces, podemos ver que el azul, a nivel psicología de los colores,
+[07:17] es mucho más apto que el verde. Entonces, le podemos decir, hey, quiero el azul,
+[07:23] me está bien el azul, pero le digo bien, de esos tonos de azul, dame los X, es decir, el código
+[07:31] X o X, como se pronuncie, vale, para que nos lo dé y poder aplicarlo en nuestra tienda. Entonces,
+[07:37] le pedimos los códigos y te dice que esto, entonces vengo aquí, lo copio para probar.
+[07:43] Este transmite más tranquilidad y serenidad, vale, ideal para fondos suaves o detalles
+[07:48] sútiles, perfecto para botones o títulos llamativos, buen tono para secciones de productos o banners de
+[07:54] promoción, vale, este para detalles más oscuros como textos importantes o secciones que necesite
+[07:58] resaltar. Deberíamos de probar los cuatro, vengo aquí, le doy aquí encima y podemos ver
+[08:04] que es el accent 1, es decir, el acento 1, vale, me vengo aquí o el esquema 1, me vengo a
+[08:09] configuración del tema, selecciono colores y cambio aquí, acento 1, que es el primario
+[08:15] y le pego esto, bien, ya podemos ver que lo tenemos aquí, pero está guapo, pero me parece
+[08:21] quizás muy clarito, pues ahora voy a probar este, vengo aquí y pruebo esto, vale, este
+[08:27] me parece más color cielo, no está mal, pero tengo dudas, vale, entonces perdón, vengo
+[08:33] aquí, azul claro, copio y pego. Este es un poco más tirando a grisacio que el primero,
+[08:41] el primero era más azul, vale, el segundo, el tercero es más grisacio y este sería un
+[08:46] azul marino que ya me parece demasiado fuerte, vale, entonces me parece, a ver, no está mal,
+[08:53] pero me parece, bueno, tengo dudas, me gusta bastante la verdad, me gusta bastante, entonces
+[08:59] fijaros, el tono 3, perdón, el 1 y el 3 son muy parecidos al que me había gustado
+[09:07] a mí de aquí, es decir, yo podría venir con este, que es el 1, que es este, vengo aquí,
+[09:14] vengo al logo y le cambio el color y fijaros, obviamente ha cambiado, no digo que sea el mismo,
+[09:20] obviamente, no lo ha clavado tanto, pero era algo parecido, entonces no iba desencaminado,
+[09:26] obviamente yo me dedico a esto, vale, y sé lo que hago, entonces un momentito aquí,
+[09:31] vale, entonces fijaros que no iba muy desencaminado, bien, esto es lo que nosotros
+[09:35] hacemos y lo que tenéis que hacer vosotros también, por ejemplo, a mí este color me ha gustado bastante,
+[09:40] pero me ha gustado mucho con la combinación de colores, ¿por qué? porque fijaros que nos ha
+[09:46] dicho que, para detalles más oscuros como textos importantes o secciones que necesitas resaltar,
+[09:51] yo la barra de anuncios la necesito resaltar, pero fíjate que luego ha puesto ideal para fondos
+[09:57] suaves o detalles sutiles, perfectos para botones e títulos llamativos, buen tono para
+[10:01] secciones de productos o banners de promoción, bien, y aquí es donde viene la magia, fijaros que
+[10:07] esta web, vamos a hablar de esta que hemos visto muchas veces y las otras también, fijaros que no
+[10:12] tiene un tono de color, tiene varios y a esto se le llama paleta de colores, tiene un morado,
+[10:17] pero utiliza varios tonos de morado para parecer y darle identidad de marca, entonces sería,
+[10:23] voy a utilizar el, vamos a poner el 1, el 3 y el 4 como paleta de colores, explícame que es la paleta
+[10:34] de colores y como afecta en el cliente y sub psicología, ¿vale? entonces, bueno ahora más
+[10:44] salido esto, lo está poniendo ahí, que es una paleta de colores, es un conjunto de colores que
+[10:49] se usan de manera armónica en el diseño de una página web producto, marca o publicidad, no
+[10:53] solo es elegir colores que te gusten, sino cómo se combinan y cómo impactan emocionalmente las
+[10:57] personas, cuando seleccionas colores para tu tienda, en este caso azul pastel, claro y marino,
+[11:01] estás creando una experiencia visual que comunica ciertos mensajes y genera emociones específicas,
+[11:05] porque acordaros que cada color tenía una connotación diferente, es decir, un tono más
+[11:10] pastel tocaba X, un tono más oscuro tocaba X, ¿vale? por ejemplo, azul pastel o azul celeste
+[11:17] para transmitir suavidad y tranquilidad, pero el azul malino para tocar profesionalismo y autoridad,
+[11:21] si ponemos las dos de una buena manera, estamos tocando las dos cosas y es justo lo que queremos,
+[11:26] así que podemos ver aquí que nos da toda la info del color y absolutamente todo, ¿vale?
+[11:33] el azul pastel, calma y confianza, impacto en tus clientes, las personas, especialmente las
+[11:38] dueñas de mascotas se sentirán tranquilas al ver tu tienda, ya que el color les indica que
+[11:41] pueden confiar en tu producto para cuidar a sus perros de manera segura y efectiva,
+[11:45] el azul pastel genera una atmósfera amigable, ideal para traer a tu cliente ideal que busca
+[11:48] productos confiables y efectivos, el azul claro es frescura y serenidad, dan confianza,
+[11:55] es un poco más energético, es fiabilidad, impactos a tus clientes, ayuda a que tus clientes se
+[11:59] sientan cómodos y tranquilos, especialmente si tienen perros pequeños o mayores, es decir,
+[12:02] cada color toca un punto diferente, entonces vamos a jugar con la paleta de colores,
+[12:07] lo que vamos a hacer es todos los banners, los vamos a utilizar con este color para
+[12:12] transmitir profesionalidad y luego vamos a utilizar los otros dos colores para ir tocando,
+[12:17] por ejemplo, el botón para tocar el simbolito de esta oferta y vamos a jugar con la paleta de
+[12:22] colores, hay gente que pone un azul y es el mismo azul para toda la web, no está mal porque es
+[12:27] psicología de colores, pero a mí como hace las grandes marcas me gusta mucho tocar diferentes
+[12:32] tonos para transmitir seguridad, para transmitir como más fiabilidad de marca,
+[12:37] porque eso lo hace muy poca gente, repito, no es obligatorio, pero a mí me gusta porque voy más
+[12:42] allá, entonces como habéis visto en muchas de las otras tiendas, por ejemplo la de Ayrmotho,
+[12:47] creo que era, podemos ver que sus colores son todos negros, tiene esto de bueno,
+[12:55] mira, perdón, tiene el verde, no me había dado cuenta, fijaros que tiene una paleta
+[13:00] de colores entre un negro y un verde, entonces no podéis tener más de tres colores,
+[13:08] me explico, el fondo de la web siempre tiene que ser blanco, siempre, eso ya es un color,
+[13:13] luego tenéis que tener los encabezados, el color del logo, etc. o lo que queráis, en otro color y
+[13:19] luego podéis tener otro, yo en mi caso como son tres azules no importa, pero tú imagínate que tenéis
+[13:24] un verde, pues no podríais tener el blanco del fondo, un negro, un verde y aquí algo rojo,
+[13:29] ya serían cuatro, vale, si son mismos tonos de verde sí que podéis tener una paleta de
+[13:34] colores que yo máximo recomiendo tres, es decir si vais a utilizar azules que sean tres tonos de
+[13:39] azules, si vais a utilizar lilas que sean tres tonos de lilas, por ejemplo esta persona o este grupo
+[13:46] te utiliza un tono de lila, vale, que es el mismo que éste y luego tú utiliza éste que encima va
+[13:52] cambiando y éste son tres, vale, tiene tres tonos de morado, no tiene más y luego el negro de las
+[13:58] letras, pero que eso es completamente normal y el fondo que es como ese color blanco,
+[14:02] grisáceo más o menos, vale, entonces si son colores diferentes nunca más de tres contando
+[14:06] que el fondo blanco ya es uno y si son mismos colores nunca más de tres del mismo color sin
+[14:11] contar el blanco, vale, ok, dicho esto, no guardamos que ya habéis visto que en la paleta que
+[14:16] transmite cosas diferentes que es súper importante, vale, lo habéis visto, si queréis más información
+[14:20] solo tienes que ir a chat gpt y preguntarle, entonces yo ya tengo los tres colores aquí
+[14:24] que se me han guardado, entonces voy a jugar con ellos, sería éste y éste,
+[14:28] entonces voy a ir jugando y ya podemos empezar a cambiar el logo, bien, ya hemos elegido los colores,
+[14:33] ahora que tenemos que hacer bien el encabezado con el serio, vale, y lo de abajo también que
+[14:40] es el acento 1, vale, ahora lo de safe, vale, que es algo que no es tan importante, lo podemos poner,
+[14:48] por ejemplo, en acento 2, lo podemos poner con éste que es más flojito, vale, lo podemos
+[14:54] poner aquí o lo podemos poner con el otro que es un poco más azul, a ver cual queda mejor,
+[14:59] a ver que se cambie, vale, éste me parece demasiado, éste es más clarito, éste es un poco más azul,
+[15:10] tengo dudas, tengo bastante dudas porque no se ve muy bien, vale, creo que lo voy a dejar así,
+[15:17] vale, porque no se ve muy bien y así queda bien, entonces sí que voy a jugar con el color del
+[15:23] logo, vale, le voy a poner este tono que es como más azul, voy a venir aquí, le voy a cambiar esto
+[15:31] por este color y le voy a cambiar esto por este color, vale, entonces éste va a ser nuestro nuevo
+[15:37] logo, también obviamente se lo podríamos poner que lo vamos a hacer de hecho para que veáis cómo
+[15:42] queda, también lo podemos poner en este color para ver cómo queda, aunque hemos visto que
+[15:49] los logos tendrían que ser negros como muchos de los sitios, pero vamos a probar ambas cosas,
+[15:53] vale, lo ponemos con este color y lo ponemos con este color, vale, el gatito lo voy a poner que
+[16:03] a ver en verdad, el set para perros quizás deberíamos de quitarle el gatito, pero bueno,
+[16:07] no quiero invertir tiempo en eso ahora, vale, le pongo aquí, lo recorto otra vez,
+[16:13] pero no, lo he hecho mal, momentito, vale, y ahora lo voy a poner en negro con un tono
+[16:27] diferente para que se vea bien, vale, momentito, selecciono la redonda aquí y selecciono esto
+[16:36] para seguir con la regla de que todo el mundo lo tiene en negro, pues yo lo tengo en negro y
+[16:42] entonces ahora vengo aquí y como ya tengo el color del encabezado y el color del safe,
+[16:46] este, ahora ya puedo ver cuál queda mejor, cómo lo hago, pues como antes, voy a hacerlo y lo voy
+[16:51] mostrando, bien, ya los tengo aquí, vamos a probar con el tono de azul más clarito, lo ponemos aquí,
+[16:57] no está mal, vale, pero se me hace como muy claro, como que choca demasiado, voy a poner el otro,
+[17:04] el que sería el mismo color que el encabezado, demasiado, abusa demasiado, vale, y vamos a
+[17:12] poner el que esto es completamente negro y creo que este queda mejor, la verdad sí que verdad que
+[17:18] está mal puesto, un poco desastre por mi parte, perdón por esto, vale, que está aquí, no estaba
+[17:25] alineado, vale, entonces lo que tendría que hacer ahora para confirmar sería venir a chat gpt,
+[17:32] ponerle, es decir, hacer una imagen de mi tienda con los tres logos, algún recortes, lo pongo así,
+[17:40] ahora le cambio al otro logo, le hago un recortes y ahora me vengo aquí, perdón, me vengo aquí,
+[17:54] le pongo el primero más azulito y le hago un recortes, para qué hacemos esto, bien, vamos a chat gpt,
+[18:01] vale, le decimos en adjuntar imágenes, lo estoy viendo pixelado, nos asustéis, le pongo las tres
+[18:09] imágenes, le digo sabiendo todo lo que sabes, cuál queda mejor, vale, sabiendo todo lo que
+[18:18] sabes, cual queda mejor para aplicar y transmitir, transmitir, transmitir, joder, todo lo que hemos
+[18:27] hablado y se lo mando y entonces si yo tengo dudas chat gpt me ayuda, vamos a esperar qué dice y lo
+[18:34] muestro, bien, me dice que de razones para elegir la tercera imagen, podemos ver que la tercera
+[18:40] imagen es ésta, la del clarito, porque el azul oscuro en la parte superior de tu logo genera
+[18:45] una sección de confianza, profesionalismo esto es clave para transmitir que tu tienda es seria,
+[18:48] el texto en blanco, el color del precio, el 634, la imagen del perro, vale, entonces la
+[18:54] primera imagen, título o supe de escuento, fondo azul más claro, perdón, la tercera
+[18:58] imagen es ésta, bien, aquí le he pedido info para que nos dé las diferencias para que
+[19:02] lo entendáis, aquí nos pone el logo negro, elegante, profesional y serio, ofrece un gran contraste y
+[19:07] aquí te va dando la info, vale, logo el azul oscuro y te da las contras, los pros, luego el
+[19:13] azul claro, entonces mi recomendación final, si buscas un equilibrio entre profesionalismo y
+[19:18] cercanía, te recomiendo el logo en azul oscuro, si prefieres destacar más la parte cálida y
+[19:22] amigable, el logo azul claro, el logo negro es una buena opción si te enfoques estrictamente
+[19:27] profesional y serio, pero podría no ser tan cálido como los otros y podría hacer que
+[19:29] tu tienda se va como un poco más corporativa, en resumen, el logo con azul oscuro es el mejor
+[19:34] combina con los valores de tu tienda, vale, pues me vengo aquí, yo tenía dudas, tampoco es algo que
+[19:39] me vaya a afectar, pues selecciono el logo con el azul oscuro y tiene sentido, ya está, que no,
+[19:46] pues lo pongo el negro, no importa, vale, pero luego ya está hecho, en este caso está mal puesto,
+[19:50] vale, le voy a poner el azul, lo voy a recortar, que estaba mal puesto el trim, vale, y lo voy
+[19:55] a poner bien y ya estaría, vale, entonces ahora lo coloco y vamos al siguiente vídeo,
+[19:59] pero ya habéis visto, he tirado de paleta de colores, pero luego al ponerla no me ha gustado,
+[20:03] bueno, no pasa nada, pues vuelvo a lo básico, que me gusta más un logo negro, un logo negro,
+[20:07] pero sobre todo que el color principal, transmita lo que tenga que transmitir y si podemos añadirle
+[20:12] algún color, como por ejemplo sería aquí, que lo hemos visto antes, puedo venir aquí, perdón,
+[20:17] aquí que era el acento 2 y ponerlo en este color o ponerlo en esto o tirar con un poco,
+[20:22] jugar nosotros un poco, tirando al mismo color, pero un poquito más clarito, vale,
+[20:28] entonces vamos jugando con los colores, yo en este caso no quiero marearos tampoco,
+[20:31] voy a dejar el mismo, no nos vamos a complicar, pero que entendáis las paletas de colores,
+[20:35] porque le puede dar una identidad de marca, vuestra web muy tocha, llevo mucho con este vídeo,
+[20:38] vamos con el siguiente.
