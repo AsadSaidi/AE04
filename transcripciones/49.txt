@@ -1,0 +1,223 @@
+# Lección 49 — 49. Recreamos Tienda Tema Zendrop.mp4 (11:20)
+[00:00] Bien, ahora este vídeo va a ser larguito, pero para los que no vais a poder comprar el
+[00:04] S-Rain, y no lo uséis pirata, que ya os he dicho que no funciona, vamos a tener que hacerlo
+[00:09] con el tema de sendrop, que es bastante parecido. Entonces, le voy a dar a personalizar y lo
+[00:12] vamos a hacer juntos. ¿De acuerdo? Vamos a ir a página de producto, donde sabemos
+[00:17] que tiene que estar, página de producto, le vamos a dar a formato móvil y vamos
+[00:21] a empezar a tocarlo todo y para que veáis que es exactamente lo mismo. Configuración,
+[00:26] colores, y aquí te sale lo mismo, porque esto es de Shopify y no tiene nada que
+[00:29] ver con el tema, colores y aquí te salen todos juntos y aquí te salen por esquemas.
+[00:34] Entonces lo único que tenemos que hacer es tocar los esquemas, pues en este
+[00:38] caso es este, ponemos el color azul, que sea el mismo, vamos a poner este y sale
+[00:44] aquí. Luego etiqueta de botón, pues igual ponemos este sombra, no queremos
+[00:49] sombra o la ponemos en azul, pero un poco más de aquí.
+[00:53] Bien, volvemos atrás, esquema, fondo, aquí no sé qué es este esquema, luego lo vamos a
+[00:59] ver, en texto que es esquema 1, lo ponemos en negro, porque el texto siempre
+[01:04] tiene que estar en negro, botón de fondo sólido ponemos el azul, botón de contorno
+[01:08] ponemos el azul y sombra ponemos el azul también. Entonces fijaros que ya va
+[01:12] tocando, si vamos aquí encima tocamos este color. Lo estoy haciendo rápido,
+[01:15] pero para que veáis que es lo mismo. Entonces ahora ponemos el logo, le
+[01:22] damos encima con esto del inspector, venimos aquí abajo, configuración del
+[01:26] tema y subimos el logo, lo estáis viendo, no voy a decir pixelado, pero no estáis
+[01:29] viendo pixelado y ponemos el loguito, sí más, vale, igual hay que arriba mostrar
+[01:34] líneas separadora, es lo mismo, vale, le quitamos el relleno superior y el relleno
+[01:39] inferior, todo igual. Ahora venimos a información de producto, le quitamos el
+[01:44] relleno superior y el inferior igual para que se vea junto. Vale, entonces
+[01:48] fijaros que aquí, si yo quito esto, podemos ver que ya de entrada más o
+[01:54] menos, perdónarme que esto no es, ya de entrada más o menos tenemos lo mismo.
+[01:57] Ahora, ¿qué tenemos que hacer? Bien, vamos a ponerlo igual, este, las reseñas,
+[02:01] aquí están abajo, nos ponemos encima y vemos que pon aquí rating star nos
+[02:06] ponemos arriba del título, nos ponemos arriba, vale, sencillito, ya lo
+[02:11] estáis viendo y copiamos el mismo texto, vale, 4.8 de 5, pues aquí
+[02:15] ponemos 4.8 de 5, reseñas positivas, era otro texto, pero para que, para que lo
+[02:22] entendáis y ponemos lo mismo, vale, o sea, ponemos lo mismo, sin más, esto de la
+[02:28] urgencia está bien, por ejemplo este tema no lo tiene, lo podéis quitar como
+[02:31] urgencia y text, lo quitamos, vale, bien, una vez lo hemos quitado, podemos ver
+[02:35] aquí nos sale el título, vale, que en este caso no podemos bajarle el tamaño,
+[02:40] es un problema que tiene esto, pero bueno, sin más, luego en información de
+[02:43] productos, si queremos que salgan las miniaturas, fijaros que aquí pone
+[02:46] diseño para móviles, mostrar miniaturas y nos salen abajo, como era en este tema,
+[02:49] fijaros, si queremos poner aquí abajo el emoji benefit, acordaros que el precio lo
+[02:54] vamos a quitar, vale, entonces hemos quitado el precio, esto de la cantidad lo
+[02:57] vamos a quitar porque vamos a poner bundles, entonces si queremos que nos
+[03:00] salgan los emoji benefits, lo único que tenemos que hacer es venir aquí
+[03:03] entre medio, agregar bloque, vale, y aquí te sale, compartir, liquid
+[03:08] personalizado, preguntas complementarios, icono con texto, quantity
+[03:11] discounts, entonces yo lo que hago es texto, vale, le doy a texto y pongo cuatro, le
+[03:16] doy a duplicar, vale, duplico y duplico, entonces lo que hago aquí, vengo, copio,
+[03:23] vale, y lo pongo aquí, entonces voy a hacerlo y lo muestro, una vez puesto,
+[03:27] que lo que os he dicho, es decir, he venido aquí, he copiado el texto y lo
+[03:30] puesto uno y uno, porque no lo puedes poner junto, porque si lo pones junto
+[03:33] mira lo que pasa, es decir, te salen así como seguidos y no puedes darle
+[03:37] enter, vale, no puedes, entonces tenéis que poner diferente, vale, entonces le
+[03:42] damos a guardar y fijaros que ya va adoptando la misma forma, luego irían
+[03:45] los bundles, esto tiene una sección de bundle, que es esto de quantity discount,
+[03:49] pero no funciona, vale, lo digo de corazón, no funciona, entonces vamos a
+[03:53] tener que poner una app, pero esto lo explico luego, vale, entonces faltaría
+[03:57] los bundles, que lo vamos a poner con una app, entonces no os asustéis y
+[04:00] fijaros, bien, que es lo siguiente, el botón, ya lo tenemos, luego que
+[04:04] sería lo siguiente, el método de pago, que en este caso no se puede poner,
+[04:08] podemos poner una foto, pero no es necesario, esto lo recibes en tal día,
+[04:12] lo borramos, porque baja la conversión, entonces aquí lo que tendríamos que
+[04:15] hacer, como tenemos las reseñas, pues poner las reseñas, que si os fijáis,
+[04:18] poner reviews, aquí pone Andrea, no sé qué tal, puedes poner una foto,
+[04:22] review 2, es decir, puedes poner las reseñas, igual que se ponen aquí,
+[04:26] lo mismo, después serían las filas desplegables, le damos aquí,
+[04:31] fila desplegable y ponemos las tres, prueba lo, prueba lo, tal, vale, pues ponemos
+[04:35] las tres de filas desplegables y ponemos toda la información, luego le
+[04:39] stick a tocar, lo quitamos, que también da problemas, vale, lo borramos,
+[04:42] entonces todo lo que sería el producto, ya lo tenemos, vale, faltaría los
+[04:47] bundles, que luego lo explico en otro vídeo, entonces fijaros, que lo
+[04:50] tenemos prácticamente igual, o sea mirar, y esto es un tema caro, y
+[04:55] faltaría los bundles, que he dicho que luego lo explico, pero lo tenemos
+[04:57] igual, sí que verdad, pues que se nota que esto es más grande,
+[05:00] aquí hay un poco más de separación, bueno, este está más ajustado,
+[05:03] vale, entonces aquí obviamente podemos empezar a tocar, por ejemplo,
+[05:07] rating, ponemos 4.8, en el caso de que lo queramos, vale, podemos
+[05:11] ponernos centrado, es decir, podemos ir tocando cosas, pero tampoco te va a
+[05:15] dejar tocar tanto como el Errine, por eso nosotros recomendamos el
+[05:17] Errine, si ves que te queda mucho espacio, lo puedes poner debajo para
+[05:21] que se vea mejor, vale, para que se vea todo más juntito,
+[05:24] lo cual no pasaría nada, bien, aquí lo que hacemos es en botones
+[05:28] de pago, que aquí botones de compra, quitamos también el mostrar
+[05:31] botones de pago dinámico, vale, lo quitamos, igual que allí, vale,
+[05:34] entonces lo dejamos aquí, sin más, le damos a guardar para que no se
+[05:38] nos borre nada, aquí lo tendríamos todo, las filas
+[05:40] desplegables que serían esto, y aquí empezaría todo el tema de
+[05:44] ya la descripción, bien, voy a borrarlo todo, vale, voy a borrar
+[05:48] todo esto para que veáis qué es posible hacerlo, bien, lo que
+[05:53] vamos a hacer es, bien, ¿cómo añadimos esta sección? Le
+[05:56] damos a agregar sección y buscamos imagen, image, ¿vale? Image
+[06:01] video slider, lo ponemos aquí y es exactamente lo mismo que con
+[06:06] el Errine, ¿vale? Si que es verdad que el del Errine más bonito,
+[06:09] borramos esto y le damos a agregar bloque y le damos a video
+[06:13] slide, agregar bloque, perdón, aquí entre medio y video
+[06:16] slide, lo único que tenemos que hacer, donde pone video,
+[06:18] seleccionar el video, seleccionamos uno de los que hemos
+[06:21] hecho y en el siguiente seleccionamos uno de los que hemos
+[06:24] hecho, ¿vale? Entonces fijaros que salen en diferentes
+[06:27] tamaños, ¿vale? Tenéis que tener cuidado con esto, es decir,
+[06:30] tenéis que ver que el tamaño siempre se da igual, es lo
+[06:32] malo de utilizar esto gratis, ¿vale? Para cambiarle el banner,
+[06:37] sería aquí, pues reseña de clientes, le desactivamos
+[06:41] todo esto, ¿vale? Se lo desactivamos y ya tendríamos
+[06:44] esta sección, obviamente tenéis que hacer todo lo otro de
+[06:46] quitarlos, quitarlos margenes superiores y tal, pero yo
+[06:50] simplemente estoy explicando cómo ponerlo todo, ¿vale? Luego
+[06:52] preguntas frecuentes, vendríamos aquí, le daríamos a agregar
+[06:55] sección y aquí, si vamos bajando, es esto aquí que es
+[07:00] contenido desplegable, que es y es lo mismo, o sea, literal, aquí
+[07:03] lo que hacemos, le ponemos preguntas frecuentes o fax, lo
+[07:06] que quieras y empezamos a poner para cambiar los emojis, es
+[07:10] decir, los emoticonos, solo tienes estos de aquí, ¿vale?
+[07:14] Entonces tendrías que ir tú buscando el que más te
+[07:16] sirva, ¿no? Puedes, como en Ryan, pues poner tú lo
+[07:18] que quieras, que puedes ir a lo de los emojis, que hay
+[07:21] un montón, ¿vale? Entonces lo pones todo, ¿quieres
+[07:23] cambiarle el esquema? Pues le das aquí, ponemos el esquema 3, ¿vale?
+[07:28] Espera aquí, perdón, ponemos el esquema 3 y si quieres esto de
+[07:31] que se mueva, le tenemos que dar, agregar sección, section
+[07:34] divider igual, ¿vale? Entonces se pone abajo, le damos a flip
+[07:38] vertical, seleccionamos el animated y le ponemos el
+[07:41] color de la web, que sería este, le damos a duplicar, lo
+[07:45] movemos para arriba y le damos a flip y ya lo tendríamos.
+[07:49] Igual, lo mismo, ¿vale? Luego queremos esta descripción que
+[07:53] acordaros que era texto enriquecido, pues ponemos texto
+[07:56] enriquecido y luego era imagen, ¿vale?
+[07:59] Imagen con texto o banner de imagen, lo que quisiésemos,
+[08:02] pues le damos aquí, borramos lo mismo, que serían los botones
+[08:05] y todo esto, porque solo la imagen y hacemos lo
+[08:08] mismo, fijaros, ¿eh?
+[08:09] Lo mismo, luego esto de aquí sería igual, agregar
+[08:12] sección, tienes aquí esto, barra de anuncios, ¿no?
+[08:16] Un momentito, ¿eh?
+[08:18] Esto, perdón, horizontal ticker, le damos, pero aquí sí que
+[08:21] hay un problema, que es que cuando meten la foto no se ve,
+[08:23] solo podrían meter texto, es decir, no podrías hacer esto,
+[08:26] tendrías que hacerlo con texto en plan.
+[08:28] Visto en TikTok, siendo virales, envío gratis, ¿vale?
+[08:31] No sirven las fotos, es un problema que tiene este tema,
+[08:33] pero bueno, es que es gratis, ¿vale?
+[08:34] No podemos quejar.
+[08:35] Luego, texto enriquecido y imagen, igual, lo que
+[08:38] opinan nuestros clientes estas reseñas,
+[08:40] podríamos venir aquí, darle a agregar sección,
+[08:43] testimonials, ¿vale?
+[08:44] Y fijaros que con los testimonials le damos a testimonial 1,
+[08:48] podemos poner, me encantó, aquí podemos poner lo que sea, ¿vale?
+[08:52] Le damos a la imagen, seleccionamos la imagen,
+[08:54] acordaros, pues vamos a poner, pues yo que sé,
+[08:57] vamos a poner cuál teníamos aquí.
+[08:59] Esta de la patita, ¿vale?
+[09:00] Pues vamos a buscar esa, que es esta, si no hay fallo,
+[09:04] entonces ponemos esto, ¿vale?
+[09:07] Y lo que hacemos es ponerle el título, ¿vale?
+[09:09] Listo, sencillito, entonces podemos poner una,
+[09:12] podemos poner varias.
+[09:12] Lo malo es que no van hacia el lado,
+[09:15] que van hacia abajo, entonces no pongáis más de una, ¿vale?
+[09:17] Tenéis que poner una, que es lo malo que esto tiene varias,
+[09:21] y aquí solo podéis poner una.
+[09:22] Entonces, es una mierda, soy honesto, pero repito,
+[09:25] es gratis, ¿vale?
+[09:26] Le damos a guardar, aquí iría esto del antes y el después,
+[09:29] que este tema lo tiene, ponemos before,
+[09:32] before, bueno, ponemos antes,
+[09:34] un momentito, que mejor lo han quitado porque estaba dando
+[09:37] error, que justo es lo que os quería decir, ¿vale?
+[09:39] Voy a ver si está, ¿vale?
+[09:41] Comparison table, creo que lo han quitado ya porque estaba
+[09:43] dando error, que era justo lo que os iba a decir, ¿vale?
+[09:46] Diapositiva, ¿vale?
+[09:47] Sí, lo han quitado porque estaba dando error,
+[09:49] que era justo lo que quería enseñaros.
+[09:50] Esto lo tenían puesto, pero no iba bien.
+[09:52] Entonces, lo han quitado para que no de problemas.
+[09:54] Entonces, esta sección, o la tendríamos,
+[09:56] esto es un acordar, o es un banner de imagen con el
+[09:58] section divider, eso lo podemos hacer.
+[10:00] Esto, que es la tabla de comparación,
+[10:01] le damos a agregar sección,
+[10:03] un momentito, que la estoy liando,
+[10:05] agregar sección, comparision table,
+[10:08] lo tenemos aquí, igual, lo tendríamos que hacer igual,
+[10:10] y luego irían las reseñas, que la daríamos a agregar sección,
+[10:13] apps, product review widget,
+[10:15] y tendríamos las reseñas que hemos creado, ¿vale?
+[10:18] Entonces, fijaros, ¿vale?
+[10:19] Obviamente, no es lo mismo, no es lo mismo,
+[10:22] pero fijaros que tenemos gratis con un tema gratis,
+[10:25] un tema muy parecido, no tan bonito,
+[10:28] vamos a ser honestos, pero muy parecido
+[10:31] con el que vale 300 dólares.
+[10:32] Pero este tema, que es gratis, tiene errores.
+[10:34] Tiene errores de lo de la Tucar,
+[10:36] tiene errores de lo de los Bandel.
+[10:37] Tiene que no tiene el antigil, después.
+[10:38] Bueno, es un tema gratis,
+[10:40] y lo están corrigiendo, pero da errores,
+[10:42] pero hace un apaño, o sea, realmente te sirve.
+[10:45] Entonces, empezar con este tema,
+[10:47] si no tenéis los 300 dólares,
+[10:48] si tenéis los 300 dólares,
+[10:49] compraré el otro porque va a servir,
+[10:51] pero si no lo tenéis,
+[10:52] podéis empezar con este tema
+[10:54] registrando de donde os he enseñado,
+[10:57] lo utilizáis,
+[10:57] y cuando empecéis a escalar ese producto,
+[10:59] si funciona bien, entonces ya hacéis el salto.
+[11:01] Mar, que si a mí ya me funciona,
+[11:02] ¿para qué voy a hacer el salto?
+[11:03] Vale, pues no lo hagas,
+[11:03] me refiero, no importa, ¿vale?
+[11:05] Yo por vosotros, para que tengáis lo mejor,
+[11:06] de lo mejor.
+[11:07] Entonces, esto es una solución
+[11:09] para no gastarse tanto dinero y poder testear.
+[11:11] Funciona bien, ya lo estáis viendo.
+[11:13] Da algunos errores, pero yo no os miento.
+[11:14] Yo no os miento con los errores.
+[11:16] Entonces, os digo lo que si y lo que no,
+[11:17] y ahora os daré soluciones.
+[11:18] Así que vamos con lo siguiente.
