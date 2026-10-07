@@ -1,0 +1,43 @@
+# Lección 44 — 44. Plantilla Predeterminada EXTRA.mp4 (03:53)
+[00:00] Hay una cosa que está muy bien que esto sirve para cualquier tema de Shopify y no preocupéis vale que es un ejemplo vale
+[00:06] Vamos a poner un ejemplo visual para que lo entendáis yo tengo este producto
+[00:10] Yo es un trim paus vendo este producto y tengo todos estos bloques, pero si yo ahora pongo otro producto
+[00:16] También se ve con estos bloques y estas fotos tú imagínate que tienes una tienda
+[00:21] Vamos a poner que es de mascotas como este trim paus pero tienes uno para perros y tienes uno para gatos
+[00:26] Pero utilizas los mismos colores el mismo logo la misma tienda pero mandas a los clientes a diferentes url
+[00:32] La url del trim pa de del de perros lo mandas a uno y la url del de gatos mandas a otro
+[00:39] Entonces claro si mandas al de gatos ya hay vídeos de perros vaya puta locura vale entonces cómo podemos cambiar no el logo
+[00:46] Ni los colores de arriba sino las secciones y lo que pone en los emoji benefits en las de las reseñas
+[00:52] Cómo podemos cambiar todo esto bien tenemos que darle a producto predeterminado productos y aquí te pone crear plantilla
+[01:00] nombre pao
+[01:01] Gato para que lo entendamos vale basado en producto predeterminado y le doy a crear plantilla ahora fijaros vale vamos a ir a crear un producto
+[01:10] diferente
+[01:11] Vale de productos voy a alargar producto perdonar vamos a dar la duplicar al que ya tenemos para no complicarlo mucho
+[01:18] Le damos a duplicar y aquí le vamos a poner que lo marque como activo sin estrés y aquí ponemos gatos para que nos acordemos vale
+[01:27] lo ponemos así y
+[01:29] Aquí abajo donde pone plantilla del tema tenemos que seleccionar pao gato o la o el nombre que la hayas puesto y le damos a guardar
+[01:37] Y mirar la magia si yo vengo aquí ahora perdona que le doy a todos y primero a lo que le tengo que dar
+[01:43] Yo estoy en pao gato fijaros en esto vale mirar e yo aquí
+[01:48] Pongo por ejemplo los emoji benefits yo los emoji benefits son estos pues tú imagínate que yo quiero dos
+[01:54] solo dos dirás mal pero entonces mirar e tu imaginaros que yo quiero otro tipo de ofertas vengo aquí y pongo
+[02:02] vamos a poner vamos a bajar
+[02:04] aquí aquí a ver
+[02:07] Aquí el cuantito y tres no el cuantito y dos tú imagínate que quiero poner
+[02:10] regalo para que entendáis el cambio vale y que aquí en vez de foto de esto quiero poner voy a poner cosa rara
+[02:17] No se asustate vale voy a poner un par de cosas pero para que lo veáis he puesto esto que es como una mochila de pesca vale entonces fijaros
+[02:22] Hemos cambiado mira vamos a cambiar también las reseñas en vez de 21.000 vamos a poner que son dos
+[02:28] Vale y que las estrellas son 2.1 para que entendáis la diferencia bien si yo me voy a mi web vale yo me voy a mi web
+[02:35] ahora le doy
+[02:37] Aquí al buscador y pongo trim paus me van a salir los dos productos vale me va a salir el normal
+[02:43] Que es el que hemos estado creando todo el rato y el de gatos fijaros el normal
+[02:48] Cuatro mochi benefits las reseñas que tiene que tener pero mirar este es completamente diferente
+[02:54] Entonces es la única manera de poder cambiar las secciones sin tener que hacer otra web ahora bien escuchar una cosa y por favor con las orejas bien abiertas
+[03:02] No me hagáis el guarro de hacer tiendas generales e es decir esto lo hacemos si tenemos
+[03:07] Si tiene sentido tú imagínate que vendes dos sudaderas pero son diferentes unas para chicos y otras para chicas
+[03:13] Bien lo vas a utilizar con la misma web pero que tampoco deberías pero le cambiamos esto vale tú imagínate esto que tienes un
+[03:20] Trim pao enfocado para perros entonces la landing tiene que ir para perros y tienes otro enfocado para gatos la landing tiene que ir para gatos
+[03:25] No vas a mandarlos a la misma pues así lo puedes modificar pero no utilicéis esto para hacer
+[03:32] Tienda generales y vender cosas raras vale sólo lo explico para que entendáis que para cambiar las secciones
+[03:37] De un producto a otro sin tener que salir de la web es creando plantillas puedes crear cuantas quieras vale vas creando
+[03:42] Tú sólo tienes que ir luego donde creas el producto
+[03:45] Creas el producto y abajo derecha en plantilla poner la plantilla que las crea este producto para poder personalizarla vale sencillito vamos con lo siguiente
