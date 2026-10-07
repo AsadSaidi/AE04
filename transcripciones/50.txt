@@ -1,0 +1,124 @@
+# Lección 50 — 50. Prime Bundles.mp4 (10:00)
+[00:00] Como os he dicho, uno de los errores que tiene este tema son los bundles. Si os fijáis en este,
+[00:05] vale, es decir, con el propio bundle, vamos a ir aquí, le damos este, teníamos que crear los
+[00:12] descuentos, acordaros y al darle aquí, le damos aquí encima, que la cuantitiselector te dejaba
+[00:17] tocar muchas cosas, vale. En cambio, en este, que es el del otro tema, el del tema de Sendrop,
+[00:22] no te deja tocar tantas cosas, tienes que poner tu manual, tienes que poner el precio tú
+[00:27] y da errores, luego agregas 3 si no se pone, si das un producto o regalo no se pone, da problemas,
+[00:33] vale. Entonces no lo uséis, yo no estoy aquí para engañaros, todo lo contrario estoy aquí para que
+[00:37] funcione. Entonces lo que tenemos que hacer, si utilizamos ese tema, tenemos que ir al descuento,
+[00:43] perdón, al enlace que tenemos abajo en la descripción, que es el de Prime Bundle,
+[00:47] yo sale así, vale, perdón, no es un enlace, venimos aquí, ponemos Prime Bundles, vale,
+[00:53] separado, ponemos Prime Bundles y es ésta de aquí, vale, espera, separado, que se ha puesto junto,
+[00:59] es ésta de aquí igualmente, lo quiero poner en grande para que lo veáis, ésta de aquí, vale,
+[01:02] le damos a instalar y lo que tenemos que hacer para que tenga un descuento es poner el código,
+[01:07] vale, para que lo sepáis, aquí le damos a instalar, entonces lo que tenemos que hacer son 14,
+[01:12] 15 dólares, vale, le damos a aprobar, tienes varios días, de 14 días de prueba gratis,
+[01:19] vale, entonces lo que tenemos que hacer aquí es donde le damos, le damos a billing, vale,
+[01:24] enter discount code y ponemos mark, vale, le damos a usar el descuento y entonces nos baja de los 15
+[01:33] dólares a 11,99, son 3 dólares de descuento, no es una barbaridad, pero bueno, descuento,
+[01:38] pues descuento, vale, es decir, pues 3 dólares menos que tenemos para comprarme un repul,
+[01:42] vale, entonces le damos ahí y es lo malo, entre muchas comillas, de usar el tema de
+[01:47] sendrop que tenemos que estar instalando a apps y eso es un coste mensual, a veces paga
+[01:51] el error en una vez y ya te olvidas, pero bueno, sin más, vale, entonces aquí lo que tenemos que
+[01:55] hacer es venir al tema, vale, venimos atiendo online una vez está instalado, venimos al tema,
+[02:01] al tema de sendrop le damos a personalizar y nos vamos a la página de producto, importante,
+[02:06] siempre página de producto y aquí en información de producto le damos a, por ejemplo,
+[02:11] encima del botón de compra, seleccionar apps y le damos a prime bundles, al darle a
+[02:16] prime bundles, vale, nos sale cuando lo gestionemos, vale, lo ponemos aquí, le damos a guardar y ahora lo
+[02:21] que tenemos que hacer es gestionarlo, cómo lo gestionamos, le damos aquí, gestionamos a
+[02:24] aplicación, también lo podríamos haber hecho desde antes, no importa, y le damos a ad new
+[02:29] bundle, entonces aquí ponemos bundle 1, sin más, al producto, es decir, que salgan todos los
+[02:33] productos o si queremos que solo salgan un producto, nosotros solo queremos en este,
+[02:37] le damos aquí y aquí te ponen las diferentes variantes que pueden, de la forma que
+[02:42] puedes salir, así, así con foto, es decir, si solo hacéis unidades, dejar éste, si tenéis
+[02:49] diferentes packs o cositas así, pues podéis utilizar de la foto, vamos a dejar el normal,
+[02:53] vale, le damos a create, con el normal y se está creando el nuevo bundle y aquí es donde
+[02:59] tendríamos que modificarlo todo, es bastante sencillo, vale, bastante, bastante sencillo,
+[03:03] es muy intuitivo, aquí lo que tenemos que hacer es, por ejemplo, poner single, pues si
+[03:07] en este teníamos, en el tema bueno, voy a abrirlo, perdónarme, vale, si en el tema bueno,
+[03:14] le vamos a dar a ver tu tienda, vamos a ir a la página del producto, teníamos compra 1 y compra 2,
+[03:19] si llevate una gratis, lo único que tenemos que hacer es venir aquí, aquí perdón,
+[03:23] y ponemos compra 1, vale, y aquí ponemos lo que ponía abajo, te ahorras 16 euros,
+[03:28] pues te ahorras 16 euros, vale, cuántas compran una y no tienen ningún descuento,
+[03:35] o sea, el descuento el propio ha aplicado del precio de comparación y tal, vale,
+[03:39] en el caso de que sí se hemos tocado, que sí que tienen descuento, pues lo puedes poner aquí,
+[03:43] puedes poner que un custom, es decir, tocar el precio de comparación y todo el rollo,
+[03:47] vale, order 2, bien, tenemos compra 2 y llevate una gratis, pues aquí ponemos,
+[03:52] a ver perdón, aquí, compra 2 y llevate una gratis, lo ponemos aquí,
+[03:58] en mos popular, esto lo quitamos, luego se explico el por qué, vale,
+[04:02] y aquí ponemos, por lo que teníamos abajo, te ahorras 77,90, vale, pues te ahorras 77,90,
+[04:09] claro, aquí se llevan quantity, vale, aquí se llevan 3, porque sería compra 2 y
+[04:14] llevate una gratis, lo cual ponemos 3 y le ponemos bui x get y, vale, es decir,
+[04:21] compra 2 y llevate una gratis al 100% de descuento, ya te hace lo de los descuentos
+[04:26] que hemos tenido que hacer antes manualmente, ya te lo hace aquí, vale,
+[04:29] entonces le damos a selected by default, lo que os he dicho de seleccionarlo,
+[04:32] y le damos a at batge, que vamos a poner esto del mos popular, vale, y lo ponemos en el color
+[04:37] de nuestra web, que acordaros, que el color de nuestra web, lo sacamos de aquí,
+[04:40] venimos aquí, lo copiamos, venimos aquí, lo pegamos, perdón que lo he hecho mal,
+[04:46] y aquí podemos cambiar el texto, imagínate, pues más vendido, vale,
+[04:50] y lo ponemos así, le damos a continue, y sale aquí, vale, ahora lo veremos,
+[04:56] le damos a save, y por ejemplo, como en este no teníamos 3, pues en este el 3 le ponemos,
+[05:01] que no lo queremos, remove offer y solo salen 2, entonces ahora podemos empezar a tocarlo 2,
+[05:06] si quieres añadir más, le darías aquí, es decir, lo tocamos todo, bastante sencillo,
+[05:09] vale, stack it, slide by slide, lo dejamos stack it, bundle styles, condensados,
+[05:14] o así, yo lo dejo condensado, siempre, label location, under price,
+[05:18] bottom, es decir, yo lo dejo next to title, tal cual está, hide radio, vale, sería esto de la selección,
+[05:26] vale, lo puedes quitar, lo puedes dejar, aquí fíjate que está en el delerraín,
+[05:31] entonces lo dejamos, design, nos vamos a lo siguiente, aquí selected border color,
+[05:35] lo da alrededor, bien, pues lo ponemos en el color de nuestra web, selected background color,
+[05:40] es decir, cuando seleccion es uno, que cambia algo de color, esto es importante para que la
+[05:45] gente sepa cuál ha elegido, entonces ponemos nuestro color, luego nos vamos casi a blanco,
+[05:50] vale, es decir, nosotros estamos aquí, fijaros que es todo azul, vale, es todo azul, entonces ponemos
+[05:55] nuestro color y nos vamos a casi, casi blanco, pero que se vea diferente, vale, entonces fijaros que la
+[06:01] gente, cuando seleccione, verá cuál está seleccionado, tampoco os paseéis, vale,
+[06:05] ponerlo casi, casi blanco, pero que se vea, vale, yo por ejemplo voy a tirar de aquí,
+[06:09] que tenga un poquito de diferencia y ya está, not selected border color, podemos dejar este,
+[06:14] not selected, esto lo dejamos así, si queremos cambiar el texto, tenta aquí, border radius,
+[06:18] esto sabéis cómo funciona, ya lo he explicado mil veces, si es un protocolo más cuadrado,
+[06:22] normalmente los botones redondos van mejor, lighting border, fijaros que se quita, es decir,
+[06:27] fijaros el border este, vale, fijaros, veis cómo hace un parpadeo, como que tiene esto,
+[06:35] lo que queráis, sin más, vale, lo que más os guste y aquí vamos tocando, podemos cambiar
+[06:40] que sea bold el título, vale, yo normalmente esto no lo toco, lo dejo tal cual está, no me comparo,
+[06:45] o sea, no me complico mucho, a tocar button lo podemos poner en el caso de que lo queramos en
+[06:51] color, por ejemplo, podemos poner que sea nuestro color, que sea así y que el texto sea blanco,
+[06:56] por ejemplo, no, luego, podemos cambiar si queremos en bold, la letra o semi-bold, yo
+[07:02] normalmente no lo toco, podemos cambiar el tamaño, vale, de lo que sería la letra,
+[07:07] si más, vale, y el buy now button, yo normalmente lo quito, vale, que ahora lo explico,
+[07:14] entonces le damos a siguiente, vale, le damos, bueno, le damos aquí abajo, a siguiente, a settings,
+[07:20] y aquí en settings podemos cambiar donde pones bundle and save, pues podemos poner compra más y
+[07:25] ahorra más, me lo estoy inventando, vale, o descuento de navidad, en qué productos
+[07:30] queremos que se seleccione, pues en nuestro caso sería solo en el nuestro show variants,
+[07:34] esto es importante, si tu producto tiene variante, este saldrá aquí para seleccionar las
+[07:37] variantes, default variants, esto puedes poner cual quieres que se solucione, show price per item,
+[07:44] es decir, aquí puedes poner que salga el precio por cada unidad o el precio en conjunto, hay tiendas
+[07:50] que utilizan las dos, o sea utilizan esta o hay gente que utiliza la de por cada unidad,
+[07:55] pero yo para no liar lo suelo dejar así, vale, entonces buy buttons visibility, tenemos que
+[08:01] quitar el buy now, dejamos solo el actucar y en el actucar ponemos agregar al carrito,
+[08:06] lo cambiamos nosotros, esto no hace falta que lo cambiemos, animate on hover, esto lo podemos
+[08:11] dejar, no ponga esto de shaking, es bastante feo, esto funciona en 2015 y le damos a save,
+[08:16] entonces ahora ya lo tenemos para toquetearlo todo, solo tenemos que venir aquí y hacer el
+[08:21] mismo proceso y un poco al gusto, vale, entonces ahora si vamos a nuestro tema que sería este,
+[08:26] vale, le doy a personalizar, vea, vamos al producto, que es este, podemos ver que como lo hemos
+[08:32] puesto antes, vale, en el caso de que no salga, voy a hacer que salga un momentito,
+[08:35] que sería aquí, entonces ahora le doy a agregar prime bundles, agrego prime bundles,
+[08:41] lo pongo encima, un momentito, lo voy a guardar, anular y guardar cambios,
+[08:45] que a veces se cae un poco loco, a veces tardan a salir, pero sale, no os preocupéis, vale,
+[08:48] no me está saliendo porque me sale este mensaje que antes no salía, lo único que tenemos que
+[08:52] hacer es darle activate prime bundles, vale, es decir, seguir los botones,
+[08:55] que a veces simplemente hay que leer, cosa que yo ahora no había hecho,
+[08:57] lo seleccionamos aquí, le damos arriba derecha a guardar y fijaros que ahora ya
+[09:02] sale los dos, entonces si tenéis el tema, el de sendrop, como es este caso, ahora se actualizo,
+[09:07] ahora sí que debería de salir, vamos a rezar, que sí, porque no veas, entonces no sale,
+[09:14] dejarme que lo mire y yo lo enseño, y bien, el problema era mío, perdonarme que acordaros
+[09:18] que hice una copia que era de gatos para enseñarlo de la página y pues eso, que lo hecho mal,
+[09:23] vale, entonces fijaros que ya saldría aquí, obviamente este mucho más bonito,
+[09:27] no vamos a engañar, a mí me gusta bastante más, se ve más limpio el otro,
+[09:31] vale, que ahora se ha puesto esto otra vez, pero lo tendríamos aquí,
+[09:34] entonces sería la manera de ponerlo porque el de propio tema está mal, perdón,
+[09:37] que ha habido un par de cosas que no salían bien, pero así sería,
+[09:40] vale, instalamos la aplicación, lo ponemos todo bien, no se ve tan, tan, tan bonito,
+[09:45] pero, pero pues al menos lo ponemos, vale, en el caso de que conozcáis otra app y queráis
+[09:51] usarla, pues podéis usarla sin problema, yo simplemente suelo usar ésta,
+[09:53] cuando no uso Prime, perdón, el S-Rain, uso ésta de Prime Banders,
+[09:57] pero podéis usarla que queráis y así se configura, vamos con lo siguiente.
