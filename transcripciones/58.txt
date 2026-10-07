@@ -1,0 +1,31 @@
+# Lección 58 — 58. Modificar tamaño botones Add to Cart.mp4 (03:12)
+[00:00] algo que nos está funcionando bastante bien es aumentar el tamaño de los botones de compra
+[00:05] esto lo hemos descubierto haciendo split test hemos testeado el tamaño predeterminado de Shopify
+[00:11] con un tamaño más grande de los botones de compra y los resultados han sido bastante buenos
+[00:16] para hacer el botón de compra más grande vamos a venir aquí edit code esto va a cambiar un poco
+[00:22] si no tenéis el edge rind creo que va a ser diferente podéis pelearos con chat gpt para
+[00:27] ver si encontráis la opción o podéis comprar el edge rind que será la vida mucho más fácil o
+[00:32] simplemente podéis seguir con los botones de compra del tamaño estándar aquí venimos aquí bajamos
+[00:38] bajamos tenemos que buscar aquí línea 417 le vamos a clavar este código que os dejo aquí
+[00:51] le damos a guardar volvemos al tema damos a customize vamos a la página de producto
+[00:58] aquí vemos que el tamaño del botón es bastante más grande si queréis cambiarlo
+[01:03] deberíamos volver al código vamos aquí edit code sim liquid vamos a buscar un pedacito de
+[01:12] código que acabamos de pegar aquí aquí venimos y le ponemos el tamaño que queremos
+[01:17] vamos a hacer muy muy grande save tomáis aquí vemos que una vez más el tamaño del botón es
+[01:32] mucho más grande y lo mismo aplica al sticky a tocar y otra cosa que nos ha ido muy bien es copiarnos
+[01:39] el color del botón de amazon venimos aquí vais a cualquier producto buscáis el código del color
+[01:44] con alguna de estas chrome extension es aquí se os copia el código volvemos a nuestro tema
+[01:52] y aquí tenemos dos opciones si tenéis el pro podéis venir aquí le dais a custom color
+[02:01] enable aquí ponéis el código de color que acabamos de copiar save y haríamos lo mismo por el
+[02:07] sticky a tocar color de naranja luego si lo hacemos aquí también hacerlo dentro en el
+[02:16] carrito el botón del checkout venís aquí y exactamente lo mismo enable botón color esto
+[02:23] creo que sólo está disponible para el line pro si no tenéis el pro lo que vas a tener que hacer
+[02:28] va a ser venir aquí y jugar con esto colors aquí le metéis el naranja este que acabamos de
+[02:34] copiar de amazon en uno de estos accents y luego va a venir aquí y vas a tener que
+[02:39] seleccionar el accent que sea si tenéis un color en la página con el cual esté de naranja
+[02:44] no pega nada no hace falta que lo hagáis pero a nosotros es algo que nos está funcionando muy
+[02:49] muy bien y si amazon lo hace será por alguna vez más como hemos dicho mil veces es clave
+[02:54] vean inspiración de ya sea de marcas top de empresas topo de gente que sabe mucho más que
+[03:00] nosotros para el tamaño del botón normalmente nosotros lo dejamos en 65 que es como os va
+[03:04] a venir el código este que os dejo aquí pero si queréis hacer lo más grande hacer
+[03:08] split test y a ver si encontráis un tamaño que os funcione incluso mejor
