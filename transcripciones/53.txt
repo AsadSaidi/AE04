@@ -1,0 +1,32 @@
+# Lección 53 — 53. Sticky Add to Cart y Section Divider Dan Fallos.mp4 (02:42)
+[00:00] bien y dos cositas que voy a meter en el mismo vídeo que también da error el otro tema vale en el
+[00:04] tema de shrine tenemos el sticky a tu cart este cuando bajando aparece vale aquí da error entonces
+[00:11] si queremos tener el sticky a tu cart tendríamos que venir a apps poner sticky a tu cart vale sencillito
+[00:17] y poner cualquier aplicación que os guste o yo no voy a recomendar ninguna porque me da
+[00:22] absolutamente igual vale sticky a tu cart quiero darle así vale hay un montón yo por ejemplo
+[00:29] esta la he usado alguna vez que otra cuando lo he necesitado esta de square usar alguna gratis
+[00:33] nos complique mirarla alguna que os guste le dais aquí le dais a ver tienda de demostración y os
+[00:38] fijáis a ver qué es pues ejemplo esta tiene lo de la urgencia y todo el rollo podéis probar si no
+[00:43] podemos a otra decir coger alguna y listo vale eso es importante porque cuando la gente está delizando
+[00:49] por la web para que le salga el botón vale y otra cosa que tenéis que saber es que en el tema
+[00:54] de cendrop muchas veces os pasará que cuando estamos poniendo el section divider es decir esto muchas
+[01:01] veces lo vas a querer cambiar vale mira yo voy a querer cambiar el color del section divider a
+[01:05] mejorar lo van a arreglar yo quiero cambiar el color y fijaros no se cambia y qué coño hago vale
+[01:12] cuando pase esto es una mierda perdóname por hablar tan mal lo único que tenéis que hacer es borrar
+[01:16] lo agregar sección lo volvéis a poner sin tocar nada es decir ponéis el web 3 cambiáis
+[01:23] el color al color que queráis vamos a ponerlo así y entonces de aquí lo moveis y le dais a duplicar
+[01:28] y lo volvéis a mover es decir si habéis puesto este y veis que no se cambia pues los tenéis que borrar
+[01:35] volver a crearlos abajo volverles a poner el color y arrastraros hacia arriba es un poco tedioso
+[01:39] pero bueno cuando cambia en la web es un momento ya lo habéis visto decir hacéis un cambio vale
+[01:43] si yo quiero cambiar el color de este seguramente fíjate está en azul y no me deja entonces
+[01:48] lo que tengo que hacer es borrarlos que es una mierda pero borro vengo aquí abajo ahora voy a borrar
+[01:53] estos para no liaros vale lo que hago es section divider lo creo le pongo todo lo que quiero es decir
+[02:00] le pongo pues este quiero que sea el color me voy a poner naranja pero para que me entendáis lo
+[02:05] creo aquí luego lo duplico lo cambio flip vertical para poder ponerlo junto y entonces lo
+[02:11] arrastro donde yo lo quería y arrastro lo otro donde yo lo quería y entonces ya lo tendrían
+[02:16] el color que yo he decidido poner y en la forma en que he decidido poner si yo ahora desde aquí
+[02:19] seguramente si lo quiero cambiar no se cambie vale porque da error es un error que están arreglando
+[02:24] y entonces que sepáis que para ponerlos y os da error pues tenéis que venir abajo a hacerlo
+[02:30] arrastrarlo y hasta es un mentito vale entonces el stick a tocar agregamos una aplicación
+[02:34] la que queráis la mayoría son gratis no os preocupéis que se vea bonito y cuando es de
+[02:38] problemas lo del section divider ya sabéis cómo solucionarlo vamos con lo siguiente
