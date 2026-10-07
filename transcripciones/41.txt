@@ -1,0 +1,50 @@
+# Lección 41 — 41. Sticky Add to Cart Vídeo Looping Powered by Shrine y Logo Pantalla de Pago.mp4 (04:27)
+[00:00] vale en este vídeo vamos a tocar cosas muy rápido pero no quiero hacer vídeo para no meter 400 vídeos
+[00:07] suelto vale lo primero antes me confundido y aquí en el vídeo slider vale tenéis que tener todo
+[00:14] esto desactivado y siempre mutear desde canvo desde donde descargué los vídeos que no tengan
+[00:19] sonido porque sino cuando lo reproduces tiene sonido vale todo esto deseleccionado porque si no
+[00:23] sale como un grisacio igualmente os enseñaremos a poner una app que está mucho más guapa vale
+[00:27] después esto de aquí abajo poder it by is rain vale esto de aquí tenemos que quitarlo y como lo
+[00:35] quitamos en configuración del tema te suele salir aquí abajo vale y si no te sale ahora os digo
+[00:39] dónde sale porque a veces sí que sale aquí y a veces no dependiendo de la de la versión vale en
+[00:43] vez de salir aquí abajo como os he dicho estaba arriba vale es que a veces lo van cambiando
+[00:46] entonces simplemente está en pie de página y aquí lo que hacemos es esto borrarlo y
+[00:51] directamente nos sale pues el 2025 que se pone solo y la marca que lo hemos puesto atrás
+[00:55] luego el stick a tocar que es esto súper importante porque porque la gente cuando va bajando es
+[01:01] decir fijaros eh vale mirar vamos a ver nuestra web aquí vale vamos a darle en formato móvil la
+[01:09] gente cuando entra en nuestra web se encuentra esto vale bien y aquí tiene el botón pero
+[01:14] claro si luego se va del botón ya no tienen para comprar entonces pum sale el stick a tocar
+[01:19] lo cual es perfecto entonces tenemos que dejarlo ahí y que salga cuando desaparezca
+[01:25] este botón vale entonces cómo lo modificamos muy sencillito vale cuando empieza a salir le
+[01:31] damos encima con lo del inspector directamente se pone aquí stick a tocar y en la derecha
+[01:35] tenemos todo buton factio funtion perdona por mi inglés e a tocar tal vale pues lo dejamos
+[01:42] en a tocar es decir si le da aquí te manda la to card o lo que podemos hacer para que elija
+[01:48] las variantes vale para que elija las variantes lo que podemos hacer es que el stick a tocar
+[01:53] te mande a product information entonces cuando empiezan a bajar le dan a tocar y le manda para
+[01:59] arriba para que seleccionen vale igualmente como casi siempre tienen seleccionada la de dos y yo
+[02:04] lo dejaría por defecto en a tocar pero igualmente podéis probar a ver qué es lo que mejor es
+[02:07] convierte luego le cambiamos el botón que sería agregar el producto agregar al carrito
+[02:13] perdón al carrito vale lo ponemos en agregar al carrito listo vale luego botón
+[02:20] custom color esto está por defecto show product imagen en decir podemos poner que muestre la imagen
+[02:25] lo de la reseña lo podemos poner en el caso de que lo activemos cosa que no es necesario vale es decir
+[02:30] podemos toquetear absolutamente todo por ejemplo activamos la imagen saldría la imagen bien show
+[02:35] product titel lo podemos quitar vale rating star podemos ponerlas cosa que yo no haría vale
+[02:41] product price obviamente hay que dejarlo preys lo del safe tanto vale entonces variant
+[02:48] picker en caso de que tenga variante lo podemos activar botón full vale así entonces dependiendo
+[02:53] del producto pues está bien que lo meta más grande más pequeño vale es decir depende yo
+[02:59] normalmente lo dejo así si que es verdad que hay mucho texto con la imagen quizás a vuelta
+[03:04] demasiado fijaros que se hace un poco más grande entonces lo vamos a dejar sin imagen
+[03:08] vale lo dejamos así le damos a guardar y listo vale bien dicho esto ahora vamos a tocar
+[03:14] absolutamente todo lo necesario en los siguientes vídeos sobre políticas el track juror de para
+[03:20] que puedan ver por dónde va y un montón de cosas más así que vamos a ello pero antes muy importante
+[03:26] vale venimos a configuración y si aquí nos sale pantalla de pago cosa que a veces sí a veces
+[03:32] no dependiendo de la actualización de Shopify tenemos que venir a configuración tenemos que
+[03:38] venir aquí a pantalla de pago súper importante y ahora veréis por qué vale le damos a
+[03:43] personalizar súper importante y donde pone logo tenemos que poner el logo porque si no la
+[03:47] gente no lo va a ver y eso genera desconfianza ponemos el logo lo hacemos importante pequeño vale
+[03:55] no me seáis burros es decir lo ponemos un tamaño versión móvil que sea medianamente decente que se
+[04:00] vea pero que no sea muy agresivo y lo ponemos centrado es como más me gusta le damos a guardar
+[04:05] y aquí en énfasis botones etcétera podemos poner por ejemplo los botones el color de
+[04:12] nuestra web no porque el color que tenemos los botones le doy aquí vengo aquí lo pego y tengo
+[04:19] ese botón más a de paypal ya no te preocupes luego hablamos de todo esto vale entonces así sería vale
+[04:24] he tocado muchas cosas pero porque no quería burrir o vamos con lo siguiente
