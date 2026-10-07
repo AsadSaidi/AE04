@@ -1,0 +1,92 @@
+# Lección 25 — 25. Emoji Benefits.mp4 (07:55)
+[00:00] Este vídeo va a ser un poquito más largo, pero es muy importante, ¿vale?
+[00:03] Vamos a ponerlos emoji benefits. ¿Qué es esto? Esto de aquí son emoji benefits,
+[00:08] esto de aquí son emoji benefits y esto de aquí son emoji benefits.
+[00:13] Casi todas las marcas utilizan esto, ¿de acuerdo? Entonces hay marcas que lo
+[00:18] utilizan para decir enviórate y regalos tal, otras que lo utilizan para
+[00:22] dar más información, a nosotros nos gusta utilizarlo para dar más
+[00:25] información. Entonces ¿cómo añadimos esto? Bien, venimos aquí dentro del
+[00:29] producto, información del producto, nos ponemos en este caso debajo del título,
+[00:33] que es donde van a ir, le damos a agregar bloque y buscamos emoji y ya te sale, emoji
+[00:40] benefit sencillito, ¿vale? Entonces en este caso hay tres, pero puedes poner 800 si
+[00:44] quieres. Puedes quitarle el botón margin para que se pegue más arriba, ¿vale? Yo
+[00:47] recomiendo dejarlo más o menos juntito, así en unos seis y por
+[00:51] debajo también en unos seis, ¿vale? Juntito. Bien, ¿cómo hacemos esto?
+[00:56] Ok, antes de poner la frase y tal tenemos que averiguar lo siguiente. ¿Qué es lo
+[01:02] que los clientes valoran más de este producto? Tenéis que hacer un estudio si
+[01:08] no lo tenéis hecho ya. Por ejemplo, si yo pongo doc trimmer, ¿vale? For pause,
+[01:13] importante que no queremos que sea. Por ejemplo, este es nuestro producto, que
+[01:16] no queremos que sea de todo el cuerpo, queremos que sea el de las
+[01:21] patas, ¿vale? Me voy a ver las valoraciones, ¿vale? E intento ver,
+[01:25] intento ver qué es lo que más... Lo que más valora la gente, por ejemplo, bajo
+[01:32] nivel de ruido. Bien, ya tenemos una, bajo nivel de ruido. Una carga dura mucho
+[01:36] tiempo, ¿vale? Fácil de usar y que la carga dura mucho. Entonces voy investigando
+[01:42] qué es lo que más valora las personas, ¿vale? Sí que es verdad que intentamos
+[01:47] encontrar algún listing, es decir, algún producto de estos, ¿vale? Que tenga
+[01:54] muchas ventas, porque eso significa que está bien. Entonces, vamos a buscarlo,
+[01:59] voy a buscarlo y ahora os lo muestro. Bien, en este caso, que estaba en Amazon
+[02:03] España, por eso no me salían, en Amazon USA le doy a este 13.000 ventas, es una
+[02:06] locura. No es la misma variante, pero sí es para las patas, no es para el pelo en
+[02:10] general. Me voy a ver las reseñas y estos son reseñas profesionales. Esto es
+[02:14] una reseña profesional. Entonces, le doy a traducir, importante, bueno, si
+[02:19] sabéis inglés, pues mucho mejor, obviamente. Entonces, va a cumplir 16 años.
+[02:23] Es ciego y malhumorado. Se vuelve cada vez menos tolerante. Necesita que lo arreglen.
+[02:26] Este momento me resulta casi imposible mantener su rostro y sus pies porque se
+[02:29] pone tan histérica que se pone azul. ¿Vale? Entonces, está explicando su punto de
+[02:34] dolor que esto también nos sirve para entender al cliente y atacar ese punto de
+[02:38] dolor, ¿vale? Me sentía desesperada, etcétera. Estoy tan contenta de haberlo
+[02:41] probado, tan triste que no me he entendido antes. Son más silenciosos que
+[02:44] cualquier otro cortaúneas. Silencioso. Ya van dos reseñas que va por silencioso.
+[02:49] Entonces, ¿qué hacemos? Venimos aquí. Buscamos en emojipedia. También se lo
+[02:53] podemos pedir a chatgpt. ¿Vale? Buscamos silence. ¿Vale? Son bastante feos. Voy a chatgpt.
+[03:00] Y le digo, a ver, lo voy a probar. Le digo, eh, dame un emoji que signifique
+[03:10] silencioso o silencio. Entonces, me da aquí. Sería la cara. No quiero la cara.
+[03:18] No quiero cara. Entonces, que me deis por su altavoz o que me deis algo. Por ejemplo,
+[03:22] este. ¿Vale? Este está bastante bien. Lo copio. Vengo aquí. Lo pego. Y le pongo.
+[03:30] Quiero un emoji benefit que diga de manera breve, pero concisa, que, eh, vamos a ponerlo,
+[03:41] que el producto es súper silencioso o no hará ruido y tu perro no se estresará. Es para un
+[03:53] paugrooming o tritriming, ¿no? Lo mismo sería. ¿Vale? Esto podéis hacerlo con prompt, si no,
+[04:00] entonces, por ejemplo, súper silencioso, sin estrés para tu perro. Cero ruido,
+[04:05] cero estrés. Este me gusta. ¿Vale? Es como sin ruido, sin miedo. También. ¿No? Es como cero
+[04:11] ruido, cero estrés. Está bien. Sin ruido, sin miedo. También me gusta. Sin ruido,
+[04:14] sin miedo. Le da como un toque así. Las dos están bien. ¿Vale? Entonces, vengo aquí. Lo pego.
+[04:19] ¿Vale? Lo pongo aquí. Lo pongo en la misma línea. Importante. ¿Vale? Y lo pongo en negrita,
+[04:27] porque si no se ve mal. También lo podemos poner en diferentes títulos. Es decir,
+[04:30] lo podemos poner en título cinco. Podemos poner en título cuatro, que es un poco más grande.
+[04:33] Título seis o en párrafo, ¿vale? Yo, en este caso, voy a dejarlo a ver. Así me parece que está
+[04:40] bien. Así que, verdad que ha cambiado el color y a veces haces esas cositas. Te voy a dejarlo en párrafo,
+[04:44] lo pongo en negrita y ya está. ¿Vale? Siguiente, vamos a buscar más reseñas. Aquí, traducir,
+[04:51] también podemos pegar las anchas GPT todas y decirle qué es lo que más valora la gente de
+[04:56] este producto. Hacemos así un copia de pega rápido, ¿vale? Obviamente, si lo podéis hacer mejor,
+[05:04] pues mejor. ¿Qué es lo que más valora la gente de este producto? Hazme una lista de los beneficios.
+[05:12] Y le ponemos todas las reseñas. Se va a poner a investigar qué es lo que manda y a ver qué dice.
+[05:18] Bien, podemos ver. Muy silencioso, inalámbrico y fácil de manejar. Tamaño compacto y diseño
+[05:23] ligero. Incluye cabezales intercambiables, compatible con distracción. Esto es un poco raro. Viene
+[05:27] cargado y listo. También es raro. Cortes limpiosuave y seguro. Bien, sin tirones ni cortes. Ideal
+[05:31] para zonas específicas. Excelente relación, precio calidad. Esto no lo podemos poner,
+[05:34] porque es muy estafador, ¿vale? Mejora la vida del perro y del dueño, pues hasta que flipas.
+[05:38] Entonces, ¿qué hacemos aquí? Pues copiamos esto, tal cual. Venimos aquí y en el segundo lo
+[05:44] pegamos, ¿vale? Le damos un espacio y lo dejamos aquí y lo ponemos en negrita. El tercero,
+[05:51] pues sería, vamos a poner el de corte limpio, suave y seguro. Sin tirones ni cortes. Venimos aquí,
+[05:59] quitamos los dos puntos estos, quitamos los dos puntos estos que nunca bajen de líneas. Por ejemplo,
+[06:05] a mí me gusta el de sin tirones ni cortes. Ese me gusta, porque es un problema que puede tener
+[06:11] la gente. Entonces, lo ponemos cortito, le damos aquí, ¿vale? Y como ya estáis viendo, ¿sigue
+[06:16] verdad que se me ha pegado mucho arriba? Entonces, le voy a poner un poco más de
+[06:19] separación. Ya estáis viendo que lo vamos poniendo con un poco de ayuda de las reseñas para saber
+[06:25] qué dice la gente y ayuda de chat gpt, que es nuestro mayor aliado. Por ejemplo, este,
+[06:28] mejora la vida del perro, podemos ponerlo así. Y tampoco o pongáis 800, ¿vale? Nosotros
+[06:37] recomendamos poner, pues, 4, pues nosotros recomendamos poner, pues también fijarnos en
+[06:43] la competencia, este tiene 3. Estos tienen mucho, pero es un producto de mujeres diferente. El
+[06:48] de los de poker speech, ¿vale? Podemos ver que tienen 3. Yo recomiendo entre 3 y 4, ¿vale? Que
+[06:55] es justo lo que hemos puesto. Este tiene mucho espacio, lo voy a quitar aquí. Este tiene mucho
+[07:00] espacio y este tiene mucho espacio. Y pasa que este se pega, no entiendo por qué. Voy a quitarlo
+[07:05] y lo voy a poner más para abajo, que a veces da estos errores, pero bueno, aquí. ¿Vale? Entonces,
+[07:10] aquí juntitos ya se entienden bien, le doy a guardar y ya tenemos los emoji benefits. Entonces,
+[07:14] la gente ahora cuando entra verá, super descuento, que somos una marca, todo tiene sentido, 21.000
+[07:19] reseñas, un buen nombre que ataca a los beneficios de la persona, a los problemas y le damos más
+[07:26] información y el ámbrico y fácil de manejar, sin tirón en ni cortes, mejora la vida del perro,
+[07:29] sin ruido, sin miedo. Ya está, ya lo tenemos, ¿vale? Ya lo tenemos. Entonces, los emoji
+[07:35] benefits se ponen, como habéis visto, y nos vamos a Amazon y miramos qué es lo que más
+[07:40] valora la gente del producto, porque esos son los emoji benefits que tenemos que poner. Poner entre
+[07:45] 3 y 4, podéis poner algunos de regalos gratis y cosas así, pero sobre todo atacar a las emociones,
+[07:51] porque las ofertas luego las iremos poniendo aquí, ¿vale? Así que vamos con lo siguiente.
