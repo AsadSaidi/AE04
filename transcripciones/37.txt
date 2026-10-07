@@ -1,0 +1,81 @@
+# Lección 37 — 37. Horizontal Ticker.mp4 (08:36)
+[00:00] ahora lo que podríamos hacer es agregar un horizontal ticker que lo vais a ver aquí vamos ponemos
+[00:06] horizontal ticker que es esto que se va moviendo vale como estáis viendo aquí lo voy a poner por
+[00:11] arriba le pongo un horizontal ticker aquí y le meto más relleno vale el pd en este como
+[00:19] pading no sé cómo se pronuncia para que no esté tan pegado perdón aquí no era el otro
+[00:25] perdóname estoy haciendo muchas cosas y me lío entonces le metemos aquí para que se despegue
+[00:30] un poco vale para que no esté tan junto y ahora venimos aquí que lo echo mal y le ponemos el
+[00:36] relleno superior igual para que tenga bloque entonces qué podemos hacer aquí podemos poner texto por
+[00:40] ejemplo podríamos poner envío gratis garantía no sé cuánto pero lo ideal no es meterle eso es
+[00:47] meterle una imagen vale meterle una imagen cómo metemos una imagen bien mirad aquí
+[00:54] podríamos agregar por ejemplo logos vale muchas marcas lo hacen son es mentira al cien por cien
+[01:01] a ver la graya no todas pero es mentira no sé si está lo tiene a ver dejarme que lo mire rápido vale
+[01:06] en este caso esa marca no lo tiene entonces tendríamos que decirle a chat gpt en quiero poner
+[01:12] entre secciones un horizontal un tal ticker que luego de que marcas periódicos etc vendría bien
+[01:24] poner para dar más sensación de que somos una marca importante y le ponemos el país porque en
+[01:32] cada país hay una marca yo por ejemplo voy a vender en España no en méxico donde sea no entonces
+[01:38] le tiro aquí entonces a ver aquí qué es lo que me dice por ejemplo podría poner el país el mundo
+[01:45] la vanguardia no te pueden decir nada vale es decir nadie nadie te va a decir nada entonces enfocado a
+[01:52] mascotas vale para para que no sea rollo del país bueno si puedes ponerlo pero es un poco raro
+[01:58] vale entonces vamos a ver qué dice guamiz señor perro pet industry pet md vale decir bueno
+[02:06] son marcas entonces qué teníamos que hacer venimos a camba y los creamos ahora os digo el tamaño que
+[02:11] yo lo que hago es venirme a camba y donde tenía el logo que más o menos es el mismo con el mismo color
+[02:16] aquí le doy a duplicar y aquí es donde meto las marcas me voy a google busco las marcas que me ha
+[02:21] dado esto por ejemplo una sería pues guamiz no pues busco el logo de guamiz aquí donde
+[02:29] estamos aquí con google con guamiz imágenes busco el logo que sería esto vale lo copio si tengo
+[02:40] el camba pro que en este caso no tengo lo voy a hacer con el otro pero para que me entendáis vengo
+[02:43] aquí como lo he duplicado esto lo puedo borrar sin problema vale lo borro pego el logo aquí está
+[02:50] sin sin nada vale entonces le dejo el el fondo porque porque lo vamos a dejar en color que
+[02:58] es lo que queremos darle darles a darles a importancia vale entonces también podemos buscar el logo
+[03:03] negro si es que existe si no pues nada o alguno que se vea un poco más porque por ejemplo este
+[03:08] no se ve bien vale lo único que tenemos que hacer es perdón vuelvo a camba lo único que
+[03:12] tenemos que hacer es ponerlo aquí hacer lo más grande pero que no corte le damos a descargar
+[03:17] buen tamaño vale momentito está quedando medio loco aquí lo descargamos vale esto
+[03:26] muy rápido es muy como se dice en españa para los que no son de españa muy chapuzas vale es decir
+[03:30] no nos complicamos mucho le voy a seleccionar los temprano todo pixelado le doy abrir lo pongo y
+[03:39] fijaros que tiene tiene otro color vale entonces lo tendríamos que descargar sin fondo con el camba
+[03:45] pro pero en este usuario no lo tengo entonces voy a hacerlo y lo muestro una vez las tenemos
+[03:49] podemos tocar aquí donde estábamos antes en el horizonte al ticker este podemos tocar
+[03:53] el tamaño para fijaros hacen más grandes os hacen más pequeñas tampoco se exagera os vale
+[03:58] entonces si veis que os queda muy pequeñito por la cima grande vale le podemos poner el
+[04:03] section divider bueno le deberíamos de poner el section divider a mí me gusta bastante duplicamos
+[04:08] y duplicamos ponemos por encima lo ponemos por abajo y el que quede mal que es el de abajo es
+[04:14] decir es este le damos a flip como lo tenéis aquí y ya lo tenemos así vale obviamente no es
+[04:21] lo más bonito del mundo vale y si no queréis poner esta sección porque mario no quiero poner
+[04:27] nombre de marcas vale por no os preocupéis lo quitáis y aquí por ejemplo lo que sí que
+[04:31] pondríamos sería reseñas vale quitamos los section dividers pondríamos reseñas como
+[04:36] las ponemos le damos a agregar sección ponemos testimonials y aquí ponemos reseñas vale ponemos
+[04:44] por encima y lo que hacemos es pues reseñas de calidad como hemos visto en amazon ponemos
+[04:50] una foto que se puede poner es decir mirar e aquí en testimonial uno puedes poner una imagen
+[04:56] vamos a suponer que le vamos a dar a explorar imágenes gratuitas vale vamos a buscar con man with
+[05:03] pet y vamos a poner algo de esto o venimos aquí y ponemos pet paugrooming o trimming vale por
+[05:14] ejemplo con esta ponemos aquí copiamos esto cual o lo copiamos vamos a camba 1080 por 1080 ya lo sabéis
+[05:24] venimos aquí pegamos hacemos grande descargamos descargamos en máxima calidad a ver que será que se
+[05:35] está quedando vale que es el pro es la confusión le vamos a descargar lo descargamos y ahora una
+[05:41] vez se descargue que tardará un minutito venimos aquí seleccionamos la imagen subimos los 3
+[05:47] autopixelados y ponemos la imagen vale bien esto está bien vale en hedon ponemos un título que tenga
+[05:55] sentido vale vamos a amazon como siempre amazon usa porque donde más cosas hay ponemos doctrina
+[06:01] for paus buscamos el más el más vendido vamos a las reseñas y buscamos que ponen no
+[06:08] pues mira este es el este es el título vale entonces lo podemos traducir traducemelo y dice a ver
+[06:19] corta pelo milagrosos para mi perrito anciana siga y que odia que la cicalen bueno dime lo más
+[06:24] español que no sea tan traducción literal algo inglés corta pelo milagrosos para mi perrito
+[06:30] mayor siga y que no soporta que la reglen bueno como lo diría una señora de mujer señora
+[06:37] una mujer de 30 a 55 años preocupada por su perro siendo española con su forma de hablar de aquí
+[06:45] vale va que sea más real que si no a ver que diría bien esto está bien una corta un corta pelo
+[06:54] milagroso vale entonces venimos aquí lo podemos poner en título aunque mucho entonces yo lo
+[06:59] pondría aquí en lo que es la la propia reseña vale lo ponemos en la propia reseña y aquí
+[07:05] le ponemos vale qué título le pondrías a esta reseña corto por ejemplo el único que tolera mi
+[07:15] perrita está bien es como muy gracias lo ponemos aquí el único que tolera mi perrita tal aquí
+[07:21] venimos en autor lo ponemos nombres diferentes a los que hemos puesto arriba como habíamos
+[07:25] puesto susana maricar mi no sé qué paola aquí ponemos pues yo que sé
+[07:29] dolores yo que sé dolores y que sea el perro un poco raro a ver maría yo que sé maría y
+[07:38] uve vale por poner algo maría uve dice esto entonces cuántas ponemos bien pues yo pondría
+[07:43] las tres que hay vale no pondría no pondría muchas más decir pondrías las tres en testimonials
+[07:48] sí que le cambiaría el título pondría lo que opinan nuestros clientes vale y lo pondría
+[07:57] pequeño para que no sea tan invasivo vale y lo juntaría un poquito más para que te pegue vale
+[08:05] es decir lo del relleno superior lo recortaría al máximo y fijaros que si añado todo lo otro que
+[08:11] habíamos hecho antes fijaros cómo queda vale vamos a ir a un poquito de relleno superior vale
+[08:16] fijaros cómo queda los logos tendrían que estar mejor pero venimos de hacer social proof con
+[08:21] esto venimos de resolver objeciones atacamos problema damos confianza más confianza que si
+[08:28] tenemos los dos quizás es demasiado y ahora ya sí que vendría el siguiente bloque que es el de tocar
+[08:34] la solución así que vamos a ello
