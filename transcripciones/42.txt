@@ -1,0 +1,105 @@
+# Lección 42 — 42. Políticas y Menús Inferiores.mp4 (09:55)
+[00:00] Vamos con las políticas. A nivel legal tenéis que tener en vuestra tienda de Shopify políticas puestas,
+[00:05] igual que las cookies, que ahora os explico esto, ¿vale? Bien, ¿cómo la generamos? Shopify ha cambiado
+[00:10] mucho, antes tenías que venir a un generador, la generabas, ponías todos tus datos, como se
+[00:15] puede poner aquí, fijaros, ponéis todos tus datos, te la envían al correo, te la descargabas y
+[00:19] creabas una página en Shopify. Se puede seguir haciendo, ¿vale? Pero ahora si vienes aquí,
+[00:23] te das a tienda online, páginas, tienes que crear la página, ¿vale? Es decir,
+[00:28] la creas tú aquí, te la descargas y la creas, pero a veces da error. Si podéis hacerlo con el
+[00:32] generador de políticas éste, solo tenéis que poner en Google, generador, generador, políticas,
+[00:40] Shopify, ¿vale? Y está la de la de privacidad, la de política de privacidad, pero te diré cantando
+[00:47] políticas, términos y condiciones de privacidad, de evolución y términos generales y contacto,
+[00:53] ¿vale? Entonces, las creas, luego las metes en un menú que ahora te explico esto y ya te salen
+[00:58] en el fooder, ¿vale? En el pie de página. Otra opción es venir aquí, dar la configuración,
+[01:04] darle donde pone políticas, que Shopify, ya se sabe esto y le das a política de revolución,
+[01:09] de evolución y reembolso, insertar plantillas. Y aquí te da todo esto con tu dirección. Aquí
+[01:15] tendrías que insertar la dirección de devolución, aquí tendrías que poner tu dirección, ¿vale? La
+[01:19] dirección de empresa o tu dirección. Ponerla de verdad no seas mentiroso, ¿vale?
+[01:23] Entonces, una política de revolución de 30 días puedes poner 15, ¿vale? Entonces, si tiene
+[01:27] dudas de si está bien, verás el GPT. Está bien, está política, podría tener problemas que falta
+[01:35] por poner, ¿vale? Y le preguntamos si está bien, ¿vale? Aquí te pone derecho de existimiento,
+[01:40] quién paga lo gasto de evolución, garantía legal de conformidad a dos años, plazas de
+[01:43] reembolso, ¿vale? 14 días. Entonces, ejemplo, ¿cómo podría reformar un formulario de párrafo?
+[01:48] Entonces, le digo agrégame todo eso y devuelveme la hecha. Si ponéis esta de Shopify y contar
+[01:55] que Shopify es una empresa multimillonaria, billonaria, entonces no son tontos, saben que esto funciona,
+[02:01] lo saben de sobras, ¿vale? Pero en el caso de que vosotros tengáis dudas, yo dejo estas y nunca
+[02:08] he tenido problemas. Si yo tengo abogados, que son incluso mis amigos y están mandadas y están
+[02:13] bien, pero en el caso de que alguno tenga miedo o cualquier cosa, pues ya GPT te lo tira todo, ¿vale?
+[02:18] Yo en este caso voy a dejar esta, aquí insertaría la calle, calle XXX del número XXX de Barcelona,
+[02:27] ¿vale? Entonces, aquí pongo los 15 días y lo de a publicar. Hacemos lo mismo con la política
+[02:34] de privacidad que está automatizada, ¿vale? Ya está hecha, términos del servicio hacemos
+[02:39] lo mismo y aquí tendríamos que poner todo esto. Nuestra información de contacto se encuentra publicada
+[02:44] a continuación y aquí inventar número comercial y esto, ¿vale? Dirección comercial, número de
+[02:49] teléfono comercial, de registro comercial, no hace falta y número de IVA tampoco, ¿vale? Entonces,
+[02:53] le damos a publicar poniendo todo eso. Política de envío. Generamos una política de envío que
+[02:58] la decimos la hecha del GPT. Érame una política de envío donde diga que tengo tres, cuatro días
+[03:04] de preparación hábiles y seis a ocho días de envío hábiles para casi todos los países aunque
+[03:14] puede variar, ¿vale? Yo le pongo esto, él me lo hace a nivel legal, obviamente. Aquí, entonces,
+[03:24] después de que te lo dé le decimos lo siguiente, aquí aduanas y aranceles, aquí le ponemos todo,
+[03:33] cogemos por aquí, lo pegamos, ¿vale? Le podemos decir que le quité los emojis, todo le decimos,
+[03:39] ¿vale? Esto estaría bien a nivel legal, podría tener problemas con oficina del consumidor o
+[03:49] algún cliente. ¿Y por qué digo que nos preocupéis? Nos vamos a aportar bien con los clientes, no
+[03:54] vamos a estafar a nadie, no vamos a ser guarros, entonces ningún cliente te va a denunciar,
+[03:57] porque a la que un cliente te diga, ¿eh? ¿Ha pasado algo? ¿Tú se lo vas a escocionar? ¿O
+[04:01] al menos deberías? ¿Vale? Entonces, ¿a quién le preguntamos? ¿Posible mejoras? ¿Plazo máximo
+[04:07] de entrega? Aquí te pone 30 días, pero que no va a tardar más de 30 días y si no le devuelves el
+[04:11] dinero, obviamente. Entonces, lo dejamos así, le damos a publicar información de contacto,
+[04:16] luego crearemos una página de contacto, ¿vale? Podemos dar a insertar plantilla y ya lo dejamos,
+[04:22] no os preocupéis por esta dirección que no hay nadie aquí, ¿vale? Y este número falso,
+[04:27] no os preocupéis, le doy a publicar y en aviso legal le digo que me generé,
+[04:32] generame un aviso legal. Y lo mismo, copio y pego, ¿vale? Sencillito, aunque sí que es verdad que tienes
+[04:39] que poner tu número fiscal, tienes que poner tu nombre completo, tienes que poner cosas, ya hay
+[04:43] mucha gente que no le gusta y el aviso legal es necesario, pero que nadie os va a denunciar ni
+[04:48] nadie va a hacer nada, entonces no os preocupéis por eso, ¿vale? Si lo queréis poner, mejor
+[04:51] ponerlo, pero no os preocupéis por eso, entonces aquí ya lo tendríamos. Ahora, si voy a mi tienda,
+[04:57] ¿vale? Busco aquí de TrimPause, ahora vengo aquí, ¿vale? Bajo para aquí y aquí deberían de salir,
+[05:04] que en este caso no sale, vamos a ver si se actualiza y yo lo muestro. ¿Vale? No, perdón,
+[05:07] se me ha olvidado un paso que a veces son muchas cosas, venimos a contenido, ¿vale? Le damos
+[05:13] a menus y en el fodder menu, ¿vale? Que este sería, por ejemplo, en el en en en ellaces de
+[05:18] interés, ¿vale? Podríamos poner tranquilamente, aquí esto lo quitamos, ¿vale? Le damos a agregar
+[05:24] elementos, ponemos política de privacidad, por ejemplo, aquí buscamos políticas y seleccionamos
+[05:30] privacy policy, que es la que tenemos. Siguiente, ponemos términos y condiciones, en el caso de
+[05:36] que estén, ¿vale? Damos a políticas y buscamos privacy policy shipping terms of service, buscamos
+[05:42] aquí, política de envío y devoluciones, por ejemplo, devoluciones, buscamos aquí, ¿vale? Y las ponemos
+[05:54] todas, refund policy, ¿vale? Perdón, esa sería política de devoluciones, a ver un momentito,
+[06:03] y reembolsos, ¿vale? Lo tenemos aquí y luego sí que sería la de política de envío. Le damos
+[06:14] aquí políticas, buscamos la de shipping policy y ponemos el contacto, y aquí lo que hacemos es poner
+[06:23] una página en políticas de contacto. Le damos a guardar, y ahora lo que tenemos que hacer es en el
+[06:28] tema, vamos aquí abajo, ¿vale? En pie de página donde pone menús, click links, le ponemos enlaces,
+[06:35] enlaces de interés, ¿vale? Y como veis, ya salen, ya salen aquí, es decir, no tenéis que
+[06:42] hacer nada más, ¿vale? Si yo ahora le des, perdón por el gallo ese, si yo ahora me voy a mi tienda,
+[06:47] me voy aquí, y ahora ya podemos ver que sí que sale. Política de privacidad, la gente la tiene,
+[06:52] por términos y condiciones, la gente lo tiene. Contacto, la gente me puede contactar. Otra manera
+[06:57] de hacer lo que es mucho más bonito que no es abasura, la verdad, nos voy a engañar, es venir
+[07:03] aquí donde se ha dicho páginas, le dais a añadir página, ¿vale? Ponéis contacta con
+[07:10] nosotros, por ejemplo, aquí en plantilla ponéis contacto y ponéis contactanos para cualquier duda,
+[07:17] estaremos encantados, encantados de ayudarte con todo lo que necesite, necesites, ¿vale? Esto lo he puesto
+[07:26] mal, ¿vale? Y cualquiera aquí, con las prisas, entonces si yo lo guardo aquí, ahora me vengo
+[07:34] a contenido, me vengo a menús, me voy al enlaces de interés, quito este contacto, pero añado aquí
+[07:40] pongo contacto, busco en enlace en páginas, porque la hemos creado en página, busco la de contacto,
+[07:46] que ahora en este caso nos ha guardado, ¿vale? Un momentito, ¿vale? No es que nos haya guardado,
+[07:49] es que no lo había puesto invisible, la ponemos invisible, perdón por esto, venimos a contenido,
+[07:53] venimos a menús, le damos aquí la de contacto, le cambiamos o la borramos, lo que queráis,
+[07:59] la cambiamos por páginas, ahora sí que sale contacta con nosotros, le damos a guardar y
+[08:03] fijaros que si ahora me vengo aquí y me bajo donde me tengo que bajar, le doy a contacto y se ve mucho
+[08:09] más profesional, ¿vale? No se ve así. Esto lo podemos modificar desde dentro, ¿vale? Es decir,
+[08:15] vamos aquí, buscamos la página de contacto desde el tema, ¿vale? En este caso nos ha actualizado
+[08:20] un momentito, ahora se actualizará, ¿vale? Y lo que hacemos es buscar esto y fijaros,
+[08:25] Get in touch, pues contactanos, ¿no? Lo que sea, le ayudaremos con lo que necesite y aquí lo podemos
+[08:34] modificar todo, ¿vale? Como estáis viendo aquí, se puede modificar absolutamente todo, le damos
+[08:38] a guardar y ya estaría, aquí nos enviaría la gente y listo. Entonces, así se crean las
+[08:43] políticas, nos reforzamos con ChatGPT, también podemos poner generadores de políticas en Shopify,
+[08:49] también podéis hacerlas con algún abogado, por ejemplo, los que nosotros recomendamos,
+[08:52] también podéis decirle a ChatGPT con la saga desde cero con vuestra información, pero sobre todo
+[08:57] que sepáis que Shopify es una empresa que cotiza en bolsa y no se la jugaría a dar unas políticas
+[09:01] que no funcionen, así que nos preocupéis, vamos con lo siguiente. Aunque, esperar, que no quiero
+[09:05] meterlo en otro vídeo para no alargar, tenemos que activar aquí, en privacidad del cliente,
+[09:10] tenemos que activar las cookies, le damos a banner de cookies y en el caso de que no esté
+[09:16] activado, lo activamos y lo que sepáis que lo podemos personalizar, si es muy feo,
+[09:21] lo podemos poner en oscuro, le podemos estar a personalizar y aquí podemos cambiar el fondo
+[09:25] por el color de nuestra web, que en este caso es este, vale, venimos aquí, lo cambiamos, el fondo
+[09:31] sería así, podemos poner el texto en blanco y vale, es decir, podemos ir trasteando un poco,
+[09:36] le doy a guardar y ya estaría, vale, entonces, aquí un momentito le doy a guardar y ahora lo
+[09:43] vuelvo a activar y lo doy a guardar, listo, vale, entonces ya saldría con esos colores como
+[09:47] puesto, si queremos modificar los textos podemos modificarlos, preferencia de cookies,
+[09:51] podemos tocarlo todo, pero simplemente con activarlo ya estaríamos con lo siguiente.
