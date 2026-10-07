@@ -1,0 +1,24 @@
+# Lección 27 — 27. Botón de Compra.mp4 (01:56)
+[00:00] lo siguiente es el botón de compra que hacemos con el botón de compra le damos un clic y lo que
+[00:04] tenemos que hacer es aquí muy importante prestar atención a esto vale si tenéis esto activado
+[00:11] mostrar botones de pago dinámico quitarlo porque lo que queremos es que todo el mundo pase por
+[00:15] el carrito porque le vamos a ofrecer más cosas en el carrito no queremos que la gente pague
+[00:19] directamente vale entonces siempre deseleccionado nunca activado lo de skip card es decir que
+[00:25] se lo puedan saltar nunca vale luego le quitamos el que sean los las letras en mayúscula genera
+[00:32] menos fricción si es en minúscula vale siempre en minúscula luego icon scale no tenemos icon icon
+[00:38] spacing no tenemos icon y aquí en el caso de que si de que quisieses poner un nombre lo podrías
+[00:44] poner aquí imaginar que queréis poner comprar ahora o añade al carrito o hazte con tu oferta
+[00:50] yo que sé vale cualquier cosa se cambiaría de aquí normalmente lo dejamos como agregar al
+[00:53] carrito porque es lo que tienen todas las tiendas y lo que mejor funciona seguimos bajando botón
+[00:59] custom color esto sería en el caso de que fuese otro botón pero igualmente lo ponemos en nuestro
+[01:03] azul vale botón custom text lo puedes poner aquí podéis poner iconos no hace falta en el caso de
+[01:09] que tengáis otro botón aquí se tocaría todo y aquí puedes quitar el margen para que se pega
+[01:14] arriba y le puedes quitar el margen para que se pega abajo vale bastante sencillo no hay mucha
+[01:19] complicación le damos aquí y listo luego muy importante que normalmente viene por defecto le
+[01:24] tenemos que dar a configuración del tema venir donde pone carrito cart y tenemos que ponerlo en
+[01:29] lateral que no sea ni una página ni una notificación emergente es decir porque si hay gente que le da
+[01:35] sin querer pero quiere seguir añadiendo cosas si lo mandas a la página una notificación
+[01:38] emergente luego no lo hacen vale entonces lo dejamos en lateral para que para que cuando
+[01:42] añadan salgan la misma página si lo dirá x sigo estando donde estaba antes si le ha
+[01:47] dado sin querer no pierdo atención porque sigo ahí así que lo dejamos en lateral y sale así
+[01:52] sencillito le damos a guardar a todos los cambios y ya estaría vamos con lo siguiente
