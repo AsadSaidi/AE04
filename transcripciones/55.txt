@@ -1,0 +1,22 @@
+# Lección 55 — 55. Variant Picker para ofertas de variantes.mp4 (01:39)
+[00:00] Bien, vamos a hablar de esto muy rápido. Muchos de vosotros no queréis los bundles con el S-Ryne,
+[00:06] ¿vale? No queréis los bundles, queréis poner variantes. Aquí es, compra uno,
+[00:10] comprate dos y llévate uno gratis. Bien, hasta aquí todo bien. Pero tú imagínate que tienes
+[00:14] una variante que has creado una variante normal y una variante pro y quieres ofrecer eso,
+[00:18] no quieres ofrecer cantidades, quieres ofrecer trimmer estándar y luego quieres ofrecer
+[00:23] trimmer pro, no sé qué, por cinco euros más. Eso serían variantes. ¿Cómo hacemos los bundles
+[00:29] con variantes? Bien, lo que tenéis que hacer es que yo lo tengo aquí. Esto es quantity breaks,
+[00:35] ¿vale? Lo intento pronunciar bien, ¿vale? Para ver si así hablo mejor. Quantity selector,
+[00:39] esto, ¿vale? Que es el quantity selector, que aquí arriba pues te sale todo lo que
+[00:43] ya hemos visto, etcétera, etcétera. Entonces lo que tenéis que hacer, que yo lo tengo aquí
+[00:46] en otra plantilla, ¿vale? Lo que tenéis que hacer es, en vez de tener esto de el quantity
+[00:53] selector, tenéis esto de variant picker, ¿vale? Y muy importante que os lo dejare abajo, arriba,
+[00:59] cuando le deis a variant picker, tenéis que ponerlo así. Quantity breaks, drop down, drop down, ¿vale?
+[01:04] Os lo dejo abajo para que hagáis un copy y pegáis, sino bueno, lo escribís. Y entonces en vez de
+[01:08] ponerte compra uno, compra dos y lleva tú uno gratis o compra tres y lleva tú uno gratis,
+[01:12] te pone una velocidad, dos velocidades, cinco velocidades a diferentes precios, ¿vale?
+[01:17] Y entonces, pues cuando agregan al carrito, se le añade esto. Entonces, si queréis
+[01:20] cantidad, descuento de cantidad o ofertas de cantidad, ahí, entonces ponéis el quantity
+[01:25] selector. Pero si queréis ofertas de variantes, tenéis que poner el variant picker y poner esto
+[01:31] aquí, que os lo dejare abajo para que hagáis un copy y pega, aunque está bastante sencillo,
+[01:34] ¿vale? Entonces, nada, era solo esto, es un vídeo cortito, pero servirá bastante.
