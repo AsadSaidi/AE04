@@ -1,0 +1,113 @@
+# Lección 13 — 13. Conoce a tu Cliente Potencial.mp4 (11:17)
+[00:00] Antes de pasar a crear nuestra página de producto nos falta una última parte que es la de entender
+[00:04] a nuestro cliente y nuestro producto. Cuanto más conozcamos nuestro producto y nuestro cliente ideal
+[00:10] más fácil nos va a ser venderle. Para poner un caso extremo imagínate que estás vendiendo
+[00:15] algo que no tienes absolutamente ni idea de lo que sería prácticamente imposible. Entonces tenemos
+[00:21] que entender a quién le estamos vendiendo, cuáles son sus deseos y cómo nuestro producto
+[00:26] puede satisfacer esos deseos. El objetivo de este vídeo es conocer a nuestro cliente ideal mejor de
+[00:32] lo que se conocen a ellos mismos y esto nos va a facilitar muchísimo, muchísimo las cosas. Para
+[00:39] eso vamos a hacer una análisis de mercado y las formas que vamos a utilizar son viendo las
+[00:45] reseñas de clientes en Amazon, las páginas de producto de nuestra competencia y forums,
+[00:50] investigando en forums como por ejemplo sería Reddit. Los primeros dos nos van a servir para
+[00:56] entender cómo nuestro producto puede llegar a solucionar los problemas de nuestro cliente ideal
+[01:01] y el último nos servirá para entender el dolor que experimenta la gente antes de que su problema
+[01:06] sea resuelto. Ahora vamos a hacer todo este proceso juntos, yo lo voy a hacer para mi producto,
+[01:12] pero antes crear cuatro documentos en Google Drive, uno va a ser para el análisis de la
+[01:17] competencia que este ya debería estar hecho pero si no hacerlo ahora, el otro será un
+[01:22] documento donde vamos a meter las reseñas más interesantes que encontremos en Amazon, otro será
+[01:27] para la información sacada de los forums y el último va a ser un documento con la información que
+[01:32] saquemos de chat gpt, aquí abajo os pongo unos prompts que podéis utilizar pero ahora lo hacemos
+[01:38] todos juntos en un caso práctico así que vamos a darle. Lo primero que vamos a hacer va a ser
+[01:43] ir a amazon, amazon.com, pondremos el nombre de nuestro producto en caso de que nuestro
+[01:51] producto no estuviera en Amazon, podemos buscar un producto que solucione el mismo problema en
+[01:57] caso de que este tampoco esté en Amazon que sería muy muy muy raro, vamos a buscar un producto del
+[02:03] mismo niche o que sea muy muy similar al nuestro, por ejemplo yo aquí me tengo que fijar,
+[02:09] recordad que mi producto es este, es para para pelar las patas de los perros entonces este
+[02:16] no me serviría porque veo que es general para todo el cuerpo, vamos a ver qué listing nos interesa más,
+[02:22] por ejemplo este de aquí o este los dos son buenos, podemos mirar más de uno y el objetivo
+[02:30] vamos a sacar cinco reseñas muy muy completas muy top y las vamos a guardar en nuestro documento
+[02:38] para más adelante dárselas a chat gpt y pedirle información con esas referencias entonces
+[02:45] aquí vendríamos, vamos a las reviews, aquí veréis que la inteligencia artificial de amazon
+[02:52] te da como un resumen de todas las reviews lo cual es increíble y esto lo podéis hacer con 1000
+[02:59] listings buscar esta parte de aquí arriba que es como resumen pero bueno ahora lo que haríamos
+[03:05] sería venir aquí ir leyendo mínimo le 10 páginas de reviews tenemos como ya hemos dicho
+[03:10] tenemos que entender perfectamente a nuestro cliente ideal y esta es una muy muy buena forma
+[03:16] ahora voy a pausar esto dadme un momento voy a buscar cinco reviews buenas buenas buenas y
+[03:22] vuelvo a arrancar pero así como norma general queremos reseñas reviews que estén cargadas de
+[03:28] emoción que eso es como hemos dicho ya previamente lo que más vende así que dadme un ratito y
+[03:34] ahora vuelvo y ha encontrado la que va a ser mi primera review y quiero mostraros la para
+[03:38] que sepáis para que entendáis bien lo que es una buena review como hemos dicho buscamos que estén
+[03:42] cargadas de emoción como aquí por ejemplo esta está desesperada neglectful pet owner y tal y también
+[03:49] queremos que hable de los beneficios de nuestro producto como sería aquí más silencioso el hecho
+[03:56] de que no tenga cable es increíble tipo esta review es perfecta es exactamente lo que estamos
+[04:03] buscando entonces voy a copiarlo y lo meto aquí voy a hacer exactamente lo mismo con cuatro reviews
+[04:11] más y y vuelvo pero antes dejadme recordaros lo increíble que es y utilizar esta parte de aquí
+[04:19] o sea podéis ir a 24 listings y sacar la información que os parezca más importante de
+[04:26] aquí por ejemplo aquí vemos que la gente aprecia mucho que no haga ruido entonces esto va a
+[04:32] ser algo que queremos destacar en nuestra página se puede usar con una mano les gusta el tamaño a la
+[04:38] vida de la batería o sea esta parte de aquí es increíble mira todos los listings de vuestro producto
+[04:44] de productos que resuelvan el mismo problema de productos en el mismo niche y te juro que
+[04:50] sólo con esto podríamos hacer la página entera nosotros vamos a buscar cinco reviews muy top
+[04:56] igualmente pero si queréis incluso podéis sacar también de cinco 10 listings esta información y
+[05:02] se la metéis también a chat gpt al final cuánta más información le demos mucho mejor así que
+[05:08] algo a tener en cuenta voy a buscar cuatro más y vuelvo ahora ya tengo las cinco reviews en el
+[05:14] documento de word como veis no hace falta que todas las reviews sean larguísimas como ésta lo
+[05:20] que más nos interesa es que estén cargadas de emoción y que reflejen los beneficios de
+[05:24] nuestro producto así que ahora nos vamos a ir a a ver los forums vamos a poner por ejemplo
+[05:34] podemos arrancar con reddit pero no tiene por qué ser reddit y aquí exactamente lo mismo buscamos
+[05:40] algo que esté cargado de emoción voy a darle un vistazo y cuando encuentre algo os digo ya
+[05:46] tengo varios forums que me parecen interesantes normalmente me gusta algo más cargado de
+[05:51] emoción no he encontrado muchas cosas pero por ejemplo ya haciendo un poco de research he visto
+[05:58] que un problema que le preocupa mucho a la gente es el poder cortarle las uñas a los perros entonces
+[06:03] es algo a tener en cuenta ya sea para buscar un producto complementario que cubra ese problema o
+[06:09] incluso para hacer otra tienda atacando eso pero bueno vamos a venir aquí meted meted muchas
+[06:14] keywords no os limitéis a en mi caso doc por trimer sino y cambiando y luego vamos haciendo
+[06:22] la scrolling y he encontrado por ejemplo este que pregunta exactamente cómo trimear el pelo
+[06:27] debajo a las patas y aquí vemos algo muy bueno también de entrar en forums es que vamos a ver
+[06:32] cómo se expresa la gente en estos niche y a la ira nos va a ayudar con esto este pidiendo
+[06:39] ayuda eso siempre está bueno dice que el perro huele mal por culpa del gist y como hemos dicho antes
+[06:45] uno de mis ángulos de mercado o incluso te diría que el principal va a ser este o sea el gist es como
+[06:50] los hongos la infección que se crea en las patas si no le cortas el pelo a los perros entonces
+[06:55] este me ha parecido interesante este está pidiendo ayuda para que le recomienden qué
+[07:01] tipo de trimer usar este también habla del gist entonces de aquí vamos a sacar mucha
+[07:07] información valiosa lo que vamos a hacer ahora va a ser copiar todos estos forums vamos a pillar
+[07:13] el top 5 los los que nos gusten más los metemos aquí los dos y luego ya los vamos a meter a chat gpt
+[07:20] junto con las reviews que lo hacemos ahora en un momento voy a terminar de hacer esto y vuelvo
+[07:25] ahora que ya tenemos un documento para los competidores otro con los posts de forums
+[07:31] que nos parecieron más interesantes y otro con las reviews de amazon vamos a ir a chat gpt con
+[07:36] este prompt que os dejo aquí abajo de este vídeo le dais a copiar pegar hasta aquí metemos aquí lo
+[07:43] que está en amarillo es donde tenéis que poner la información de vuestro producto si tenéis a
+[07:47] alguien algún competidor que vende exactamente vuestro mismo producto como es mi caso os recomiendo
+[07:54] poner su link si no ponete una descripción muy completa de vuestro producto cuanto mejor sea
+[07:59] la descripción la información que le damos a chat gpt mejor será la respuesta así que vale la
+[08:04] pena esforzarse aquí luego aquí es donde vamos a meter las reviews de amazon vimos aquí reviews amazon
+[08:13] copiar pegar se le dais a control a se nos copia todo directo tenemos aquí
+[08:25] y aquí vamos a meter post forums exactamente lo mismo vamos a abrir el documento
+[08:35] copiar meto aquí y listo con esto ya estaríamos ahora le voy a dar y que
+[08:45] chat gpt haga su magia y ahora vuelvo chat gpt ya nos ha dado los resultados he estado echándole
+[08:50] un vistazo y la verdad es que es increíble espero que veáis el valor de esto de conocer
+[08:55] bien a nuestro cliente nos va a hacer las cosas mucho mucho más fáciles porque cuanto mejor
+[09:00] conozcamos a nuestro cliente ideal más fácil va a ser comunicarnos con él o ella y
+[09:05] cuanto mejor nos podamos comunicar más fácil nos va a hacer venderles así que vamos a ver los
+[09:11] resultados nos dice que nuestro cliente de as son mujeres de entre 35 y 65 dueños de perros
+[09:18] pequeños y mediano especialmente mayores sensibles o nerviosos el problema principal es que los
+[09:24] ruidos de del trimming los les crea estrés a los perros quien se va a beneficiar van a ser
+[09:31] las propietarias de perros mayores ansiosos o de razas pequeñas sensibles al ruido o vibración
+[09:37] título de nuestro cliente ideal podría ser mujer dueña de un perro nervioso y difícil de asear
+[09:42] aquí nos da una pequeña descripción de una de nuestras clientes ideales el problema físico
+[09:49] principal que sería la incapacidad para asear adecuadamente áreas delicadas como patas
+[09:55] cara y almohadillas del perro debido al estrés y resistencia del animal luego nos da
+[09:59] cuál sería la transformación física principal cuál es el problema emocional principal que esto
+[10:04] es muy interesante la obra se siente culpable frustrada y avergonzada por no poder cuidar
+[10:10] adecuadamente la apariencia y salud de su perro y cosas como estas son exactamente las que tenemos
+[10:16] que usar en nuestra página y y atacar porque es como hemos dicho la emoción es lo que vende
+[10:23] lo que busca nuestra cliente ideal nuestro cliente ideal es sentirse una dueña responsable
+[10:28] capaz y orgullosa con una conexión emocional más fuerte con su mascota libre de estrés y culpa
+[10:33] asociados al grooming esto también es muy muy muy interesante ya veréis terminate de darle una
+[10:40] leída a todo esto cuando lo hagas para vuestro producto pero creo que es algo muy importante espero
+[10:46] que todos lo hagáis aquí abajo ponen incluso historias los pone frases de me siento tranquila
+[10:53] sabiendo que cuido bien a mi perro todo esto son cosas que vamos a ir usando a lo largo de la
+[10:58] creación de la página por ahora le damos a copiar pegar y lo vamos a meter en nuestro documento y
+[11:03] ahora sí que ya estaríamos listos para pasar a la parte de creación de la tienda así que nos
+[11:08] vemos en el próximo vídeo donde vamos a elegir el nombre de nuestra marca de nuestra tienda y
+[11:14] empezamos a darle ya a la parte más práctica
