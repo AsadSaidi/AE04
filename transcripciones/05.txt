@@ -1,0 +1,154 @@
+# Lección 05 — 5. Creación de Tienda.mp4 (09:47)
+[00:00] Bien, una vez tenemos el correo creado, que yo lo he tenido que crear rápido, no es con el Info,
+[00:04] pero bueno, la Info la he dado, vale, entonces ya sabéis por qué es. Tenemos que venir al
+[00:08] enlace que tenéis abajo. Yo os explico el por qué. Vamos a trabajar con S-Rain Pro. Son 300
+[00:14] dólares de tema. Entonces, muchos no tenéis 300 dólares para gastar o mejor me invertiros
+[00:19] en publicidad o aún no queréis, cosa que yo entiendo, vale. Entonces, si nos registramos
+[00:24] desde aquí, tenemos un tema gratis, muy parecido, no igual, por supuesto, pero muy parecido. Entonces,
+[00:30] vayáis a trabajar con el tema S-Rain o con el tema que os estoy diciendo registrado desde aquí,
+[00:35] porque nos voy a engañar. Nosotros, aparte, tenemos bonificaciones. Vosotros pagáis lo mismo,
+[00:39] lo mismo, perdón, ya nosotros nos dan bonificaciones, entonces nos ayudáis y pues estamos aquí
+[00:44] todo remando con el, o sea, todo remando a hacer la misma dirección, vale. Entonces, para tener
+[00:51] el tema S gratis, tendríamos que hacer lo siguiente. Crear mi tienda gratis, ponemos el nombre,
+[00:56] Marverdú, el mail, que es una puta mierda, vale. Y número de teléfono, yo voy a poner Andorra
+[01:01] y voy a poner mi número de teléfono, que él lo está viendo pixelado, obviamente, vale. Le doy
+[01:06] a reclame su tienda. Y aquí tenemos que seguir el paso a paso, súper importante, vale. Aquí
+[01:12] lo que tenemos que hacer es darle a lo que queráis, no importa, no? Pues le damos a niños,
+[01:17] yo qué sé. Siguiente, no importa porque lo vamos a borrar todo, entonces nos preocupéis. Aquí
+[01:21] le damos a naranja, no pongáis el azul, queda problema. Siguiente, aquí le damos a el banner,
+[01:27] pues este, siguiente, si tampoco os preocupéis, vale. Y aquí te pones nuestra ida, está construyendo
+[01:32] tu tienda. No te preocupes si vas a usar el S-Rain, porque de alguna manera esto ya lo tienes,
+[01:36] para las próximas, por si lanzas otro producto, por si el S-Rain lo quieres pasar a otra
+[01:41] tienda o lo que sea. Aquí le das a reclamar mi tienda ahora, vale. Miren, fijaros que
+[01:45] no hay cortes, es bastante sencillo, ¿eh? Le damos a crear cuenta de Shopify y nos manda
+[01:49] aquí. Importante, ponemos el mismo correo, no magáis el guarro, porque entonces no lo va
+[01:55] a dar, ponemos el mismo correo, tenemos la oferta de los 3 meses por un euro, que se debería
+[01:58] de saberlo y le damos a empezar prueba gratis. Al empezar prueba gratis, tenéis que tener
+[02:03] muy en cuenta esto. Una, ponemos la contraseña. Una vez hemos puesto la contraseña,
+[02:08] os explico una cosa, aquí pone Andorra, yo estoy en Andorra, esto es el país
+[02:13] donde se te va a registrar tu tienda, no el país donde vas a vender, me explico.
+[02:18] Tú imagínate que eres mexicano, pero vas a vender en Estados Unidos. Aquí no tienes
+[02:22] que poner Estados Unidos, tienes que poner México. Si tú eres colombiano, pero vas a
+[02:27] vender en México. Aquí no tienes que poner México, tienes que poner Colombia.
+[02:31] ¿Por qué? Porque según el país en el que pongas, te va a pedir verificación
+[02:36] de datos de ese país. Si tú pones Estados Unidos y no tienes datos de Estados Unidos,
+[02:41] no vas a poder una, verificar los pagos, ni dos verificar la tienda, nada.
+[02:45] Entonces, muy importante. Ahora bien, si tenéis LLC, si tenéis una LLC que luego
+[02:52] veréis que es una empresa en Estados Unidos, entonces, como os vais a registrar con una
+[02:56] empresa de Estados Unidos, sí que tenéis que poner aquí Estados Unidos. Si sos
+[03:00] españoles, pero vais a vender en Estados Unidos y no tenéis una LC, ponemos
+[03:05] España. Entonces, el único motivo por el cual aquí pondrías otro país es
+[03:10] porque tienes una empresa en el otro país y vas a poder mandar los datos que te
+[03:14] pidan o registrarte con esa empresa. Si no, deja tu país, ya que es donde tendrás,
+[03:20] de donde tendrás que mandar los datos, ¿vale? Yo, en mi caso, no voy a poner
+[03:24] Andorra, porque sería un error por mi parte. Voy a poner España, ¿vale? Para
+[03:28] poder activar Shopify y Payments y todo el rollo, que es donde tengo datos y
+[03:31] también en Estados Unidos. Le doy aquí. Selecciono Spain, España, no sé si
+[03:35] sale por Spain o España. A ver, aquí por Spain. Selecciono Spain y le doy, le doy
+[03:40] a guardar, ¿vale? Y vuelvo a poner la contraseña y le doy a Create Shopify
+[03:45] account, es decir, que me cree la cuenta de Shopify puesto en España. Aquí, si os
+[03:49] fijáis, pone, introduce tu correo. Ya lo hemos hecho. Haz clic en registrarse con
+[03:54] correo trónico y crear cuenta. Ya lo hemos hecho. Haz clic en omitir todo.
+[03:58] Bien, venimos aquí y le damos aquí abajo omitir todo. Skip. Y aquí te
+[04:03] pone. Selecciona tu plan básico con nuestro descuento big. Un euro por 3 meses.
+[04:07] Bien, pues selecciono el básico, le doy a trybasic y aquí pongo los datos de pago.
+[04:12] Los voy a poner y ahora os lo cuento. Una vez hemos puesto los datos, que los
+[04:16] esté viendo pixelado, por supuesto, le damos a suscribirnos por un euro, que no
+[04:20] te van a cobrar porque tienes 3 días de prueba gratis, pero queda igual. Si estáis
+[04:23] aquí, no me jodáis. Un euro nos importa pagar, ¿vale? Entonces, te pide la
+[04:26] verificación de la tarjeta. Normalmente también podéis pagar con Paypal,
+[04:29] ¿vale? Para que lo sepáis. Entonces, a mí me pide la verificación
+[04:32] por la tarjeta, voy a darle y aquí te pide una vez has hecho esto, es decir, te
+[04:36] has suscrito, cosa que ya hemos hecho, te ponen la dirección de billing, es decir,
+[04:40] de facturación. Aquí ponemos nuestros datos, los estáis viendo pixelado, ¿vale?
+[04:44] Nos preocupéis y ponemos nuestro teléfono. Le damos a guardar y ya
+[04:49] tenemos la tienda de Shopify creada, pero aún no tenemos el tema. Entonces,
+[04:53] tenemos que venir aquí. Como ya hemos hecho todo esto, le damos a
+[04:57] siguiente, ¿vale? Ya lo hemos hecho. Hemos seleccionado el plan, hemos
+[05:00] pagado todo. Y aquí te pone copiar la URL aquí abajo. La URL es, le puedes
+[05:05] dar al botón, pero es esto de aquí. Lo copiamos, lo ponemos aquí, le damos a
+[05:10] guardar y cuando se guarde, que cosa que ya he hecho, que están en verde, le damos
+[05:14] a siguiente, ¿vale? Para que se pincule. Le damos a añadir producto
+[05:18] ganadores. No os preocupéis que luego los borramos, ¿vale? No os preocupéis
+[05:20] pero hay que hacerlo. Le damos a añadir producto ganadores, te pide
+[05:23] que instales sendrop, no lo vamos a usar si no queréis, no os
+[05:26] preocupéis, luego lo borramos todo, le damos a instalar, le damos a
+[05:29] instal y le damos a proof. No os preocupéis, no cobran nada ahora,
+[05:34] los gósicos cobrarán pero por eso digo que ahora lo vamos a borrar, no
+[05:36] os preocupéis por esto, ¿vale? Entonces aquí ya te sale esto, volvemos
+[05:40] aquí y le damos a que queremos recibir la tienda porque ya lo hemos
+[05:43] hecho. Le damos un click, sale el OK y te pone paso final, ya
+[05:45] casi terminás publicar. Entonces le doy a publicar, nuestra
+[05:49] idea está publicando tu tienda. Entonces ahora tenemos que esperar y
+[05:52] os lo muestro. Una vez nos pone el tick, le damos a
+[05:55] siguiente y ahora, como vais a ver, le tenéis que dar a eliminar
+[05:58] la contraseña, le dais al botón, simplemente venís aquí, arriba
+[06:02] de derecha desactiváis, le dais a guardar sencillito y le damos a
+[06:06] hacer mi primera venda que es hacer mi primera venda y se traduce
+[06:08] mal y le damos y ya estamos, tu tienda está lista, ¿vale? Entonces
+[06:14] venimos aquí, ahora si le damos a hablar en store, podemos
+[06:16] ver que el tema es sendrop, pero tienes los productos
+[06:21] añadidos y la app instalada y te van a cobrar, ¿qué tienes
+[06:24] que hacer? Selecciona los todos, tres puntitos, elimina
+[06:27] los productos sin miedo, ni te preocupes, los eliminas, ¿vale?
+[06:31] Entonces si luego te queda alguno, también le das, le das aquí
+[06:35] y lo vuelves a eliminar, es decir, eliminas todo lo que te
+[06:37] salga, nuevamente te ponen 10, ¿vale? Entonces ve revisando
+[06:40] que no tengan más, es decir, si ahora estamos aquí y digo,
+[06:44] vale, yo había borrado 5 y mal me ha dicho que pueden ser
+[06:46] 10, fíjate que no los tengas, ¿vale? Y le damos a
+[06:48] aplicaciones, le damos a App Ansell Channel Setting, es
+[06:52] decir, a las ajustes, vamos a sendrop, le damos a los
+[06:56] tres puntitos y le damos a un instal, ¿para qué? Para que no
+[06:58] nos cobre y no te preocupes que no te quitan el tema, porque
+[07:02] estoy yo delante, ¿vale? Entonces no te van a quitar el tema, le
+[07:04] das a un instal y ya no te cobran nada. Y en el caso de que
+[07:07] te cobren, les escribes y les dicen que te vuelven el dinero,
+[07:09] que había un error y lo hacen, ¿vale? Entonces, ya está.
+[07:12] ¿Veis que había más productos? Pues igual, todos los
+[07:15] productos que nos salgan los borramos, porque a veces
+[07:16] tardan en instalarlos, ¿vale? Entonces, de esta manera
+[07:20] tendríamos el tema, que es una tienda que tan
+[07:23] creado, pero que obviamente no está bien, ¿vale? Tendríamos el
+[07:26] tema completamente gratis, que es muy parecido al S-Rain, que os
+[07:30] lo muestro aquí, es S-Rain Pro, ¿vale? Que esto es una
+[07:34] maravilla de tema, o sea, esto aumenta la conversión una
+[07:37] locura, pero cuando digo una locura es una locura. Entonces,
+[07:40] Get Started y tiene esto para añadir los regalos, tiene
+[07:45] cosas tablas de comparación, esto de aquí, por ejemplo,
+[07:49] tiene todo esto para poner fotos en movimiento, todo esto
+[07:53] para poner el carrito, ahora lo veremos, pues tiene una de
+[07:56] cosas, un antes y un después, fijaros, esto antes y el
+[07:59] después, tiene mil cosas, pero cuando digo mil cosas, es
+[08:04] mil cosas, pero mil, ¿eh? Mira, Visit De Morestone. Fijaros
+[08:07] una tienda de lo que se podría hacer con S-Rain. Fijaros.
+[08:10] Esto es increíble, todo esto en así, diferente, poner
+[08:15] los GIF, los emoji benefits, o sea, perdón, los text with
+[08:18] icon, esto para saber qué es cada cosa, las tablas de
+[08:22] información, puedes poner Reels de la gente, los
+[08:25] porcentajes, esto que se mueva, es el mejor tema que hay
+[08:28] ahora mismo en el mercado, el mejor, yo lo uso en todas las
+[08:30] tiendas y es ultra necesario si quieres tener éxito, ultra, pero
+[08:34] para empezar, tampoco importa, primero podemos hacer un poco
+[08:36] dinero y luego comprarlo, aunque si tenéis dinero, comprarlo
+[08:39] de entrada, ¿vale? Entonces, si os fijáis, si yo me vengo
+[08:43] aquí, este tema claramente no es igual, ¿vale? No es
+[08:47] igual, ¿vale? Ahora mismo no hay ningún producto
+[08:49] creado, vamos a crear uno rápido, ¿vale? No es igual, va a poner
+[08:54] una foto rápida, ¿vale? Lo usted viendo pixelado, no os
+[08:56] asustéis, ¿vale? Como digo, no es el mismo tema, pero tiene
+[09:03] cosas muy parecidas, las reseñas, esto que se mueve,
+[09:06] puedes añadir los resultados, fijaros, los resultados,
+[09:10] puedes añadir esto que se mueve, la tabla de
+[09:13] comparación, puedes agregar muchas cosas que tiene el S-Rain,
+[09:17] completamente gratis, entonces nos hace un apaño bastante
+[09:20] serio, pero no quiero aburriros, quiero que vayamos ya a crear
+[09:22] la tienda, comprar el S-Rain, vincularlo, lo que os voy a decir
+[09:25] una cosa, aunque no vayáis a trabajar con el S-Rain, no
+[09:29] saltéis ningún vídeo, porque dentro de los vídeos voy a
+[09:31] explicar cosas de neuromarketing, así que me da igual que no
+[09:34] utilicéis el S-Rain, ver todos los vídeos y luego al final
+[09:38] de la sección os explico cómo hacer todo el S-Rain en
+[09:41] este tema, bloca a bloque, muy fácil, pero no saltéis
+[09:44] ningún vídeo, me da igual el tema que uséis, importante,
+[09:46] vamos a ello.
