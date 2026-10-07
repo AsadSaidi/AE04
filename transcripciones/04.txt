@@ -1,0 +1,195 @@
+# Lección 04 — 4. Crear Nombre de Marca y Correo.mp4 (07:44)
+[00:00] Ok, vamos a ir a crear ya la tienda, pero antes tenemos que crear el correo con el que nos vamos a crear la tienda de irasmar, pero eso es super sencillo.
+[00:09] No, porque muchos aquí la cagáis, ¿vale?
+[00:12] Para empezar, no hace falta que compréis un dominio que acabe la terminación de vuestra tienda porque vale dinero y tenemos que ahorrar, ¿vale?
+[00:18] Entonces vamos a utilizar diferentes cosas, ¿vale?
+[00:21] Vamos a utilizar, perdónarme que la estoy liando, vamos a utilizar NameLeaks, lo voy a poner aquí, NameLeaks que la tenéis en la descripción,
+[00:28] ¿vale? Que NameLeaks es un generador de, perdón, lo diré cantando, es un generador de nombres, ¿vale?
+[00:36] Y vamos a tener este prompt que voy a copiar el enlace, un momentito que lo tengo aquí, perdonarme, ¿vale?
+[00:41] Vamos a utilizar este prompt que os saldrá así, ¿vale? Tengo que iniciar sesión, voy a ello, un momento.
+[00:46] Bien, que os saldrá que le deis hacer una copia, le deis hacer una copia y os sale esto.
+[00:50] Entonces lo que vamos a utilizar es los prompts para NameLeaks, es decir, le vamos a decir a ChatGPT,
+[00:56] estoy buscando un nombre, tal, tal, tal, vale, le vamos a decir esto, mira, vamos a hacerlo.
+[01:01] Tenemos aquí, copiamos esto, ¿vale? Lo ponemos aquí.
+[01:05] Y donde marca, estoy buscando un nombre para marca para vender este producto, descripción de tu producto.
+[01:09] Doc es DocTrimmer, ¿vale? Que ahora os enseño el producto.
+[01:14] DocTrimmer es un recortador de pelos para los perros.
+[01:20] Silencioso y para no hacerles daño y ahorrar dinero en peluquerías caninas, los que toman, pero bueno.
+[01:29] Vale, es decir, le damos info de verdad, usar otra herramienta de ella para ayudar a generar ideas de dominios.
+[01:33] Mi objetivo con esta marca es vender productos para mascotas y perros en general, pues aquí ponemos perros, ¿vale?
+[01:40] Es decir, solo queremos que sea perros, pero podemos dejar mascotas si queremos.
+[01:44] Así que no tiene que limitarse únicamente a este dispositivo, adaptar a tu producto.
+[01:48] Entonces, aquí esto lo hace falta que lo tengas.
+[01:50] Por favor, dame una largarista de palabras clave que pueden ingresar en esta herramienta.
+[01:54] Entonces, le damos, ¿de acuerdo?
+[01:56] Y aquí te da, pues, un montón de palabras.
+[01:59] Doc, Puppy, Pup, Canine, Pet, Pu...
+[02:02] Entonces, yo, por ejemplo, pongo Paus, ¿tiene sentido, no? Paus de patas.
+[02:07] Petcare también, ¿tiene sentido?
+[02:09] Entonces, luego me vengo a Namelix, ¿vale? Yo me vengo a Namelix.
+[02:13] Y aquí pongo Paus, porque es lo que es.
+[02:16] Podría poner DocTrimmer, ¿vale?
+[02:18] Entonces, aquí le doy, pongo Pau, le doy a Generate, le doy a Brandable Names
+[02:24] o Short Phrase, que no significa nada.
+[02:27] Es decir, que la frase no significa nada, por ejemplo, Amazon.
+[02:29] Amazon no significa nada. Esta.
+[02:31] Esto no significa nada, ¿vale?
+[02:34] No significa nada. En cambio, hay otras que sí que significan cosas.
+[02:38] ¿Vale? Iba a buscar, pero bueno, creo que ha quedado necesario.
+[02:40] O sea, necesario, no. Creo que ha quedado claro, ¿vale?
+[02:42] Entonces, le doy a Next.
+[02:44] Aquí le doy a Hyde, de que sea Random Ideas, que me dé cosas locas.
+[02:47] Le doy a Next.
+[02:49] Y aquí le pongo la definición, descripción de mi producto.
+[02:52] I'm selling a DocTrimmer for Pet Owners.
+[02:54] Y aquí add any keywords that might be related to your idea and business.
+[02:59] Las copio todas, o las que tengan sentido.
+[03:01] Yo copio esto, vengo aquí y se lo pego.
+[03:05] ¿Por qué?
+[03:07] Porque le quiero dar todas las palabras que me hajen a OChat GPT
+[03:10] con el prompt que tenéis en la descripción.
+[03:12] Y automáticamente me empieza a dar nombres de marcas.
+[03:14] ¿Vale? Y esto, ojo, esto antes de empezar a quedar la tienda.
+[03:17] Y ahora veréis el por qué. ¿Vale?
+[03:19] Y aquí me da un montón.
+[03:21] PetCute tiene sentido, mascota a cortar tiene sentido.
+[03:23] SnipPow tiene sentido.
+[03:25] Groomster, PetPlex, Trimipause.
+[03:27] Trimipause está guapo de DocTrimmer.
+[03:29] Trimipause está guapo.
+[03:31] La verdad, también me gusta.
+[03:33] TrimTail muy fur clip, no está mal.
+[03:35] PowDry.
+[03:37] Bueno, es decir, vamos viendo.
+[03:39] ¿Vale? Vamos viendo, vamos viendo.
+[03:41] Yo, por ejemplo, la de Trimipause, me ha gustado.
+[03:43] Me ha gustado.
+[03:45] Entonces, lo que haría ahora sería irme a Goudadi.
+[03:47] ¿Vale? Que es donde se compran los dominios o a Namecheap.
+[03:50] Y pondría Trimipause.com.
+[03:53] Y veo si está disponible.
+[03:55] En este caso no está disponible, pues no me sirve.
+[03:57] O Trimipause, sin más.
+[03:59] También lo que puedo hacer es ponerle un D.
+[04:02] De Trimipause.
+[04:04] ¿Vale? Y vemos que vale 23 céntimos, que luego vale más.
+[04:07] ¿Vale? Entonces, estaría disponible.
+[04:09] Ok, en el caso de que no, pues busco más.
+[04:12] Es decir, pues, ¿cuál me había gustado más?
+[04:14] Snip out, me había gustado. ¿Vale?
+[04:16] Voy buscando. Entonces, aquí ya te dan muchas opciones.
+[04:19] ¿Vale? Quiero que entendáis que tiene que tener sentido,
+[04:21] pero esto ya tiene sentido.
+[04:23] ¿Vale? Pero, sobre todo, no volváis locos con los nombres.
+[04:26] Pueden ser nombres que no despierten nada,
+[04:29] pero sí que tengan algo de sentido.
+[04:31] Por ejemplo esto, ¿no? Trimipause tiene sentido.
+[04:33] Es un poco largo. Podría ser algo más corto.
+[04:35] PetCat está bien. Snip out está bien.
+[04:37] Silent Trimmer es un poco... te le tienda, la verdad.
+[04:40] Entonces, vamos buscando.
+[04:42] Otra opción de buscar productos sería con el...
+[04:46] con el Otroprom, que es con ChatGPT.
+[04:48] Aquí le ponemos... copiamos esto.
+[04:51] Venimos a ChatGPT y le decimos...
+[04:54] ¿Eres un experto en e-commerce?
+[04:56] ¿Ayudo a buscar un nombre para mi marca?
+[04:58] Mi producto es... y le pongo un Drimmer silencioso.
+[05:01] Silencioso para recortar...
+[05:04] los pelos de las patas, cejas, etc.
+[05:08] de los perros para no hacerles daño
+[05:12] silencioso sin tener que gastar
+[05:16] grandes cantidades en peluquerías caninas.
+[05:20] Por ejemplo, ayudarme a encontrar un nombre creativo,
+[05:22] atractivo y memorable para mi marca.
+[05:24] Dame al menos 10 sugerencias, sean fáciles de recordar,
+[05:26] funcionen bien en redes sociales,
+[05:28] estén disponibles como dominio web,
+[05:30] o al menos que suenen bien.
+[05:32] ¿Por qué le mandamos esto?
+[05:34] Y ahora actúa como un experto en marketing,
+[05:37] de acuerdo en e-commerce.
+[05:38] Mira, TrimPause.
+[05:40] Yo, fijaros, ¿eh?
+[05:41] Esta era Trimipause.
+[05:43] Y esta es, perdón, aquí, aquí, aquí,
+[05:45] TrimPause. Es más corta, me va bien.
+[05:47] Sendogi, y aquí te pone.
+[05:49] ¿Por qué funciona?
+[05:50] Nombres directos y fáciles de recordar.
+[05:51] Combina la acción principal de Trim
+[05:53] con la parte más tierna del perro.
+[05:55] Paus, trámite de utilidad.
+[05:56] Disponible el .co, .store, .pet.
+[05:59] El .store lo podríamos comprar y el .co también.
+[06:01] Así que este nos sirve y es corto.
+[06:03] Pautica, bueno.
+[06:05] Pao estética, un poco raro.
+[06:07] Hashpet, poco raro.
+[06:09] Fluffy, fix, muchas f's.
+[06:11] Petique, raro.
+[06:13] Calma, paus, poco español.
+[06:15] Snowtan co. ¿Por qué funciona?
+[06:17] Estilo de marca premium, moderna y muy adaptable.
+[06:19] Snowt, ózico, le da personalidad.
+[06:21] Queda bien en packaging.
+[06:22] No está mal.
+[06:23] La verdad, no está mal.
+[06:25] Paus, relax.
+[06:26] Entonces, a mí la que más me gusta es esta.
+[06:28] TrimPause, la verdad.
+[06:30] Me gusta ahora.
+[06:32] Entonces, ya tengo un nombre elegido.
+[06:34] Sí que es verdad que tenemos otro PROM.
+[06:36] Que es este, que es para el título de producto.
+[06:38] Que este es para el título de producto.
+[06:40] No para la marca, ¿vale?
+[06:41] Entonces ahora, con esto,
+[06:43] ¿por qué hemos hecho esto?
+[06:44] Porque tenemos que venir a crear un mail
+[06:46] y le ponemos info
+[06:48] TrimPause
+[06:50] a robagemail.com.
+[06:51] El info delante.
+[06:52] Y ya creamos la tienda
+[06:54] con un correo que sea de la propia marca.
+[06:56] Luego se puede cambiar.
+[06:57] Sí, pero es una mierda.
+[06:58] ¿Vale?
+[06:59] Entonces le ponemos info
+[07:00] TrimPause
+[07:01] a robagemail.com.
+[07:02] Le damos a siguiente.
+[07:03] Ponemos la contraseña.
+[07:04] La pongo y ahora os lo cuento.
+[07:06] Le damos a siguiente.
+[07:07] Y aquí, si os pide el número de teléfono,
+[07:09] lo ponéis.
+[07:10] Lo voy a poner.
+[07:11] Lo estoy viendo pixelado.
+[07:12] Obviamente, le doy a siguiente.
+[07:14] Y ahora te manda el número.
+[07:16] Lo tienes que poner.
+[07:17] Voy a cogerlo.
+[07:18] Bien.
+[07:19] A mí, en este caso,
+[07:20] que esto os va a pasar,
+[07:21] me dice que los números
+[07:22] los he utilizado muchas veces.
+[07:23] ¿Vale?
+[07:24] Entonces, podrías crear un hotmail.
+[07:25] Podrías crear lo que quisiese.
+[07:27] Y, por lo tanto,
+[07:29] lo tienes que poner el otro teléfono
+[07:31] a otra persona
+[07:32] y que le llegue el correo.
+[07:33] ¿Vale?
+[07:34] Entonces, obviamente,
+[07:35] no creo que sea necesario hacer esto.
+[07:36] Simplemente era lo de buscar el nombre
+[07:38] y ponerlo del info delante.
+[07:40] Una vez tenemos el correo creado,
+[07:41] lo que tenemos que hacer es crear la tienda.
+[07:43] Y para que no se alarguen mucho el vídeo,
+[07:45] ya empezamos en el siguiente vídeo.
+[07:46] Vamos a ello.
