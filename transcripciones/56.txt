@@ -1,0 +1,30 @@
+# Lección 56 — 56. Customizar tema por mercados (Plan Advanced de Shopify).mp4 (02:51)
+[00:00] una funcionalidad que es medio nueva muy interesante de Shopify es la de editar el tema por país para
+[00:06] hacerlo vamos a ir a mercados vamos a crear un mercado aquí ya tenemos mucho ya debería
+[00:11] saber cómo crear mercados pero si no venimos aquí test aquí añadís el país en cuestión le
+[00:18] dais a guardar y listo una vez tenemos el mercado creado vamos a ir al editor
+[00:24] vamos a customise vamos a la página de producto nosotros vais a ver todo esto tapado pero os sirve
+[00:31] igual le dais aquí arriba y aquí vemos que tenemos absolutamente todos los mercados que
+[00:36] tenemos creados en esta tienda los vemos aquí si por ejemplo yo quiero editar algo específico
+[00:41] para australia le doy a australia y ahora todos los cambios que haga aquí solo los va a ver la
+[00:47] gente de australia una vez hagamos un cambio aquí vemos que nos sale esto verde y esto significa
+[00:54] que esta sección ha sido editada específicamente para para el país en cuestión en este caso australia
+[01:02] esto que estamos viendo creo que es que está sólo disponible para los planes de Shopify
+[01:07] advanced para arriba si tenéis el plan básico no vais a poder hacerlo pero si estáis escalando
+[01:13] si os estáis yendo bien con un producto os conviene también mejorar el plan de Shopify y con el
+[01:20] advance ya vais a poder hacer esto algo a tener en cuenta es que una vez estamos aquí en el mercado
+[01:26] de australia editamos algo si luego volvemos a cambiarlo en el mercado principal o en el
+[01:33] store default ya no se va a cambiar en el mercado de australia una vez tocamos algo si
+[01:38] queremos volver a cambiarlo vamos a tener que venir aquí a hacerlo manualmente si queremos
+[01:43] si queremos volver por decirlo de una manera a lo normal venimos aquí nos ponemos arriba de
+[01:48] lo verde y le damos a reset con el riser lo que va a hacer va a ser que esto volverá a ser lo original
+[01:54] en este caso nosotros aquí nos convenía cambiar este número porque no es el mismo no es lo mismo
+[02:00] 175 dólares americanos que australianos entonces utilizamos esto y le metemos el precio que
+[02:08] queremos algo que también hacemos mucho por ejemplo ahora estamos en australia aquí en envíos le
+[02:15] metemos que el envíos de nuestro almacén en australia esto literal lo hacemos mínimo para todos
+[02:21] los países grandes que sería el top 5 y si en algún otro país tenemos envíos rápidos
+[02:26] o también también lo hacemos ahí una vez más esto es sólo para advance plus para los
+[02:33] planes más avanzados de pero es bastante útil a la que empezamos a escalar por mercados de
+[02:39] aquí podemos hacer exactamente lo que queramos por ejemplo estáis vendiendo en países como
+[02:43] méxico chile colombia incluso españa que el español es un poco diferente aquí podemos
+[02:49] adaptar el copyright por país
