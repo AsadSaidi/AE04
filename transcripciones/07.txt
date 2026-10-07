@@ -1,0 +1,92 @@
+# Lección 07 — 7. Creamos el Producto Nombre de Producto.mp4 (07:15)
+[00:00] bien una vez tenemos todo absolutamente todo ya seteado como acabáis de ver es
+[00:05] decir ya tenemos el esraín puesto ahora lo que tenemos que empezar a hacer es
+[00:08] empezar a montarlo todo pero no podemos montar nada sino tenemos el producto
+[00:12] creado bien vamos a crear el producto como le damos a products vale teníamos
+[00:17] este lo voy a borrar la verdad que va a te te feo no quiero tener mierda para
+[00:20] aquí vale y te saldrá así le damos a añadir producto ahora os digo cómo
+[00:25] cambiar el idioma de la tienda porque está en inglés y muchos os liaréis
+[00:28] nos preocupéis le damos a agregar producto bien lo primero que tenemos que hacer es
+[00:31] poner un título qué título le ponemos al producto bien nosotros tenemos un
+[00:36] prompt que es este de aquí que se lo ponemos a chat gpt venimos aquí lo tenéis
+[00:42] en la descripción del vídeo por favor genera algunos nombres creativos e
+[00:45] innovadores para este producto descripción o link del competidor
+[00:48] vendiendo lo mismo yo en este caso ten voy a buscar doctrimer vale por
+[00:54] ejemplo voy a coger este o alguna competencia que sepamos que hace
+[00:57] bastante dinero vale tampoco tampoco es decir tampoco volváis loco yo ahora lo
+[01:03] voy a hacer con un ejemplo muy rápido que es esta gente de aquí vale que ya los
+[01:06] tenía fichaos obviamente hace un buen dinerito en reino unido entonces copio
+[01:11] esto bueno perdón me voy al producto importante que no lo iba a hacer me
+[01:15] voy al producto que es el doctrimer me voy al producto lo pongo aquí donde
+[01:20] iba la descripción que es aquí debe transmitir el beneficio principal o
+[01:24] transformación que los clientes desean del producto y destacar el
+[01:26] mecanismo único y o características de importante sin ser demasiado largo
+[01:30] genera diferentes estilos algunas palabras compuestas así como nombres de
+[01:33] productos no compuestos que tengan de tres a cuatro palabras máximo con este
+[01:37] está bien en el caso de que no nos guste luego le damos más información o se
+[01:40] la podéis dar ya del producto el producto silencioso es decir el
+[01:44] producto sus beneficios como puedes ver en la landing es que es silencioso que
+[01:52] no hace daño ahorra dinero en peluquerías caninas etc lo quiero en
+[02:00] español o en inglés o lo que tú quieras vende ese mercado hispano pues en español
+[02:04] en italiano italiano vale entonces le damos esto y ahora nos va a dar ideas a
+[02:08] veces son bastante malas pero vamos a ver qué nos da pelocén corte mimoso
+[02:13] silencorte tranqui pet suave corte no vale entonces nosotros la marca era
+[02:19] trim pao vale entonces le vamos a decir el nombre de nuestra marca es trim paos vale
+[02:29] entonces quiero ese nombre de inicio que ya lo teníamos de antes y palabras que
+[02:36] me generen perdón que generen generen a la gente que entra a la web o al
+[02:45] cliente beneficios del producto y características como hace la competencia
+[02:53] que en este caso fijaros es doggie kings 3 en 1 electric dog trimmer como hace la
+[02:58] competencia y se lo puedo poner aquí de la web es decir lo pongo aquí y le
+[03:05] pongo la web pongo enlace competencia es decir le damos un poco de ayuda
+[03:11] por cabezcha gpt ni con proms hace lo que tiene que hacer vale entonces aquí te
+[03:16] pone trim paus trimmer 3 en 1 sin estrés bueno trim paus corte silencioso y
+[03:22] seguro bueno trim paus recortador suave anti estrés bueno nos va dando
+[03:27] mira trim paus trimmer 3 en 1 para patas y más por raro no sin ruido
+[03:33] ni tirones grooming suave y económico económico suena mal el tren se en
+[03:38] unos sin estrés no me parece mal aquí es 3 en 1 electric no como que le da ese
+[03:45] toque entonces buscamos algún nombre fijaros que lo del tm aquí se utiliza
+[03:49] entonces me lo ha dado igual podéis utilizarlo porque da más sensación de
+[03:52] marca que es lo que vamos a intentar parecer entonces trim paus trimmer
+[03:57] eléctrico sin daño recortador profesional en casa este me gusta
+[04:01] porque profesional a la gente le encanta le daba lo premium ya habla de la
+[04:05] horro versus peluquería este me gusta vale entonces nos vamos a nuestra web y lo
+[04:10] ponemos aquí listo bien qué descripción ponemos ninguna luego lo explico vale no
+[04:15] ponemos ninguna ok qué fotos ponemos ahora mismo vamos a poner algo muy rápido
+[04:20] porque porque luego se ensería a hacer fotos como la de la competencia que
+[04:24] sería esta vale con los beneficios con bullet punch infografías de reseñas
+[04:30] luego se enseño a hacer esto no os preocupéis pero ahora sencillito sin
+[04:34] complicarnos vamos a amazon le damos a doc trimmer sencillito cogemos el que sea
+[04:40] nuestra variante no me cogeis ninguna variante que no sea vale en el caso de
+[04:44] que vayamos a vender me lo va a inventar este a ver donde lo tengo perdón este
+[04:49] vale pues le podemos hacer un recortes
+[04:53] pero lo hecho mal le podemos hacer un recortes para que sea el mismo en el
+[04:57] caso de que sea el mismo venimos a google le damos aquí en google lens
+[05:01] subimos archivo los termino de pixelado nos asustéis le doy aquí pongo la foto y
+[05:07] me dan enlaces de amazon yo recomiendo una sin fondo para no complicarnos o
+[05:12] alguna que se vea bien vale voy a buscar alguna que más o menos se vea decente
+[05:16] aunque no os preocupéis porque luego lo vamos a cambiar todo vale entonces no me
+[05:20] venía a complicar a ver esta no me gusta está muy cargada a ver si me
+[05:26] salen más no me gusta perdonarme no que o sea tampoco invirtéis invirtáis mucho
+[05:33] tiempo en esto pero por ejemplo ésta ya está sencillo vale porque luego lo vamos
+[05:38] a cambiar que tenemos que hacer ahora bien ir a canva de nuevo lo estoy viendo
+[05:42] todo pixelado pide perdón le dais a crear o de perdón tamaño personalizado
+[05:46] 1080 por 1080 que es el tamaño Shopify y aquí lo que hacéis es lo
+[05:51] abrís en grande le dais botón derecho copiar y botón botón derecho
+[05:56] copiar botón izquierdo pegar lo ponemos aquí ponemos poner la foto de un perro
+[06:00] si queréis para tenerlo le ponemos fotos ponemos doc vale ponemos aquí ponemos esto
+[06:07] aquí yo que sé por por hacer algo diferente pero que de igual que no no
+[06:11] lo vamos a no invirtéis tiempo porque luego lo vamos a cambiar todo vale
+[06:14] entonces lo ponemos aquí le podemos meter un poquito de sombra que tardamos
+[06:18] nada 10 segundos ponemos un poquito de sombra aquí como no está bastante
+[06:23] feo le quito el fondo para que se vea bien
+[06:27] vale y lo hago un poquito más grande y estamos apañado vale si más marque
+[06:33] feo ya lo sé ya lo sé que no es la foto que vamos a dejar no os preocupéis
+[06:36] lo descargo y automáticamente ya tengo la foto vale entonces no me voy a
+[06:41] preocupar ni de la sinforafía ni de nada lo que hago es me vengo aquí lo
+[06:45] dé a un loa new lo vais a ver todo pixelado descarga selecciono y
+[06:49] automáticamente pongo la foto sencillito sí problema vale entonces cuando cargue
+[06:54] le doy a don y le doy a guardar bien ahora la categoría se pone aquí
+[07:01] normalmente por defecto el precio qué precio ponemos vale vamos a explicar esto
+[07:06] en un solo vídeo porque esto es increíble que lo entendáis para
+[07:10] vuestros futuros negocios productos lo que sea así que os lo cuento en el
+[07:13] siguiente vídeo
