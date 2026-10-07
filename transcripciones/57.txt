@@ -1,0 +1,51 @@
+# Lección 57 — 57. Catálogos - Cambiar precio por país.mp4 (05:13)
+[00:00] Hay una funcionalidad nueva de Shopify, muy interesante que es poner un catálogo por mercado
+[00:06] y esto lo que nos sirve por ejemplo si tenemos un producto que lo vendemos a 70 dólares igual esto
+[00:11] en libras son 53,5 libras y nosotros preferimos que sea exactamente 54,99 entonces para hacer esto
+[00:20] lo primero que tenemos que hacer es ir a mercados aquí en mercados vamos a crear un nuevo
+[00:26] mercado ahora vamos a inventar por ejemplo vamos a meter España tenemos Spain metemos España en este
+[00:34] nuevo mercado esto lo vamos a dejar exactamente como está es decir no tocamos nada guardamos
+[00:39] en test esto es porque ya tenía un mercado creado con el nombre de España ahora volvemos
+[00:47] aquí a mercados voy a borrar el otro está en draft aquí lo borramos para evitar lío más que nada
+[01:00] porque no puedes tener por lo que parecen no puedes tener un país en más de un mercado activo a la
+[01:07] vez porque también podéis hacer es aseguraros que no esté aquí en all venimos aquí buscamos el
+[01:14] país en cuestión Spain si Spain estuviera marcado lo podríamos sacar de aquí y listo
+[01:20] una vez tenemos el mercado creado vamos a catálogos vamos a crear un catálogo aquí arriba a la derecha
+[01:27] le metemos España test añadimos el mercado que acabamos de crear nuestro caso España test la
+[01:37] moneda ya os va a salir la moneda del país que es la que queremos y aquí le vamos a meter
+[01:41] lo que vamos a hacer va a ser descargarnos el ccv para poder hacerlo tenéis que darle a guardar le
+[01:47] damos a export si no le dais a guardar nos va a dejar darle a export y aseguraros que aquí
+[01:53] estamos en ccv fixed se podría cambiar el precio desde aquí manualmente lo que pasa es que luego
+[01:59] no cambiaría el precio de comparación por ejemplo si ahora venimos aquí le metemos 59
+[02:04] 99 luego el precio de comparación seguiría siendo el mismo que es ahora así que para
+[02:10] que todo quede perfecto venimos aquí export os van a mandar el ccv a vuestro mail voy a buscar el
+[02:17] ccv y ahora vuelvo este de aquí es el ccv que me he descargado a mí se me va a abrir en nambers
+[02:23] porque tengo mac pero esto es totalmente indiferente y ahora en mi caso esto lo vais a ver todo
+[02:31] pixelado para que no veáis cuál es el nombre de los productos pero es indiferente por ejemplo
+[02:36] en este caso yo lo que quiero es cambiar el precio del producto principal y del ápsel que
+[02:42] tenemos en el carrito no me interesa cambiar el precio de todos los demás productos porque son
+[02:48] productos que utilizamos en el post purgeis ápsel y como ya sabéis el post purgeis ápsel solo
+[02:54] se enseña los países que hacen el checkout con la moneda de la tienda entonces nuestra
+[02:59] tienda está en usd ahora estamos haciendo españa todos los productos que se enseñan
+[03:03] después de haber realizado la compra el mercado español no los va a ver así que ahora sólo
+[03:08] vaya a cambiar el producto principal y el producto que está en el carrito aquí por ejemplo le meto
+[03:13] el precio que quiero yo quiero que sea un 50 por ciento de descuento que es nuestra oferta y este
+[03:19] de aquí es el producto que tenemos en el carrito también quiero que sea un número clavado
+[03:23] una vez tenemos esto guardamos el csv test
+[03:33] de esto ahora vamos a poner nambers tu csv converter yo siempre uso este tenéis aquí files
+[03:42] test metemos este volvemos a Shopify vamos a mercados catálogos
+[03:49] buscamos el país el mercado en cuestión España y aquí le damos a importar catálogo se
+[03:57] seleccionamos el archivo le damos a previo y aquí vemos el precio el nuevo precio ahora vais a ver
+[04:03] que va a cambiar aquí abajo le damos a import este es el producto este de aquí es el producto en
+[04:08] cuestión le damos aquí y vemos que el precio ha cambiado esto sea esto estos dos de aquí
+[04:14] son el mismo producto uno lo utilizamos para los split test y este de aquí es efectivamente
+[04:19] el que ahora he cambiado de precio ya veis que aquí se actualiza no os voy a enseñar en la tienda no
+[04:25] hace falta ya vais a ver que cuando lo hagáis es exactamente así como funciona y el otro producto
+[04:31] que hemos cambiado es de este de aquí veis que los números muchas veces son medio feos esto de aquí
+[04:36] 17 y 32 no queremos esto nunca lo que queremos es que sean números perfectos y esto lo que
+[04:42] también os permite es por ejemplo si vuestra tienda está en dólares y vosotros queréis
+[04:47] vender en estados unidos pero también en colombia me lo invento igual 70 dólares es el precio óptimo
+[04:53] para estados unidos pero en colombia el precio óptimo son 65 o 60 entonces a través de esto a través
+[04:59] de los catálogos podéis hacer absolutamente lo que queráis con los precios dependiendo de cada
+[05:06] país entonces gracias a esto los catálogos podéis hacer absolutamente lo que queráis con el precio
+[05:12] por país
