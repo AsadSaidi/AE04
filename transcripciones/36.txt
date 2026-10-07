@@ -1,0 +1,46 @@
+# Lección 36 — 36. Image with text - Imagen con Texto.mp4 (03:46)
+[00:00] Lo siguiente que vamos a hacer es la descripción, es decir, ya a tocar con las infografías o algunos gifs o
+[00:07] algo, puntos de dolor más de manera visual. Antes hemos puesto vaner de imagen, que me he equivocado,
+[00:12] perdón, que es este de aquí que es podemos poner texto enriquecido o imagen con texto. Le damos
+[00:19] a imagen con texto y nos sale así. Sí que es verdad, sí que es verdad, que a mí me gusta
+[00:24] más poner título, texto, foto, es decir, el orden al revés. Entonces la manera de hacer esto sería
+[00:30] poner imagen con texto, vale, luego le podemos dar a texto enriquecido, ponemos el texto enriquecido hacia
+[00:37] arriba, vale, es decir, quitamos el botón, entonces aquí estaría título, texto, la foto y el título
+[00:44] y el texto de la sección de abajo lo quitamos, perdón, lo echamos al revés, vale, es decir,
+[00:48] esto lo ponemos aquí y lo que sería la imagen con texto borraríamos el título, borraríamos el
+[00:54] texto y borraríamos el botón para que se quedase así y aquí pondríamos la foto, vale, entonces ésta
+[00:58] tiene que ser la estructura. Sí que es verdad que no importa mucho si el orden es al revés pero a
+[01:04] mí me gusta así porque así al final de cada sección hay un texto y está bien ordenado,
+[01:07] vale. Entonces, ¿cómo hacemos la descripción? Bien, vais a tener un enlace a un drive,
+[01:15] vale, que es un documento que tenemos nosotros donde hay scripts de todo lo de la creación de tienda,
+[01:19] entonces yo voy a hacer un copia y pega que es esto, vale. Prom descripción del producto,
+[01:25] la del PAS que hemos visto que chat gpt nos ha recomendado el PAS. Quiero imagen give video,
+[01:31] titular, párrafo máximo 125, es decir, lo tenéis aquí, vale, estoy trabajando en crear
+[01:36] la descripción principal de producto para mi tienda, el objetivo es seguir el marco
+[01:38] problema, la estructura de descripción, vale, bloque problema y agitación, entonces aquí
+[01:43] tenemos toda la información que le tenemos que dar a chat gpt, ¿vale? Él ya tiene la
+[01:50] información de nuestro producto porque estamos en la misma conversación o le mandamos el bloque y
+[01:54] aquí lo que tenemos que hacer es enviárselo. Vamos a esperar a ver qué nos dice y yo lo muestro.
+[01:57] Bien, como podemos ver, nos dice, ya no puedo ni acercarme con las tijeras sin que mi
+[02:00] perro entre empánico. A ver, es un poco duro, ¿vale? Porque aquí va a ser muy largo,
+[02:04] entonces tendría que ser algo como un poquito más corto, aquí nos da las variaciones,
+[02:08] por ejemplo, si lo toca se asusta, si no la regla se ve mal y ahora qué, ¿vale? Y aquí cada
+[02:13] intento termina en estrés para ambos, este es cortito, me gusta, entonces ataca el problema
+[02:19] de la gente, me vengo a título, lo pongo aquí, ¿vale? Entonces podemos ponerlo en pequeño para
+[02:24] que ocupe dos líneas, ¿vale? Pues si queremos seguir con eso, aquí le podríamos darle grita,
+[02:28] etcétera. Luego, en lo que es la frase, ¿no? El texto, tu perrito no deja que le toques
+[02:34] las patas, mucho menos que lo acerques a una máquina, cada vez que lo intenta se
+[02:37] pone tenso, se asusta, incluso tose o se ahoga del estrés, ir a la perioquería tampoco es una opción,
+[02:41] lo pasa mal, tú lo pasas peor y encima sale caro, el resultado, patitas enredadas, cara sucia y
+[02:46] tu sintiéndote culpable, porque sabes que el merece estar limpio, cómodo y tranquilo, pero nada parece
+[02:50] funcionar. No está mal, ¿vale? Pero es muy largo, porque fijaros, si lo pongo aquí, nadie lee esto,
+[02:55] o sea, os lo digo de corazón, nadie lee tanto, ¿vale? Entonces vamos a intentar recortarlo
+[03:00] diciendo lo mismo, tu perrito no deja que le toques las patas, mucho menos que lo acerques
+[03:04] a una máquina, hasta aquí bien, ¿vale? Cada vez que lo intenta se pone tenso, se asusta, incluso
+[03:09] tose o se ahoga del estrés, este ya se entiende que se pone tenso, me refiero, sin más, ¿vale? Ir a la
+[03:15] perioquería tampoco es una opción, lo pasa mal, tú lo pasas peor y encima sale caro, el resultado,
+[03:19] patitas enredadas, cara sucia y tú sintiéndote culpable, ¿vale? Entonces podemos dejarlo así,
+[03:25] lo dejamos en dos bloques para que sea más fácil de leer y ya tenemos el problema de alguna
+[03:30] manera solucionado. Entonces, ¿qué imagen tendríamos que dar aquí? Bien, inserta imagen o gift de un
+[03:36] perro nervioso siendo aseado o con el pelito enredado. Entonces sería buscar en TikTok, por ejemplo,
+[03:42] alguno de estos que se ponga, pues, por ejemplo...
