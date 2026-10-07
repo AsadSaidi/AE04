@@ -1,0 +1,260 @@
+# Lección 47 — 47. Loox Reviews - Reseñas.mp4 (18:08)
+[00:00] bien ahora ya tenemos la tienda lista ahora tendríamos que poner las reseñas pero las
+[00:04] reseñas de verdad las de debajo las de fotos las que rompen objeciones las que
+[00:07] hacen que vendamos mucho más que es eso esto vale es decir toda la web y luego
+[00:12] estas reseñas de acuerdo con foto buenas descripción bueno buena reseña
+[00:17] buenas descripciones buenos textos no nada de envío rápido barco o llegó bien
+[00:22] y cosas así vale lo tenemos que hacer bien y voy a explicar cómo hacerlo
+[00:25] lo único que tenéis que hacer es darle al enlace que tenemos en la
+[00:29] descripción de este vídeo vale en ese enlace o va a mandar a este código a
+[00:33] esta aplicación que es lux que es lux pues para poner esas reseñas como se
+[00:37] dicho hay más aplicaciones a mí la que más me gusta y de las más baratas se
+[00:40] está llevo trabajando con esta gente dos años casi o tres años vale a mí la que
+[00:45] más me gusta hay un montón de tiendas por ejemplo la de mesi utiliza esta app o
+[00:49] al menos antes la utilizaba le damos a instalar y encima tenemos si nos
+[00:52] registramos desde el enlace 30 días gratis vale le damos a instalar vamos
+[00:57] siguiendo el paso a paso es muy sencillo o sea tampoco es muy complicado de usar vale
+[01:00] y aparte con esta app podemos instalar tres tres mil reseñas en cinco minutos que
+[01:06] son lo enseño os lo enseñamos en el siguiente vídeo aquí aunque ponga siete
+[01:09] días no os preocupéis le damos al beginner luego cuando empecéis a
+[01:13] escalar sí que se os cobrará a los 40 pero mucho más adelante porque aquí
+[01:17] tiene es decir cuando pases de las 500 órdenes vale o de las 100 al mes se
+[01:23] cobrará el escal el escale vale el escalado pero coño si estáis teniendo 100
+[01:27] órdenes o 500 al mes no creo que se importe pagar 40 dólares que de hecho es
+[01:31] mejor porque puedes poner reseñas con vídeo que esos tocho que te caga vale
+[01:36] entonces le damos a empezar en el beginner aquí le damos a beginner que no
+[01:40] nos cobre en el ápsel le damos aquí de entrada con el baratito y aquí nos sale
+[01:44] lo de los 30 días a mí no me sale vale porque yo ya la tenía instalada
+[01:49] porque estuve haciendo unas pruebas vale pero aquí saldrá 30 días y no
+[01:52] pagaréis es decir ya los 30 días pues os cobrará los 13 dólares le damos a
+[01:56] probar a mí me cobrarán en siete días vale por lo que os he dicho pero soy son
+[02:00] 30 no os preocupéis y entonces nos manda aquí aquí lo que tenemos que hacer lo
+[02:04] puedes saltar todo pero yo recomiendo que no lo saltéis le damos a continua es
+[02:07] decir a continuar aquí le damos a cuando le vamos a preguntar por una
+[02:12] reseña aquí lo que tenéis que hacer es poner 70 vale os decir poner 70
+[02:17] para que no le pida que os haga una reseña porque la reseña las
+[02:20] ponemos nosotros le damos a continuo y aquí es donde miro más importante 10 15
+[02:25] por ciento 20 por ciento como un descuento para que pongan reseña no hagáis
+[02:28] esto darle un clic encima y veis que se quita estaba así le damos un clic encima
+[02:32] y veis que se quita lo quitamos vale es decir acordaros de deseleccionarlo de
+[02:36] quitarlo le damos a continuo y aquí le tenemos que dar a enable looks core
+[02:41] script vale para ponerlo en la web le damos ese click se abre la web te
+[02:46] sale aquí seleccionado y le damos arriba derecha a guardar una vez
+[02:49] hemos hecho eso ya no sale que está bien le damos a go to looks a mean vale entonces
+[02:55] aquí te dice que sigas todo esto a produce review widget le damos un clic y lo
+[03:02] que nos manda es al tema vale al así a la web entonces aquí lo que tenemos que
+[03:07] hacer es agregarlo fijaros que ya se agrega solo en el caso de que no se
+[03:10] páis o no salga lo único que tenéis que hacer es darle agregar sección apps y
+[03:15] aquí ponemos product review widget vale que es lo mismo lo hace solo pero en el
+[03:19] caso de que queráis hacerlo manualmente porque no sale y estas son reseñas de
+[03:24] ejemplo pero saldría así le damos a guardar arriba derecha y volvemos aquí
+[03:29] que ya está hecho y te pone import reviews bien os voy a explicar diferentes
+[03:33] cosas vale si le damos a input review le damos a por ejemplo aliexpress no
+[03:39] que queremos desde aliexpress entonces esto lo tenemos que arrastrar a la
+[03:42] barra de marcadores si no tenemos barra de marcadores pues tenemos que poner barra
+[03:46] de marcadores vale marcadores y listas entonces aquí le damos a añadir esta
+[03:50] pestaña marcadores mostrar barra de marcadores esto lo arrastramos hacia aquí
+[03:53] arriba fijaros y ya saldría aquí entonces ahora si yo voy aliexpress al
+[03:57] producto que no es éste pero entenderme le doy a import looks me sale
+[04:01] así selecciono el producto al que quiero importar las reseñas selecciono
+[04:05] cuatro estrellas hacia arriba las los países no importa que estén ingles o
+[04:08] si las quieres en español lo que sea y only review with fotos o no le damos a
+[04:13] preview un import y aquí te empiezan a salir pero estas reseñas son feísimas
+[04:17] malísimas horribles entonces qué recomiendo yo que hagáis muy importante
+[04:22] le voy a dar para atrás finish importing vale no hemos importado
+[04:25] ninguna vale entonces lo cierro aquí qué recomiendo que tenéis que hacer
+[04:29] vale lo primero que tenéis que hacer es venir a vuestra tienda como si
+[04:32] fueseis visitantes vale es decir aquí como si fueseis una persona pues
+[04:36] que está visitando la web me salgo todo porque estén andorra nos asustéis
+[04:39] bajamos bajamos bajamos bajamos y aquí te pone ser primero en escribir una
+[04:45] reseña escribir reseña y aquí te deja escribirlas entonces las 12 15 primeras
+[04:51] las vamos a hacer nosotros porque las vamos a hacer de calidad bien y luego
+[04:56] vamos a importar como 3000 en cinco minutos que no vamos a tener que hacer
+[05:00] absolutamente casi nada que eso es lo explicamos en el siguiente vídeo así
+[05:03] que os voy a explicar de dónde sacar estas reseñas 12 15 para que sean
+[05:06] buenas y luego se enseño a tocar los colores el idioma y algunas cositas y
+[05:10] que vamos a ello para poner buenas reseñas lo que hago es me vengo a amazon y
+[05:13] busco mi producto vale intentamos siempre encontrar el mismo pero a veces no hace
+[05:16] ni falta en este caso por ejemplo este no es mi producto este no es mi producto
+[05:21] no es el mismo que vendemos pero si yo me voy a fotos vale si yo me voy a
+[05:25] las reseñas y yo me voy a fotos podemos ver que esto vale lo podemos a
+[05:30] cortar es decir yo puedo hacer así recortar esto y la gente no ve el
+[05:35] producto pero si ve que le acabo de sacar un perro a mi perro vale entonces esto me
+[05:39] sirve como reseña y si os fijáis voy a chat gpt vale para para traducirlo en el
+[05:45] caso de que estuviésemos en habla hispana yo voy a traducir esto vale y voy a
+[05:50] poner aquí vamos a traducirlo para que veáis no traducir entonces podemos ver
+[05:56] acuerdo que me alegra haber confiado en las miles de reseñas positivas tengo
+[06:00] un golden doodle que se enreda con mucha facilidad esto realmente corta
+[06:03] los nudos sin problema puede que tengas que ajustar un poco la longitud ya que
+[06:06] el pelo rizado y grueso necesitar una cuchilla más corta mientras que el pelo
+[06:09] liso y no tan grueso funciona mejor con la cuchilla más larga una vez de que
+[06:11] descubrimos eso nos tomó muy poco tiempo quitar los enredos nuestro otro
+[06:14] perro es un cavalier king charles cuyo pelo es el que aparece en la foto lo
+[06:18] acabamos de cortar más corto para el verano esto está genial podríamos
+[06:21] quitarlo de las cuchillas para que no fuese tan largo entonces venimos
+[06:24] aquí venimos a nuestra web le damos a escribir reseña ponemos
+[06:28] cinco estrellas acuerdo ponemos a agregar foto que voy a hacer un corte
+[06:32] bueno lo vais a ver pixelado vale le damos a agregar foto seleccionamos el recorte
+[06:37] que acabamos de hacer vale que es ese perro ahí que sale que parece otro perro
+[06:40] y pegamos esto me alegra haber confiado tengo un dueño que se enreda con mucha
+[06:44] facilidad esto realmente cortar los nudos sin problema esto de las
+[06:47] cuchillas lo podemos quitar vale entonces una vez que descubrimos esto de
+[06:52] esta cuchilla nos tomó muy poco tiempo quitar los enredos nuestro
+[06:55] otro perro es un cavalier king charles cuyo pelo es el que
+[06:57] parece la foto lo acabamos de cortar más corto para el verano y si vemos que muy
+[07:01] como que no está bien la traducción es como un poco literal no como que nadie
+[07:06] lo diría sí di lo más normal para una persona de méxico imagínate que estamos
+[07:12] vendiendo méxico y le decimos que lo diga más normal qué bueno que me dejé de
+[07:17] llevar por la miles de reseñas buenas tengo un golden doodle que se le hacen
+[07:20] nudos bien fácil esto la verdad si corta los nudos sin problemas ya que
+[07:23] agarramos la onda nos tardamos bien poquito en quitarse lo nuestro otro
+[07:26] quizás es muy mexicano de mejor no es necesario pero entenderme vale es decir lo
+[07:30] hacemos un poco más real ponemos aquí le damos a next y ponemos un nombre que
+[07:35] tenga sentido entonces le digo dame un nombre de mujer mexicana común vale
+[07:43] entonces por ejemplo maría pues pongo maría literal pongo maría así pongo
+[07:48] g punto y aquí cualquier mail lo que queráis vale al dueño de este mail
+[07:53] le van a llegar 800 pero sin más porque el mail no se ve ningún lado le doy a
+[07:57] don vale me dice gracias le doy a continuó y ahora en nuestra web si yo
+[08:01] bajo nos encontramos para que actualizo perdón nos encontramos una reseña con
+[08:07] calidad que no se ve el producto no importa con un buen texto que resuelve
+[08:12] objeciones que aparte lo que tenemos que hacer es eso resolver objeción
+[08:15] entonces esta sería la manera número 1 vale de gestionar la reseña por
+[08:20] ejemplo pues este perro no que está que le acaban de cortar puedes pillar esto y
+[08:25] luego lo que podemos hacer es con el script que tenemos de lo que le importa
+[08:29] la gente que sea silencioso que se puede transportar que en la batería dura
+[08:34] mucho vamos resolviendo esas objeciones en las reseñas es decir si sabemos que
+[08:39] la gente lo que quiere es que sea silencioso entonces busco alguna de
+[08:42] las reseñas que ponga algo de silencioso vale de miedo tenía tenía
+[08:47] mucho miedo mi perro y ahora con esto ya no entonces le pongo el archivo ese que
+[08:52] tenemos del cliente ideal de los problemas que soluciona y le digo dame
+[08:58] 10 reseñas con nombre de méxico que sean reales como hablaría una persona de
+[09:04] méxico que resuelvan esas objeciones que no sean muy largas y se lo tiro se lo
+[09:08] tiro aquí me las da y las voy haciendo manualmente cago 12 15 con
+[09:12] foto buen nombre y buena descripción 12 15 la gente no suele ver más y
+[09:17] luego añadiremos 3000 sutil muy fácil muy muy fácil vale entonces esta
+[09:22] sería la manera número 1 como acabáis de ver robo fotos robo la descripción la
+[09:28] adapto a mi país con mi nombre y listo las la opción número 2 sería utilizar el
+[09:33] script que tenemos que es lo mejor para romper objeciones en una hablo de que
+[09:36] es muy fácil en otra de que no hay ruido en otro de que la batería dura
+[09:39] mucho en otro de que mi perro sufría por ansiedad y ahora ya no en otro
+[09:42] que me ahorra dinero en la peluquería y voy rompiendo objeciones en las
+[09:45] reviews voy rompiendo voy rompiendo voy rompiendo nunca ponemos reseñas sin
+[09:50] foto nunca ponemos reseñas malas nunca ponemos reseñas de barco ok todo bien
+[09:55] envío rápido ni esas mierdas vais a perder dinero por favor seamos serios
+[09:59] de acuerdo entonces voy a importar como varias reseñas y ahora lo muestro una
+[10:04] vez he puesto varias reseñas vale puesto 5 tampoco he tirado he tirado por
+[10:07] ruido he tirado por mi perro otro por jalones es decir por tirones otro
+[10:12] porque soy novato y he podido otro por el he tirado varias objeciones vale
+[10:17] fijaros que si ponemos ponemos 15 con fotos la gente ya empieza a ver que esto
+[10:22] es serio incluso si puedes poner 100 mucho mejor vale entonces ahora ya lo único
+[10:27] que tenemos que hacer es poner las reseñas las que os he dicho y podéis
+[10:29] poner 30 con fotos mucho mejor y en el siguiente vídeo se explico cómo poner
+[10:33] reseñas por miles en cuestión de 5 minutos pero antes y no menos
+[10:37] importante tenemos que ver cómo funciona la porque por ejemplo tenemos
+[10:41] que quitar la fecha porque como las vas a hacer el mismo día la gente va a ver
+[10:45] todas del 26 del 7 26 del 7 decir sí claro yo soy tonto entonces de aquí un mes va
+[10:50] a salir mal entonces quitamos las fechas importante vale entonces os explico muy
+[10:55] rápido dónde está cada cosa o qué es cada cosa si le damos a reviews aquí
+[11:00] te pone manage reviews en el caso de que quieras ocultar alguna le
+[11:03] tendríamos que dar aquí a los tres puntitos puntos perdón perdón para
+[11:08] despublicar le daríamos aquí publicidad un publish ya no saldría en el
+[11:11] caso de que queremos que salga verificado le damos aquí y pone repli es decir puedes
+[11:15] contestar puedes cambiarle el producto y puedes añadirle un verificado o sea un
+[11:20] verificado vale le doy a verificado y aquí ya sale el verificado entonces si
+[11:23] vengo a la web podemos ver que sale un verificado lo cual está bien yo
+[11:28] no las pondría en todas pero si las pondría en la en las de fotos y
+[11:31] tienes 15 con fotos por la 9 de verificado vale como que la gente
+[11:34] está verificada y eso da más sensación y lo dicho aquí podríamos quitarlas
+[11:38] vale si alguien te pone una reseña que no va a poder ahora te explicaré cómo lo
+[11:42] hacemos desde aquí ok luego aquí review widget muy importante vale product review
+[11:48] widget esto es lo de abajo product review widget le damos a customize vale y aquí
+[11:53] nos sale absolutamente todo esto es de ejemplo vale entonces si le damos a
+[11:56] le yout te dice que te puedes salir en lista así que te puede salir en
+[12:00] mosaico que es más o menos igual en móvil y que te puede salir en grid
+[12:03] que van saliendo de dos en dos el lista es más como amazon cuál podéis dejarlo
+[12:07] así normalmente la gente lo deja así podéis utilizar las dos lo que queráis
+[12:10] vale esto de minimal es esto de las reseñas si lo ponemos así nos sale
+[12:15] esto y si lo ponemos así nos sale esto también normalmente ahora se pone el
+[12:18] compact vale para que lo sepáis volvemos atrás en estilo podemos ponerlo dark
+[12:23] como que tenga sombra fijaros clásico como que tenga menos sombra
+[12:26] non como que no tenga nada light como que tenga luz el dark está bien
+[12:30] dependiendo de la web también luego el borde que sea cuadrado más redondeado que
+[12:35] sea un poquito menos redondeado o súper redondeando esto esto dependerá de
+[12:38] vuestro producto si vuestro producto cuadrado ponerlo cuadrado es tu
+[12:42] producto redondo ponerlo redondo yo normalmente pongo el round it vale
+[12:44] luego aquí review font size small si lo ponemos en medium se ve más grande la
+[12:50] letra si lo ponemos en large se ve más grande la letra si nuestro cliente es
+[12:55] un cliente más mayor más adulto más una persona pues más de 50 años podemos
+[12:59] ponerlo más grande pero de entrada no lo pongáis vale no toquéis eso luego aquí en
+[13:03] colors podemos cambiar los los colores widget colors podemos ponerlo que salga
+[13:08] negro perdón aquí en custom esto no lo toqueis nunca el header tampoco lo toqueis
+[13:12] nunca review tabs no lo toqueis nunca o sea no toqueis nada vale de aquí no
+[13:17] toqueis nada porque se ve feísimo volvemos para atrás en texto review vale
+[13:23] podemos cambiar el idioma vale aquí lo que podemos hacer es cambiar el
+[13:27] idioma y con el plan scale te deja auto translate vale es decir que se traduzca
+[13:31] solo entonces si lo vamos a hacer en mercado hispano aquí pondríamos valoración
+[13:34] vale o reseña en singular aquí pondríamos reseñas vale reseñas aquí
+[13:42] pondríamos escribe una reseña aquí ponemos reseña de producto aquí
+[13:49] reseña reseña de tienda ver más ver más reseña es decir lo vamos traduciendo
+[13:58] vale si no sabéis inglés pocha gpt vuestro aliado y hasta volvemos para
+[14:01] atrás y en preferencias aquí nos sale ok vale mira produc review widget algo es
+[14:07] shown siempre se muestra si show review right a button lo quitamos right a
+[14:12] review button vale lo quitamos para que para que la gente no pueda escribir
+[14:15] porque la competencia no va a poner 500 reseñas malas y no nos vamos a dar
+[14:19] cuenta entonces quitamos lo que puedan escribir solo podemos escribir nosotros
+[14:22] decir tú la saces manual luego te explico en el siguiente vídeo cómo hacerlas por
+[14:27] embulca es decir subir 3000 y después de haber hecho las reseñas lo quitamos
+[14:31] queremos hacer más reseñas lo activamos hacemos las reseñas y lo quitamos
+[14:34] siempre desactivado siempre luego aquí abajo fijaros que pone show
+[14:38] review date lo quitamos también para que nos salga la fecha como salía
+[14:42] vale y show item type también lo quitamos que es qué producto han comprado lo
+[14:46] quitamos porque no hace ni falta arriba derecha a guardar siempre aquí zoom nail
+[14:50] size nos lo tocamos review per page nosotros solemos poner entre 7 y 12 para
+[14:54] que tengan que ir dando a las botones y no lo hacen por eso recomendamos poner
+[14:57] 15 porque pone 7 le dan ver más salen otras 7 con fotos y luego no les suelen
+[15:01] dar a ver más vale eso está comprobado número de reseña lo dejamos
+[15:04] display esto review lo dejamos todo esto lo dejamos vale entonces le damos
+[15:08] para atrás le damos a guardar y de aquí ya estaríamos ahora que es todo esto
+[15:12] está tratting widget es esto de aquí arriba pero como lo tenemos con el con
+[15:16] el escribe y también con el otro tema que luego os lo muestro no lo vamos a
+[15:19] poner pop-up widget esto te sale un pop-up de no sé quién ha comprado no
+[15:23] lo tengáis si os salen las reseñas al lado para quitarlos hacedes de aquí para
+[15:27] que lo sepáis esto igual un lux trut batge esto por ejemplo sería poner
+[15:33] reseñas como un carrusel de reseñas pero eso lo tiene el propio tema lo
+[15:36] cual no hace falta es decir sólo lo utilizamos para eso por ejemplo este está
+[15:39] bastante bien quien quiera usarlo puede vale si os hace ilusión como aquel que
+[15:43] dice podéis usarlo que esto lo que hace mira ahora cuando se se ponga os lo
+[15:47] muestro snippet widget fijaros yo vengo aquí vale pero voy a guardar me vengo a
+[15:53] snippet widget vale y fijaros que es esto de aquí vale me salen las
+[15:59] reseñas vale me salen las las reseñas que tenemos creadas pero aquí
+[16:04] abajo con su foto para no tener que crearla nosotros vale esto está bien es
+[16:09] decir puedes dejarlo porque es trabajo que te ahorras fíjate que aquí van saliendo
+[16:12] pero qué pasa que salen todas y como salen todas la gente se puede perder se
+[16:17] puede perder aquí por eso nosotros recomendamos hacerla manualmente vale
+[16:21] recomendamos hacerlo manualmente y y luego nosotras las de abajo las hacemos
+[16:26] con el propio lux vale entonces yo recomiendo no ponerlo pero que si
+[16:29] queréis ponerlo no pasa absolutamente nada y aquí son más cosas que no os
+[16:32] hacen ni falta queréis trastearlo trastearlo luego en referrals yo no lo
+[16:36] pondrías decir para que la gente te deje un una revíhu a cambio de un
+[16:39] porcentaje yo no pondría eso a psel vale tampoco lo tocaría y en settings tienes
+[16:45] para cambiar aquí el color imagínate que tú las estrellas aquí las tenías en
+[16:50] azul pues para poner las estrellas de abajo vienes aquí settings y aquí te
+[16:54] sale para cambiar el color vale también podrías cambiar el el icono
+[16:58] imagínate que es algo de perros pues podrías ponerlo en paú vale podrías
+[17:02] ponerlo yo no recomiendo tocarlo mucho amazón siempre tiene estrellas 10 por
+[17:05] algo yo lo dejaría así y absolutamente todo vale entonces dejarlo aquí y listo
+[17:10] luego en ordres te salen las órdenes castenido integraciones general vale
+[17:14] que aquí donde viene lo más importante esto de shop app le damos a
+[17:18] settings integraciones shop app le das a manage y lo desactiváis siempre
+[17:23] por qué porque la gente que te haga una revíhu con shop app no la vas a
+[17:27] poder borrar entonces desactivar esto siempre cuando digo siempre siempre no
+[17:31] hacerlo es una cagada histórica porque luego te van a poner una app una perdón
+[17:35] una reseña con esta ap o esta cosa y no vais a poder quitar la vez tiene que
+[17:39] crear otra página de producto importar la reseña y es un follón vale y luego
+[17:42] aquí tendrías un montón de cosas que no hace ni falta bien dicho esto
+[17:46] importamos las reseñas manualmente las primeras 12 15 con foto buena
+[17:51] descripción rompiendo gestiones buenos nombres
+[17:54] buena traducción todo bien vale y luego lo hacemos con el vídeo que voy a
+[18:00] enseñar a continuación en el vídeo siguiente me tenemos mil dos mil
+[18:04] reseñas en cuestión de cinco minutos entonces yo hacerlo siempre así vamos con
+[18:08] lo siguiente
