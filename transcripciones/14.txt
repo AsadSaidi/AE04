@@ -1,0 +1,53 @@
+# Lección 14 — 14. Personalizar Theme en Móvil.mp4 (04:39)
+[00:00] bien ya con el producto creado y con el vídeo que acabáis de ver de mark que es lo más
+[00:05] importante para tener una tienda que funcione la verdad entender todo eso y hacerlo o sea no
+[00:10] hacerlo es estúpido nosotros lo hacemos con todos nuestros productos obligatorio ahora ya vamos
+[00:15] a pasar a modificar el tema y tocar un montón de cosas pues que hay que tocar vale entonces
+[00:21] lo primero que vamos a hablar es para para personalizar el tema le damos a el shrine
+[00:25] o el otro que luego hablaremos al final de la sección todo con lo del tema de cenderop nos
+[00:29] preocupéis le damos a personalizar y directamente nos manda a página de inicio esto quiero que os
+[00:35] quede bastante claro para las que sois un poco más novatos porque luego en página de producto
+[00:39] y en página de inicio salen diferentes cosas bien vamos a hacer dos cosas una siempre
+[00:45] modificamos la web en formato móvil fijaros aquí computadora móvil pantalla completa siempre
+[00:51] móvil porque porque hacemos publicidad en meta que suele ser post de instagram post de facebook
+[00:57] historias de instagram historias de facebook vale entonces casi todo el mundo en un gran
+[01:02] porcentaje utiliza todas estas redes sociales estas plataformas desde teléfono móvil entonces
+[01:08] no hay que volverse lo coin que quede bien en ordenador si estás haciendo google ads pues
+[01:15] sí seguramente tendrías que tenerlo bien para ordenador pero de momento vamos a
+[01:19] centrarnos en lo que es móvil de acuerdo ya más avanzado en google ads etcétera pues ahí si que
+[01:25] puedes empezar a tocar en las dos vale es decir computadora móvil que quede bien en las dos bien
+[01:31] ok que hacemos con la página de inicio borrarlo todo ya os explico el por qué le doy a borrar
+[01:37] le doy a borrar le doy a borrar le doy a borrar y esto lo oculto vale esto de aquí vale
+[01:45] algo muy importante si tenéis activado esto de activar el inspector cuando te pones ves que va
+[01:49] saliendo azul si me pongo encima directamente me da la sección y me dice que es entonces en este
+[01:54] caso yo borro la imagen vale y me va saliendo lo que es entonces qué ponemos aquí ok cuando
+[02:01] empecemos a testear que aún no sepamos si el producto funciona si no funciona o sea
+[02:06] decir que que no vamos a invertir tiempo perdón nos no tenemos data entonces no vamos a
+[02:10] invertir tiempo en tener una página de inicio donde nadie va a ir qué hacemos aquí le damos a
+[02:15] agregar sección producto destacado le damos arriba derecha seleccionamos el producto y obviamente
+[02:23] seleccionamos como digo el producto vale y le damos a guardar entonces la gente cuando
+[02:29] entra aquí vale que no va a entrar nadie ya os lo aseguro porque lo tenemos más que
+[02:33] comprobado si no nos diría esto la gente si alguien entra aquí le dará a ver todos los
+[02:37] detalles y se irá a página de producto que es todo lo que vamos a modificar porque es lo que se
+[02:42] ve bien lo que convierte bien y ésta es la url donde vamos a mandar a la gente o sea decir en
+[02:49] facebook en instagram es decir en la publicidad el enlace que vamos a poner es siempre de página
+[02:54] de producto siempre cuando digo siempre siempre no sé que ya tengas una marca pero
+[02:58] de momento el gran porcentaje de personas que esté viendo este vídeo no tenéis una
+[03:02] marca entonces que quede claro no quiero ver a nadie perder tiempo con la página de inicio es
+[03:08] absurdo cuando ya empiezas a escalar ya sí que ponemos la página de producto en la página de
+[03:14] inicio ya lo explicaremos aunque cuando tengáis que hacerlo ya sabréis hacerlo por ejemplo fijaros
+[03:20] esto es la página de de blame vale no sé cómo se pronuncia entonces ellos ya tienen
+[03:27] una marca ya pues es muy diferente luego vas a la página de producto y te encuentras esto
+[03:31] vale es completamente bueno más o menos diferente más o menos igual un poquito diferente a la página
+[03:38] de inicio pero luego le das aquí para ir a página y no puedes ir porque lo único del interés a la
+[03:42] página de producto si vamos a poquete speech vale que también es una marca fuerte vamos a poquete
+[03:48] speech tenemos la página de inicio vale que ya tienen una marca vale no hay producto no
+[03:54] hay nada que fijaros es un slide show cuatro imágenes y ya os imaginaron la importancia que
+[03:59] le dan le da absolutamente igual y luego tenemos página de inicio pero luego yo no puedo volver a
+[04:04] la página principal porque les da igual lo que se optimiza siempre son las páginas de producto que
+[04:09] fijaros aquí pone producto predeterminado vale no quiero ver a nadie invertir tiempo vale en
+[04:17] una página de inicio siempre página de producto hay excepciones mar tengo una marca de ropa
+[04:22] vale entonces tienes que invertir tiempo y todo lo que te voy a explicar lo tendrías que
+[04:25] hacer también la página de inicio pero si vais a hacer dropshipping como nosotros recomendamos con
+[04:29] el tipo de producto etcétera página de inicio no toquéis vale no toquéis importante no perdáis
+[04:35] tiempo en eso hay cosas más importantes que hacer vamos con lo siguiente
