@@ -1,0 +1,52 @@
+# Lección 48 — 48. Importar Reseñas Loox CSV.mp4 (07:03)
+[00:00] a la hora de ayudar a nuestros clientes a tomar una decisión social proof las reseñas es una
+[00:05] de las cosas más importantes ahora vamos a ver cómo añadir muchísimas reseñas en poco tiempo
+[00:10] tenemos aquí reviews import reviews custom file make a copy se nos va a abrir en will sheets aquí
+[00:19] tenemos que meter el handle de nuestro producto vamos a buscar el producto principal aquí el
+[00:25] handle que encontraremos aquí abajo trim pause aquí vamos a meter mínimo 300 reviews
+[00:32] ya vais a ver que sólo las 10 primeras importan la gente normalmente no excrole a más de 10 12
+[00:40] reviews estáis haciendo un millón al mes si os diría que le prestéis más atención a esto pero al
+[00:44] principio con que le metáis 10 o 12 reviews buenas es suficiente vamos a ir a chat gbt amé una
+[00:50] combinación de números el 3 al 5 de la media de 4,8 en este formato para que pueda pegar
+[01:13] esperamos que haga su magia copiamos venimos aquí o pegamos las 10 primeras yo le metería todos
+[01:27] 5 como mucho deja un 4 por ahí pero que la mayoría sean 5 vamos a chat gbt amé 300 nombres
+[01:41] típicos de estados unidos y estáis vendiendo en estados unidos metemos de estados unidos
+[01:47] y estáis vendiendo en alemania metéis alemania esperamos una vez más que haga su magia esto
+[01:59] cada vez funciona mejor al principio me acuerdo que para conseguir que te hiciera esto era
+[02:04] un problema y ahora copiar pegar pum y me lo podemos sacar luego le diremos estoy vendiendo
+[02:11] este producto aquí le metéis la url de vuestro producto url y si queréis una pequeña descripción
+[02:21] aquí va a ir la url que sirve para cortar las dunas a los perros dame 300 reviews de unas 5
+[02:34] esperamos que nos tiene a reviews las 10 primeras sí que tienen que ser perfectas
+[02:41] las vais a tener que pensar bien y hacer todo perfecto pero las demás no no importa
+[02:47] tenemos aquí copiamos esto clavamos aquí como ya he dicho las 10 primeras vosotros meterle
+[02:55] foco creo que margue ha hecho un vídeo en el cual explica esto aquí también le metéis la url
+[03:00] de las fotos que para sacar la url va a tener que venir aquí contenido archivos aquí subís
+[03:08] todas las fotos que queráis meter en las reviews y ahora voy a poner estas por ejemplo copiáis la
+[03:13] url y las claváis aquí sacamos voy a sacar un par más para que veáis el ejemplo este
+[03:21] saco esta de aquí una más
+[03:29] vosotros para subir el archivo le dais aquí subís el archivo y luego copiáis la url como
+[03:35] yo he hecho las metemos aquí ahora le vamos a decir dame 300 formatos de fecha
+[03:47] dame 300 fechas en este formato arrancando este día hasta el día de aquí veo que me ha dado
+[04:00] un día después del otro a partir del día que le dije queremos que no que sean alternadas y que
+[04:04] haya muchas en 2025 este ya me gusta más que veo que aquí le faltan unas cuantas a ver copiamos
+[04:15] voy a probar si es que están ahí en medio en los tres puntitos aquí vemos que nos faltan
+[04:22] vamos a pillar este sube abrimos con troce
+[04:42] comance si está ahí en mac y nos de aquí
+[04:47] pegamos aquí veo que antes no nos ha dado las 300 reviews volvemos a 150 reviews
+[04:58] copiamos tenemos aquí vamos a pegar ahora sí que ya estarían casi todas muy importante que no
+[05:08] sobren líneas es decir que esté todo lleno aquí metemos las fechas que nos faltan
+[05:13] entre los c lo mismo con las estrellas y lo mismo con los nombres podéis decirle a chat
+[05:28] que os genere más lo venimos aquí copiar pegamos vosotros en vez de hacer esto vais a
+[05:37] chat gbt le decís crea mi 200 más pero lo importante aquí es que no sobre por ejemplo aquí
+[05:42] haya un cuadro aquí haya una fecha aquí suelta luego el cv se vuelve loco borramos ya tenemos
+[05:49] las reviews tenemos la fecha tenemos las fotos aquí le podéis meter a todo tru lo mismo justo
+[05:55] hasta ahí nos lo bajamos en csv csv volvemos a lux y aquí en reviews le damos a continue
+[06:09] to upload select file esto es lo que nos acabamos de descargar en formato csv y atendríamos las
+[06:18] reviews puestas aquí vemos que ya nos aparecen las 300 reviews para comprobarlo vamos a ir
+[06:24] a la página le damos a personalizar y vamos a asegurarnos de que las reviews estén
+[06:29] linkeadas a nuestro producto y vemos que aquí ya salen las reviews algunas días estaban hechas
+[06:36] que ya las había hecho más normalmente me imagino y estas de aquí todas estas serían las nuestras
+[06:42] una vez más lo importante es que las primeras 10 15 estén bien por lo demás no no importa
+[06:48] demasiado ya la que vayáis escalando si estáis haciendo muchos billetes sí que vale la pena
+[06:54] meterle ojo sí que vale la pena cuidar el detalle de absolutamente todo pero ahora al principio con
+[07:01] esto estáis perfecto
