@@ -1,0 +1,56 @@
+# Lección 31 — 31. Orden de Descripción - Bloques.mp4 (04:35)
+[00:00] Bien, ahora llevamos con la descripción porque aquí ya empezaría a ir descripción. Lo primero que
+[00:05] tenemos que hacer es borrarlo todo. Borramos, borramos, borramos y en la sección divide la podemos dejar,
+[00:10] ¿vale? Bien, entonces, ¿qué hacemos nosotros? Lo primero es fijarnos en la competencia, pero
+[00:15] nosotros tenemos una estructura que hemos testeado con decenas, cientos de productos, cientos que
+[00:21] se exagerar, pero entenderme que sabemos que funciona y cuál es esa estructura. Bien,
+[00:27] ponemos de entrada, es decir, después de los desplegables, ponemos un real app, es decir,
+[00:32] un emoji image video slider, ¿vale? A ver que no me acuerdo era ésta. Sí, aquí, perdón,
+[00:40] que tengo tantas cosas abiertas. Esto, ¿vale? Esto, que se van reproduciendo como los vídeos,
+[00:46] en este caso son como reseñas, pero más vídeos, ¿vale? Entonces, luego os voy a enseñar cómo
+[00:51] poner, ¿a cómo poner, perdón, todas esas secciones, ¿vale? Entonces, le damos a agregar sección,
+[00:56] ponemos image video slider y lo añadimos aquí, lo ponemos por encima del sector divider, ¿vale?
+[01:03] El producto relacionado a éste no podemos borrar y borramos, borramos, borramos,
+[01:07] borramos, le damos un clic encima y ponemos vídeo, ¿vale? Vídeo, vídeo. Entonces,
+[01:14] yo simplemente voy a poner el mismo vídeo todo el rato, luego os explico cómo ponerlo,
+[01:17] no os preocupéis, ¿vale? No, no sufráis por eso, simplemente para que veáis cómo queda,
+[01:21] ¿vale? Lo ponemos aquí y es el mismo, ¿eh? Vuelvo a repetir, no os preocupéis. Entonces,
+[01:26] ésta sería la primera sección, ¿vale? Le doy a guardar. Bien, después de esta sección, ¿qué
+[01:31] pongo? fax, preguntas frecuentes, que esto es collapsible row, contenido desplegable. Vengo
+[01:37] aquí, selecciono las fax, el sector divider lo pongo abajo, ¿vale? Que tiene que ir abajo,
+[01:43] ¿vale? Y pongo las fax. Normalmente las fax las suelo poner del color de la web con el
+[01:48] sector divider, ¿vale? ¿Cómo? Bien, aquí, ahora le cambiamos el título a todo, no os
+[01:53] preocupéis, ¿vale? En color stream black, joder, el background ponemos el accent one, ¿vale?
+[02:00] Y el abajo, el sector divider, le damos arriba derecha, duplicar, arriba derecha, duplicar
+[02:05] y lo movemos por encima y lo movemos por abajo. El que esté mal puesto, que es el
+[02:10] abajo, le damos encima y donde pone aquí, perdón, flip horizontal, flip vertical, ¿vale?
+[02:16] Y lo pongo así, ¿vale? Ésta sería la sección, es decir, sale el limón de los desplegables,
+[02:21] nos encontramos un video slider, nos encontramos las fax y aquí ya empezaría a venir banner
+[02:27] con imagen o imagen con texto, ¿vale? Banner de imagen con texto sin botones, ¿vale? Le quito
+[02:32] los botones, aquí pondríamos una imagen sin el sector divider este que va aquí, ¿vale?
+[02:38] Entonces, aquí vendría una imagen, luego podríamos poner un antes y un después, luego
+[02:42] podríamos poner la garantía, luego otra imagen y ya empezamos a resolver objeciones poniendo,
+[02:47] dependiendo de lo que necesita el producto. Por ejemplo, esta persona pone un gif,
+[02:50] luego un antes y un después, aquí un antes y un después, aquí algo, aquí un antes y un
+[02:54] después y luego garantía. Esta gente te pone lo de las imágenes, el rollo más reseñas,
+[02:59] luego un video, los resultados, algo que ataque al cliente, es decir, le explica cosas,
+[03:05] ataca a las emociones y rompe objeciones del cliente, pone aquí como unos emoji, unos icons, ¿vale?
+[03:11] Que esto lo veremos después, reseñas, aquí te pone una tabla de comparación,
+[03:14] las preguntas frecuentes de bajo y más reseñas, ¿vale? Y esta gente te hace más o menos lo mismo,
+[03:20] te mete las fax aquí, que sería más o menos como las fax, te mete el relap,
+[03:25] como hemos puesto nosotros, te pone una sección para que tocar puntos de dolor,
+[03:30] arm legs, bikinis, es decir, diferentes cosas, un antes y un después, iconos igual que el otro,
+[03:35] más reseñas, resultados, antes y después con reseñas, comparación, tocando puntos de dolor y
+[03:41] reseñas. Más o menos lo que os estoy diciendo, ¿vale? Entonces, la estructura de la descripción,
+[03:45] la vamos a hacer ahora, nos preocupéis, es esta. Ponemos relap, que relap es una aplicación,
+[03:50] usamos primero el desrain y luego ponemos relap, que se ve más guapo, ya lo enseñaremos,
+[03:54] luego ponemos las fax, que luego lo tocaremos juntos y a luego empezamos a poner descripción que
+[03:59] tendremos que pensar que necesita nuestro producto que sea dicho, es decir, si poner un antes y un
+[04:04] después tiene sentido, pues ponemos un antes y un después. Imagínate que tu producto no tiene
+[04:08] ningún sentido poner un antes y un después, porque es algo para inflar la hora de un coche,
+[04:12] aunque bueno podría estar desinchada, hinchada, pero entenderme, no tiene sentido, ¿vale? Entonces,
+[04:16] vamos a romper bien las objeciones de los clientes, vamos a hacer los conchat GPT,
+[04:20] ahora os lo explico el tema de descripción y ahí vamos viendo qué hay que poner. Entonces,
+[04:25] este vídeo era solo para informaros de por qué va en cada orden todo y ahora en los
+[04:29] siguientes ya vamos a empezar a rellenarlo todo y hacerlo juntos, vamos a ello. Siempre acordaros,
+[04:33] le damos a guardar y seguimos.
