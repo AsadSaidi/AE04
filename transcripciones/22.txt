@@ -1,0 +1,117 @@
+# Lección 22 — 22. Miniaturas Linea Separadora Margen Superior-Inferior.mp4 (09:21)
+[00:00] Bien, ya tengo las imágenes hechas, ¿de acuerdo?
+[00:03] Quiero dejar algo claro, que no lo dije en el vídeo anterior.
+[00:07] Bien, poner una caja de mentira, me explico como que esta caja es nuestra,
+[00:12] como que al cliente le va a llegar con esta caja, puede aumentar muchísimo la conversión,
+[00:18] pero como bien sabéis nosotros no tenemos esta caja y le va a llegar con otra.
+[00:22] Bien, normalmente la gente no se queja, no dice, oh, me ha llegado con otra caja,
+[00:26] le contesta y le dice, sí, perdona, tuvimos ruptura de stock de la personalización de las cajas
+[00:33] y tuvimos que enviar con otra caja de fábrica, lo lamentamos en su siguiente compra y le damos un 20% de descuento,
+[00:38] ¿vale? Que sé, cualquier cosa. Si alguien te dice, no, estafador, es tal, no va a pasar,
+[00:43] pero en el caso de que pase, no os preocupéis porque nos pueden demandar por la caja porque el producto funciona bien, ¿vale?
+[00:49] Sí que es verdad que si es mucha queja, mucha queja, mucha queja, deberías de quitarlo
+[00:53] porque pueden denunciar en Facebook y Facebook hacer como que estás haciendo un publicidad engañosa.
+[00:58] En el caso de que sean pocos, no pasa nada, cuando empiezas a escalar, si escalas iba bien,
+[01:03] haces la caja parecida, cambias la foto por la caja que has hecho y listo, ¿vale?
+[01:06] Entonces no os preocupéis por esto, ¿vale?
+[01:07] Entonces, foto principal con los tres regalos con fotos más originales, no tan elemento, ¿vale?
+[01:14] Con esto de aquí, la flechita, todo con sombra, limpio, ¿vale? Bastante limpio, como veis, profesional.
+[01:20] Esto de aquí, que ya lo hicimos juntos, le he cambiado solo el 21.000 porque el 90.000 era demasiado,
+[01:24] esta infografía, patitas limpias sin estrés, prueba lo durante, perdón, que son 30, no 90, ¿vale?
+[01:30] Prueba lo durante 30 días, si no te encanta te vemos el dinero sin preguntas, luego hay un pero con
+[01:35] esto, así que no os asustéis, todos los beneficios, función silenciosa, cortes seguros sin estrés,
+[01:39] batería recargable, ahorro de dinero, 30 días de prueba y luego una comparación con peluquerías
+[01:43] caninas, que paga más y nuestro producto, todo bien, ¿vale? Entonces ahora lo que tenemos que
+[01:50] hacer es venir a nuestro Shopify, venir al producto y subirlas, creo que esto ya sabéis hacerlo, ¿vale?
+[01:55] Entonces, ahora vamos a prestar atención, o sea, es decir, prestar atención a lo que vamos a hacer.
+[01:59] Ok, lo primero, al colocarlas, fijaros que ya se ve la siguiente y esto queda muy feo,
+[02:05] lo que tenemos que hacer es le damos encima de información de producto, ¿vale?
+[02:09] Acordaros en página de producto, bajamos, bajamos, bajamos y hay un momento que aquí pone un poquito
+[02:15] más para arriba, aquí, scroll padding pixels, fijaros que si lo pongo a cero, la imagen se
+[02:20] completa, así tiene que estar, ¿vale? O sea, así tiene que estar porque si no es feísimo,
+[02:25] entonces le damos a guardar y podemos ver que esto ya pues es otra cosa, ¿vale? Otra cosita
+[02:31] que podéis hacer es poner un poco de separación en las fotos, veis que es a sacos,
+[02:36] es decir, que está pegado, a mí me gusta poner un poco de separación y lo ponemos así, ¿qué sería
+[02:41] aquí? ¿vale? En spacing between slides y en, bueno, no en corner radio, no, pero como la siguiente es
+[02:46] azul, que no me había dado cuenta, lo vamos a dejar en cero, ¿vale? Si las vuestras son todas
+[02:50] blancas, podéis añadir eso y algo muy importante es fijaros en estas, en estos puntitos, ¿vale?
+[02:56] Que es como para pasar a siguientes imágenes. A mí, a mí me gusta más poner las miniaturas,
+[03:01] pero sí que es verdad que dependiendo de qué marcas lo hacen o no lo hacen, por ejemplo,
+[03:05] si vamos a estos, si lo pongo mal, perdón, si vamos a esta gente, podemos ver que tienen
+[03:14] las miniaturas puestas, ¿vale? Damos f12 y podemos ver que tiene las miniaturas puestas,
+[03:19] vamos a pocket speech y podemos ver que no tiene las miniaturas puestas, es decir,
+[03:23] hay gente que lo pone y hay gente que no, ¿vale? Entonces, fijaros mucho en la competencia,
+[03:29] a mí normalmente, a no ser que la competencia haga lo contrario, me gusta ponerlo, ¿vale?
+[03:33] ¿Cómo se hace esto? Bien, venimos aquí, lo primero que tenemos que hacer es aquí, aquí,
+[03:38] aquí, un momentito, perdón, aquí, perdón, zoomnail, positions, hiding, hidden, left,
+[03:45] button, right, ¿vale? Entonces, aquí es donde tenemos que tocar el tipo de lo de la página,
+[03:51] numeric, para que salgan los números, ¿vale? Aquí lo podemos tocar todo,
+[03:55] que no salga nada, que salgan los puntos de abajo y que salgan los puntos por encima.
+[04:01] Luego podemos poner que salgan al lado, ¿vale? Con las flechas, podemos poner aquí,
+[04:06] que salgan al lado y nada, ¿vale? Entonces, tenemos que ir tocando esto. Luego, aquí,
+[04:12] ArrowsPosition, podemos poner que salgan por los lados, que ahora en este caso está quitado,
+[04:16] es decir, aquí lo podemos tocar absolutamente todo, ¿vale? Así que lo que yo hago es activar
+[04:21] las miniaturas debajo para que la gente vea las fotos sin tener que estar deslizando.
+[04:25] Le damos aquí, donde pone MobileMedia, ZoomnailsPosition, está en hiding, siempre,
+[04:29] está oculto. Entonces, si le damos izquierda, sale la izquierda, no hagáis esto nunca. Si le damos
+[04:34] derecha, salen abajo, que también pueden salir a la derecha, pero no hagáis esto, perdón,
+[04:38] button, right, derecha y button abajo, siempre abajo, ¿vale? Si tenéis cuatro,
+[04:45] fijaros que esta persona, cuando le damos F12, no salen las miniaturas, solo salen en
+[04:51] el ordenador, pero fijaros que lo que hemos visto antes, aquí no salen y aquí sí que
+[04:56] salen, ¿vale? Entonces fijaros que salen tres y como que va la cuarta. A mí lo que me gusta hacer
+[05:01] es en el caso de que tengáis poquitas, por ejemplo, aquí ponen que salen cinco, pues ponemos que salgan
+[05:06] tres para que la gente entienda que hay más, o por ejemplo, cuatro, es decir, que nunca se vean
+[05:12] como que hay un hueco, ¿vale? Que nunca se vea que hay un hueco. Entonces, como tenemos cuatro,
+[05:16] pues ponemos cuatro, si tenemos tres, pues ponemos tres. Y a mí lo que me gusta hacer es o quitar
+[05:21] esto, ¿vale? O poner las flechas, es decir, aquí lo oculto, porque ya están todas aquí,
+[05:26] solo tienen que darle un clic, ¿vale? Entonces no hace falta que estén los puntos o podemos poner
+[05:31] diferentes cosas, ¿vale? Podemos poner numéricos, es decir, los números, under media o over media,
+[05:37] ¿vale? Esto no es relevante, lo podéis dejar así o quitarlo, lo que queráis. Entonces,
+[05:41] le damos a guardar y por último, lo que tendríamos que hacer, que no acaba el vídeo aquí,
+[05:45] sería quitar la barra esta, las líneas separadora. Le damos un clic donde es logo, ¿vale?
+[05:49] Que es el encabezado y fijaros que aquí sale mostrar líneas separadoras, es decir,
+[05:53] le doy un clic para que lo volváis a ver, perdonarme. Vamos a la página de producto. Bien,
+[05:59] selecciono el inspector, le doy encima del logo para que me seleccione el encabezado y aquí pone
+[06:03] mostrar líneas separadoras. Fijaros, es esta línea de aquí, si yo lo quito, se ve todo junto y
+[06:08] queda mucho más profesional. Le doy a guardar y ya estaría. ¿De acuerdo? Entonces si vuestra
+[06:12] competencia no usa miniaturas, no la pongáis. Si las usa, ponerlo. Si no sabéis, pues
+[06:17] haces lo que queráis, pero a mí me gusta ponerlo así para que la gente vea que hay mucha más
+[06:21] información y lo tenga muy accesible. El orden de las miniaturas, de las fotos, de las
+[06:25] infografías, la se puesto igual que esta persona, que es la competencia. Primera foto de producto
+[06:30] con los regalos, segunda foto reseñas, tercera foto una sin más que ésta no la ha hecho,
+[06:35] cuarta foto con información y quita foto con un antes y un después. Yo en vez delante
+[06:40] y el después he hecho. Foto principal, reseñas igual. En vez de un antes y un después he hecho
+[06:47] esto, que sería el diferente orden, es decir, lo tendría que cambiar, pero no importa y por
+[06:51] último la de información. Entonces, dicho esto, os explico una cosa muy rápida en este
+[06:56] vídeo y vamos al siguiente. Robar fotos de la competencia es rápido, yo lo hago muchas
+[07:01] veces, nosotros lo hacemos, no lo vamos a negar, pero sí que verdad que luego te
+[07:05] puede dar problemas con Facebook o te puede dar problemas por marca, pero normalmente
+[07:09] para testear es lo que podrías hacer y muchas veces no sabéis descargaros, no sabéis descargaros
+[07:14] las fotos de la competencia porque están como encritadas o están como bloqueadas. Entonces
+[07:19] lo que tenéis que hacer, que lo tengo aquí puesto, para que lo veáis, lo que tenéis
+[07:23] que hacer es venir a Google, ponéis Google Chrome, doblot, image, y descargáis esta
+[07:30] extensión. La añadís a Chrome, añadir extensión, venís aquí y ya se ha añadido.
+[07:35] Y luego venís a esta que es video doblot helper, hacéis lo mismo, extensión, lo añado,
+[07:40] añado extensión, y se me pone ahí. Entonces lo único que voy a hacer es anclarlas, como
+[07:46] siempre, lo anclo aquí, lo anclo aquí, y entonces me vengo aquí y por ejemplo, si
+[07:51] yo le doy a la de imagen, podemos ver que me da para descargarme todas las
+[07:56] imágenes. Por ejemplo, el gif este me lo podría descargar, le doy un clic, le doy a
+[08:01] doblot, le digo que sí, que no me lo doy esto, y le doy a
+[08:04] just doblot, y automáticamente ya tengo el gif, así de sencillo.
+[08:08] Obviamente esto es para testear cuando vayáis más serios, no hagáis esto, y esto
+[08:15] dirá mal, pero eso es un video, no, esto es un gif, porque los gif los coge
+[08:18] como imágenes, pero en el caso de que haya algún video, lo único que tienes que
+[08:22] hacer, vamos a ver si aquí tiene algún video, por ejemplo, lo único que
+[08:26] tienes que hacer en el caso de este, vale, venimos aquí, le damos a video, y fíjate
+[08:33] que aquí te salen diferentes videos, aunque no te sale bonito, es decir, no te sale
+[08:39] bien cuál es cuál, pero podemos darle a inspeccionar o podemos ir probando,
+[08:43] vale, entonces si fuese un video, le damos a video dobloder, y nos lo descargamos,
+[08:47] y es una foto, pues hacemos la foto, vale, entonces bastante sencillo, igualmente
+[08:52] intentar no robar muchas cosas, porque os pueda problemas, ya no sólo con la
+[08:55] marca, sino con Facebook, pero que de entrada el gif ese no es de nadie, me
+[08:58] refiero, el gif este que nos acabamos de descargar, o sea, literalmente no sale
+[09:03] absolutamente nada, entonces esto lo puedes usar sin problema, de hecho nosotros
+[09:07] seguramente lo usaremos, así que así podéis descargar las imágenes con esas
+[09:11] dos extensiones, quitar todo lo que os he dicho de poner las
+[09:16] miniaturas, quitarlo de los bordes, quitar la línea separadora, y vamos con lo
+[09:20] siguiente.
