@@ -1,0 +1,28 @@
+# Lección 46 — 46. Teléfono obligatorio en pantalla de pago.mp4 (02:03)
+[00:00] Bien, chicos, creo que ya está la formación, pero veo que hay gente que no lo está haciendo,
+[00:05] entonces, a lo mejor no está, y prefiero que esté doble a que no esté así, que si está doble
+[00:09] no me lo tengáis en cuenta, pero creo que no está, ¿vale? Perdonar por esto.
+[00:12] Bien, tenemos que poner que el cliente tenga que poner el teléfono obligatorio y no está puesto.
+[00:18] Vale, fijaros que el cliente cuando va a comprar le sale contacto, e-mail o número de teléfono
+[00:23] y luego por su dirección, código postal, etcétera.
+[00:25] Bien, lo que tenemos que hacer es venir a configuración, venir aquí a pantalla de pago y aquí donde
+[00:31] pone método de contacto del cliente, número de teléfono o correo electrónico, lo ponemos
+[00:35] solo en correo electrónico, ¿vale? Entonces el cliente aquí solo le va a dar opción como
+[00:40] válida del correo electrónico y lo que hacemos es bajar y aquí donde pone nombre completo
+[00:46] ponemos requerir nombre y apellido, las dos cosas, nombre de la empresa, no incluir
+[00:51] línea de dirección 2, no incluir, opcional, es indiferente y aquí número de teléfono
+[00:56] de la dirección de envío obligatorio. Entonces, ahora el cliente va a tener que poner las dos
+[01:01] cosas y os explico por qué es importante esto, ¿vale? Ahora nos ha actualizado, a veces
+[01:05] tarde un poquito, ¿veis? Ahora ya no pone teléfono número correo electrónico, número
+[01:10] de teléfono, ahora pone correo electrónico y aquí el teléfono y ¿por qué es importante
+[01:14] esto? Bien, el contacto es importante que siempre sea el correo 1, porque vamos a poder
+[01:18] hacer email marketing y 2, por el tema de la privacidad y todo el rollo que sea un poco
+[01:23] más profesional y no por teléfono, ¿vale? Entonces necesitamos el correo para poder contactar
+[01:27] con ese cliente y poder luego hacerle email marketing y necesitamos el teléfono obligatorio
+[01:33] para dárselo al proveedor, para comprar en al express o donde sea, ¿vale? Entonces
+[01:37] lo hacemos de esta manera, venimos a pantalla de pago en configuración y hacemos
+[01:42] esta configuración que acabo de hacer, correo electrónico, ponemos lo de obligatorio,
+[01:46] ponemos lo del teléfono y perdón, lo del nombre y apellido y le damos a guardar, ¿vale?
+[01:51] Si ya estaba, pido disculpas por estar repetido, creo que no estaba porque lo he tenido que
+[01:55] hacer y esta es la tienda de esta formación, así que creo que no estaba a perdonar,
+[01:58] que se me había olvidado la verdad, entonces hacer eso y darle caña sencillito.
