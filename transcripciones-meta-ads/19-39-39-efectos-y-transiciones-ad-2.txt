@@ -1,0 +1,136 @@
+# 19-39-39-efectos-y-transiciones-ad-2 — 39. Efectos y Transiciones Ad 2.mp4 (10:17)
+[00:00] Vamos por los efectos visuales y las transiciones.
+[00:03] Las transiciones son este cuadradito blanco que está entre clip y clip.
+[00:08] Es esto de aquí, lo apretamos ahí, y aquí están las transiciones.
+[00:13] Vamos a ver cómo lo cuadramos.
+[00:18] Este cambio queda muy seco, le vamos a leer un desenfocar.
+[00:24] Aquí le vamos a poner otra transición, ya sabéis que hay miles.
+[00:33] Aquí le vamos a poner a acercar, por ejemplo.
+[00:41] A este igual le pondremos una animación que sea de mini zoom,
+[00:47] que como ya sabéis la línea de abajo tiene que estar...
+[00:57] ...toda llena para que el efecto dure todo el clip.
+[01:05] Aquí igual le quedaría bien una transición de...
+[01:08] ...a ver si la encontramos.
+[01:10] Es esta.
+[01:31] Este es muy estático, así que en vez de hacer un mini zoom,
+[01:35] el mini zoom se va a centrar en lo que está al centro y va a quedar mal.
+[01:39] Vamos a verlo.
+[01:46] Véis que no queda muy bien.
+[01:51] Ahora vamos a ver cómo lo hacemos, lo sacamos.
+[01:55] Y nos ponemos al principio del clip y este rombo con un más
+[02:01] que sale al lado de la flecha de tirar para atrás.
+[02:05] No sé si lo veis, al lado del play y apretó el play.
+[02:08] Aquí a la derecha está este rombo con un más al lado izquierdo,
+[02:12] apretamos esto, nos dirigimos hasta el final del clip
+[02:17] y volvemos a poner otro rombo y acercamos...
+[02:25] Ahora os explico, acercamos el clip hasta donde queremos que acabe.
+[02:29] Esto va a hacer que donde ponemos el clip es donde va a empezar
+[02:33] el zoom o lo que hagamos nosotros.
+[02:37] En este caso hemos hecho...
+[02:39] ...en el segundo rombo hemos hecho un zoom para que acabe justo ahí.
+[02:43] Entonces va a hacer este movimiento, el movimiento que le hemos dado.
+[02:53] Perfecto.
+[02:56] Este también queda muy seco.
+[02:58] Vamos a poner este ya lo hemos puesto.
+[03:06] Este por ejemplo.
+[03:08] Aquí este ya me gusta.
+[03:10] Este vamos a volver a hacer lo mismo.
+[03:12] Lo vamos a hacer de otra forma, que es que empiece.
+[03:15] En vez de acercarlo vamos a hacer que empiece desde aquí,
+[03:20] está al lado de la derecha, apretamos el rombo otra vez al principio del clip
+[03:24] donde queremos que empiece y al final del clip le ponemos otro rombo
+[03:29] y lo decimos al final del último rombo que hemos puesto
+[03:34] donde queremos que acabe el clip y va a hacer el movimiento este.
+[03:43] Con este podemos hacer lo mismo.
+[03:45] Varemos que se acerque.
+[03:47] Pero como está a un lado no vamos a hacer con mini zoom
+[03:52] sino que lo vamos a hacer con los rombos.
+[03:54] Por ejemplo así.
+[03:59] Esto ya os digo, a base de que no hay ninguna fórmula de decir
+[04:03] cuando salga un hombre tienes que poner a mini zoom
+[04:06] cuando salga esto a base de ver vídeos vais a ver el video
+[04:11] que podéis poner que no o a gustos también va.
+[04:15] Entonces seguimos.
+[04:19] Por ejemplo este lo veo muy muy quieto.
+[04:22] Vamos a darle desde entrada un alejamiento
+[04:25] porque ya hemos puesto muchos que hacen zoom
+[04:29] entonces estoy al revés.
+[04:47] Aquí queda muy raro.
+[04:49] Entonces le vamos a poner otra transición de desenfocar.
+[04:58] En este le ponemos otro mini zoom.
+[05:09] Perfecto.
+[05:19] Aquí le podemos meter otro desenfocar.
+[05:25] Este trozo tiene un efecto pero es porque está sacado de otro anuncio.
+[05:32] Es un clip de otro anuncio que ya venía así.
+[05:35] Entonces lo dejamos así.
+[05:41] Aquí en este podemos hacer como que...
+[05:44] Aquí como hay un poco de frontera,
+[05:46] como si entrar en la piel.
+[05:48] Aquí podemos hacer al revés.
+[05:50] Un alejar como si volviera a salir.
+[05:53] Una transición.
+[05:55] Entonces es como que entra en la piel, se ve lo que pasa
+[05:59] y vuelve a salir.
+[06:01] Esto me gusta.
+[06:03] Está bien.
+[06:05] Ahora para pasar al final del video
+[06:07] voy a poner el video.
+[06:09] Y vuelve a salir.
+[06:11] Esto me gusta.
+[06:13] Está bien.
+[06:15] Ahora para pasar al social proof
+[06:17] le pondremos otro desenfocar.
+[06:26] A ver como queda.
+[06:37] Y aquí podemos volver a poner una transición de acerca.
+[06:41] Por ejemplo.
+[06:44] Este es un poco largo
+[06:46] así que vamos a hacer lo mismo de los rombos.
+[06:49] Añadimos un rumbo aquí
+[06:51] y al final de todo
+[06:54] añadimos otro
+[06:56] y le decimos como queremos que quede.
+[06:59] Que es hacer que hasta aquí por ejemplo.
+[07:14] Este también le vamos a hacer algo.
+[07:19] Vamos a meter otros rombos.
+[07:31] Por ejemplo.
+[07:39] Y ya tendremos
+[07:41] los efectos visuales puestos.
+[07:44] Vamos a ver como ha quedado
+[07:46] para ver si queremos cambiar alguna cosa
+[07:48] lo que sea.
+[07:50] Es importantísimo repasarlo tantas veces como
+[07:52] hagan falta
+[07:54] porque esto es un anuncio
+[07:56] vamos a tener que pagar para que se enseña
+[07:58] y vender, entonces tiene que estar perfecto.
+[08:00] Vamos a repasarlo.
+[08:25] A ver este, si está todo.
+[08:27] Le falta un trozo.
+[08:29] Veis que le falta un poco.
+[08:31] Lo vamos a ajustar.
+[08:33] Al principio no hacía zoom
+[08:35] pero eso es importante repasarlo.
+[08:54] Aquí al haber puesto la transición
+[08:56] vemos que ya hace un cambio de clip
+[08:58] entonces vamos a cambiar esto
+[09:04] como ya sabemos
+[09:06] lo duplicamos
+[09:08] que vaya debajo
+[09:10] lo ajustamos para que esté
+[09:12] en la misma línea
+[09:15] que esté igual
+[09:19] velocidad
+[09:21] apertamos a normal
+[09:23] lo ponemos
+[09:26] en velocidad 0.9
+[09:28] y repasamos
+[09:30] el trozo que sobra
+[09:32] lo volvemos
+[09:34] a meter
+[09:36] en la pista principal
+[09:41] y borramos el que no queremos
+[09:43] volvemos a mirar
+[09:45] ahora falta
+[09:47] la transición, se ha ido
+[10:04] Perfecto, ya lo tendríamos
+[10:06] los efectos visuales puestos

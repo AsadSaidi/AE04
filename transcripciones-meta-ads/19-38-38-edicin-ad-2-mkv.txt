@@ -1,0 +1,40 @@
+# 19-38-38-edicin-ad-2-mkv — 38. Edición Ad 2.mkv.mp4 (12:58)
+[00:00] Una vez tenemos la voz perfecta, lo siguiente que tenemos que hacer ya sabéis que es
+[00:05] es recortar los clips para poderlos substituir, dependiendo de lo que hayamos escrito nosotros
+[00:11] antes en nuestro excel, es decir, la primera frase hemos decidido que pondríamos dos
+[00:17] visuales, aquí lo separamos con el más que hemos dicho, entonces vamos por la primera.
+[00:23] Esta sería la primera frase y lo hemos recortado
+[00:29] aquí para meter los dos clips, la segunda lo mismo, hemos dicho que tendrá solamente un
+[00:37] visual, cortamos ahí, para recortar ya sabéis elegir la pista, la imagen o el vídeo que
+[00:48] queráis y esto primero dividir, ya lo he dividido todo porque ya sabéis cómo funciona,
+[00:55] es exactamente lo mismo ir haciendo, dependiendo de lo que hayamos decidido como hemos dicho
+[01:01] en el excel, así que una vez hecho esto, lo siguiente es substituir cada clip según lo
+[01:11] que hayamos decidido, vamos a ello, esto podemos hacer, ahora vemos que no está en el mismo
+[01:27] formato, podemos ajustar como queramos, está perfecto así, siguiente, substituir, ajustamos
+[01:59] y ya veis que ahora esto también es muy mecánico porque ya lo tenemos hecho de antes, por eso
+[02:05] va bien estructurarlo y ordenarlo todo perfecto porque si no a la hora de editar es un desastre,
+[02:11] así que vamos a hacerlo con todo esto y si sale alguna cosa, lo vamos a contar, si no
+[02:18] vamos a ir haciendo esto, que es simplemente substituir cada clip, bien aquí en este
+[03:23] clip nos encontramos que durá menos, veis que ya cambia, durá menos que el trozo que
+[03:29] queremos nosotros, entonces podemos solucionarlo, lo seleccionamos, lo duplicamos, lo ponemos
+[03:40] debajo con superposición, lo lastramos para que esté idéntico, en la misma línea
+[03:49] de tiempo, está perfecto y vamos a hacer que vaya más lento, en velocidad, apretamos normal
+[03:58] y por ejemplo le ponemos velocidad 0.8, vamos a ver si lo recortamos así, está perfecto,
+[04:18] ya no se ve el otro trozo, entonces ahora este es el bueno, lo tenemos que devolver a la
+[04:25] pista principal y el otro lo borramos y ya está cambiado, ahora lo aumentamos, que no se vea
+[04:36] la letra y seguimos, este es otro caso, en este caso lo que queremos es que el hombre
+[06:37] abra la caja, no que la cierre, por ejemplo, entonces lo tenemos seleccionado y vamos
+[06:45] a tener que hacer que lo haga lo mismo pero al revés, así que nos vamos a revertir y
+[07:00] vamos a ver que ahora la abre, vamos a ver la diferencia, voy a tirar para atrás,
+[07:09] aquí la está cerrando, hemos puesto revertir
+[07:21] y ahora la abre, me parece que había apretado la otra flecha, bueno con revertir hacéis que el vídeo
+[07:38] salga al revés, perfecto, seguimos, aquí nos pasa exactamente lo mismo que en el otro,
+[09:52] tenemos que hacer que duren poco más, en este caso, porque se acaba, así que duplicamos también
+[10:01] su preposición, lo ajustamos bien para que estén iguales y la vemos a velocidad normal y yo creo
+[10:20] con un 0,9 vamos a probar, tenemos que se mueve a todo el rato, aquí es muy poquito pero
+[10:33] ya que estamos lo vamos a poner a 0,8, a ver ahora, está perfecto ahora, lo mismo, nos vamos
+[10:49] hasta pista principal y borramos el que no queremos, ya está sustituido, una vez hemos sustituido todos
+[12:19] los clips, nos fijamos que estén como nosotros queremos con el mismo formato, que no nos hayamos dejado
+[12:25] nada y sobre todo que la pista principal es sin audio, esto que sale donde dice portada a la izquierda
+[12:38] donde dice silenciar el audio, esto lo tenemos que seleccionar porque si no cada clip va a tener su sonido,
+[12:45] vamos a verlo, entonces se tiene que silenciar, ahora sí tenemos la voz y los visuales

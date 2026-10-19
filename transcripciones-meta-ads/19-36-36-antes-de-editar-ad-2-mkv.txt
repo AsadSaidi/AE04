@@ -1,0 +1,16 @@
+# 19-36-36-antes-de-editar-ad-2-mkv — 36. Antes de Editar Ad 2.mkv -.mp4 (01:54)
+[00:00] Una vez tenemos todo preparado para empezar a editar, tenemos el script, tenemos el hook de texto,
+[00:06] los visuales que vamos a poner y tenemos la bot descargada.
+[00:12] Lo tenemos aquí, lo hemos hecho lo mismo, lo hemos puesto en una carpeta, aquí lo vamos a tener todo.
+[00:18] En este caso lo hemos hecho en vez de por nombres, lo hemos hecho con números,
+[00:23] por eso digo que se puede hacer de muchas formas, cada uno que lo haga como le vaya mejor.
+[00:27] Los clips por números, ordenados, el cut to action, la imagen sin fondo que vamos a poner encima de un clip
+[00:36] y ya vamos a ver ahora cuando editemos y la bot, solo falta descargar una imagen,
+[00:42] ahora vais a ver por qué, que en este formato no importa que imagen sea esta misma,
+[00:52] esto va a ser porque cupcut no tiene este formato, el 4 o 5,
+[01:00] entonces vamos a tener que ponerle una imagen que sea de este formato para adaptarlo al original.
+[01:07] Ahora vamos a ver la pantalla del teléfono y lo vamos a entender mejor, la descargamos,
+[01:13] descargamos la imagen, imagen tiene que ser, esto importa, jpg, png, como queráis, la 2, perfecto,
+[01:25] una vez descargada, la metemos en la misma carpeta y todo esto es lo que nos vamos a enviar el teléfono
+[01:44] para empezar a editar o en el caso del que quiera, desde el ordenador, como ya sabéis, como queráis.
+[01:50] Vamos a ver la pantalla del teléfono ahora.

@@ -1,0 +1,36 @@
+# 19-30-30-heygen-ad-1 — 30. Heygen Ad 1.mp4 (08:46)
+[00:00] Vamos a ver un ejemplo de cómo hacer que nuestros anuncios salga de estilo ugc, como por ejemplo esta chica, que sale el vídeo detrás y ella hablando debajo, diciendo lo que nosotros queremos, evidentemente, o este otro estilo, que es que en trozos del anuncio vaya saliendo la chica entera, también diciendo lo que nosotros queremos.
+[00:23] Vamos a ver la chica, vuelve a salir a un trozo del anuncio, aquí vuelve a salir la chica, bien, vamos a ver cómo hacer esto.
+[00:30] Para esto lo vamos a hacer con esta aplicación que se llama Heijen, al principio me parece que se puede probar gratis si no un mes cuesta 29 dólares, que lo podéis probar y si no os gusta y preferís otra porque hay miles, pues canteláis el plan y vamos a ver cómo funciona.
+[00:50] Aquí hay miles de cosas, pero nosotros lo vamos a usar solamente para generar una avatar, también podéis generar vuestro propio avatar.
+[00:58] Aquí tenéis un tutorial de cómo se hace, pero nosotros lo que vamos a hacer es crear un vídeo a partir del texto o audio porque también le podemos dar un audio que queramos avatar vídeo, este no nos interesa, nosotros queremos este.
+[01:15] Una vez dentro vais a ver que hay miles de avatares, hay muchísimos, y de cada avatar donde pone Lux quiere decir que tiene distintas posiciones en la avatar, vamos a entrar por ejemplo en esta,
+[01:29] y veis que tiene 54 posiciones distintas, con distinta ropa, mirando a cámara, no, esta una cosa, luego aquí os va a decir que tiene más expresión a la hora de hablar el personaje, también sale alguno, os dice si está creado con inteligencia artificial,
+[01:50] si está con inteligencia artificial os lo va a decir también, aquí en UGC también hay, bueno hay muchísimos, nosotros para hacer la prueba vamos a elegir esta misma, y esta que está sentada por ejemplo,
+[02:10] ponemos centrada, y aquí le podemos poner el script escrito, porque a partir de aquí podemos elegir también, hay voces, aquí hay distintas voces, hay muchísimas, pero nosotros como previamente lo hemos hecho con iLevel Labs,
+[02:33] yo puedo poner directamente la voz descargada, aquí upload audio, esta es la voz que hemos utilizado para el anuncio, la subimos y tenemos que poner voice mirroring,
+[02:48] que es para que salga con la misma voz que le estamos dando, le vamos a añadir, ahora le está transcribiendo, está transcribiendo el audio a texto, lo está haciendo al revés,
+[03:02] perfecto, ya lo tenemos, y ya lo podemos generar, aquí le podemos poner el nombre que queramos, no importa, la resolución 1080, 60 fps,
+[03:14] esto está bien y sin marca de agua, perfecto, una vez se haya generado, vamos a ver que esté bien, le damos al play.
+[03:31] Perfecto, lo descargamos y nos lo pasamos al teléfono, volvemos a estar en Capcat desde el teléfono, es el mismo anuncio ya hecho, vamos a ver como ponemos a la chica debajo,
+[04:02] así que lo que tenemos que hacer es borrar el fondo, vamos a añadir el vídeo, agregar superposición, escogemos el vídeo y tenemos que ir hasta donde dice eliminar fondo,
+[04:15] eliminación automática y vemos que se ha eliminado, le damos ok y la arrastramos hasta donde queramos, por ejemplo la ponemos así y ahora vais a ver que se escuchan las dos voces,
+[04:29] entonces tenemos que hacer lo mismo, de este le sacamos los voces y por ejemplo queremos hacer que nos salga durante todo el vídeo, sino que salga solo al inicio,
+[04:43] hasta el final del primer clip, vamos a ver si concuerda, perfecto y ahora por ejemplo vamos a decir que lo queremos aquí antes del final,
+[04:59] pero no está cuadrado, vamos a ver lo que dice la chica y lo que dice la voz, vale lo empieza a decir aquí, así que cortamos,
+[05:11] a ver vamos a ver otra vez, aquí empieza a decir la frase que queremos, cortamos, borramos lo que sobra y lo ponemos donde dice, empieza a decir de best part,
+[05:28] perfecto, cortamos aquí lo mismo y ajustamos al clip que queremos que salga,
+[05:32] listo, este sería el primer estilo, luego si queréis cada uno como quiera pero le podéis agregar también aquí en animaciones,
+[05:54] podéis hacer por ejemplo que cuando empiece que salga, salga así, esto como queráis, también le podéis dar una salida,
+[06:07] y cuando entre cuando salga pase algo, esto como queráis, va a gustos, hasta aquí sería el primer estilo, vamos a por el siguiente,
+[06:18] vamos a por la segunda forma que es poner directamente la chica entera, lo vamos a hacer igual que hacíamos para meter los clips que es substituirlo,
+[06:27] aquí tendréis que tener en cuenta que dependiendo de vuestro formato como en este caso lo hemos descargado en formato 916 va a ser alargado,
+[06:37] así que se va a cortar un poco, entonces como habéis visto antes, el avatar tiene distintas posiciones, es mejor si lo estáis haciendo en formato como este,
+[06:48] uno a uno, es mejor escoger a alguien que esté de más lejos porque se va a recortar la mitad, ahora lo vais a ver, le ponemos substituir,
+[06:57] y esta como ya está un poco lejos al acercarlo, nos va a quedar bien, pero si hubiera sido otra que esté demasiado cerca sólo le habría salido la cara aquí,
+[07:12] entonces esto se debe tener en cuenta, vamos a ver cómo queda, aquí lo mismo podemos añadir alguna animación si queremos,
+[07:24] por ejemplo, empiezo así, como veis como sale cortado desde el principio, no podemos bajar,
+[07:41] perfecto y esto lo mismo en el sitio que queráis, lo mismo que hemos hecho antes aquí por ejemplo, escuchamos la frase,
+[07:48] dice and the best part, perfecto, buscamos donde dice esto, substituir, tiene que ser al final,
+[08:01] perfecto, aquí parece que se ha movido, veis que sale la letra, esto que nunca salga la letra, trabajamos un poco,
+[08:30] y listo, lo acercamos, perfecto, y esto en los sitios que queramos ponerlo.

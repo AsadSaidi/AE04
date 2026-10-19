@@ -1,0 +1,73 @@
+# 19-37-37-formato-voz-ad-2-mkv — 37. Formato Voz Ad 2.mkv.mp4 (09:22)
+[00:00] Volvemos a estar en CAPCAD desde el teléfono, creamos un nuevo proyecto, y pongamos que tenemos este formato que es el 1-1,
+[00:16] queremos el 4-5, pero como hemos dicho, aquí dentro de CAPCAD no nos sale el formato 4-5.
+[00:25] Entonces la opción que tenemos es como nos sale el original, la relación original que es este primero,
+[00:32] es este original, pues podemos añadir un clip o he puesto la foto, pero se puede poner,
+[00:39] si tienes un clip descargado con este formato, puedes poner este, sería Substituir, el clip que tenemos,
+[00:48] por 1, que sepamos que es del formato que toca, como por ejemplo el Call to Action, lo hemos hecho del formato,
+[00:55] y ahora veis que aún está el formato 1-1, entonces salimos, nos vamos al inicio, otra vez,
+[01:03] relación de aspecto, escogemos otro, y seleccionamos original, y ahora se nos va a quedar con el formato que queremos,
+[01:12] que es el 4-5, perfecto, a partir de aquí podemos añadir una foto o un vídeo lo que queramos,
+[01:18] para hacer lo de recortar por frase, y luego Substituir para poner los clips, esto lo alargamos,
+[01:28] parece que dura un minuto el anuncio o algo así, y ahora añadimos la voz, en este caso,
+[01:34] como no es del anuncio en sí, sino que es descargada de Level Labs, vamos a tener que hacer desde Audio,
+[01:43] veamos sonidos, ya lo vimos, en la segunda carpeta está Dispositivo, seleccionar en el Dispositivo,
+[01:50] y es la primera que le hemos puesto voz, abrimos, nos sale aquí debajo, seleccionar en el Dispositivo el primero,
+[02:00] el que se llama voz, veamos al más, la añadimos, y aquí vamos a ver que la voz generada con
+[02:06] Level Labs hace muchos espacios entre palabra y frase, como podéis ver aquí, entonces vamos a tener que
+[02:15] recortarlo todo para que quede como nosotros queramos, vamos a ver como lo hacemos, es lo mismo, seleccionamos la voz,
+[02:22] la primera parte está bien, nos gusta la pausa que hace, pero aquí este trozo es demasiado largo,
+[02:34] entonces recortamos, dividir, acortamos un poco, esto va a gusto, y lo volvemos a juntar, escuchamos,
+[02:49] aquí lo mismo, y esto se tiene que hacer con todo, es hacer esto, pero con toda la voz, esto se tiene
+[03:03] que hacer al principio, porque si no luego, si tienes el anuncio hecho, y veis que la voz tiene
+[03:09] demasiados espacios, a la hora de recortarla, si vamos a recortar aquí, imaginemos que ya tenemos
+[03:17] el anuncio hecho, luego queremos recortar la voz aquí, esto lo vamos a juntar, pero el clip,
+[03:23] el visual, no se va a adaptar, entonces se nos va a distorsionar todo el anuncio, por eso es
+[03:29] importante esto hacerlo primero, tener primero la voz y a partir de la voz vamos a hacerlo de recortar
+[03:35] clip por clip por frase, donde queramos meter cada visual, esto que hacíamos de hacer así,
+[03:42] y luego empezarlo a editar, entonces vamos a ello, vamos a recortarlo todo.
+[04:17] Queremos dejarlo un poquito más despacio.
+[04:32] Lo tenemos que hacer que quede bien.
+[05:19] Quiero decir, es una forma anti-agentista de 6-in-1 que fue construida específicamente para los hombres.
+[05:23] Para los hombres, para los hombres, 7 días en, mis espacios fueron perdidos, y el look de la mirada
+[05:36] fue finalmente perdido, finalmente perdido, 1 minuto en la mañana, 1 minuto en la noche.
+[05:44] Buenas noches, eso es todo, sobre 100, eso es todo, sobre 100,000, eso es todo, sobre 100,000 hombres,
+[06:06] Just like Jack and me are seeing real results, and the best part?
+[06:21] And the best part? You can try it risk free for 90 days, if you're not 100% satisfied, you get your money back.
+[06:31] No ques- Moneyback, no questions asked. Ready to-
+[06:40] Jens asked, ready to take 12 years off your age? Click the link below to get yours now before they sell out again.
+[06:51] Una vez la tenemos toda recortada, podemos ver si queréis la diferencia, vamos a escuchar
+[07:01] lo recortado.
+[07:26] No era una trámite externo o una rutina complicada.
+[07:29] Era una formula de 6-in-1 antiaidia que se construyó específicamente para hombres.
+[07:33] En 7 días, mis i-bags se perdieron y la mirada de la mirada fue finalmente perdida.
+[07:37] 1 minuto en la mañana, 1 minuto en la noche.
+[07:40] Eso es todo.
+[07:41] A más de 100,000 hombres, como Jack y yo, están viendo resultados reales.
+[07:46] Y la mejor parte?
+[07:47] Puedes probar el riesgo libre por 90 días.
+[07:49] Si no estás 100% satisfecha, te regalas tu dinero.
+[07:53] No hay preguntas.
+[07:54] ¿Estás listo para llevar 12 años a tu edad?
+[07:57] Clicca el link abajo para que te llegue ahora, antes de que se salga.
+[08:11] Esta es la forma de how I took 12 años off my face en just 7 días.
+[08:15] No he pagado mucho atención a skin care.
+[08:18] Pero un día, yo miré en la mirada y miré de nuevo.
+[08:22] Me golpeó como un truco.
+[08:24] Mi ojos eran puffy.
+[08:25] Yo tenía líneas alrededor de mi boca y mi piel se pareció cansada.
+[08:28] Yo me dijeron que era parte de lo más viejo.
+[08:31] Pero a lo largo de la noche, no me gustaba lo que vi.
+[08:34] Luego de esa semana, mi amigo Jack me dio un simple fixe que cambió todo.
+[08:39] No era una terapia o una rutina complicada.
+[08:42] Era una formula de 6-in-1 anti-agent, construida específicamente para hombres.
+[08:46] 7 días en, mis i-bags se perdieron y la mirada de la mirada fue finalmente perdida.
+[08:52] 1 minuto en la mañana, 1 minuto en la noche.
+[08:55] Eso es todo lo que took.
+[08:56] A más de 100,000 hombres, como Jack y yo, están viendo resultados reales.
+[09:01] Y la mejor parte?
+[09:03] Puedes probar el riesgo libre por 90 días.
+[09:05] Si no estás 100% satisfecha, te regalas tu dinero.
+[09:09] No hay preguntas.
+[09:10] ¿Estás listo para llevar 12 años a tu edad?
+[09:13] Clicca el link abajo para que te llegue ahora, antes de que se salga.

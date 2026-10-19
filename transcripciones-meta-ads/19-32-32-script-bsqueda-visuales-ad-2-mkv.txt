@@ -1,0 +1,34 @@
+# 19-32-32-script-bsqueda-visuales-ad-2-mkv — 32. Script Búsqueda Visuales Ad 2.mkv.mp4 (03:34)
+[00:00] Vamos a por otro tipo de anuncio, esto lo habréis visto antes con Mark, como lo ha hecho, ha puesto
+[00:05] tres hooks distintos, nosotros vamos a ver un ejemplo con el primero, así que ya sabéis cuál es el
+[00:12] siguiente paso, a partir de que tenemos el script lo vamos a copiar, vamos a copiarlo todo con
+[00:17] solamente el primer hook y lo vamos a poner en level labs, aquí lo tenemos puesto, vamos a
+[00:24] generar la voz tantas veces como necesitemos, ya sabéis que este es un poquito más largo, así que
+[00:30] si no suena bien podemos hacer frase por frase o incluso generarlo todo y si solamente hay alguna
+[00:36] frase que se escucha mal borrarlo y volver a generar la frase que se ha escuchado mal, las
+[00:42] voces igual, ya sabéis cómo se genera, la que queráis, una vez tengamos la voz generada vamos
+[00:49] a por el siguiente paso que es buscar los visuales, para los visuales lo mismo que
+[00:53] el anuncio anterior, lo primero hemos traducido el anuncio en español y hemos ido frase por frase
+[00:59] mirando qué visual le vamos a poner y recordad que si por ejemplo nosotros lo hacemos así,
+[01:07] cada uno que lo haga como le vaya mejor, si por ejemplo en la primera frase queremos meter más de
+[01:12] un clip nosotros lo vamos a hacer con un más, añadimos un más y ya sabemos que esto va a
+[01:18] ser un clip y esto va a ser otro, esto lo hacemos con todo, ya sabéis que si os faltan ideas podéis
+[01:24] ayudaros de Dios con ChatGPT y una cosa nueva que nos salió en el primer anuncio que hemos hecho es el
+[01:32] hook de texto, en este caso sí que vamos a meter un hook de texto, vais a verlo luego cuando
+[01:38] editemos pero lo tenemos aquí también, esto es para tener toda la información a la hora de
+[01:42] editar para que no sea más fácil, así que tenemos el script lo que vamos a decir, los visuales que
+[01:48] vamos a meter por cada frase y en este caso un hook de texto, para los visuales ya sabéis cómo funciona,
+[01:55] como buscarlo en TikTok, Instagram, YouTube, Canva, en todos esos sitios también puedes
+[02:01] hacerlo de pica que aquí en este caso vamos a hacer el hook con pica.ar, la aplicación en
+[02:07] esa que enseñamos, vamos a hacer que explote un hombre que entresembla en el espejo y luego vamos a meter
+[02:14] un hombre que está en el ala de un avión porque escroleando aquí en pica me salió este y me
+[02:26] pareció que puede ser un buen hook, es algo extraño, entonces como este ya está hecho para
+[02:31] descargarlo directamente de aquí, solamente le tenéis que dar la fecha y ya está descargado,
+[02:38] vamos a ver cosas nuevas, como por ejemplo como buscamos imágenes 3D, seguramente habréis visto
+[02:47] una piel, por ejemplo, una imagen de una piel hecha con inteligencia artificial que está arrugada,
+[02:52] le cae una gota y luego se estira, si no ahora vamos a ver a qué me refiero, luego vamos a hacer
+[03:00] social proof, lo vamos a hacer también con camba, cuando dice riesgo durante 90 días vamos a hacer
+[03:09] también como una pegatina que salga como una pegatina que diga eso 90 días de garantía,
+[03:15] también lo vamos a hacer con camba y luego el call to action lo vamos a hacer con camba también
+[03:20] y vamos a hacer como si ya nuestra marca estuviera tirando y quisísimos crear la marca
+[03:28] directamente esto lo vamos a hacer con chat gpt y camba, ahora vamos a ver todo.

@@ -1,0 +1,63 @@
+# 19-41-41-efectos-de-sonido-y-msica-ad-2 — 41. Efectos de Sonido y Música Ad 2.mp4 (10:27)
+[00:00] Ahora añadiremos los efectos de sonido, la imagen sin fondo que hemos descargado de la garantía y la música, y ya tendríamos el anuncio hecho, vamos por ello.
+[00:15] El hook es importante, el sonido, aquí como explota, vamos a meter una explosión, me parece que el vídeo en si ya tiene el sonido de la explosión, vamos a ver si le damos voz.
+[00:35] A ver qué sonido tiene. Vale, sí que tiene, pero empieza tarde, entonces lo vamos a separar, no, lo vamos a extraer, extraer audio y lo cortaremos justo donde empieza.
+[01:05] Terminamos. Perfecto, de momento lo bajaremos un poquito, luego cuando pongamos la música ya veremos si lo tenemos que ajustar.
+[01:37] Como son efectos tan sutiles, yo no metería ningún sonido, simplemente igual al final, aquí es donde vamos a meter la imagen de la garantía, cuando dice 90 days.
+[02:10] Justo aquí añadimos una superposición de imagen, que sea la que hemos creado antes con canvas sin fondo, lo añadimos aquí, lo podemos hacer un poco más pequeña, lo podemos meter por ejemplo aquí mismo.
+[02:31] Ajustamos para que acabe con el clip y le podemos dar algún efecto, alguna animación, por ejemplo el flash activado con 08 segundos.
+[02:58] Incluso le meteremos un efecto de sonido, audio, efecto de sonido, el ding, añadimos el ding, lo ajustamos.
+[03:32] Y aquí también le pondremos un ding, efecto de sonido, incluso unas monedas o el click del ratón, vamos a ver.
+[03:54] Perfecto, por mi gusto ya lo tendríamos, entonces solo quedaría añadir la música, para la música en este caso hemos descargado una desde youtube, ya sabemos cómo se hace.
+[04:20] Vamos en youtube, copiamos el link y en la página web que ya vimos antes, lo descargamos en por ejemplo mp3 y es lo mismo vamos a audio, desde aquí sonidos, la carpeta, el dispositivo, seleccionar en el dispositivo y es la primera.
+[04:43] Seleccionamos el más y le bajamos un poquito el volumen a 20 por ejemplo o incluso 7, 8, 8, vamos a probar.
+[05:17] Y mi skin look tired, I told myself it was part of getting older, but deep down I didn't like what I saw.
+[05:24] Later that week, my friend Jack gave me a simple fix that changed everything, it wasn't any expensive treatment or complicated routine.
+[05:33] It was a 6-in-1 anti-aging formula built specifically for men, 7 days in my eye bags were fading and the worn out look was finally gone.
+[05:43] One minute in the morning, one minute at night, that's all it took, over 100,000 men just like Jack and me are seeing real results.
+[05:54] And the best part, you can try it risk free for 90 days, if you're not 100% satisfied you get your money back, no questions asked.
+[06:04] Ready to take 12 years off your age? Click the link below to get yours now before they sell out again.
+[06:12] Aquí al final tenemos que recortar lo que sobra de canción, lo ajustamos, y a mí siempre me gusta meter una desaparición, aunque sea...
+[06:28] This is how I took 12, que vais a ver.
+[06:32] Now before they sell out again.
+[06:36] Para que no cabe la música en seco y también he visto que está demasiado alto.
+[06:44] This is how I took 12.
+[06:46] Podremos en 4.
+[06:50] Vamos a revisar el anuncio, en principio estaría todo correcto.
+[06:54] Ahora quedan detalles que vamos viendo, por ejemplo si tenemos que subir el volumen de algo, bajar, retocar algún clip, cualquier cosa.
+[07:05] Tenemos que mirar las veces que haga falta para irlo retocando, detalle a detalle.
+[07:12] Y el tema de la música es...
+[07:15] Depende, por ejemplo, en este anuncio no pondríamos una canción alegre porque no cuadra.
+[07:23] Entonces buscamos algo que enganche con el anuncio o que nos guste.
+[07:31] Vamos a revisar cómo ha quedado el anuncio, a ver si tenemos que retocar algo.
+[07:36] Muy importante detalle a detalle, vamos a ver.
+[07:41] Esta es la forma de how I took 12 years off my face in just 7 days.
+[07:46] I never paid much attention to skin care, but one day I looked in the mirror and I looked old.
+[07:52] It hit me like a truck.
+[07:54] My eyes were puffy, I had lines around my mouth and my skin looked tired.
+[07:59] I told myself it was part of getting older, but deep down I didn't like what I saw.
+[08:05] Later that week my friend Jack gave me a simple fix that changed everything.
+[08:10] It wasn't any expensive treatment or complicated routine.
+[08:14] It was a 6-in-1 anti-aging formula built specifically for men.
+[08:18] 7 days in, my eye bags were fading and the worn out look was finally gone.
+[08:24] One minute in the morning, one minute at night.
+[08:27] That's all it took.
+[08:29] Over 100,000 men, just like Jack and me, are seeing real results.
+[08:35] And the best part? You can try it risk free for 90 days.
+[08:39] If you're not 100% satisfied, you get your money back.
+[08:43] No questions asked.
+[08:45] Ready to take 12 years off your age?
+[08:48] Click the link below to get yours now before they sell out again.
+[08:53] Perfecto.
+[08:54] En principio estaría todo bien.
+[08:56] Repasarlo las veces que haga falta, insisto.
+[09:01] Y una vez lo tengamos, ya sabéis todo al máximo, todo seleccionado y exportar.
+[09:13] A no ser que en algún clip que reutilicemos tenga la letra ya que venga predeterminada,
+[09:24] es decir que no la pongamos nosotros, en este caso tenemos que deseleccionar estos tres botones.
+[09:34] Me voy a explicar.
+[09:36] Es decir, si por ejemplo este que ya viene con letra el clip, donde dice before,
+[10:01] si lo dejásemos así, tendríamos que descargarlo con los tres botones sin seleccionar.
+[10:10] Porque al descargarlo, podéis hacer la prueba, al descargarlo, como que se distorsiona esto.
+[10:17] En cambio, si no hay nada de esto, lo podéis descargar todo a tope, todo así.
+[10:24] Y ya estaría.
+[10:25] Ya tendríamos otro anuncio hecho.

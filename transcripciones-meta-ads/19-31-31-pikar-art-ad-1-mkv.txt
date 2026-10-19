@@ -1,0 +1,13 @@
+# 19-31-31-pikar-art-ad-1-mkv — 31. Pikar Art AD 1.mkv.mp4 (01:22)
+[00:00] Bien, ahora vamos a ver cómo generar un hook fuerte con inteligencia artificial a partir de una imagen,
+[00:04] que seguramente muchos habréis visto, el que más habréis visto supongo que es el de la premsa
+[00:09] hidráulica, esto que chafa objetos. Entonces nosotros en este caso vamos a poner un perro
+[00:15] que le estén cortando las uñas y que explote. Esto lo vamos a hacer con esta otra aplicación
+[00:20] que se llama pika.art. También tiene una prueba gratuita, el plan básico,
+[00:27] y luego si no son 10 dólares al mes, si lo queréis probar, vamos a ver que hay muchísimas,
+[00:34] muchísimas cosas, muchos efectos distintos, hay muchísimos, estos seguramente os van a sonar más,
+[00:43] esto que lo deforman, esto es lo del pastel, por aquí tiene que haber el de la premsa hidráulica.
+[00:52] Nosotros hemos dicho que vamos a hacer el que explota, así que vamos a escoger este,
+[00:58] traí y aquí le vamos a colocar la imagen que ya hemos descargado, que es de un perro que le están
+[01:04] cortando el pelo de las patas. Una vez generada vemos cómo nos ha quedado y si no generamos otra,
+[01:09] está perfecta, ahora esto sería lo mismo descargarla y ponerla en sustituirla por el hook.

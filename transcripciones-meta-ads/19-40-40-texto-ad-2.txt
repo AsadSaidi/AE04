@@ -1,0 +1,64 @@
+# 19-40-40-texto-ad-2 — 40. Texto Ad 2.mp4 (15:38)
+[00:00] vamos a por generar el texto, ya sabéis que si lo escribís vosotros, vamos a hacer la prueba,
+[00:09] si lo hacéis a mano, os va a salir en color naranja y además cuando cambieis el estilo,
+[00:16] por ejemplo le decimos que quedemos. Este solo se va a cambiar en este cuadro de texto y lo vamos
+[00:27] a tener que hacer uno por uno, entonces yo lo que recomiendo es primero de todo darle a subtítulos
+[00:33] automáticos, crear desde vos superpuestas, está perfecto, que es desde el audio que hemos puesto,
+[00:39] el idioma en inglés y las plantillas, no importa ahora, entonces vamos a dejar predeterminado,
+[00:46] ya nos ha generado toda la letra, yo recomiendo hacerlo antes de meter la música, porque si
+[00:57] la música tiene letra, también va a transcribir la voz de la música de la canción, entonces es mejor
+[01:05] hacerlo antes. Siguiente paso, revisar que el texto esté bien, nos vamos a editar subtítulos y como
+[01:12] queráis, si queréis mirar para hacerlo más rápido el script que ya tenéis, vamos a revisar
+[01:17] que esté todo bien, una vez tenemos el texto corregido pasamos a añadir el jug de texto,
+[01:41] que como hemos dicho va a ser este que traemos en el excel, que es lo que dice el hook,
+[01:49] como lo vamos a hacer, vamos a añadir una superposición de una imagen, en este caso nosotros
+[01:59] lo vamos a hacer así, se puede hacer de muchísimas formas distintas, vamos a añadir una imagen
+[02:06] que va a ser un cuadrado de color negro, esto podéis descargar una imagen o en canva cambiar
+[02:11] el fondo de la imagen y ponerla en negro, como queráis, cualquiera sirve, damos la superposición,
+[02:19] una foto que sea un cuadrado negro y lo duplicamos, ahora vamos a ver por qué lo aplicamos, lo ponemos
+[02:35] debajo y este lo vamos a poner en la parte de abajo del vídeo, esto tiene que durar todo el hook
+[02:45] que son esos dos clips, entonces lo ajustamos y el texto que tenemos creado lo vamos a hacer
+[02:57] nosotros, lo copiamos, cortamos porque probablemente vamos a borrar este y en un texto nuevo añadimos
+[03:12] el texto que queremos, que mejor lo vamos a hacer en mayúscula, así que lo veremos a escribir,
+[03:24] borramos lo que está en minúscula y vamos a separarlo en dos líneas, entonces le damos a Riturn,
+[03:31] lo ampliamos, lo centramos, que salga la línea esta, ya nos lo centra y vamos a cambiar por ejemplo el color
+[03:46] de a partir de aquí, entonces seleccionamos, vamos a estilo y escogemos el color de la letra,
+[03:58] por ejemplo el amarillo, este otro ya lo podemos eliminar porque lo vamos a hacer en mayúscula,
+[04:10] lo hemos dicho, lo ajustamos todo y este lo podemos duplicar, para duplicarlo podemos
+[04:18] hacer desde aquí o aquí en el mismo recuadro del texto, en el mismo recuadro del texto veis
+[04:25] abajo a la izquierda que salen como dos cuadros, si apretáis ahí también si os duplica es lo
+[04:29] mismo, entonces aquí este lo arrastramos y vamos a escribir la segunda parte, esto lo podemos
+[04:53] hacer un poco más grande si queremos y esto lo vamos a hacer a ojo, lo vamos a ajustar la parte
+[05:01] negra que sobre más o menos lo mismo de arriba a la letra que de abajo a la letra, entonces sería algo
+[05:13] por aquí más o menos, lo mismo con el de arriba, igual lo vamos a hacer un poquito más grande,
+[05:19] ahora tenemos el jug de texto puesto, solamente tenemos que ajustar el texto generado, vamos a
+[05:34] hacer lo mismo que quede al principio del clip, empiece la frase y que la frase acabe cuando
+[05:42] acabe al clip, no que se quede con el siguiente clip, vamos a ajustar esto, este tiene que empezar
+[05:50] cuando empieza el clip, podemos hacer que acabe con el mismo clip o un poquito antes, esto ajusto,
+[06:05] ahora como se tiene que separar tenemos que editar subtítulos,
+[06:13] nos vamos detrás de track y return y salta, el párrafo lo ajustamos bien, un poquito menos,
+[06:25] este que empiece, perfecto, vamos ajustando, es lo mismo con todo,
+[06:37] lo mismo, después de mouse, separación, podemos ampliar la línea de tiempo si queremos,
+[06:53] esto lo ajustamos, vamos ajustando todo,
+[07:16] borramos, separamos línea, aquí igual va a pasar al revés, en vez de separar tendremos que
+[07:34] juntar, que juntar con estas dos, entonces vamos al principio del segundo texto y le damos
+[07:46] a borrar, en vez de separarlo lo borramos para juntarlos, incluso si no queremos que salgan
+[07:58] tres líneas de párrafo, podemos separar esta misma frase, ver como lo dice, podemos separar por
+[08:08] ejemplo después de jack, aquí vemos que es donde acaba de decir jack, entonces también lo tenemos
+[08:21] que ajustar, vamos haciendo esto con todo el texto,
+[09:24] en esta parte de social proof, también va a gustos, pero en este caso como no he puesto solamente
+[10:03] imágenes sino que he puesto texto, pues le voy a quitar, no voy a eliminar el texto que dice en este
+[10:10] clip, eliminamos y ajustamos el siguiente texto, y en el caso del call to action también le vamos
+[10:55] a quitar la letra, porque no queda muy bien, a partir ya hemos puesto el botón este de get yours
+[11:05] now, ofer quiere decir como ya hay letra, lo vamos a quitar, tenemos toda la letra puesta y todo
+[11:14] perfecto en el sitio que toca, vamos a elegir el efecto que queremos que tenga la letra, el estilo,
+[11:21] el primero ya lo hemos hecho, lo hemos hecho manual, entonces ya nos va bien, aquí vemos que le falta
+[11:27] un trozo, parece, vamos a ajustarlo, vale, es el fondo negro, es este, ahora sí, ahora sí está ajustado,
+[11:49] perfecto, vamos para atrás, texto y vamos a escoger el estilo de letra, como ya sabéis
+[12:14] hay muchísimas, vamos a probar esta vez con, por ejemplo, le pondremos más o menos dos colores aquí,
+[12:23] vamos en tendencias, a ver esta, habéis visto que aquí sale mal, mira dice, y aquí vuelvo a decir
+[12:45] hit me otra vez, entonces esta letra nos va a servir, vamos a buscar otra
+[13:52] perfecto, vamos a ver como ha quedado la letra
+[14:54] vamos a bajarla un poco, un poquito, la letra aquí que quede centrada, perfecto y al principio,
+[15:13] y al principio hemos visto que podemos ajustar un poquito más, como hemos puesto los cuadrados
+[15:27] esos negros, aquí se le corta la cabeza, entonces lo vamos a bajar, perfecto, pues ya tendríamos el texto puesto
