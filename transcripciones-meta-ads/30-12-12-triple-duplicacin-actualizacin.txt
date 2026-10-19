@@ -1,0 +1,85 @@
+# 30-12-12-triple-duplicacin-actualizacin — 12. Triple Duplicación (Actualización).mp4 (07:33)
+[00:00] Hago este vídeo para aclarar un par de cosas acerca de la triple duplicación.
+[00:04] Primero vamos a recordar qué es cuando testeamos un producto, estamos arrancando,
+[00:08] estamos testeando intereses, lo que hacemos es meter 4 o 5 vídeos en un conjunto de intereses a budget de 20.
+[00:14] Cuando ese conjunto de anuncios nos da resultados de manera rentable por 3 o más días,
+[00:20] lo que hacemos es duplicar ese conjunto de anuncios.
+[00:23] Si nuestro budget era 20, lo multiplicamos por 5 y lo hacemos 3 veces.
+[00:28] Ahora tenemos 3 conjuntos de anuncios gastando 100 al día.
+[00:32] Cuando el primero de esos 3 consigue una venta, apagamos los otros dos.
+[00:36] Esto sería la triple duplicación y el objetivo o la razón por la cual lo hacemos es para pasar de low budget a high budget más rápidamente.
+[00:43] Porque hay una norma en Facebook que es que no se puede aumentar el budget de un conjunto de anuncios más de un 25% o de una campaña.
+[00:50] La razón por la cual es porque cuando hacemos esto, el anuncio o la campaña o el conjunto de anuncios vuelve a entrar en lo que se llama la fase de aprendizaje.
+[00:58] Es como que hace un reset.
+[01:00] Entonces para no joder lo que ya funciona, nosotros lo que hacemos es triple duplicamos.
+[01:04] Y esto nos ayuda a pasar de un budget de 20 a 100 mucho más rápido y luego a escalar un 25% de 100.
+[01:12] Es mucho más deficiente que hacerlo el de 20.
+[01:14] El de 20, aquí voy a poner el ejemplo, imagínate que lo hacemos por 10 días.
+[01:18] Estamos aumentando el budget arrancando a 100, cada día aumentamos un 25%.
+[01:27] A los 10 días ya estamos prácticamente en 1.000 de gasto el día.
+[01:30] Esto significa que estamos facturando mínimo con ese conjunto de anuncios 2.000 al día.
+[01:36] Esto sería en 60 k al mes.
+[01:38] Si lo hacemos desde 20 ya veis que a los 10 días aún estamos en 180 de gasto.
+[01:43] También se puede hacer pero para mí es mucho más deficiente o mucho más inteligente hacer esto.
+[01:48] Si es que queremos escalar rápido.
+[01:50] Algo que también quiero que entendáis es que qué tan bueno es un anuncio se determina por cuánto gasto puedes soportar al día.
+[01:57] Entonces es muy normal, muy normal que un anuncio sea rentable a 20 de gasto al día
+[02:02] y que cuando hacemos la triple obligación a 100 ya no sea rentable.
+[02:06] Es completamente normal, significa que este anuncio es bueno como para gastar 20 al día
+[02:11] pero no es bueno como para gastar 100 al día.
+[02:14] Y esto lo estoy grabando ahora en septiembre.
+[02:16] A los que lo veáis en un futuro igual no va a aplicar pero estas son unas de las semanas más duras del año.
+[02:22] Todo el mundo viene de vacaciones, ha gastado dinero, la gente no está en modo compra.
+[02:26] Entonces es muy normal que yo esté costando un poco más.
+[02:30] Ya de normal esto es muy difícil lo que estamos intentando hacer pero en estas semanas del año os diría que incluso un poco más.
+[02:37] Otra opción que os queremos dar es que si en ese conjunto de anuncios que está siendo rentable por 3 o más días
+[02:44] casi todas las ventas o todas vienen del mismo creativo lo que podemos hacer
+[02:48] que ya hemos testeadado con algunos alumnos y está dando buenos resultados es hacer triple duplicación
+[02:53] de sólo ese anuncio con post ID.
+[02:56] Es decir venimos aquí, imaginaros que el interés uno es el que nos está dando las ventas
+[03:01] pero dentro del interés uno sólo este vídeo de aquí es el que nos está dando las ventas.
+[03:05] Entonces en vez de triple duplicar todo vamos a venir aquí, vamos a copiar el post ID
+[03:11] y vamos a hacer exactamente lo mismo que hacemos siempre pero sólo de este anuncio.
+[03:16] Entonces sería, buscamos el interés uno, lo duplicamos.
+[03:22] Una vez que le metemos interés uno uno, vamos a borrar todos los otros vídeos
+[03:28] para dejar sólo que nos está dando las ventas y este que nos está dando las ventas
+[03:35] y encima lo vamos a ranear con post ID.
+[03:38] Veamos aquí, ahora veo que ha cambiado el nombre esto antes se llamaba existing post
+[03:46] ahora se llama boost post, veo que es exactamente lo mismo.
+[03:50] Metemos este, ahora está dando errores esto porque no sé ni qué estoy haciendo
+[03:54] es sólo para que veáis cómo funcionaría esto de la triple duplicación con post ID.
+[04:08] Esto me imagino que es un error de formato pero por este vídeo no sé ni de cuándo es.
+[04:13] Ya tenemos el anuncio que nos está dando las ventas, ahora vamos a ponerle de budget 100.
+[04:19] Vemos aquí y vamos a hacer la triple duplicación, 2, cambiamos el número y ahora ya le daríamos a
+[04:35] duplicar. Para repasar lo que acabamos de hacer en vez de duplicar el conjunto de anuncios
+[04:39] completo lo que hemos hecho es sólo duplicar el anuncio que se está llevando todo el gasto
+[04:44] y todas las ventas, venimos aquí, le metemos el post ID que ya habéis visto cómo se
+[04:50] consigue, lo duplicamos dos veces y el primero que saque una venta vamos a pagar los otros dos.
+[04:55] Otra cosa que os quiero comentar es que cuando un anuncio es ganador en facebook es ganador,
+[05:00] prácticamente ya lo veis, ya lo vais a ver desde el minuto cero aunque lo hicierais todo mal,
+[05:05] triplicarais el budget, los settings, la liarais aquí en el ads malas y no pasaría nada.
+[05:11] Cuando un anuncio es ganador en facebook y si alguno de vosotros ya ha sacado un ganador
+[05:16] sabe de lo que estoy hablando es winner. Así que a todos estos que os está costando os diría que
+[05:20] le metiérais máximo foco en mejorar la creación de anuncios y ya vais a ver que cuando consigáis
+[05:27] aprender bien hacer anuncios todo lo demás importa bien poco. Aquí también como nota es muy
+[05:33] normal que haya más triplicaciones que fallan que no que funcionan. Pensad que cuando una
+[05:38] triple duplicación funciona y lo conseguimos escalar el budget por tan sólo 10 días que
+[05:43] esto obviamente tampoco es fácil ya nos plantamos en 60 calmes 60 k de facturación con sólo una
+[05:49] triple duplicación que haya funcionado entonces es muy muy normal que haya más que fallan que no
+[05:55] que funcionan por la razón esta de que hay anuncios que son buenos para gastar 20 al día pero no
+[06:00] para gastar 100 o más. A todos estos que os da la sensación de que las triple duplicaciones os
+[06:05] joden todo lo demás lo que podéis hacer en vez de hacer triple duplicación cuando tenemos
+[06:10] tres ventas o cuando tenemos tres días siendo rentables dale más tiempo dale cinco seis días
+[06:15] esperad que lleve 100 150 de gasto siendo rentable y seguro que los resultados también
+[06:22] serán mejores no hay un número fijo de cuando hacer la triple duplicación pero lo que
+[06:27] quiero que entendáis es que cuantas más ventas cuanto más gasto y cuanto más tiempo siendo rentable
+[06:33] un conjunto de anuncios a 20 más probable es que la triple duplicación también funcione.
+[06:39] Si hacemos triple duplicación nos falla es decir no conseguimos resultado lo tenemos que apagar pero
+[06:44] el conjunto que sigue tirando a 20 sigue rentable por tres o cuatro días más podemos volver a probar
+[06:50] la triple duplicación y a una última nota que os quiero dar es que a pequeña escala la varianza
+[06:57] es muy alta o sea es muy normal muy normal que un día saqueis cuatro ventas y que al otro saqueis
+[07:03] cero nosotros tenemos días de 500 ventas y al día siguiente 350 o sea las diferencias son 150
+[07:09] ventas entonces que a pequeña escala tengáis una diferencia de tres ventas o cuatro ventas en un día
+[07:15] es totalmente insignificante y ya para terminar una vez más mucho foco en los creativos es un 90
+[07:23] por ciento del trabajo y ya os digo ya vais a ver cuando saqueis creativos ganadores no importa
+[07:29] como lo hagas no importa qué hagas que os va a dar buenos resultados

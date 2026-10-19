@@ -1,0 +1,59 @@
+# 30-13-13-repaso-general — 13. Repaso General.mp4 (05:47)
+[00:00] vamos a repasar un poco todo lo que hemos hecho y vamos a ver cómo escalamos o matamos el conjunto
+[00:06] de anuncios que hemos hecho la triple duplicación, primero hemos arrancado con 4 o 5 creativos,
+[00:12] hemos testeados 5 intereses de estos 5 intereses, hay uno que está funcionando muy bien,
+[00:17] los otros vamos a poner que no están funcionando también, los hemos apagado siguiendo las
+[00:22] normas de Mediavine que hemos visto en los otros vídeos y ahora tenemos un interés que
+[00:28] está funcionando muy bien, le hemos hecho la triple duplicación como hemos visto en el vídeo
+[00:33] anterior, teníamos 3 conjuntos de anuncios gastando 100 al día, cuando el primero ha
+[00:39] sacado una venta hemos apagado los otros dos, ahora vamos a ver cómo escalamos este. Antes
+[00:45] también recordar que es muy importante testear nuevos creativos constantemente y todos los
+[00:51] nuevos creativos que testemos, vamos a usar este interés que ya nos está dando buenos
+[00:56] resultados, una vez más en esta fase la fase de testeo lo que queremos es encontrar un interés
+[01:00] ganador y un creativo ganador como mínimo, lo ideal es encontrar tres y una vez tengamos tres creativos
+[01:06] ganadores vamos a poder pasar a la siguiente fase de escalamiento, todos los creativos nuevos
+[01:11] que testemos usamos este interés y los recomendables mínimo probar dos intereses nuevos también,
+[01:17] si alguno de estos cuatro que hemos matado vemos que las métricas son muy buenas,
+[01:21] tiene muchos añadidos al carrito, muchos iniciados check out o el CTR es muy bueno,
+[01:26] que es esta columna de aquí, podemos volver a intentar utilizar ese mismo interés, si no
+[01:32] testeamos mínimo dos nuevos y lo recomendable sería cuatro, así el nuevo blog de anuncios
+[01:38] que lanzamos también son cinco intereses, uno va a ser el que ya nos está funcionando y luego
+[01:43] tenemos cuatro nuevos, de estos cuatro nuevos si alguno de los que ya hemos probado tiene
+[01:49] métricas mucho mejores podemos volver a intentar usar este para escalar o matar el conjunto de
+[01:55] anuncios que tenemos a 100 de gasto diario que está en la triple duplicación, vamos a seguir este
+[02:00] documento que os dejo aquí abajo, lo que vamos a hacer es si el ROAS de ayer es más grande que
+[02:06] el benchmark ROAS, lo vamos a escalar un 25%, nuestro benchmark ROAS es el ROAS objetivo,
+[02:12] es este de aquí, en nuestro caso 22, entonces vendríamos aquí, filtramos por el día anterior que
+[02:19] es el 29, update, buscamos a nivel de conjunto de anuncios el interés al cual le hemos hecho la
+[02:26] triple duplicación y nos vamos a la columna del ROAS, si el ROAS de ayer es un número mayor que
+[02:32] 22, vamos a poner que es 230, venimos aquí y lo escalamos un 25%, esto sería 125 y a vosotros
+[02:42] aquí os va a salir para darle a publicar, si el ROAS de ayer hubiera sido 220 muy similar a nuestro
+[02:51] ROAS, la segunda norma nos dice que si el ROAS de ayer es similar al break even ROAS, el break
+[02:56] even ROAS es este de aquí, 1,5 podemos escalar un 10%, esto es porque en Facebook cuando gastamos
+[03:02] dinero no estamos gastando dinero, estamos comprando data y mientras no estemos perdiendo dinero nos
+[03:08] interesa escalar, entonces vamos a venir aquí, en vez de 120, 125 vamos a poner 110, un 10%
+[03:16] estas serían las dos normas de escalamiento, ahora vamos a ver cómo sabemos cuando hay que
+[03:22] matar un conjunto de anuncios, para hacer esto vamos a fijarnos en tres días más hoy siempre,
+[03:27] hoy estamos a día 30, entonces vamos a venir aquí, 27, 28, 29 más hoy el 30, venimos aquí
+[03:35] y miramos y vemos a ver qué nos dice la norma, si el ROAS de los últimos tres días más hoy es más
+[03:41] o menos el break even ROAS, podemos reducir el presupuesto un 25% para estabilizar el conjunto
+[03:49] de anuncios, venimos aquí tres días más hoy, vemos que está a 1,5, lo que haríamos sería de 100,
+[03:57] le bajamos un 25%, esto bajar a 75 seguramente no va a pasar, vamos a poner porque vosotros ya
+[04:03] veis, ya habréis escalado un poco, vamos a poner que estamos en un gasto de 250 por ejemplo,
+[04:10] ya han pasado tres días, los dos primeros días hemos estado escalando, el tercer día o el cuarto
+[04:16] venimos aquí, filtramos por tres días más hoy y vemos que el ROAS es 150, lo que hacemos es
+[04:22] buscamos el 0,25% de esto y lo vamos a restar, 62,5, esto serían 187,5, venimos aquí
+[04:32] y lo vamos a bajar, vamos a guardar draft y la última norma nos dice, si el ROAS de los últimos
+[04:40] tres días más hoy es más pequeño que el break even ROAS, lo vamos a apagar, venimos aquí este
+[04:46] mismo conjunto de anuncios, vemos que el ROAS es 1,3 por los últimos tres días más hoy,
+[04:52] lo que haríamos sería apagar, estas son las reglas que aplican a la hora de escalar o matar
+[04:57] un conjunto de anuncios al cual hemos hecho la triple duplicación y estas normas también aplican
+[05:02] a las estrategias que vamos a utilizar en el módulo de escalamiento que ya vamos a entrar en
+[05:06] detalle en el próximo módulo, una vez hayan pasado mínimo tres días y este conjunto de
+[05:11] anuncios sea rentable, vamos a entrar dentro, si uno de estos anuncios tiene un gasto de más de
+[05:17] 100 euros y el ROAS está por encima de nuestro benchmark ROAS, de nuestro ROAS objetivo lo
+[05:25] que vamos a hacer va a ser vamos a pillar el post ID que se llama y lo vamos a escalar en una
+[05:30] campaña de escalamiento, ahora por ahora no hace falta entrar en detalle con esto, lo vamos a ver
+[05:35] en el siguiente módulo pero espero que con este vídeo haya quedado todo mucho más claro y como
+[05:40] siempre cualquier duda venís aquí a los documentos de estos y miráis las reglas que hemos
+[05:45] comentado ahora hace un momento.

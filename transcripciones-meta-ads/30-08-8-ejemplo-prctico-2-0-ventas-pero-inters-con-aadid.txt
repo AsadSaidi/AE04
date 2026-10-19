@@ -1,0 +1,29 @@
+# 30-08-8-ejemplo-prctico-2-0-ventas-pero-inters-con-aadid — 8. Ejemplo Práctico 2 - 0 Ventas pero Interés con Añadidos al Carrito-Check Out Iniciado.mp4 (03:28)
+[00:00] En el segundo caso vamos a poner que tenemos 0 ventas, pero que tenemos algún interés que tiene añadidos al carrito
+[00:06] vamos a poner que el interés número 1 también tiene 3 añadidos al carrito y 2 checkout, en este caso vemos
+[00:13] que en el ejemplo no es así, pero vamos a poner que este tiene 3 añadidos al carrito y un checkout.
+[00:19] Aquí lo que vamos a hacer es guiarnos de nuestro documento. Venimos aquí, miramos, ha gastado más de 10 y el CPC es más de 2,5, lo vamos a pagar.
+[00:28] Por ejemplo, este de aquí ha gastado más de 10 y el CPC es más alto de 2,5, lo vamos a pagar y haríamos exactamente lo mismo con el otro.
+[00:37] Y esto lo vamos a hacer para todas las normas, ya lo hemos hecho antes, pero vamos a repasarlo así rápido, si ha gastado la mitad del break even CPA
+[00:45] que en nuestro caso era 16, como hemos visto en el otro vídeo, ha gastado la mitad de 32, que es 16 y tenemos 0 añadidos al carrito
+[00:55] y 0 iniciados checkout, vamos a hacer exactamente lo mismo, venimos aquí, este estaría muy cerca, vamos a poner que ha gastado 20 y ya,
+[01:03] venimos aquí y lo apagamos. Aquí que estamos viendo también, tenemos 2 intereses que tienen métricas mucho mejores que los otros 2,
+[01:12] entonces para los nuevos anuncios que hagamos, vamos a utilizar el interés 1, el interés 4 y vamos a probar 2 o 3 nuevos.
+[01:21] Algo que también podemos hacer aquí, es venimos dentro de uno de estos intereses que funciona mejor y vamos a observar que el hook rate,
+[01:28] en este caso es bastante bueno, vamos a poner que aquí tuviéramos un hook rate del 25%, lo que podemos hacer es este mismo creativo,
+[01:37] este mismo anuncio, lo hacemos exactamente igual, pero intentamos hacer un hook más fuerte, algo que llame más la atención.
+[01:43] Y lo mismo podemos hacer con el hold rate, sabemos que nuestra métrica es 30%, todo lo que está por debajo es mejorable,
+[01:50] si vemos que tenemos un anuncio que tiene un hook muy bueno, que es casi del 70% y ponemos que el hold rate fuera un 20%,
+[02:00] lo que podemos hacer es utilizar ese mismo hook y cambiar el resto del vídeo.
+[02:05] Como hemos visto en el vídeo anterior, algo que también podemos hacer es mejorar la oferta,
+[02:09] si por ejemplo estamos vendiendo nuestro producto a 100 y si compran dos unidades les damos un 20% del total,
+[02:17] en vez de hacer esto lo que podemos hacer es compra uno a 100, compra uno, llevate uno a 50%,
+[02:23] esto sería una de las opciones, la otra sería simplemente bajar el precio, ahora al principio lo que queremos no es ni hacer dinero,
+[02:31] el objetivo principal es sacar conversiones y una de las formas obviamente de sacar más conversiones es bajando el precio,
+[02:37] entonces podríamos siempre cuando tenga sentido bajar el precio 10-20€ y seguir testeando anuncios.
+[02:45] Si por ejemplo observamos que nuestro CTR está por debajo de lo que queremos, como sería en estos dos anuncios de aquí,
+[02:53] lo que significa es que nuestros anuncios no son suficientemente buenos y vamos a tener que hacer anuncios completamente nuevos,
+[03:00] en este caso vemos que por dos intereses estaríamos muy por arriba y dos intereses estaríamos muy por abajo,
+[03:06] esto no es un caso real, entonces vuestros números seguramente van a ser muy similares, si el CTR está por debajo de tres,
+[03:14] probablemente es señal de que necesitamos mejores creativos y si aún así con un CTR por debajo de tres hemos conseguido sacar
+[03:22] añadidos al carrito y iniciados checkout es señal de que el producto tiene potencial.

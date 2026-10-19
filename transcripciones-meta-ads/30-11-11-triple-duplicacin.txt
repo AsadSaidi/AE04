@@ -1,0 +1,34 @@
+# 30-11-11-triple-duplicacin — 11. Triple Duplicación.mp4 (03:02)
+[00:00] Una vez encontramos un interés que está funcionando, que nos está dando resultados por más de tres días,
+[00:05] lo que vamos a hacer va a ser venir aquí, vamos a la nuestra campaña de testeo,
+[00:09] seleccionamos el interés que está funcionando y lo vamos a triplicar por tres.
+[00:13] Le damos a duplicar y ahora lo que podemos hacer para editar toda la vez, venimos aquí arriba,
+[00:19] Edit Edge Adset, aquí le metemos 1, 2 y 3.
+[00:24] Le damos a guardar Draft, esto si no también lo podéis hacer desde aquí, no hay ningún problema.
+[00:29] Y ahora lo que queremos cambiar es el budget, el budget lo vamos a multiplicar por 5 de lo que teníamos originalmente,
+[00:35] es decir, si era 10 le metemos 50, si era 20 le vamos a meter 100 a cada uno de ellos.
+[00:46] La razón por la cual hacemos esto es porque no se recomienda aumentar más de un 25% el budget de un conjunto de anuncios,
+[00:52] entonces si estamos escalando y vamos subiendo el 25% de 20 va a ser eterno esto,
+[00:59] ahora lo que estamos intentando hacer es atacar tres puntos distintos de esta misma audiencia,
+[01:04] del interés que nos está funcionando y cuando uno de los tres conjuntos que hemos puesto así en saque,
+[01:10] una venta vamos a parar los otros dos y este que dejamos, el que ha sacado la primera venta,
+[01:15] lo que vamos a hacer es cada día que sea rentable lo vamos a escalar un 25%.
+[01:19] Lo que también queremos hacer es poner que arranquen a las 12 del día siguiente todos,
+[01:24] ponemos esto a asegurarse de hacer lo mismo en los tres y una vez de hecho esto ya le podríais dar a publicar.
+[01:30] Si tenemos más de un interés ganador por ejemplo el 3 y el 4 también nos está dando buenos números por
+[01:36] tres o cuatro días seguidos no recomiendo que hagáis la triple duplicación de los dos del
+[01:40] mismo día, podemos hacer hoy el interés 3 y mañana si este se sigue portando bien lo
+[01:45] hacemos con el 4. Voy a hacer un repaso de lo que acabamos de hacer, tenemos un interés que
+[01:50] lleva tres o cuatro días dándonos buenos números siendo rentable, venimos aquí, duplicate,
+[01:55] vamos a crear tres copias, cada una de estas copias le vamos a poner 100 de budget, vamos a hacer que
+[02:03] arranquen a las 12 del día siguiente y cuando uno de los tres conjuntos de anuncios saque una venta
+[02:09] vamos a matar los otros dos, matar significa parar básicamente es venir aquí a darle a este
+[02:15] botón y el interés que nos hemos quedado por ejemplo el 3 2 cada día que sea rentable,
+[02:19] lo vamos a escalar un 25 por ciento, venimos aquí, le damos a este en este caso tendría que ser 100
+[02:26] un 25 por ciento de 100 125, si al día siguiente sigue siendo rentable le vamos a meter un 25 por
+[02:33] ciento de 125 y así ya vais a ver que podemos escalar a buenos números mucho más rápido que
+[02:38] si hubiéramos aumentado un 25 por ciento de 20, porque también vamos a hacer ahora que tenemos
+[02:43] un interés entre comillas ganador si nos sigue dando buenos resultados, todos los creativos
+[02:48] nuevos que vayamos a testear vamos a utilizar nuestro interés ganador, esto ya lo hablaremos más
+[02:54] en profundidad en el siguiente módulo de escalar pero esto es la manera más rápida de pasar de 100
+[03:00] de gasto publicitario al día a 500.

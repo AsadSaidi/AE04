@@ -1,0 +1,17 @@
+# 31-01-1-wetracked-para-atribuir-ventas-al-anuncio-correc — 1. Wetracked para Atribuir Ventas al Anuncio Correcto.mp4 (01:26)
+[00:00] En un vídeo anterior y hemos visto como instalar WeTrack, como conectarlo a nuestra tienda,
+[00:05] solo quiero aclarar un par de cosas, las razones por las cuales usamos WeTrack,
+[00:10] es porque Facebook no atribuye bien las ventas, es decir, muchas veces no sabe exactamente qué
+[00:16] anuncio es el que se ha llevado las ventas, entonces usamos WeTrack, que es una app que
+[00:21] te ayuda a atribuir las ventas al anuncio que toca. Una vez lo tenemos conectado,
+[00:26] como hemos hecho en el otro vídeo, automáticamente WeTrack reporta las ventas al AdsManager,
+[00:33] es decir, vosotros los resultados de WeTrack no los tenéis que ver en WeTrack,
+[00:37] lo vais a ver todo aquí en el AdsManager, visualmente es exactamente lo mismo, lo único que
+[00:44] os dice con más certeza qué anuncio se llevó la venta y esto obviamente es muy, muy, muy
+[00:50] importante a la hora de escalar porque si tenemos 14 ventas, pero no sabemos si se las ha
+[00:56] llevado este anuncio o este, luego no sabemos cuál tenemos que matar, cuál tenemos que escalar,
+[01:01] así que es muy importante, sobre todo a la que estemos escalando usar WeTrack para saber
+[01:07] exactamente qué anuncio se llevó las ventas y una vez más si tenéis cualquier duda a la hora
+[01:13] de instalar la app o cualquier duda en referencia a WeTrack de estas gente son increíbles,
+[01:18] te contestan prácticamente al momento, así que aprovecharos de esto y disparad vuestras
+[01:24] preguntas aquí.

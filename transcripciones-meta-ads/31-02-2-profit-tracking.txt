@@ -1,0 +1,31 @@
+# 31-02-2-profit-tracking — 2. Profit Tracking.mp4 (02:59)
+[00:00] Uno de los problemas que vemos muchas veces en gente que arranca hacer Facebook ads es que no
+[00:06] traquea correctamente el beneficio, se piensa que está haciendo dinero y en verdad está perdiendo
+[00:11] dinero. Os vamos a dejar este excel aquí abajo pero es muy muy importante que traqueéis vuestro
+[00:16] beneficio correctamente porque no es lo mismo estar haciendo dinero que estar perdiendo dinero,
+[00:21] así que mucho cuidado con esto, seguid esta hoja que os dejamos aquí, aquí tenéis la
+[00:27] fecha, esto es el coste del producto, el coste publicitario, si estáis haciendo también anuncios
+[00:33] en Google, TikTok donde sea lo vais a meter aquí también, esto es solo para una de estas fórmulas
+[00:39] de aquí abajo. En e-commerce se aproxima que el coste de, el coste fijo de ranear tu negocio es un
+[00:47] 7%, esto incluye el 3% de Shopify, si usáis cualquier app como chat gpt, si tenéis asistentes
+[00:55] virtuales obviamente va a variar un poco según el negocio, más adelante podéis mirar cuánto es
+[01:01] exactamente este número para vosotros pero se aproxima normalmente un 7% y ahora al principio
+[01:06] os recomiendo que lo dejéis así. Aquí vamos a meter las ventas totales de Shopify, esto se
+[01:13] calcula automáticamente, te suma todos los costes que sería coste de producto, coste de
+[01:18] Facebook y fees, esta fórmula se calcula automáticamente, es la división de lo que
+[01:24] hemos ingresado menos lo que hemos gastado, que esto es el profit y aquí vemos el profit en
+[01:28] porcentaje. Este de aquí nos va a ir sumando el profit de todos los días, ahora vamos a rellenar
+[01:33] un día, vamos a poner que hoy estamos en 3 de junio, vamos a ver si hemos hecho dinero,
+[01:39] vamos a Facebook, vamos a la columna de spend, muy importante hacerlo a nivel de campaña para
+[01:45] ver el spend total, si por ejemplo lo hacemos a nivel de ad set, solo vamos a ver el gasto
+[01:51] de este ad set y no queremos esto, queremos ver el gasto total, vamos a venir aquí 8694,
+[01:57] 8694, gasto de Facebook, nosotros sabemos que el coste del producto es más o menos alrededor
+[02:04] de 20, es un poco más, ahora vamos a aproximar a 20, metemos, vamos a ir a Shopify y aquí arriba
+[02:10] a la derecha vemos el número total de pedidos, 1, 5, 3, vamos a meter igual 1, 5, 3 por 20
+[02:18] y tenemos el coste del producto, ahora vamos a ir a Shopify y también nos aseguramos que estamos
+[02:25] en el día que nos interesa, aquí vemos que es 14, 9, 5, 7, aquí parecería que estamos
+[02:33] haciendo mucho dinero porque hemos ingresado esto, pero ya veis que el profit en este día
+[02:40] es muy poco y el coste del producto es más que 20, o sea que incluso hemos hecho menos por lo
+[02:46] que os decía es muy importante tener eso bien traqueado porque hay días que uno se piensa que
+[02:50] puede estar ganando dinero luego viene aquí y en verdad no está ganando dinero, os dejamos el
+[02:55] excel aquí abajo y podéis haceros una copia.
