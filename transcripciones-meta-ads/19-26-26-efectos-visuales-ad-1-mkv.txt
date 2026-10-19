@@ -1,0 +1,36 @@
+# 19-26-26-efectos-visuales-ad-1-mkv — 26. Efectos Visuales Ad 1.mkv.mp4 (05:38)
+[00:00] Una vez hemos substituido todos los clips, vamos a pasar a revisar el vídeo y a añadir
+[00:06] algún efecto de sonido, alguna transición y algún efecto de vídeo.
+[00:11] Esto va a depender mucho de nosotros, de ver lo que quede fluido, que a base de ver otros
+[00:19] anuncios nos vamos a ir entrenando la vista para ver donde podemos meter a algún que
+[00:27] otro efecto y animación. Por ejemplo, vamos a verlo todo entero y veremos donde metemos a algún efecto.
+[00:45] Por ejemplo, aquí este, no sé si os habéis fijado, pero vamos a volver a verlo todo desde el inicio y
+[00:52] nos fijamos en este que no tiene movimiento, que es como muy estático. Vamos a ver otra vez.
+[01:05] Véis que hasta aquí la cámara tiene movimiento, pero aquí está estático. Vamos a darle algún
+[01:12] efecto, lo seleccionamos, vamos a animaciones, efectos de salida y mini zoom. El mini zoom aquí
+[01:21] abajo, como veis, es que dice 0 5 segundos. Si lo dejamos así, solo va a hacer el efecto al
+[01:29] final, a los últimos 0 5 segundos del vídeo. Si vemos, lo seleccionamos, dura 2,2 segundos,
+[01:36] entonces no lo va a hacer todo el vídeo, vamos a verlo. Habéis visto, solo hace este trozo,
+[01:45] entonces lo vamos a seleccionar otra vez y tenemos que estirar la línea hasta que dure todo.
+[01:53] A ver ahora. Mucho mejor. No cambia una barbaridad, pero se nota al final cuando ves todo el vídeo.
+[02:04] Vamos a verlo otra vez.
+[02:15] Bueno, mejor. Este también es movido, seguimos.
+[02:24] A este lo pasa lo mismo, es muy estático y también dura 2,2 segundos y medio.
+[02:30] Tampoco me gusta mucho el cambio de vídeo entre este y el siguiente,
+[02:34] como que este es demasiado movido y este está quieto,
+[02:41] así que aquí vamos a añadir una transición. Por ejemplo esta. Las transiciones es mejor que
+[02:49] no sean muy exageradas. Ahora vais a ver el por qué. Esta, por ejemplo, es muy sutil.
+[02:58] Es que solo se desenfoca un poco. En cambio, si metemos, por ejemplo, esta misma o la curva,
+[03:06] es que se ve como muy falso, es muy de juguete. Siempre que pongáis algún efecto,
+[03:15] veréis que hay miles, si editáis aquí en Capcat, en los otros también. Flies blanco, por ejemplo.
+[03:26] No me gusta mucho, porque vuelvo a salir el perro, es ir probando y ver a ver cuál queda mejor
+[03:33] desenfo. Desvanecimiento. Este también podría estar bien. Esto va a gusto de cada uno,
+[03:48] y ahora voy a dejar el desenfocar. Y además vamos a añadir el mismo,
+[03:57] el mismo efecto que hemos puesto en el otro. Vamos a animaciones, en salida y otro mini zoom.
+[04:09] Vamos a ver la diferencia. Así es como ha quedado. Y vamos a tirar para atrás para ver cómo estaba antes.
+[04:32] Antes estaba así. Es que queda muy seco, aquí hay mucho movimiento y de repente está quieto.
+[04:42] Y ahora está. Vamos a tirar adelante y ha quedado así. Como he dicho antes, no es muy exagerado,
+[04:52] pero algo cambia. Hace como que quede todo más fluido. Vamos a seguir.
+[04:58] A ver, estos no son muy movidos, los vídeos en sí, pero como van cambiando de clip, ya me gusta.
+[05:29] Perfecto, lo vamos a dejar así. Tampoco hay que abusar mucho de las transiciones si no hace falta,
+[05:34] así que vamos a por los efectos de sonido.

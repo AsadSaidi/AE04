@@ -1,0 +1,35 @@
+# 19-27-27-efectos-sonido-ad-1-mkv — 27. Efectos Sonido Ad 1.mkv.mp4 (06:04)
+[00:00] Vamos a por los efectos de sonido, que es lo mismo, a medida de que vais a ir viendo más anuncios,
+[00:07] vais a ir teniendo más ideas de dónde poner, pero por ejemplo en este caso vamos a ver cómo lo
+[00:15] hacemos. Podemos buscar el vídeo de un perro gruñendo en TikTok mismo, luego descargarlo y
+[00:24] hacer superposición aquí. Ahora vamos a ver cómo se hace, porque otra forma sería hacer darle sonido
+[00:31] a este, a ver si gruñe, pero no gruñe. Tienes sonido a ver este. Tampoco, también tiene gruñe.
+[00:46] Vamos con este. Mira, este sí que tiene sonido, el perro, como gruñe.
+[00:53] Entonces este lo vamos a dejar y este como está corriendo, tampoco necesitamos que haga ningún ruido,
+[01:02] así que vamos a buscar un perro que gruña y un chihuahua que ladra. Bien, hemos encontrado dos vídeos
+[01:12] de un perro gruñendo y otro de un chihuahua ladrando, así que vamos a poner los vídeos para extraer
+[01:21] solamente el audio. Le damos a superposición, agregar superposición y es este, ese del perro que
+[01:31] gruñe, como veis. A ver si es ese trozo, es aquí, cortamos, eliminamos ese trozo, sólo queremos
+[01:45] el trozo que está gruñendo y esto luego lo podemos esconder para que solo se quede el audio.
+[01:52] No era este, es este. Igual es demasiado exagerado, vamos a ver.
+[02:15] Bueno, todo el rato hace lo mismo.
+[02:17] Así que podemos dejar, por ejemplo, este trozo y bajarle el volumen.
+[02:32] Nos sirve.
+[02:37] Ha quedado perfecto. Simplemente para que haya algo de sonido, para que ayude.
+[02:45] Ajustamos hasta que haga el, veis que se ajusta solo. Aquí el clip. Perfecto,
+[02:57] aquí también está alineado. Vamos con el siguiente, el del chihuahua. Aquí tiene que estar ladrando.
+[03:13] Perfecto, aquí empieza a ladrar, pues cortamos justo antes de que empiece y lo ponemos al principio
+[03:21] donde queremos que lo haga. Lo escondemos y vamos a ver si no cuadra, vamos a ver si un poco más
+[03:34] adelante queda mejor. Perfecto, cortamos donde queramos, eliminamos y hacemos lo mismo para ajustarlo.
+[03:46] Click, veis que hace el solo se ajusta, vamos a bajar el volumen también.
+[03:58] Este igual lo vamos a bajar un poquito más.
+[04:03] Perfecto, y a este ya le hemos dado sonido, ¿no? También lo vamos a bajar un poco. Volumen,
+[04:13] bajamos a 20, y vamos a ver cómo queda.
+[04:44] Perfecto, tenemos el sonido de los perros y aquí cuando dice echarle un vistazo más abajo
+[04:52] podemos añadir un sonido que sea como de alguien apretando con el ratón, haciendo un click.
+[05:01] Entonces vamos a ir a audio otra vez, efectos de sonido, y se llama ding, ya lo tengo aquí
+[05:07] guardado, se llama ding, y yo lo que hago es añadirle los dos, el click del ratón y ese ding,
+[05:17] vamos a ver cómo lo hacemos, añadimos este primero y lo ponemos un poquito más adelante.
+[05:31] Cuando dice check it out, entonces lo vamos a poner justo donde empieza a decir check it out.
+[05:42] A ver, es un poquito antes, es aquí, y el ding un poquito más tarde.
+[05:57] Perfecto.

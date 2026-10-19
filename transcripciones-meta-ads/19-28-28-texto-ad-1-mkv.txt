@@ -1,0 +1,64 @@
+# 19-28-28-texto-ad-1-mkv — 28. Texto Ad 1.mkv.mp4 (10:17)
+[00:00] Una vez tenemos todos los visuales bien y los vectos de sonido, vamos a por la letra.
+[00:04] Vamos a generar la letra, elegir el estilo y a ver cómo añadir emojis si no tenéis apel.
+[00:11] Empezamos por la letra. Le damos a subtítulos automáticos, estamos desde aquí, le damos a texto, subtítulos automáticos.
+[00:20] Generar desde todas, está bien, idioma es el inglés y plantilla ahora no nos importa, predeterminado,
+[00:28] porque vamos a tener que ajustarla. Le damos a generar, escuchamos, aquí está perfecto,
+[00:38] vamos a ajustarlo, ampliamos la línea de tiempo para verlo mejor y ajustamos el texto para que acabe justo
+[00:45] cuando acaba el clip. Esto es importante porque si no queda como raro, vais a verlo.
+[00:51] ¿Habéis visto que ha acabado de decir la frase, cambia de clip y aún está la letra? Esto no queda bien.
+[00:58] Lo que queremos es que cada frase acabe con el clip, queda mucho más limpio. Incluso si queréis,
+[01:06] podéis hacer lo que acabe justo o incluso un poquito menos, un poquito antes del clip.
+[01:13] Ahora viste que empiece cuando empieza el clip y lo mismo, vamos a repasar lo que dice.
+[01:27] Tiene que ser bastante bien, ponemos un poquito menos. Si queremos, esto no importa, va a gusto.
+[01:38] Por ejemplo, queremos que acabe en You Know y en el siguiente clip que continúe le damos otra
+[01:55] vez a editar subtítulos y lo único que tenemos que hacer es no nos ponemos detrás de Know y le damos
+[02:01] a Return. Al darle este espacio, ha saltado de línea y como vais a ver, ya tenemos las dos
+[02:11] frases separadas, solo tenemos que ajustar. Vamos a ver. Por ejemplo, lo mismo aquí, que empiece
+[02:25] con el clip y vamos haciendo lo mismo. Este que empiece con el clip, este que acabe un poco antes.
+[02:36] Vamos a ajustarlo todo. Ya veréis que se ajusta solo, es lo mismo que hemos visto antes.
+[02:59] Está perfecto este, este que empiece con el clip también.
+[03:03] A ver, este.
+[03:16] Vale, vamos a ver dónde empieza.
+[03:18] Empieza aquí a decir Instit, así que lo ajustamos y acaba donde dice Chaos. Así que hacemos lo mismo,
+[03:35] editar subtítulos y detrás de Chaos le damos un espacio y salta de línea. Es exactamente lo
+[03:44] mismo, un poquito menos. Aquí vemos que si tiene que ajustar. Este que empiece a ajustar el clip.
+[04:07] Aquí vamos a hacerlo al revés, queremos que todo esto sea una frase, así que también editar subtítulos
+[04:13] y en vez de darle un espacio, lo vamos a borrar. Le damos a borrar y sube. Vamos a ver dónde tenemos
+[04:21] que cortar. Cuando acaba de decir Off, editar subtítulos, le damos un espacio y ahora sí, ajustamos.
+[04:36] Una vez tenemos la letra cuadrada con la voz, vamos a elegir el estilo de letra que es en texto,
+[04:54] elegimos el primero. Hacemos esto de subtítulos automáticos, vamos a ver que se queda de este color
+[04:59] marrón, todo el texto y si cambiamos el primer estilo del primer texto, ahora vamos a ver por
+[05:07] ejemplo, aquí estilo le damos este primero, se cambian todas. Cambiando uno, se cambian todas. En cambio,
+[05:14] si lo hacemos escribiendo nosotros, aquí donde dice más texto, si lo hubiésemos hecho nosotros así,
+[05:20] lo escribimos, aquí escribimos otra cosa. Si lo hacemos a mano, al elegir el estilo, por ejemplo,
+[05:31] ponemos este. Vemos que sólo se cambia este, el siguiente no se cambia, se tiene que hacer
+[05:39] uno por uno. Entonces yo recomiendo hacerlo con subtítulos automáticos, es mucho más eficiente y
+[05:48] esto. Para elegir el estilo, vamos aquí a estilos y vais a ver que hay montones de funciones,
+[05:55] tenéis plantillas para darle, mira, este viene con emojis, esta sale palabra por palabra,
+[06:06] luego vais a poder ver que hay por monolíneas, sólo que salga una línea, más de una, salga por palabra,
+[06:15] aquí las fuentes para cambiar el tipo de letra, ahí se puede hacer de todo, podéis ir investigando,
+[06:23] hay muchísimas cosas, muchísimas, muchísimas, estilo aquí podéis escoger el color, ponerle fondo,
+[06:32] escoger el color del fondo, que tenga sombra de todo, más efectos, animaciones para que la letra
+[06:43] salga de una forma, pero esto, si lo hacéis con las plantillas, ya son bastante predeterminadas.
+[06:51] Vamos a poner esta misma para hacer la prueba, o monolínea, esta misma. Vamos a ver,
+[07:02] esta no se mueve, si queremos que se mueva, vamos a hacer la prueba, vamos a animaciones y podemos
+[07:10] hacer este primero mismo, aparición, vale, como veis hemos de elegir un segundo y el primero nos
+[07:25] ha cambiado, tenemos que hacerlo desde este, volvemos a hacerlo, estilo, monolínea, perfecto, esto
+[07:50] también va a gustos, pero veis que la letra de las dos líneas tiene como un poco de separación,
+[07:57] se puede tocar todo, damos estilo otra vez, estilo, espaciado, aquí hay que poner línea,
+[08:08] aquí puedes tocar como queráis.
+[08:20] Vemos que todas se mueven y todas tienen el mismo formato, aquí a veces parece,
+[08:27] ha parecido que salía la letra del otro vídeo, y está bien. Entonces vamos a ver por ejemplo,
+[08:36] vamos a ver por ejemplo cómo añadir emojis si no tenemos un iPhone, que tienen que ser estos así,
+[08:44] podemos ir a esta página web, emojipedia, y aquí arriba de todo a la derecha veis que podéis
+[08:53] buscar por si queréis algo en concreto, y si no a la izquierda os salen más,
+[08:57] ahí os traes todos, las caras, y lo único que tenéis que hacer es por ejemplo si queréis
+[09:09] este primero os seleccionáis y aquí lo copiáis, copiáis, le dais a donde lo queréis meter,
+[09:17] por ejemplo aquí al final de este seleccionáis, pegáis y ya tenéis el emojip. Importad de
+[09:24] también, bueno nosotros lo hacemos así, que cada frase empiece con mayúscula, como veis todo
+[09:29] está en minúscula, así que vamos a editar subtítulos otra vez y vamos cambiando la
+[09:35] primera letra de cada frase, perfecto. Ahora esto también va a gustos,
+[09:47] vemos que la letra igual es un poco grande, así que lo vamos a hacer un poquito más pequeña,
+[09:53] así ya me gusta más, y al final de todo nosotros vamos a añadir una emojia aquí en el call to action,
+[10:04] que va a ser una mano hacia abajo, y ya tendríamos la letra puesta.

@@ -1,0 +1,47 @@
+# 19-22-22-generacin-de-voz-ad-1-mkv — 22. Generación de Voz Ad 1.mkv.mp4 (04:41)
+[00:00] Paso dos, modificar el script según nuestro producto, es decir, en este caso nosotros vamos
+[00:05] a hacerlo con el mismo audio porque ya nos sirve para hacer el vídeo de muestra, pero
+[00:10] imaginemos que nuestra oferta es de 50% y aquí abajo, por ejemplo, dice el nombre de su marca
+[00:19] y queremos ponerla nuestra, pues metemos aquí, vale, hemos hecho dos cambios, es
+[00:31] por poner de ejemplo, hemos hecho esos dos cambios y la voz que hemos descargado del vídeo no dice
+[00:35] esto, entonces vamos a ver cómo generamos la voz con el script nuevo que hemos hecho, diciendo lo
+[00:42] que nosotros queremos, aquí es donde entra y le ve el laps, es una aplicación que nos permite clonar
+[00:47] voces para que digan exactamente lo que nosotros queramos, es decir, en text to speech aquí
+[00:52] le vamos a escribir lo que nosotros queremos que diga y luego vamos a seleccionar la voz
+[00:57] para que lo diga con la voz que quedamos, si queremos que lo haga con la voz del mismo
+[01:05] el mismo anuncio que hemos descargado, primero de todo tenemos que clonarla, nos vamos a voces
+[01:10] add new voice, la segunda opción instant voice clone y aquí tenemos que subir el vídeo del
+[01:18] anuncio, es este que hemos descargado antes, remove background tiene que estar seleccionado
+[01:26] porque en este caso el vídeo tiene música por detrás, lo único que queremos es la voz,
+[01:31] entonces este seleccionado, siguiente, aquí le podemos poner un nombre para luego a la hora
+[01:36] de buscar lo que sea más fácil, mujer, nudo, por ejemplo, lenguaje inglés, descripción como
+[01:44] queráis, chica joven, por ejemplo, esto lo importa y esto lo tenemos que seleccionar,
+[01:51] le damos a safe voice y ya estaría la voz clonada, le damos a skip y vamos a text to speech,
+[01:59] que es lo que queremos nosotros, queremos que a partir de un texto que le demos nos lo transformen
+[02:03] en audio, entonces copiamos nuestro script cambiado, lo pegamos ahí, esto podemos sacar
+[02:14] los espacios que sobran y seleccionamos la voz, aquí vais a ver que hay unos settings,
+[02:24] podéis tocarlos por ejemplo si veis que la voz va muy despacio, podéis hacer que vaya más rápido,
+[02:30] la estabilidad, bueno esto ya vais a ir viendo, normalmente tal y como están, ahora que he
+[02:35] tocado aquí le dais a reset y volve tal y como estaban, normalmente así está bien,
+[02:39] pero lo que os digo, si veis que por ejemplo va lento lo podéis subir un poco como veáis,
+[02:44] vale vamos a generar la voz,
+[02:47] Trim your dog without scaring it away, if you're like me, you know how much a hassle trimming sessions can
+[02:51] be, they always resist or run away in fear, but this ultra low noise trimmer solves that problem,
+[02:56] it's designed for anxious dogs like mine, now he is actually relaxing while we trim him instead
+[03:01] of causing chaos, I had to let you guys know considering how hard it was for me before,
+[03:05] and the best part is that it is still on 50% off, so hurry up and check out new doggy
+[03:10] and make dreaded trimming fun for both of you.
+[03:12] Vale, esto vais a tener que generar hasta que veáis que lo dice perfecto,
+[03:17] porque esto es muy importante la voz, si veis que, este porque es un poco corto,
+[03:22] pero si veis que seguramente aunque sea una palabra la dice mal podéis generarlo por frases o
+[03:28] incluso generarla toda y si solo hay una frase que dice mal podéis descargar el audio y
+[03:33] luego generar solo la frase que ha dicho mal, esto como queráis, porque no siempre lo
+[03:38] dice todo bien, podéis hacer por ejemplo esto lo copiáis y generáis primero esta frase, luego
+[03:44] lo corráis, generáis la segunda, esto como vosotros veáis, como os vaya mejor, porque luego aunque tengáis
+[03:51] diez descargados de audios, luego ya vamos a ver que editando se pueden meter uno por uno y se
+[03:59] pueden orterar, entonces esto sería todo de level labs, yo os recomiendo que paguéis el primer
+[04:06] plan, porque con ir generando muchas voces se os van a acabar, me parece que al principio hay uno gratis
+[04:12] pero se agota rápido y son 22 dólares al mes, que os va a servir mucho, solo faltaría ver cómo borrar
+[04:19] una voz, que depende del plan que tengáis, por ejemplo aquí veis que solo se pueden generar 30,
+[04:23] entonces cuando tengáis 30 y queráis hacer otra, tenéis que ir a view, aquí en las voces os veis
+[04:30] a view de la voz que queráis borrar y le dais a delete, así podéis crear otra nueva, porque si tenéis 30 nos va a dejar

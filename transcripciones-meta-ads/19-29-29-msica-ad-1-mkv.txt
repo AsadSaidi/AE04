@@ -1,0 +1,22 @@
+# 19-29-29-msica-ad-1-mkv — 29. Música Ad 1.mkv.mp4 (03:52)
+[00:00] ya casi lo tenemos. Solamente falta meter la música, poner el mismo nombre al vídeo que el que tenemos en el Excel,
+[00:08] que hemos dicho que este sería el AD1 entre paréntesis 1 y descargarlo y ya estaría.
+[00:14] Para la música vamos desde el inicio y podemos hacer en audio, sonidos, buscar desde aquí mismo podemos buscar la que queramos,
+[00:26] aquí no saben por ejemplo alguna, ponemos happy, vemos que hay un montón, podemos buscar desde aquí,
+[00:39] podemos hacer lo mismo que hacíamos para los clips en YouTube descargando alguna música que sea sin copyright,
+[00:46] y luego añadirla desde aquí, para añadirla sería en sonidos igualmente, le damos aquí en el segundo que es una carpeta,
+[00:55] dispositivo, seleccionar en el dispositivo y aquí nos saldría el audio una vez lo hayamos pasado a nuestro teléfono.
+[01:04] Y otra opción que es la que vamos a hacer es la del mismo anuncio que hemos cogido,
+[01:11] lo mismo que hemos hecho al principio para extraer la voz, vamos a hacerlo pero con la música,
+[01:16] así que hacemos una superposición del mismo el original, es este y solamente vamos a querer la música,
+[01:26] así que extraemos el audio, ya podemos borrar el vídeo, volvemos con el audio, audio extraído,
+[01:37] y del audio extraído vamos a separar la voz y vamos a borrar la voz para dejar solamente la música.
+[01:45] Ahora tenemos todo lo que no es la voz que es este y este es la voz, la voz ya la tenemos que la hemos puesto al principio,
+[01:52] entonces la eliminamos y solamente nos va a quedar la música, vamos a ver.
+[02:07] No sé si se escucha, pero para que se escuche vamos a silenciar la voz y vamos a ver que solo está la música.
+[02:13] Ahora esto también va a gusto, vamos a ver si dejamos el mismo volumen o lo subimos o como lo hacemos.
+[02:48] Perfecto, vemos que sobra un trozo, así que lo recortamos hasta que queda igual y listo, ya tenemos el anuncio hecho.
+[03:21] Solamente queda descargarlo, que para descargarlo aquí arriba le vamos a dar a todo al máximo, el flojo óptico también.
+[03:31] Antes de descargarlo, tenéis que cambiar el nombre, renombrar y le ponéis el mismo que hemos puesto en el excel para luego poder encontrarlo.
+[03:40] Hemos dicho que este es el uno, perfecto, ahora ya lo podemos descargar, ya tenemos el anuncio hecho.
+[03:49] Bueno, ya lo podemos descargar, ya tenemos el anuncio hecho.

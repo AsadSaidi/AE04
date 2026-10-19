@@ -1,0 +1,43 @@
+# 19-24-24-voiceover-ad-1 — 24. Voiceover Ad 1.mp4 (05:41)
+[00:00] Vamos a por el cuarto paso. Una vez tenemos el script listo y todos los visuales,
+[00:05] lo siguiente es empezar a editar. Para editar, cada uno puede hacerlo como le sea más fácil,
+[00:12] puede hacerlo con, por ejemplo, un capcat desde el ordenador, puede hacerlo con bit.io,
+[00:20] también aquí desde el ordenador. Todos son buenos, cada uno como le vaya mejor. A mí lo
+[00:26] que me va más bien y he hecho siempre es desde capcat con el teléfono, con mi teléfono,
+[00:33] me va mucho mejor. Así que ahora vamos a pasar a ver otra vez la pantalla de mi teléfono para
+[00:40] ver cómo empezamos a editar, pero antes de esto os voy a decir cómo podéis pasar los vídeos por
+[00:47] si lo queréis hacer desde vuestro teléfono. Yo al tener Mac y iPhone lo hago con AirDrop,
+[00:53] pero si no también lo podéis hacer a través de Drive no pierde calidad, podéis arrastrar los vídeos
+[01:01] que queréis a cualquier carpeta o sitio del Drive, que eso os van a colgar y luego los vais a poder
+[01:09] descargar directamente desde el teléfono, entrando al Drive y descargando vídeo por vídeo,
+[01:13] eso como queráis. Si editáis directamente desde el ordenador, esto no hace falta. Vale,
+[01:20] dicho esto, mantenemos las subidas y aquí corto y vais a ver la pantalla de mi móvil. Volvemos a
+[01:28] estar en el teléfono, como os he dicho antes, yo lo hago desde capcat por el móvil porque es como
+[01:35] me va mejor, pero hay miles de formas más, se puede hacer desde el ordenador con bit.io,
+[01:41] con capcat también, cada uno como le vaya mejor. Yo os voy a enseñar esta forma porque es como
+[01:47] lo he hecho siempre, así que empezamos, le damos a nuevo proyecto, seleccionamos el clip original del
+[01:55] vídeo que estamos copiando, lo que vamos a hacer es empezar por poner la voz, elegir el formato que
+[02:03] hemos dicho que lo vamos a hacer en uno a uno y vamos a recortar el vídeo dependiendo de los
+[02:08] clips que hemos elegido anteriormente en el Excel, ahora lo vais a entender todo. Primero
+[02:15] seleccionamos el vídeo, nos vamos hasta donde dice extraer audio, tenemos el audio extraído y aquí
+[02:25] como podéis ver se escucha la voz pero también se escucha la música, de momento no queremos la
+[02:34] música, así que vamos a separar el audio y sólo vamos a seleccionar la voz. Una vez la voz está
+[02:41] extraída, lo otro no lo queremos, aquí es donde está la música, así que lo eliminamos y sólo nos queda
+[02:48] la voz. Perfecto, ahora vamos a separar lo que hemos dicho, el vídeo para poder sustituirlo luego
+[02:59] por los visuales que hemos decidido, vamos a ir paso por paso, escuchamos, perfecto, aquí cortamos
+[03:08] y luego ahora para que lo veáis, esto lo hemos cortado con la primera frase que es lo que hemos hecho
+[03:14] antes en el Excel, de la primera frase hemos dicho que pondríamos tal visual, pues ahora aquí para
+[03:21] cambiar el visual haremos substituir, aquí le sale substituir y elegiremos el clip que
+[03:33] ya hemos decidido poner aquí en el Excel, si es este veis que podéis elegir aquí donde empieza,
+[03:41] pongamos que es este, perfecto, le vamos a confirmar y ya se ha cambiado el clip, vale pues vamos a hacer
+[03:49] esto, vamos a recortarlo todo, perfecto, aquí va a ir un clip, la segunda frase vamos a poner dos
+[04:01] clips distintos que es lo que hemos decidido en el Excel, así que vamos a separarlo en dos, es
+[04:13] en esta frase aquí vamos a poner dos clips distintos, así que vamos a recortar por ejemplo cuando
+[04:21] acaba de decir you know, nos queda un segundo y medio y dos segundos, vale, siguiente
+[04:41] aquí lo mismo, hemos decidido antes que aquí pondríamos dos clips, así que también lo vamos a
+[04:46] cortar hasta donde dice away in fear, perfecto, aquí cortamos, siguiente, aquí hemos decidido que solo
+[05:04] pondremos un clip, así que esta frase está bien, aquí también sólo un clip en esta frase
+[05:17] I had to let you guys know considering how hard it was for me before, lo mismo, solo un clip
+[05:24] and the best part is that it is still on 40% off, aquí también un clip, so hurry up and
+[05:31] check it out below and make dreaded trimming fun for both of you y aquí también uno, ahora
+[05:37] vais a entenderlo bien si es que no me he explicado antes
