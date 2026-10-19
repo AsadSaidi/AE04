@@ -1,0 +1,27 @@
+# 35-03-3-lanzar-anuncios-rettargeting — 3. Lanzar anuncios rettargeting.mp4 (03:22)
+[00:00] Vamos a ver cómo lanzamos estos anuncios de retargeting. Aquí lo ideal es que sean un 10% del gasto total, es decir, si estamos gastando 10K al día, 1000, deberían irse a anuncios de retargeting.
+[00:13] Lo vamos a hacer en la misma campaña de Testeo de Creativo. Vamos a venir aquí, vamos a crear un nuevo ADSET. Este ADSET le vamos a meter 20, va a ser un AVO de 20.
+[00:24] Exactamente lo mismo que hacemos para los otros anuncios con una sola diferencia. Aquí quiero que entendáis que cuando hacemos anuncios de retargeting, nuestro público, nuestra audiencia es mucho más pequeña que cuando hacemos anuncios normales.
+[00:38] Porque estos anuncios de retargeting, como ya hemos dicho, están diseñados para enseñarse a gente que ya mostró interés. La audiencia de gente que mostró interés es mucho, mucho más pequeña que el resto de la audiencia, que básicamente es el resto del mundo.
+[00:52] Lo que pasa aquí es que estos anuncios de retargeting son menos escalables. Es muy fácil que sean rentables a gasto pequeño, pero cuando escalamos, a no ser que también estemos escalando mucho el resto de anuncios, lo que serían los anuncios que se enseñan al tráfico frío, tampoco vamos a poder escalar mucho los anuncios de retargeting.
+[01:11] Aquí os voy a dar dos opciones. La primera es lanzar estos anuncios de retargeting a 20 y cada día que sean rentables, vamos a aumentarles 5€ de budget o dólares aquí a nivel de conjunto de anuncios.
+[01:25] Y cuando tengamos algo que es rentable por 3 o más días, con un gasto mínimo de 100, exactamente las mismas normas que usamos para escalar.
+[01:33] Nosotros anuncios lo vamos a meter directamente a la campaña de escalamiento, que sería una de estas de aquí.
+[01:39] Aquí nos estaríamos saltando un paso, el de la triple duplicación y la razón por la cual hacemos esto es porque estos anuncios, como he dicho, están atacando a una audiencia mucho más pequeña.
+[01:49] Entonces si obligamos a Facebook que gaste 100 en estos anuncios, en un día igual no consigue encontrar a clientes.
+[01:57] Pero si lo metemos en la campaña de escalamiento que hay otros tipos de anuncios, Facebook solo va a meter gasto en los anuncios de retargeting en caso de que crea que es lo mejor.
+[02:07] O sea, en caso de que crea que estos anuncios nos van a dar mejores resultados que los anuncios normales.
+[02:13] Como siempre en las campañas de escalamiento, aquí metemos el post ID.
+[02:16] La segunda opción que os quiero dar es exactamente lo mismo que hacemos normalmente.
+[02:21] Cuando esto está funcionando por 3 o más días y es rentable, le hacemos la triple duplicación con un budget de 100.
+[02:27] Cuando sacamos la primera venta, matamos los dos otros conjuntos de anuncios.
+[02:31] Si eso sigue rentable por 3 o más días, lo metemos en la campaña de escalamiento una vez más con el post ID.
+[02:39] Si hacéis la triple duplicación, tenete en cuenta esto, que puede ser que estos anuncios con poco budget funcionen bien,
+[02:45] porque la audiencia es más pequeña, es solo gente que mostró interés de compra,
+[02:50] pero si lo ponemos a 100 o escalamos aún más, puede ser que no sean tan rentables.
+[02:55] Esto se soluciona poniéndolos en la campaña de escalamiento porque en la campaña de escalamiento,
+[03:00] aunque ésta por ejemplo esté a budget de 1000, Facebook solo va a gastar los anuncios de retargeting
+[03:06] si cree que eso es la mejor opción.
+[03:09] Ya para terminar este módulo, recordad lo que hemos dicho,
+[03:12] los anuncios de retargeting sirven para volver a atacar ese tráfico caliente
+[03:17] y deberían suponer aproximadamente un 10% de nuestro gasto total.

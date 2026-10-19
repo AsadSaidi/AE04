@@ -1,0 +1,48 @@
+# 35-02-2-cmo-buscar-ejemplos-de-anuncios-retargetting-en — 2. Cómo buscar ejemplos de anuncios retargetting en GetHookd.mp4 (05:12)
+[00:00] Ahora que ya sabemos que tenemos que ranear anuncios de retargeting, vamos a ver un ejemplo y os voy a enseñar cómo encontrar más en gethook para que podáis pillar inspiración.
+[00:09] En 2025 el targeting del anuncio lo hace el mismo creativo, cada palabra, cada imagen, todo lo que aparece aquí decide a quién Facebook le va a enseñar nuestro anuncio.
+[00:20] En este ejemplo vemos que el primary text pone, no te olvides de completar tu pedido, nuestra oferta termina hoy.
+[00:28] Cuando Facebook, la idea de Facebook, escanea esto, entiende que este anuncio queremos que se le enseñe a gente que está ya a punto de comprar,
+[00:37] que literalmente casi completó el pedido pero no terminó de completarlo.
+[00:42] Aquí vemos que también mencionamos la oferta, les damos un código de descuento y mencionamos que hay una garantía.
+[00:48] Y aquí en la headline también lo mismo, la oferta termina hoy.
+[00:51] Cuando Facebook escanea esto y decide a quién le tiene que enseñar el anuncio, entiende perfectamente que este anuncio no es para enseñar a alguien
+[01:01] que nunca ha visto nuestro producto, no sabe ni el nombre de nuestra marca, ni absolutamente nada, sino que entiende que este anuncio va a funcionar mejor.
+[01:09] Si lo enseña a gente que ya mostró intención de compra y el objetivo de Facebook es que nosotros hagamos dinero, aunque hay mucha gente que piensa que no es así,
+[01:18] pero cuanto más dinero hagamos nosotros, más dinero hace Facebook.
+[01:21] Cuando hacemos anuncios de retargeting tenemos que adaptar todos los elementos del anuncio para que Facebook pueda reconocer fácilmente
+[01:28] que el anuncio está diseñado para mostrarse a una audiencia que ya ha interactuado con nuestra marca o con nuestra tienda.
+[01:36] Vamos a empezar utilizando elementos de urgencia, como por ejemplo la oferta termina hoy, vamos a meter garantías.
+[01:42] Yo recomiendo que mínimo metáis 30 días, también podéis meter 60 o 90 y también podemos meter social proof.
+[01:50] Lo último que vamos a probar es darles descuento, es algo que también puede funcionar muy bien, pero esto se va a comer obviamente parte de nuestro margin,
+[01:59] de nuestro profit, pero si la conversión aumenta mucho gracias a esto puede ser que nos siga combiniendo de hacer.
+[02:05] Puede ser que nos siga saliendo rentable hacerlo.
+[02:08] Aquí os dejo un ejemplo de anuncio de retargeting, vamos a verlo, aquí vemos lo mismo.
+[02:14] Últimas unidades, solo dos horas, aquí les dan un descuento extra y aquí pone finaliza tu pedido.
+[02:21] Cuando Facebook ve finaliza tu pedido, enseña el producto, el anuncio perdón, a gente que casi finalizó su pedido.
+[02:29] Este es un buen ejemplo, lo podéis pillar de referencia y ahora os enseño, vamos a ir a get hooked y vemos cómo encontrar más.
+[02:37] Para encontrar anuncios de retargeting en get hooked os dejo aquí abajo unos filtros, podemos meterle 4 o 5 estrellas,
+[02:43] no queremos ver anuncios con una estrella, le metemos formato imagen, también se puede jugar con carousel,
+[02:50] pero podéis arrancar con imagen y en el estilo de la imagen le vamos a meter promoción y descuento.
+[02:56] Acabamos static at the skyle, static at the style, promotion and discount.
+[03:02] Y aquí el primero que vemos ya pone still on the fence, que esto sería como aún dudas, Facebook automáticamente
+[03:09] detecta que este anuncio está diseñado para gente que aún está dudando, es decir a gente que ya mostró interés de compra
+[03:16] pero no terminó de comprar y le enseña el anuncio a ese tráfico caliente que hablábamos antes.
+[03:23] Aquí vemos que esta gente también tiene oferta, tiene social proof, este es un muy buen ejemplo de anuncio de retargeting.
+[03:31] Aquí podéis ir escroleando y estoy seguro que vais a encontrar, muchísimos más.
+[03:35] Si no salen más, otra forma de encontrar es poniéndole keywords, dejamos los mismos filtros y aquí tenéis una lista de todas las keywords que podéis probar.
+[03:45] Venimos aquí, pillamos las keywords, still interested, mantenemos nuestros filtros
+[03:51] y aquí ya vais a ver que os salen muchísimos anuncios de retargeting.
+[03:55] Cuando pone still interested, obviamente Facebook le va a enseñar el anuncio a gente que mostró interés.
+[04:02] Podéis ir escroleando y ya vais a ver que tenéis muchísimos ejemplos de anuncios de retargeting.
+[04:09] La mayoría mencionan la oferta, urgencia, social proof y el copyright siempre está orientado a que Facebook
+[04:19] detecte que este anuncio tiene que enseñarse a gente que ya mostró interés, por ejemplo este.
+[04:24] Aún estás debatiendo, si quieres comprarlo o no, aún estás dudando.
+[04:30] Ya vais a ver que usando estas keywords vais a encontrar muchísimos ejemplos.
+[04:34] Venimos aquí, pillamos otra, forgot this, exactamente lo mismo.
+[04:43] ¿Te olvidaste de algo? Obviamente Facebook ya detecta que queremos que este anuncio lo vea a alguien que mostró interés
+[04:49] porque si lo enseña a alguien que nunca vio esto, no creo que sea suficiente para que compre,
+[04:54] pero para alguien que ya añadió al carrito o que incluso inicio checkout,
+[04:58] esto puede ser más que suficiente para que termine de comprar.
+[05:02] Y jugando con esto, ya vais a ver que con estas keywords vais a encontrar muchísimos ejemplos
+[05:07] y ranead siempre anuncios de retargeting.

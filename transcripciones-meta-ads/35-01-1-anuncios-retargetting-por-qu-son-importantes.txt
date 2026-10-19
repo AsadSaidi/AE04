@@ -1,0 +1,39 @@
+# 35-01-1-anuncios-retargetting-por-qu-son-importantes — 1. Anuncios Retargetting - Por qué son importantes.mp4 (02:46)
+[00:00] En este módulo vamos a hablar de los anuncios de retargeting, estos son anuncios que vamos
+[00:04] a setear de tal forma, que se enseñen a gente que ya mostró una alta intención de compra,
+[00:09] esto sería que, o bien, añadió al carrito o inició checkout.
+[00:14] Vamos a suponer que tenemos mil visitas al día y nuestra tasa de conversión es un 2%,
+[00:18] estos son 20 ventas al día, pero ¿qué pasa con esas 980 personas que no terminaron
+[00:24] de comprar?
+[00:25] Algunas simplemente no son nuestros clientes ideales, nunca nos van a comprar pero
+[00:28] hay una gran cantidad de estas que, o bien, añadió el producto al carrito o inició
+[00:34] el checkout, es decir, es tráfico muy, muy, muy caliente.
+[00:37] Si por ejemplo tenemos un 8% de tasa de añadido al carrito, estos son 80 personas al día
+[00:42] que añadieron al carrito pero que no compraron.
+[00:44] Si nuestra tasa de checkout es un 4%, estos son 40 personas al día que llegaron a la
+[00:50] pantalla de pago, incluso algunos pusieron su información pero no terminaron de comprar.
+[00:54] En un mes, esos serían 1.000 personas que añadieron al carrito pero que no compraron
+[00:58] y 600 personas que llegaron a la pantalla de pago pero que no compraron.
+[01:03] Esto es tráfico caliente, es gente que mostró alta intención de compra pero por la razón
+[01:07] que sea no completaron el pago.
+[01:09] Muchas de estas personas solo necesitan un empujoncito para comprar, esto puede ser
+[01:13] un simple recordatorio, urgencia, tipo oferta válida solo hasta hoy, prueba
+[01:19] social de que mucha gente como ellos compraron, darles alguna garantía de que en caso
+[01:23] de que no les guste el producto les vamos a devolver el dinero o algún descuento extra,
+[01:28] puede ser un 10%, 5 dólares o lo que sea.
+[01:31] Esta gente es gente que ya mostró interés de compra, están muy muy calientes a punto
+[01:36] de comprar pero aún no compraron y si solo conseguimos convertir un 20% de esta gente
+[01:41] esos son 360 ventas extras cada mes.
+[01:44] Encima estas ventas son las ventas más baratas de conseguir porque ese tráfico como hemos
+[01:49] dicho ya está caliente, ya está a punto de comprar.
+[01:52] No tenemos que volver a explicarles cómo funciona el producto, no tenemos que volver a hacer todo
+[01:56] de cero, con solo un empujoncito más seguramente ya van a comprar y aquí es donde vemos rojas
+[02:00] muy locos de 5 o de incluso más, incluso hay marcas que operan en break even, es decir
+[02:07] que sus anuncios normales por decirlo de alguna forma les dan solo break even, luego
+[02:12] lanzan campañas de retargeting y ahí es donde hacen el profit.
+[02:16] Este no es el objetivo pero lo que sí debemos hacer sí o sí, sobre todo si ya estamos
+[02:22] gastando una cantidad considerable de dinero en meta de ranear anuncios de retargeting.
+[02:27] En los próximos vídeos voy a enseñar anuncios de retargeting en get hook para que podáis
+[02:32] pillar inspiración, vamos a ver cómo configurar nuestros primeros anuncios de retargeting,
+[02:36] qué presupuesto les metemos y cómo lo raneamos en el ads manager y vamos a ver cómo llegar
+[02:41] a todo este tráfico caliente que mostró interés de compra pero que no llegó a comprar.
