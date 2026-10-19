@@ -1,0 +1,51 @@
+# 24-10-10-wetracked — 10. Wetracked.mp4 (04:52)
+[00:00] este vídeo que vais a ver a continuación, lo grabé hace un tiempo, voy a tener que usar el otro vídeo,
+[00:05] todo lo que explico es exactamente aplicable a lo que es ahora, pero como ya conecté la tienda
+[00:10] hace tiempo, ahora WeTrack no me deja volver a hacerlo, así que os voy a poner el otro vídeo,
+[00:16] solo una aclaración, esto WeTrack es una app que lo que hace es nos ayuda a traquear las
+[00:22] ventas de forma correcta, es decir nos dice exactamente qué anuncio ha sacado cuántas
+[00:29] ventas, que es algo que a Facebook le cuesta mucho, pero si estamos usando WeTrack, si o si tenemos que
+[00:35] desconectar la otra app que es Facebook y Instagram que hemos usado antes, esto no es obligatorio porque
+[00:41] es un plan de pago, son 50 dólares, pero hay un periodo de prueba de 14 días, aquí abajo
+[00:46] vamos a dejar el link, si queréis lo podéis usar por 14 días, si el producto tiene potencial,
+[00:52] seguís si no lo canceláis, pero es muy importante que cuando usemos WeTrack no tengamos conectado
+[00:59] Facebook y Instagram, porque si no en el Ads Manager las ventas nos van a parecer duplicadas.
+[01:05] Cuando vayáis avanzando en esto de Facebook Ads ya veréis que Facebook es increíble para imprimir
+[01:10] billetes, pero es muy malo para muchísimas cosas y una de ellas es el tracking a la hora de atribuir
+[01:16] las ventas al anuncio adecuado Facebook es malísimo, entonces vamos a usar una app que se llama WeTrack
+[01:23] para hacer eso, aquí abajo os dejo un link con 14 días de prueba y tres meses con un 10% de descuento,
+[01:29] creo que era, vamos a venir a Billing después de crear la cuenta y seleccionamos el plan starter,
+[01:34] son 50 al mes, pero eso como decía 14 días son de pruebas y los 14 días veis que no lo
+[01:40] estáis usando, lo canceláis y no hay ningún tipo de problema, lo que sí vais a tener que
+[01:44] poner la tarjeta ya, aunque no os van a cobrar necesitáis poner la tarjeta y aquí podéis conectar
+[01:49] tantas tiendas como queráis, va por números de pedidos, el plan starter son 500 y llegáis a este
+[01:56] número a aseguraros de ampliar el plan. Una vez hemos creado la cuenta y hemos puesto el método
+[02:01] de pago vamos a ir a Overview, stores, le damos a añadir tienda nueva y aquí tenemos que
+[02:07] poner nuestro dominio punto MyShopify.com, el dominio tenemos que poner este de aquí
+[02:12] arriba, tenemos aquí punto MyShopify.com, nosotros siempre vamos a estar usando checkouts de Shopify
+[02:22] y así que no hace falta cambiarlo para saber la franja horaria de nuestra tienda vinimos
+[02:27] aquí en general, yo en este caso estoy en Paraguay, es de este tiempo de aquí Atlantic
+[02:32] Time, vosotros los que estáis en España tendréis Madrid Time o cada uno tendrá el Time de su
+[02:38] país, menos cuatro, para meter el colaborator request code vamos a Shopify, le dais a settings,
+[02:45] y abajo settings, users, security, copiamos este código y lo vamos a meter aquí, continuo, ahora
+[02:56] lo que tenemos que hacer es poner el pixel que vamos a usar para renear los anuncios aquí,
+[03:00] le damos a esto, para encontrar el pixel vamos a tener que ir al business manager que
+[03:05] ahora ya lo debería es tener por aquí guardado si no podéis ir también al ads manager y desde ahí
+[03:10] ir al business manager, una vez estamos ahí vamos a ir a data sources, data sets, and pixels,
+[03:15] le damos al pixel que queremos, luego venimos aquí events manager, vamos a copiar este número de
+[03:21] aquí, esto es el ID del pixel, volvemos a WeTracked, lo pegamos, aquí pondremos algo
+[03:27] relacionado con nuestro producto, cualquier cosa, el nombre de vuestro producto nos sirve y
+[03:31] luego tenemos que generar lo que se llama el access token, volvemos al events manager,
+[03:36] dentro de nuestro pixel vamos a settings, bajamos, bajamos y aquí vais a ver generate access token,
+[03:45] le damos a copiar y volvemos a WeTracked, lo pegamos al pixel, le damos a complete y aquí
+[03:53] vemos que esta tienda está ahora en review, nos va a llegar un colaborator request que
+[03:59] se llama, vais a ver un aviso aquí en la campana y una vez nos llegue le damos a aceptar,
+[04:04] si tenéis cualquier duda en este proceso podéis venir aquí abajo a la derecha y esta gente
+[04:09] contesta muy rápido de igual el día y la hora os van a os van a ayudar en absolutamente todo.
+[04:15] Lo que hace WeTracked básicamente es enviar la data que recoge a Facebook,
+[04:20] entonces aquí no vamos a hacer prácticamente nada, una vez tengamos conectado el pixel
+[04:25] y la tienda ya va a estar, aquí vamos a ver que pone activo, como ya he dicho os van a mandar un
+[04:30] código de colaboración a la tienda, lo vais a aceptar, va a estar aquí y luego si tenéis
+[04:36] cualquier duda le preguntáis a esta gente pero cuando esto diga activo le podemos dar aquí,
+[04:41] no sé si se hace automáticamente, no me acuerdo y ellos ya automáticamente van a
+[04:46] mandar toda la data a Facebook, cualquier duda una vez más, venís aquí abajo y os van a ayudar en todo.

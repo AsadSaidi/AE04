@@ -1,0 +1,24 @@
+# 24-03-3-crear-cuenta-publicitaria-aadir-mtodo-de-pago — 3. Crear Cuenta Publicitaria - Añadir Método de Pago.mp4 (02:07)
+[00:00] Lo siguiente que vamos a hacer va a ser crear una cuenta publicitaria, venimos aquí,
+[00:04] At Accounts, la cuenta publicitaria recordamos que es desde donde vamos a lanzar los anuncios,
+[00:08] vosotros aquí no vais a tener absolutamente nada, porque obviamente aún no tenéis cuenta publicitaria,
+[00:14] le damos a añadir, Create a New At Account, aquí podéis ponerle cualquier nombre,
+[00:21] uno muy importante elegir vuestra zona horaria, en mi caso sería Madrid,
+[00:28] y aquí en moneda vamos a poner la moneda con la cual vamos a gastar, por ejemplo si en vuestro
+[00:33] banco tenéis todo el dinero en euros, aquí habría que meter euros, si lo tenéis en dólares vais a
+[00:37] dejar dólares, y aquí algo a mencionar sobre la franja horaria, lo que realmente interesa, por ejemplo
+[00:44] yo ahora estoy en Argentina, mi franja horaria no es esta, pero la franja horaria de mi tienda
+[00:50] de Shopify sí es esta, entonces para hacer el tracking y para que todo concuerde y vaya
+[00:56] con la misma zona horaria es muy importante que la franja horaria que tenéis en la tienda sea la
+[01:02] misma que ponéis aquí, y yo recomiendo que sea el país en el cual pasáis la mayor parte del tiempo
+[01:08] para evitar complicaciones, le damos a Next, My Business, Next, aquí le daríais a esto y
+[01:16] creamos la cuenta, ahora os voy a enseñar lo que viene después en otro vídeo que ya tengo
+[01:20] grabado para no crear una cuenta más. Si queremos ya podemos añadir la información bancaria aquí,
+[01:27] aseguraros que esto es vuestro país, que es la moneda con la cual vais a hacer los pagos,
+[01:32] le dais a Next, aquí vamos a añadir la información de nuestro negocio o en caso de que no tengáis
+[01:38] negocio vuestra información personal, dirección, número de IVA, esto no es necesario aún pero
+[01:44] ya está bien que lo hagáis ya y ya queda hecho, para que las facturas que os va a mandar
+[01:49] Facebook aparezca esta información, no tengáis ningún problema pero si lo queréis hacer más
+[01:53] adelante, está bien también. Aquí metemos la información de nuestra tarjeta, guardamos,
+[02:00] vamos a tener que verificar la tarjeta, listo, ahora ya habríamos creado la cuenta publicitaria y
+[02:06] añadido el método de pago.

@@ -1,0 +1,20 @@
+# 24-06-6-conectar-cuenta-de-instagram — 6. Conectar Cuenta de Instagram.mp4 (01:30)
+[00:00] Vais a ver que aquí al lado también está la opción de Instagram Accounts, esto es para
+[00:04] si queréis conectar vuestra cuenta de Instagram y cuando lancemos anuncios en Instagram se
+[00:10] van a lanzar desde la página de Instagram, no desde la página de Facebook, aquí en el
+[00:14] Ads Manager, aquí veréis que tenéis Facebook Page y Instagram Account.
+[00:19] Al principio no es 100% necesario crear una cuenta de Instagram pero sí que es
+[00:24] verdad que ayuda a bajar los CPMs que es el coste publicitario, ya luego vamos
+[00:28] a ver más detalle que es esto, así que si queréis podéis crear la cuenta de
+[00:33] Instagram ya nada más arrancar, una vez la tenemos creado una cuenta cualquiera de
+[00:37] Instagram como sería una cuenta de Instagram de orgánico, vamos a venir aquí
+[00:42] Conect Assets Instagram Account y vamos a hacer login a Instagram, esta cuenta que
+[00:48] vamos a conectar si no está en modo profesional automáticamente al
+[00:52] conectarla va a pasar a ser modo profesional, aquí le daríamos login
+[00:56] a Instagram, luego se nos quedaría la cuenta conectada aquí y una vez hayamos
+[01:02] hecho esto, hayamos hecho el login con Instagram aquí, cuando lancemos nuestros
+[01:07] anuncios aquí nos va a dar la opción de seleccionar Instagram, si hemos creado la
+[01:12] cuenta y la hemos conectado vamos a seleccionar Instagram y esto como ya
+[01:16] dicho puede ayudarnos un poco a bajar los costes publicitarios, no es gran
+[01:21] cosa pero siempre está bien, al principio no es 100% necesario a la
+[01:26] que vayamos descalando así que es muy recomendable hacer esto

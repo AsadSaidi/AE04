@@ -1,0 +1,41 @@
+# 24-05-5-crear-pgina-de-facebook — 5. Crear Página de Facebook.mp4 (04:04)
+[00:00] Ahora vamos a crear una cuenta publicitaria. La cuenta publicitaria es de donde vamos a lanzar los
+[00:05] anuncios, si bien es verdad que al principio no importa mucho lo que hagamos en la cuenta publicitaria,
+[00:09] cuando vamos escalando sí que está bien postear, interactuar con la gente y tal. Ahora al principio
+[00:15] sólo vamos a poner una foto de perfil y el link a nuestra página web. Como siempre ya hemos
+[00:21] dicho que lo que queremos al principio es testear cuanto más en el mínimo tiempo posible y
+[00:26] cuando encontremos algo que funciona ya vamos a ir optimizando todo. Venimos aquí, le damos a
+[00:31] create new facebook page, test, program, categoría, aquí le podéis meter lo que sea. Si vendemos un
+[00:39] producto para perros podemos venir aquí, pet, pet shop, por ejemplo cualquier cosa, aquí le vamos
+[00:46] a meter la biografía, cualquier cosa nos sirve, como siempre podemos ir a chat gpt a buscar
+[00:50] inspiración, le explicamos cuál es nuestro producto y le decimos que queremos justo
+[00:54] esto. Una biografía para nuestra página de facebook, le damos a next, I agree, creamos la página,
+[01:01] aquí facebook nos dice que cambiemos el título, vamos a poner todo en minúsculas, test, program,
+[01:09] ya veis que es muy toca cojones facebook por algunas cosas, le damos aquí, I agree, create page,
+[01:16] vamos a dan, vamos a buscar nuestra página, le damos a nuestra página, view on facebook como hemos
+[01:24] dicho antes, vamos a asignar esta página a la persona a la cual hemos dado acceso en caso de que
+[01:30] pase algo a nuestro business manager, esta persona también va a tener acceso a la página de facebook,
+[01:36] acceso de todo, assign, podemos hacer aquí y listo, ya habríamos asignado la página a alguien,
+[01:44] a nuestro amigo o familiar para en caso de que nos pase algo, esta otra persona tenga acceso,
+[01:49] ahora le damos a view on facebook, switch, aquí abajo tenemos que cambiar a la página en cuestión,
+[01:55] switch, ahora como os decía, aquí vamos a meter una foto, venimos aquí, le damos a elegir foto,
+[02:07] la centramos, si queremos la hacemos grande o pequeña, le damos a guardar y esta foto
+[02:12] creo que tiene que ser formato.jpg, formato web no te lo acepta facebook, así que si cuando le
+[02:20] dais a guardar, veis que no os deja guardar, es por el formato de la foto, con jpg estáis bien
+[02:25] seguro, le damos aquí about y aquí es donde vamos a añadir el link a nuestra página, como siempre
+[02:31] que ponemos el link lo ponemos a la página de producto, nunca la página principal, en este
+[02:37] caso sería esta url de aquí, vemos aquí, doggie, guardamos, esto que vemos aquí es porque
+[02:46] estamos usando elegerine para otra tienda y elegerine solo se puede usar una vez por tienda,
+[02:52] así que cuando lo cambias de tienda en la tienda anterior te sale este aviso, metemos el link y
+[02:57] ahora ya estaríamos, con esto estamos perfectos para lanzar los primeros anuncios, si vemos
+[03:02] que el producto tiene potencial, si que podemos venir aquí y postear como una página de facebook
+[03:07] cualquiera, muy importante que sean posts orgánicos, aquí no vamos a intentar vender a nadie, la venta
+[03:14] la vamos a hacer en los anuncios y aquí va a ser una página orgánica en la cual vamos a
+[03:19] postear cosas relacionadas con nuestro producto, en este caso cosas para perro y también lo que
+[03:25] facebook valora mucho es el engagement en los anuncios y una de las formas de conseguir
+[03:30] engagement es interactuar con la gente en estos anuncios, para hacer esto de contestar a los
+[03:36] comentarios de la gente venimos aquí, le damos a esto, aquí vais a ver que hay todos los canales en
+[03:42] los cuales la gente puede comentar, normalmente la mayoría de comentarios los vais a tener aquí y
+[03:47] aquí y si queréis podéis tomaros el tiempo de responder porque el engagement como ya hemos
+[03:53] dicho es algo que es algo que facebook valora muy positivamente y hace que te bajen los
+[03:59] costes publicitarios lo que sería el cpm que luego vamos a ver exactamente qué es

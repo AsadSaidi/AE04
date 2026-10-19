@@ -1,0 +1,8 @@
+# 24-07-7-crear-pixel — 7. Crear Pixel.mp4 (00:52)
+[00:00] Vamos a crear el pixel o conjunto de datos, como hemos comentado antes, el pixel es algo que le ponemos a nuestra página web,
+[00:07] que recoge información de todos los clientes que entran a la página y luego Facebook, Meta, utiliza esta información para enseñar nuestros vídeos a la persona indicada.
+[00:17] Venimos aquí, conjunto de datos, conjunto de datos y pixels, vosotros no vais a tener nada aquí, le damos a Add, Añadir.
+[00:25] Si os sale esto aquí, vamos a tener que darle a Create New Dataset, a veces ya te lleva directamente aquí, pero si no le damos a crear nuevo,
+[00:33] y vamos a ponerle el nombre de nuestro producto, ahora no importa demasiado porque solo tenéis uno, le podríais meter pixel 1,
+[00:39] pero la que vayáis probando productos, como no tengamos todo organizado va a ser un desastre. Le damos a Create, ya tendríamos el pixel creado,
+[00:48] ahora vamos a ver en el próximo vídeo como conectarlo con la tienda de Shopify.

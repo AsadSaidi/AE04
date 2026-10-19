@@ -1,0 +1,22 @@
+# 24-09-9-conectar-el-pixel-con-shopify — 9. Conectar el Pixel con Shopify.mp4 (01:59)
+[00:00] vamos a descargarnos una app que se llama Facebook y Instagram, install, vamos ahí,
+[00:09] algo muy importante que tenemos que hacer, mucha gente le da aquí a Get Started o aquí,
+[00:14] nosotros lo que queremos hacer es Ads Only, así que vamos a darle aquí abajo,
+[00:19] vamos a conectar nuestra cuenta de Facebook, aquí os debería salir automáticamente la
+[00:26] cuenta con la que habéis creado el Business Manager, pero si no asegurarse de que es esa
+[00:31] cuenta la que conectáis, el Business Portfolio, va a ser el que habéis creado hace un momento,
+[00:38] aquí asegurarse de darle a maximum, aquí vamos a ver todos los pixels que tenemos,
+[00:43] en vuestro caso solo habrá uno que es el que acabáis de crear, le vamos a dar a
+[00:48] connect, pero si aún no lo habéis creado por cualquier cosa, también podríamos crear uno
+[00:53] desde aquí, connect, agree, una vez hecho esto ya tendríamos el pixel conectado a nuestra
+[01:00] tienda, pero hay dos formas de comprobarlo, para estar seguros antes de lanzar los anuncios,
+[01:05] recomiendo que hagáis esto, la primera es con una extensión de Chrome, se llama Metapixel Helper,
+[01:12] le ponéis en Google descargar Chrome extension Metapixel Helper, le dais aquí,
+[01:16] si os sale esto es que el pixel funciona correctamente y ya veréis que si hacéis
+[01:22] acciones en la página, esto también se traquea aquí, page view, con esto ya estaríamos
+[01:29] seguros de que el pixel está conectado a la página, lo que sí puede ser que tarde un poco,
+[01:34] es decir si hacéis esto minutos después de haberlo conectado y aún no sale,
+[01:38] dejadle 5 o 10 minutos y va a aparecer. Otra forma que tenemos de comprobar esto es en Shopify
+[01:45] settings, customer events, vemos aquí Facebook Instagram, le damos a test y vamos a ver que
+[01:52] por ejemplo si añadimos al carrito aparece aquí, ya nos hemos asegurado de que el pixel
+[01:56] está conectado, nos vemos en el siguiente vídeo.

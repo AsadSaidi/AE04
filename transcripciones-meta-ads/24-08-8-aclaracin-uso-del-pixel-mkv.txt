@@ -1,0 +1,11 @@
+# 24-08-8-aclaracin-uso-del-pixel-mkv — 8. Aclaración Uso del Pixel.mkv (00:44)
+[00:00] algo que quiero que quede claro antes de conectar el pixel es cómo funciona todo
+[00:05] esto si nosotros por ejemplo ahora testeamos un producto de perros con
+[00:09] nuestro pixel que se llama nudoge, testeamos el producto, vendemos por un
+[00:14] par de meses, hacemos algún dinero, el pixel recoge información pero por
+[00:18] cualquier razón abandonamos ese producto y testeamos otro producto de perros
+[00:24] muy similar al mismo producto que estábamos raneando antes, podemos
+[00:28] utilizar ese mismo pixel para el nuevo producto si el nuevo producto que estamos
+[00:33] haciendo es algo que no tiene absolutamente nada que ver con perros o con
+[00:38] animales vamos a venir aquí vamos a crear un pixel nuevo y vamos a usar ese
+[00:42] nuevo pixel
