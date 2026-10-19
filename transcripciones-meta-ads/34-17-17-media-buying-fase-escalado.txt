@@ -1,0 +1,28 @@
+# 34-17-17-media-buying-fase-escalado — 17. Media Buying Fase Escalado.mp4 (02:46)
+[00:00] a la hora de hacer el Mediavine para la campaña de Advantage Plus, vamos a seguir nuestro documento,
+[00:05] vamos a venir aquí, miramos si el ROAS de ayer es más grande o igual que el ROAS objetivo,
+[00:11] vamos a escalar un 25%. Vendríamos aquí, vamos a ir a nivel de campaña y vemos que el ROAS
+[00:19] es más grande que nuestro benchmark ROAS, el ROAS objetivo venimos aquí, lo escalamos un
+[00:24] 25%. Al día siguiente haríamos exactamente lo mismo, si llegamos al punto que nuestro ROAS es similar
+[00:32] al break even ROAS, ya no vamos, también como íbamos escalamos solo un 10%. Si el ROAS de los
+[00:38] últimos 3 días más hoy, venimos aquí, filtramos 3 días más hoy, para el paso interior deberíamos
+[00:44] mirar el ROAS de ayer, venimos aquí, filtramos ROAS de ayer, para escalar siempre nos fijamos
+[00:50] en el ROAS de ayer, para dar un escal que se llama o para matar el ROAS de los últimos 3 días más hoy,
+[00:57] venimos aquí, miramos la regla, si el ROAS de los últimos 3 días más hoy es similar al break
+[01:04] even ROAS, le vamos a bajar un 25%. Venís aquí, calculáis el 25% de esto y lo bajáis, yo diría
+[01:11] que es más o menos algo así, pero hacerlo exacto, luego veamos la otra norma, si el ROAS de los
+[01:17] últimos 3 días más hoy es más pequeño, que el break even ROAS, lo vamos a pagar. Venimos aquí,
+[01:23] 3 días más hoy, buscamos el ROAS, porque es 1,1, también lo vamos a matar. En estas
+[01:31] campañas de escalamiento, lo que también podemos hacer es venir aquí y fijarnos si alguno de los
+[01:36] anuncios funciona muy mal en particular, por ejemplo, bonnet que el ROAS de los últimos 3 días
+[01:42] más hoy es 1,2, pero tenemos 4 anuncios con un 3 de ROAS y 2 anuncios con un 0,3 de ROAS que se están
+[01:50] llevando todo el gasto, venimos aquí y podemos apagar los anuncios que tienen el peor ROAS y dejar
+[01:57] los otros raneando un par de días más y a ver si así lo remontamos, pero es importante aquí cuando
+[02:02] tenemos esta campaña, grande escalamiento, queremos evitar a toda costa tener que matarla,
+[02:07] porque hay lo que se llama aprendizaje a nivel de campaña, entonces nosotros queremos
+[02:11] engordar este bicho, queremos que esto vaya subiendo de presupuesto, cada día que sea rentable lo vamos
+[02:16] a ir subiendo, vamos a meter más anuncios ganadores para darle a Facebook más opciones,
+[02:21] pero la idea sería intentar no matar nunca esta campaña de escalamiento, obviamente si los números
+[02:28] son muy malos, sí que la vamos a pagar, pero si los números están regulares por decirlo de
+[02:34] una forma, identificamos que hay algún anuncio que está muy mal, pero hay 3 o 4 o más que
+[02:39] están muy bien, vamos a matar los que están mal, también mirando a 3 días más hoy dejamos los que están bien

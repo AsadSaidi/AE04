@@ -1,0 +1,75 @@
+# 34-18-18-crear-views-en-ads-manager — 18. Crear views en Ads Manager.mp4 (08:09)
+[00:00] Esto que vamos a ver ahora es bastante útil, sobre todo si ya estáis escalando o a gran escala
+[00:06] y nos va a servir para identificar qué anuncios están yendo mejor, qué anuncios están yendo
+[00:10] peor y qué anuncios están en lo que vamos a llamar rango de oportunidad. Vamos a aprender
+[00:14] cómo crear views en Facebook, Ads Manager, venimos aquí, la primera view que vamos a crear
+[00:20] va a ser para identificar los anuncios que están para escalar. Es aquí Spent,
+[00:27] Amount to Spent, muy importante meter a nivel de anuncio y queremos que sea más de 250 o al
+[00:33] menos de 200. Venimos aquí, esto ya os digo no es aplicable, si estáis arrancando no es relevante
+[00:42] para nada pero la que ya estáis escalando a gran escala puede ser bastante práctico. Venimos aquí
+[00:46] Purge y Roas, también a nivel de anuncio es más grande que los. Nuestro break even Roas es
+[00:53] 135, nuestro benchmark Roas está alrededor de 2, entonces los anuncios que queremos escalar,
+[00:59] nosotros son todos los que están con un Roas de 2 o por encima, lo vamos a aplicar y también queremos
+[01:06] que estos anuncios estén activos, Ad Delivery is Active, también Ad Delivery queremos, no queremos
+[01:11] Campaign Delivery, no queremos Ad Set Delivery, queremos Ad Delivery. Esto qué hace? Vamos
+[01:17] a guardar, vamos a crear la view esta, vamos a meter Scale, Ads to Scale y vamos a guardar estos
+[01:25] filtros, lo guardamos, vamos a ver qué se nos crea aquí y por ejemplo ahora cuando lleguemos al
+[01:29] Ads Manager vamos a dar como un refresh, aquí vemos todos los anuncios, lo que podemos hacer es darle
+[01:35] aquí y automáticamente se aplican estos filtros que acabamos de aplicar, si luego vamos a
+[01:40] a nivel de anuncio metemos las columnas como nosotros nos gustan y filtramos,
+[01:46] vamos a decir los últimos 7 días, amount spent, aquí vemos todos los anuncios que han gastado más
+[01:53] de 250 en los últimos 7 días y que tienen un Roa mayor a 2, entonces estos de aquí son nuestros
+[01:59] mejores anuncios, son a los que les tenemos que hacer variaciones, los tenemos que asegurar de
+[02:04] que estén en campañas de escalamiento, si estáis atacando más de un mercado muy importante a
+[02:10] asegurarse que por ejemplo este de aquí esté en todos los mercados porque vemos que tiene
+[02:14] un Roa de casi 3, es una manera fácil de identificar esto, todos los anuncios que tenemos que escalar,
+[02:21] ahora vamos a hacer lo mismo pero para ver los anuncios que tenemos que matar, volvemos aquí a
+[02:26] todos los anuncios, ahora vamos a crear lo mismo como ya he dicho pero para los anuncios que
+[02:31] están yendo muy mal o que tenemos que tener controlados, venimos a amount spent,
+[02:38] vamos a meter más de 120, esto la teoría nuestro CPA, nuestro break even CPA es 40,
+[02:47] entonces este número debería ser 3 veces nuestro break even CPA, si aún no lo sabéis seguramente
+[02:54] es que aún no tenéis que aplicar todo esto pero este es un número muy importante y si ya estáis
+[02:59] escalando claramente debería es de saberlo buscar, el que no lo sepa está en la hoja de
+[03:05] los KPIs, venimos aquí 120 Roas, Purche y Roas muy importante, lo vamos a meter está entre 0 y 1,6,
+[03:15] aquí siempre yo siempre lo he hecho así me imagino que también podríamos hacer is less than 1,6
+[03:23] igual tiene más sentido, metemos aquí, pero a veces me da problema no sé por qué y decir ahora
+[03:29] vamos a probar en bio y en directo y también queremos que el anuncio esté activo, delivery
+[03:37] siempre a nivel de anuncio y aquí activo, vamos a aplicar como hemos hecho antes le damos aquí
+[03:46] create view, kill, ads, underperforming, aquí esto ya es a gusto al cliente, cada uno puede poner
+[03:58] absolutamente lo que le parezca mejor y lo que le sirva más, no hay normal, todo esto es extra es
+[04:05] algo que nosotros usamos últimamente y creí que a muchos podría ser útil así que le metí vídeo,
+[04:12] venimos aquí, guardamos y vamos a ver que se nos crea también la vista aquí arriba y ahora
+[04:17] exactamente lo mismo, le damos a refresh como si entráramos de nuevo al ads manager,
+[04:22] estamos aquí a todos los anuncios, le damos a kill, se aplican los filtros que acabamos de crear,
+[04:28] vamos a anuncios y aquí podemos ver, vamos a nuestras columnas, una vez más filtramos por gasto
+[04:35] porque nosotros nos da igual que uno ha gastado tres y ahí a veis por ejemplo aquí ya veo que
+[04:40] facebook claramente es la pela que le habíamos dicho esto, nos está enseñando anuncios que
+[04:46] no cumplen los requisitos, aquí vemos que no nos enseña ningún anuncio con más de 120 de gasto,
+[04:53] a ver si le sacamos de este filtro crea que hace, veo que no, aquí lo que también podría ser es
+[04:59] que no haya ningún anuncio que cumpla con ese filtro, en principio esto debería funcionar,
+[05:04] como ya sabéis facebook hay días que hace absolutamente lo que da la puta gana, así que
+[05:12] en este caso no está filtrando claramente los anuncios con más de 120 de gasto pero
+[05:20] lo he usado muchas veces y normalmente sí funciona, este sería los anuncios que tenemos que controlar
+[05:27] que están dando peores resultados de los que queremos, 1,6 lo hemos marcado porque es nuestro
+[05:35] breakeven roas contando ya todas las fees y los gastos del negocio y todo eso, entonces si nosotros
+[05:42] conseguimos ventas a 1,6 de roas ni perdemos ni ganamos, aquí ya están, hay dos cosas nosotros
+[05:49] calculamos el breakeven roas de producto digamos que sería sólo contabilizando el gasto del
+[05:55] producto y obviamente de los anuncios y luego tenemos el breakeven roas en el cual englobamos
+[06:00] absolutamente todos los gastos del negocio y este nos da 1,6 del que usamos para determinar si
+[06:06] tenemos que matar o no matar y la última vista que vamos a crear, venimos aquí, volvemos a campañas
+[06:15] spend vamos a meter que sea más de 120, siempre a nivel de anuncio, le metemos 120 también,
+[06:23] aplicamos, queremos que el roa esté entre 1,6 y 2 y queremos que el anuncio esté activo
+[06:49] y aquí lo que vamos a ver son todos estos anuncios que tienen ya cierto gasto y que no
+[06:55] terminan de ser rentables pero que tampoco nos hacen perder dinero entonces todos estos
+[07:00] anuncios se merecen alguna variación o alguna mejora para ver si conseguimos llegar a ese 2 de
+[07:06] roas como antes venimos aquí, vemos que hay pocos, ponemos las columnas como nos gustan y ahora sí
+[07:15] que Facebook va perfecto y vemos que todos estos anuncios no están muy bien pero están ya casi
+[07:20] al límite de tener que escalarlo entonces cualquier mejora cualquier cambio que les hagamos a estos
+[07:26] anuncios seguramente hace que sea un winner como ya he dicho esto es un poco más avanzado aquí
+[07:32] estamos mirando a los últimos siete días normalmente lo que hacemos es tres días más uno pero cuando
+[07:37] hacemos esto me gusta más hacer siete días también porque ya tenemos mucho recorrido y a
+[07:43] veces aunque un anuncio vaya un poco mal por tres cuatro días siempre le damos un poco más de
+[07:48] margen si se lo merece si es que ya lleva imaginaros un anuncio que lleva dándonos dinero
+[07:53] tres meses y luego tiene cuatro días malos ese anuncio claramente se merece que le demos mínimo
+[07:59] siete días para ver si vuelve a arrancar espero que os sirva al que el que lo encuentre útil el
+[08:06] que lo use y el que no no
