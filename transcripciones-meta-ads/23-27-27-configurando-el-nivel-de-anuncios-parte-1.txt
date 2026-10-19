@@ -1,0 +1,6 @@
+# 23-27-27-configurando-el-nivel-de-anuncios-parte-1 — 27. Configurando el Nivel de Anuncios Parte 1.mp4 (00:56)
+[00:00] Ahora ya estamos a nivel de anuncio, recordamos que aquí tenemos nivel de campaña, nivel de conjunto de anuncios y nivel de anuncio para ir a nivel de conjunto de anuncio,
+[00:09] podemos o bien venir aquí, podemos dar a back, podemos dar aquí arriba y lo mismo para el nivel de campaña, ya veis que cuando le damos a uno de estos se cambia aquí también,
+[00:20] ahora anuncio lo vamos a nombrar bit0011, ya veis mas adelante por que, pero vamos a lanzar los anuncios en bloques de 3 o 4, entonces aquí tendríamos 0011, 12, 13 y 14
+[00:35] y es muy importante que siempre el nombre que le ponemos al anuncio aquí sea el mismo nombre que tiene el anuncio en capcat o en la herramienta de edición que utilicemos
+[00:45] porque si luego hay que hacerle variaciones a este anuncio es muy importante que podamos encontrar el original, esto de partnership ad lo podéis ignorar completamente lo vamos a dejar siempre apagado

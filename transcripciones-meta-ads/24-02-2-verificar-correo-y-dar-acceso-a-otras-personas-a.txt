@@ -1,0 +1,26 @@
+# 24-02-2-verificar-correo-y-dar-acceso-a-otras-personas-a — 2. Verificar Correo y Dar Acceso a Otras Personas al BM.mp4 (02:13)
+[00:00] Una vez tenemos el Business Manager creado y estamos aquí, tenemos que hacer dos cosas.
+[00:04] La primera es verificar nuestro correo. Nuestro correo va a ser este que aparece aquí
+[00:08] y lo segundo que queremos hacer muy importante también es darle acceso a alguien, ya sea un amigo o familiar
+[00:15] que tenga una cuenta de Facebook, vamos a venir aquí, Invite People, esto lo hacemos
+[00:21] porque en caso de que a nuestro correo le pase algo, que ya lo hemos comentado antes brevemente
+[00:26] esta otra persona va a poder entrar al Business Manager, al Business Portfolio y acceder tanto a las páginas
+[00:32] de Facebook, como a las cuentas publicitarias, como a los Pixels y no vamos a haber perdido todo lo que
+[00:37] hemos estado creando. A mucha gente le ha pasado que se crea el Business Manager, empieza a ranear
+[00:42] anuncios, va escalando, escalando, luego un día pasa algo con el correo, pierde acceso al Business
+[00:48] Manager y se va toda la mierda. Así que queremos invitar a alguien para tener un plan B,
+[00:53] en caso de que esto pase, venimos aquí, ponemos el mail de esta persona,
+[01:00] Next, le vamos a dar acceso total, tiene que ser alguien de confianza, vamos a venir aquí,
+[01:06] también le damos acceso a esto por si acaso. Vosotros aquí seguramente no vais a tener nada
+[01:11] aún, si no tenéis nada no importa, le vais dando a Next, enviamos la invitación y luego
+[01:17] aseguraros que esa persona entra en el correo que le envía a Facebook, le damos a enviar
+[01:21] invitación y luego aseguraros de que la persona a la cual le enviamos la invitación la acepta,
+[01:26] vais a ver que hasta que no la acepte, aquí va a salir algo que no es activo, una vez esa
+[01:32] persona ha aceptado, comprobar que tiene acceso a todo y aquí os va a salir activo. Esto ahora lo
+[01:38] explico muy brevemente, lo vemos ahora en los próximos vídeos, pero cuando creéis los
+[01:42] Pixels y las páginas de Facebook nos vamos a tener que acordar de darle acceso a esa persona.
+[01:47] Y esto lo haríamos viniendo aquí, Datasets and Pixels, People le damos a Assign People y aquí vais
+[01:53] a tener que seleccionar a la persona que habéis invitado y esto exactamente lo mismo lo vamos
+[01:58] a hacer para las páginas de Facebook y las cuentas publicitarias, People, Assign People y
+[02:04] le damos. Esto es una forma de asegurarnos que siempre alguien va a tener acceso a nuestro
+[02:09] Business Manager como antes, le damos aquí y Assign.

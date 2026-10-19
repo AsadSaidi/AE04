@@ -1,0 +1,10 @@
+# 23-30-30-configurando-el-nivel-de-anuncios-parte-4 — 30. Configurando el Nivel de Anuncios Parte 4.mp4 (00:55)
+[00:00] esto de aquí es la url a la que irán nuestros clientes cuando le den clic a nuestro anuncio así
+[00:06] que es muy importante que pongáis la url correcta siempre vamos a meter la url del producto no esto
+[00:13] de aquí porque esto los llevaría aquí nosotros queremos la url del producto que sería todo esto
+[00:19] vemos aquí lo pegamos y luego comprobamos que esto lleve exactamente donde queremos que el
+[00:25] cliente vaya el display link es esto que vemos aquí el de arriba nudo y punto con si por ejemplo
+[00:32] quisiéramos que se viera marco punto con podemos venir aquí lo cambiamos pero nunca vamos a tocar
+[00:38] esto fuera y aquí nos aseguramos que siempre esté en non porque si por ejemplo metemos call aquí le
+[00:45] daríamos la opción a nuestros clientes de llamar a un número de teléfono pero por ahora no nos
+[00:50] interesa ninguna de estas opciones así que vamos a dejarlo siempre en non

@@ -1,0 +1,23 @@
+# 23-33-33-configurando-el-nivel-de-anuncios-parte-7 — 33. Configurando el Nivel de Anuncios Parte 7.mp4 (01:46)
+[00:00] ahora sólo nos faltaría esta parte que a partir de aquí ya no vamos a tocar
+[00:04] absolutamente nada aquí podéis comprobar que este sea el pixel que queréis todo
+[00:10] esto lo vamos a dejar exactamente como está y aquí a mano derecha podéis ver
+[00:14] las previews podéis ver cómo se va a enseñar nuestra anuncio según el
+[00:18] placement aquí vemos facebook feed instagram feed si vais bajando vais a
+[00:23] encontrar todos los placements que se llaman ya vais a ver que según el
+[00:27] formato que sea vuestro vídeo vais a tener a veces alertas de estas que te
+[00:32] dicen tu anuncio no se puede mostrar en tal placement no importa para nada lo
+[00:38] ignoramos y ya tendríamos el anuncio listo para publicar si queréis podéis
+[00:44] chequear que esté todo correcto tenemos el nombre del anuncio la página de
+[00:48] facebook desde la cual lo lanzamos manual imagen o vídeo esto fuera nos
+[00:55] aseguramos de que la url sea la que toca le podéis dar a preview esto nada aquí
+[01:01] tenemos non aquí es donde tenemos el anuncio os podéis asegurar que no haya
+[01:05] ninguna promoción ni sight links ni ningún producto en el catálogo vamos
+[01:10] bajando primary text headline y descripción llamada la acción siempre
+[01:16] va a ser shop now lo de los info labes como ya hemos visto lo desactivamos
+[01:21] esto lo dejamos igual y ahora sí que ya podríamos darle a publicar si le dais a
+[01:26] publicar cuando estáis con el anuncio seleccionado sólo se va a publicar el
+[01:30] anuncio si queréis publicar todo a la vez le dais a campaña y le dais a publicar
+[01:35] en este caso como sólo tenemos un anuncio sólo nos deja publicar a nivel
+[01:40] de anuncio y automáticamente ya se publicaría todo pero en caso de que
+[01:43] tengamos más haríamos esto

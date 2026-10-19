@@ -1,0 +1,16 @@
+# 23-34-34-configurando-el-nivel-de-anuncios-parte-8 — 34. Configurando el Nivel de Anuncios Parte 8.mp4 (01:37)
+[00:00] Lo último que quiero enseñaros antes de pasar al siguiente módulo es cómo duplicar un anuncio
+[00:05] conjunto de anuncios. Para duplicar el anuncio venimos aquí, una vez tenemos ya todo hecho,
+[00:09] le damos a duplicar por ejemplo 3, aquí le meteríamos 2, 3 y 4 y ahora solo tendríamos que
+[00:22] cambiar el creativo del anuncio y todo lo demás ya estaría exactamente como el que hemos hecho
+[00:28] antes. Para cambiar el creativo venimos aquí, AdMedia, vídeo, nos aseguramos que todo esté
+[00:34] como queremos, que vemos que sí, seleccionamos original, original, aquí lo vamos a dejar exactamente
+[00:43] igual que en el anuncio original, lo sacamos todo y aquí ya tendríamos el segundo anuncio.
+[00:50] Luego a la hora de testear intereses, cada vez que lancemos anuncios vamos a testear
+[00:55] diferentes intereses, para hacerlo venimos aquí, duplicamos esto por ejemplo 4 veces, luego ya
+[01:01] vamos a entrar más en detalle y lo vamos a hacer paso a paso juntos pero para que tengáis una primera
+[01:07] idea general, aquí tenemos las 4 copias, para cambiar este interés bajaríamos a buscar donde hemos
+[01:13] puesto el interés que sería aquí y ahora le meteríamos antiaging por ejemplo, antiaging
+[01:21] cream, venimos aquí arriba, le damos antiaging cream y le daríamos a publicar, como hemos dicho
+[01:28] antes si le damos a publicar aquí a nivel de ad set se va a publicar sólo este ad set pero si
+[01:33] venimos aquí y le damos a publicar se va a publicar toda la campaña.

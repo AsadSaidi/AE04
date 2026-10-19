@@ -1,0 +1,14 @@
+# 24-01-1-crear-cuenta-en-business-manager — 1. Crear cuenta en Business Manager.mp4 (01:09)
+[00:00] En este vídeo os voy a guiar paso a paso para crear una cuenta en el Facebook Business Manager y poder lanzar nuestros anuncios.
+[00:07] Vamos a ir a business.facebook.com, aquí abajo os dejo el link.
+[00:12] Os vamos a dar a Login with Facebook.
+[00:14] Es muy importante que la cuenta que uséis de Facebook para hacer esto sea una cuenta personal, una cuenta real
+[00:20] y no una cuenta que os habéis creado hace 24 horas porque no le gusta nada a Facebook.
+[00:24] Entonces si no tenéis una personal, pedirle a un familiar o amigo pero muy importante.
+[00:30] Le damos a Login with Facebook, aquí cuando le deis os va a salir este pop-up.
+[00:36] Aquí vamos a tener que meter la información de nuestro negocio en caso de que tengáis una empresa, le metéis el nombre de la empresa
+[00:42] pero si no podéis meter vuestro nombre personal no importa demasiado.
+[00:46] Aquí metemos nuestro nombre y aquí vamos a meter un mail que es muy importante que sea un mail al que no vayamos a perder acceso.
+[00:52] Es decir, no uséis ningún mail temporal de estos ni cualquier mierda sino un gmail.com en el cual siempre vayáis a tener acceso.
+[01:00] Le damos a submit y si nos va a abrir una página similar a esta, vamos a tener que ir a settings
+[01:05] y una vez le demos a settings vamos a llegar aquí que es donde queremos estar.

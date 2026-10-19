@@ -1,0 +1,7 @@
+# 23-32-32-configurando-el-nivel-de-anuncios-parte-6 — 32. Configurando el Nivel de Anuncios Parte 6.mp4 (00:37)
+[00:00] Ahora ya tendríamos el anuncio casi listo, aquí os he puesto test1, test2, test3, para que veáis
+[00:06] donde queda, aquí estaría el primary text, aquí estaría la headline, aquí estaría la descripción, como hemos dicho,
+[00:11] nos faltaría sacar los labels que se llaman, ahora aquí al ser una cuenta nueva, ni me salen, voy a ir
+[00:18] en otra que tenemos, estaríamos aquí abajo, le daríamos a edit info labels, todo esto es información
+[00:25] que Facebook saca de nuestra página de Facebook o de nuestra página de Insta,
+[00:30] vendríamos aquí, sacamos absolutamente todo esto y le damos a guardar.
