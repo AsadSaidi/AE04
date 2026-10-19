@@ -1,0 +1,14 @@
+# 16-16-16-abconvert-si-no-cuadra-la-conversin-es-normal — 16. ABConvert si no cuadra la conversión es normal.mp4 (01:34)
+[00:00] Hago una aclaración que es importante y no lo había dicho. Hay gente que ni se da cuenta, pero yo prefiero decirlo para que os deis cuenta y que no os asustéis, ¿vale?
+[00:07] Muchas veces aquí en en en conversión, en el AVE Convert, cuando hagáis AVE Testing, imagínate el original, ¿no? Te pondrá, yo qué sé, me lo voy a inventar.
+[00:17] 3,8% de conversión y luego irás a tu web y dirás, tengo
+[00:21] 4,6 o tengo 3,1. Es decir, no sale igual la conversión. Vale, no os asustéis.
+[00:29] La aplicación de AVE Convert tiene una manera diferente de contar la conversión a como la tienes Shopify y Dramablemar, conversión tendrán 100. Compran 3, pues es un 3%.
+[00:39] Sí, pero ellos también lo miran por los usuarios únicos y no por los visitantes, porque por ejemplo, si tú en tu tienda tienes 100 visitantes, pero una persona ha entrado tres veces,
+[00:48] te lo cuenta como tres, pero realmente esa persona es solo uno.
+[00:52] Entonces, AVE Convert te lo cuenta como uno, no como tres. Entonces, si has tenido 100 visitantes, pero hay varias personas que han entrado más de una vez,
+[00:58] AVE Convert no te lo cuenta como que ha entrado más de una vez. Entonces, la conversión te sale diferente, pero no os asustéis.
+[01:04] Es decir, los datos que os den, aunque no cuadren con los de Shopify, tenéis que hacerle caso. Si gana el test versión gatos, gana el test versión gatos, aunque la información sea diferente.
+[01:14] Si gana el test original, gana el original, ¿vale? Entonces, si veis diferencias en la conversión con lo que os dice Shopify, no os asustéis.
+[01:21] Es por esto que acabo de explicar, ¿vale? No os asustéis, que no pasa absolutamente nada.
+[01:24] Hacerle caso a todo lo que os dije de quien gana por cuanto lo miramos, etcétera. ¿Vale? No importa que haya un poquito de diferencias con lo que te dice Shopify, no importa.
