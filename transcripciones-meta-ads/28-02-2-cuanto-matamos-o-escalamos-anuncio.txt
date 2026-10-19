@@ -1,0 +1,58 @@
+# 28-02-2-cuanto-matamos-o-escalamos-anuncio — 2. Cuanto Matamos o Escalamos Anuncio.mp4 (05:44)
+[00:00] ahora que ya tenemos la primera campaña de testeo raneando vamos a ver cuando tenemos que matar los
+[00:05] anuncios matar se le dice a apagar el anuncio o cuando tenemos que escalarlos matar o apagar sería
+[00:12] básicamente venir aquí y darle al botón y con esto haríamos que el anuncio deje de gastar muy
+[00:18] importante siempre que hagamos esto lo vamos a hacer mirando el periodo de tiempo de tres días
+[00:23] más hoy hoy estamos a día 29 venimos aquí del 26 al 29 y le damos y ahora vamos a ir siguiendo
+[00:31] estas normas os voy a dejar este documento aquí abajo de este vídeo ya vais a ver que no es complicado
+[00:36] podéis ir siguiendo esto volveis a mirar el vídeo si algo no queda claro pero es muy importante vamos
+[00:41] a necesitar nuestro break y ven cpa que esto lo hemos calculado en el vídeo anterior si alguien
+[00:45] no lo ha hecho puede volver atrás es muy fácil de hacer sólo tenéis que rellenar esto de
+[00:50] aquí nosotros sabemos que nuestro break y ven cpa cost per purcheis o costo por adquisición o costo
+[00:57] por adquisición es de 32 entonces vamos a ir siguiendo estas normas sabiendo esto la primera nos
+[01:04] dice si nuestro adjet o conjunto de anuncios ha gastado más de 10 dólares y el cost per click
+[01:10] es más de 2,5 lo vamos a pagar vamos a venir aquí vosotros aquí vais a tener 5
+[01:17] si lo habéis hecho exactamente como hemos dicho nosotros y cada uno va a estar targeteando un interés
+[01:23] diferente todos van a tener un budget de 20 vamos a venir aquí vamos a filtrar por 3 días más hoy
+[01:30] y vamos a buscar por ejemplo este de aquí se ha gastado más de 10 si obviamente vosotros
+[01:36] vaya a tener números más pequeños vamos a poner que se ha gastado 26 el cost per click es menor
+[01:43] a 2,5 entonces lo vamos a dejar según esta norma no hay que matarlo esta norma una vez más nos dice
+[01:50] que si ha gastado más de 10 dólares y el cost per click es más grande de 2,5 lo vamos a pagar algo
+[01:57] que también quiero que entendáis es que estos números varían mucho según el mercado que
+[02:00] estéis targeteando si estáis targeteando estados unidos o los otros top 4 que son los mercados
+[02:07] más competitivos estos serían los números a tener en cuenta si estáis targeteando méxico o algún
+[02:15] país con menos competencia os recomiendo que este número le restéis un 30 a 40 por ciento
+[02:22] porque el coste publicitario es mucho menor en estos países pero el poder adquisitivo de
+[02:27] cada click también es menor si te entran a tu página 10 personas de méxico y 6 personas de
+[02:33] estados unidos el poder adquisitivo es más o menos el mismo entonces tendríamos que
+[02:36] adaptar esto un 30 a 40 por ciento pero para no liaros también podéis seguir exactamente estas
+[02:42] normas donde nos tendríamos que adaptar un poco sería aquí si queréis podéis en vez de 2,5 le
+[02:47] metéis 1,5 si estáis targeteando algún país que no es el top 5 pero todo lo demás sigue
+[02:53] exactamente igual la segunda norma nos dice que si nuestro adset o conjunto de anuncios nosotros
+[02:59] siempre vamos a matar o escalar por ahora a conjunto de anuncios ha gastado más del 0,5
+[03:05] del breakeven cpa que es este de aquí breakeven cosper purgeis o costo por adquisición si ha
+[03:12] gastado más de la mitad que esto que sería 16 y tiene cero añadidos al carrito y cero
+[03:18] checkouts iniciados también lo vamos a matar venimos aquí vamos a poner que este se ha gastado 25
+[03:24] que es más del breakeven cpa vamos a ver si tiene alguna venta vemos que sí que tiene
+[03:31] 3 ventas 3 compras y lo como quieras entonces no vamos a tener que matarlo este de este de aquí
+[03:38] por ejemplo el 0,11 vemos que ha gastado mucho más del breakeven cpa y no tiene ninguna venta entonces
+[03:46] este si abre si hay que matarlo venimos aquí y le damos a este botón la tercera norma nos dice
+[03:52] que si nuestro adset o conjunto de anuncios ha gastado más del breakeven cpa y tiene
+[03:57] cero compras lo vamos a pagar venimos aquí buscamos uno de estos ha gastado más del breakeven cpa si
+[04:04] tiene compras si entonces lo vamos a dejar si vinieramos aquí y no tuviera ninguna compra también
+[04:11] tendríamos que matarlo o apagar lo que básicamente es darle a este botón y la última norma nos dice
+[04:16] que si después de haber gastado 100 dólares o 100 euros el roas es más pequeño que el breakeven
+[04:22] roas lo vamos a pagar venimos a buscar cuál es nuestro breakeven roas que en este caso es 1,5
+[04:28] vamos a buscar un adset este de aquí ha gastado más de 100 si vamos a buscar la columna del roas
+[04:37] vemos que el roas está por encima del breakeven roas entonces lo vamos a dejar el de abajo ha
+[04:44] gastado más de 100 si el roas es menor al breakeven roas porque es 1,13 entonces
+[04:51] vendríamos aquí también habría que apagarlo esto serían las normas a la hora de apagar los
+[04:56] anuncios ahora vamos a ver modificar la fórmula esta porque me faltó añadirle el 20 por ciento cuando
+[05:02] sabemos si tenemos que escalar un anuncio o conjunto de anuncios después de tres días o más de 100
+[05:08] en gasto publicitario con un roas por encima del benchmark roas que el benchmark roas es
+[05:15] básicamente nuestro roas objetivo nuestro target roas que hemos decidido como hemos
+[05:20] hablado en el vídeo anterior que es de un 20 por ciento lo vamos a escalar usando una estrategia que
+[05:26] se llama triple duplicación por ahora no vamos a entrar más en detalle esto lo vamos a tocar en
+[05:31] el próximo módulo pero quería que supieráis cómo vamos a escalar los anuncios que ahora al
+[05:35] principio es usando una estrategia que se llama triple duplicación esto sería todo volver a
+[05:40] mirar el vídeo si hace falta y seguir estas normas

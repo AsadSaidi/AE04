@@ -1,0 +1,28 @@
+# 29-02-2-mal-ctr-qu-puede-ser — 2. Mal CTR - Qué Puede Ser.mp4 (02:01)
+[00:00] La siguiente métrica que tenemos que entender es el click-through rate, que es la tasa de clicks,
+[00:04] es el porcentaje de personas que le dieron click al link de nuestro anuncio en comparación a la gente que vio el anuncio.
+[00:11] Básicamente esto mide qué tan bueno es tu creativo para hacer que la gente tome acción, le den click al link,
+[00:16] pero no por tener un muy buen CTR, significa que el anuncio sea muy bueno, es un buen indicativo,
+[00:22] pero imagínate que yo hago un anuncio y pongo dale al botón de aquí abajo y te regalo 10.000 euros.
+[00:26] Todo el mundo le va a dar click a ese anuncio, pero luego si estamos vendiendo un producto para el coche,
+[00:32] obviamente nadie va a comprar. Aquí si hay un número al que tenemos que apuntar, que es un 2%,
+[00:38] mínimo queremos un CTR de un 2%, pero los anuncios buenos en general tienen un CTR de más del 3%.
+[00:45] A la hora de mejorar el CTR, lo mejor que podemos hacer es mejorar el hook rate y esto es por pura lógica.
+[00:51] Si pocas personas se comen los primeros 3 segundos del anuncio también significa que pocas personas van a llegar
+[00:57] a la parte de la llamada de la acción, por lo cual pocas personas le van a dar al link.
+[01:02] El hook rate, ahora vamos a entrar más en detalle, pero normalmente queremos mínimo un 30%.
+[01:07] Si nuestro hook rate está bien, vamos a tener que ir a revisar el hold rate,
+[01:11] que es cómo performó el vídeo después del hook rate.
+[01:14] Y esto ya es un poco más complicado porque hay muchas más variantes que entran en juego,
+[01:18] pero bueno, que sepáis que si tenemos un buen hook rate, lo que tenemos que intentar mejorar es el hold rate
+[01:23] para poder aumentar ese CTR.
+[01:25] Si estamos haciendo anuncios con fotos, aún es más difícil saber qué es lo que está fallando,
+[01:29] pero alguna de las cosas que podemos hacer es probar más títulos,
+[01:32] que es el texto dentro de la imagen o diseños completamente distintos.
+[01:36] Lo bueno de las fotos es que son mucho más rápidos de crear,
+[01:38] por lo que puedes generar más anuncios en menos tiempo en comparación con los anuncios de vídeo.
+[01:42] Mi recomendación para mejorar el CTR es haz más anuncios y convierte en mejor marketing,
+[01:47] no hay mucho más.
+[01:49] Ya iréis viendo que ahora al principio puede ser que muchas veces estéis por debajo de este 2%,
+[01:53] pero es completamente normal, estamos aprendiendo.
+[01:56] Y como siempre, la mejor forma de mejorar en algo es haciendo muchísimas repeticiones.

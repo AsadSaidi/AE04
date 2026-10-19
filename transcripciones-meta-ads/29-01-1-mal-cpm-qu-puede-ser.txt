@@ -1,0 +1,34 @@
+# 29-01-1-mal-cpm-qu-puede-ser — 1. Mal CPM - Qué Puede Ser.mp4 (02:42)
+[00:00] Vamos a entrar en detalle en las métricas más importantes a la hora de analizar los
+[00:04] resultados de nuestros anuncios. Siempre tener esto en cuenta, ahora os voy a dar un poco de
+[00:08] referencia sobre qué es bueno, qué es malo y en caso de que sea malo, cómo vamos a mejorarlo.
+[00:13] Lo primero que vamos a ver es el CPM, que es el costo por mil impresiones. Esto básicamente es
+[00:18] el coste publicitario. Cuánto nos cuesta hacer publicidad y está influenciado por dos cosas.
+[00:23] Una es el mercado, la competencia del mercado, por ejemplo el CPM en Estados Unidos es mucho,
+[00:29] mucho más alto que el CPM en España. Por la simple razón de que hay mucha más competencia,
+[00:34] es decir, mucha más gente quiere ese espacio publicitario en el cual tú quieres poner tu anuncio.
+[00:39] Lo otro que influencia mucho el CPM es el nicho o la audiencia a la cual nos estamos dirigiendo.
+[00:44] Por ejemplo, si hacemos un producto de Skincare y encima orientado a mujeres de 35 a 60 años,
+[00:50] que es el grupo de edad más cara de la historia mundial, nuestros CPMs van a ser mucho más
+[00:55] altos que si hacemos, por ejemplo, un producto de gaming que no hay tanta competencia. Realmente no
+[01:00] existe un número que os pueda dar de esto es bueno o esto es malo porque cambia muchísimo dependiendo
+[01:05] del mercado y del nicho, como hemos dicho, pero si tenemos algo por debajo de 15 de CPM está muy,
+[01:12] muy bien y si tenemos algo por arriba de 100 está muy, muy mal. Vamos a ver tres maneras de
+[01:16] reducir el CPM. La primera y la más fácil es testear mercados diferentes. Estados Unidos
+[01:22] siempre va a ser el mercado con CPMs más altos porque todo el mundo quiere hacer publicidad de ahí,
+[01:27] luego lo siguen Australia, Canadá y Reino Unido. Si ya estáis haciendo publicidad en estos cuatro
+[01:33] y vuestros CPMs aún son muy altos, podéis probar países de Europa, lo que se llaman los Golf
+[01:38] Countries, que serían Qatar, Arabia Saudita, todos estos, o incluso ponerte en Google y
+[01:43] Packet List o Un Express Countries y ahí os va a salir una lista de países que también se pueden
+[01:48] testear. La segunda forma que tenemos de reducir CPM es simplemente cambiando de nicho, si por ejemplo
+[01:53] estáis haciendo algo en belleza o salud, estos son los nichos con CPMs más altos y va a probar algo
+[01:58] que sea un poco menos competitivo, sobre todo ahora al principio y a la larga si realmente queréis
+[02:04] entrar en uno de estos nichos volveis. Y la tercera opción que os vamos a dar es simplemente
+[02:08] cambiar de cuenta publicitaria, parece una tontería pero a veces funciona increíble. Nosotros
+[02:13] hemos testeado productos que nos dan CPMs de 70 y simplemente por cambiar de cuenta publicitaria
+[02:19] pasamos a 40 o 50. Ahora al principio solo tendréis la opción de crear una cuenta publicitaria en
+[02:24] vuestro Business Manager, si es nuevo, pero la que vayáis avanzando Facebook deja crear más de una
+[02:28] cuenta publicitaria en nuestro Business Manager y si no tenemos la opción de comprar cuentas de
+[02:32] agencias publicitarias que normalmente tienen mejores métricas, aunque ahora al principio lo
+[02:36] más recomendable sería probar nichos menos competitivos o incluso targetear algún
+[02:41] país diferente.

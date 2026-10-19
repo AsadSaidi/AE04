@@ -1,0 +1,17 @@
+# 29-03-3-mal-cpc — 3. Mal CPC.mp4 (01:28)
+[00:00] La siguiente métrica importante que tenemos que entender es el CPC. Esto indica cuánto pagas por
+[00:05] cada visitante en tu tienda, por cada clic en el link de tu anuncio. El CPC depende completamente
+[00:10] del CPM y del CTR. Si queremos mejorar el CPC lo que tenemos que hacer es fijarnos en estas métricas.
+[00:16] Un CPM alto y un CTR bajo significa que el CPC va a ser alto y al revés un CPM
+[00:22] bajo y un CTR alto significa un CPC bajo. Por norma general queremos ver cost per click de
+[00:28] alrededor de un dólar pero si nuestro anuncio atrae un tráfico increíblemente caliente o gente que
+[00:34] está muy lista para comprar puede ser perfectamente que un anuncio o un conjunto de anuncios con un
+[00:40] cost per click de 1,5, 2, 2,5 sea 100% rentable. Por ejemplo un anuncio tipo clickbait que sería
+[00:47] lo que estábamos hablando de dale aquí abajo y te regalo 10.000 euros va a traer a mucha gente
+[00:52] pero eso no es tráfico caliente que está listo para comprar entonces por muy bueno que sea el CPC
+[00:57] no va a servir de absolutamente nada y al revés si hacemos un anuncio en el cual explicamos hasta
+[01:03] el mínimo detalle de nuestro producto y le dejamos claro a la gente que si le da click a ese link es
+[01:09] para comprar aunque el CPC sea de 2 o incluso 3 ese tráfico es muy caliente está muy listo para
+[01:15] comprar y puede ser que seamos rentables. Debido a que el CPC depende directamente del CPM y CTR
+[01:21] lo único que puedes hacer para reducir tu CPC es atacar mercados o audiencias menos competitivas
+[01:26] o simplemente crear mejores anuncios.

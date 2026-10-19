@@ -1,0 +1,17 @@
+# 29-04-4-mala-tasa-de-aadidos-al-carrito — 4. Mala Tasa de Añadidos al Carrito.mp4 (02:01)
+[00:00] La siguiente métrica que tenemos que entender es la tasa de añadidos al carrito.
+[00:04] Vamos a encontrar aquí en Shopify, le dais a analíticas y aquí a la derecha vais a tener todas las métricas que nos interesan.
+[00:11] Esto es básicamente el porcentaje de personas que añaden al carrito después de haber hecho clic en nuestro anuncio y llegar a la tienda.
+[00:18] Como referencia vamos a buscar una tasa del 6 al 10% porque por norma general cada 2-3 de añadidos al carrito se saca una venta.
+[00:26] Si nuestra tasa está por debajo de lo que queremos, puede ser por varias razones, la primera es que la oferta no es suficientemente buena o atractiva.
+[00:34] Lo que podemos hacer es probar diferentes precios, ofrecer distintos descuentos por cantidad, hacer buy one, get one free, compra dos, llévate uno gratis, esto normalmente funciona muy bien.
+[00:45] O simplemente podemos presentar la oferta de otra forma, si comprar dos vale 80, en vez de poner 80 podemos decir 39.99 h.
+[00:54] Yo sorprendería pero simples detalles como estos muchas veces marcan la diferencia.
+[00:59] La otra razón puede ser que el texto en la página de producto del copyright no sea suficientemente bueno y vamos a empezar siempre modificando por arriba,
+[01:07] lo que se llama la sección above the fault que es lo primero que ve el cliente, que esto sería como nuestro hook de la página.
+[01:14] Igual que en los vídeos cuando algo no va bien empezamos cambiando el hook, en la página cuando algo no va bien vamos a empezar cambiando todo lo que está al principio.
+[01:23] Como por ejemplo la imagen principal, la barra de anuncio, los emoji benefits, etcétera.
+[01:27] Una vez observamos alguna mejora podemos empezar a ajustar el resto de la página de producto pero una vez más siempre vamos a empezar por lo de arriba,
+[01:36] que es lo primero que ve el cliente y lo que afecta más tanto a conversión como la tasa de añadidos al carrito.
+[01:42] Y hay algo que no es obligatorio pero que podéis hacer hay una herramienta muy útil se llama Microsoft clarity que básicamente lo que haces
+[01:49] es grabar el comportamiento de tu cliente en tu página entonces ves exactamente cuánta gente se va de la página a esta altura a esta a esta donde le dan clic en la página y según esto podemos optimizar.

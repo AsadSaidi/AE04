@@ -1,0 +1,63 @@
+# 28-01-1-kpis-conoce-tus-nmeros — 1. KPIS - Conoce tus Números.mp4 (05:35)
+[00:00] uno de los errores más comunes a la hora de ranear anuncios en facebook es no conocer tus
+[00:04] números hemos visto muchísimas veces gente que se cree que está ganando dinero y en verdad está
+[00:09] perdiendo dinero por eso os hemos hecho esta hoja, esto va a venir perfecto para conocer
+[00:14] vuestros números, vuestros KPIs que significa Key Performance Indicators y son los números
+[00:19] más importantes de vuestro negocio, todo lo que veis en azul lo podéis cambiar lo podéis
+[00:24] modificar y todo lo que está en rojo son fórmulas que se calculan automáticamente en
+[00:28] función de todo lo demás vamos a ver uno por uno que es cada cosa primero tenemos el average order
+[00:34] value el valor promedio del pedido la forma de calcular esto es si por ejemplo tenéis 100 pedidos
+[00:39] y el valor total de estos 100 pedidos son 10,000 vais a dividir 10,000 por 100 y os va a dar este
+[00:45] número las comisiones de las pasegras de pagos lo que te cobra o bien Shopify Payments o PayPal
+[00:50] o Stripe un 3% es lo mínimo si queréis podéis incluso meterle más y vais a ver que cuando
+[00:55] cambiamos esto estas fórmulas se adaptan pero bueno vamos a ponerle de ejemplo un 3 que es lo
+[01:01] mínimo los siguientes el coste promedio del pedido o cost of goods incluyendo el envío todas estas
+[01:06] métricas las vamos a calcular de los últimos 7 días o si acabáis de arrancar podéis hacer
+[01:11] incluso el último día últimos dos días y ya lo vais actualizando a medida que vais
+[01:15] avanzando para calcular eso vamos a pillar lo que nos ha costado los pedidos de los últimos
+[01:20] 7 días y lo dividimos por el número total de pedidos esto es el coste diario del negocio
+[01:25] ya veréis que es una fórmula que se calcula dividiendo este número que es el coste total del
+[01:29] negocio por 30 así vemos exactamente cada día cuál es el coste de todo de Shopify de las apps y
+[01:35] es que tenemos trabajadores softwares o cualquier otra cosa relacionada con el negocio esto es nuestro
+[01:41] profit target normalmente en e-commerce para poder escalar necesitamos un 20% de margen obviamente
+[01:47] todo lo que sea más que esto es bienvenido pero este número ya es lo que quiere cada
+[01:52] uno para su negocio si no lo tenéis muy claro de chat 20 que es lo estándar y es un buen número
+[01:57] para poder escalar aquí tenemos el porcentaje de personas que añadió al carrito que llegó al
+[02:02] checkout y que compró lo podemos sacar de Shopify váis a analytics y lo vamos a ver aquí añadido
+[02:09] al carrito inició el checkout y compró y aquí también vais a poder encontrar el average
+[02:14] order value que hablábamos antes esto de aquí muy importante en caso de que vuestra at
+[02:19] account no esté en usd en dólares podéis hacer lo siguiente euros por ejemplo 089 venís aquí le
+[02:29] ponéis 0.89 y las fórmulas se van a dar aquí abajo vamos a poner todos los costes relacionados
+[02:35] con el negocio así a Shopify apps y es que trae trabajadores cuando empecemos a escalar software
+[02:40] como podría ser get hooked o cualquier otro gasto relacionado con el negocio tenemos que
+[02:45] que calcularlo lo vamos a poner aquí el total está aquí abajo y de este total vamos a sacar
+[02:51] lo que decíamos antes que es el coste promedio por día por si no quedó claro cambiando este
+[02:57] número de aquí lo que hacemos es que ahora estos números también van a estar en euros si
+[03:02] nosotros tenemos usd estos números de aquí están en usd si por ejemplo le metemos gbp estos
+[03:10] números de aquí ahora están en gbp primero tenemos lo que son los breakeven kpi que esto significa
+[03:15] que no estamos ni ganando ni perdiendo dinero no es un más sitio para arrancar es normal es más es
+[03:21] bueno porque en facebook ya lo he dicho antes pero cada vez que pagamos por anuncios no
+[03:25] estamos gastando dinero estamos comprando data comprando información entonces si estamos en
+[03:31] nuestro punto breakeven que es ni pérdida ni beneficios significa que estamos ganando porque
+[03:36] estamos comprando data gratis y a la derecha tendríamos los kpi objetivo que sería el kpi
+[03:42] breakeven es decir ni de pérdida ni de beneficio más el beneficio objetivo que es este 20 por ciento
+[03:48] de aquí vemos que si cambiamos y le ponemos 30 por ciento nuestros números aquí también van
+[03:53] a cambiar la primera métrica que tenemos del cosper purgeis cuánto nos cuesta conseguir una
+[03:58] venta si vamos a la manager y vemos que nuestros anuncios están gastando 32 53 para conseguir
+[04:05] una venta sabremos que no estamos ni ganando ni perdiendo dinero si nos quedamos estancados aquí
+[04:09] vemos que nuestros números son ok son breakeven pero no podemos escalar significa que lo que tenemos
+[04:15] que hacer es probar diferentes ofertas diferentes precios diferentes ángulos de mercado algo tenemos
+[04:20] que hacer pero como ya he dicho al principio no es un más sitio en el que estar lo siguiente
+[04:25] que tenemos del coste por checkout iniciado cuando nos cuesta que una persona inicia el
+[04:29] checkout luego añadido al carrito cost per view content sería lo que es el cpc y el roas que es lo
+[04:35] más importante es el returno onates pente el retorno publicitario y es por cada euro que me gasto
+[04:41] cuánto tengo que ingresar para no ganar ni perder dinero este sería el breakeven roas 149 y es el
+[04:47] número junto con el cpp los números más importantes si nuestro cpp es más alto que esto
+[04:53] estamos perdiendo dinero y si nuestros roas es más bajo que esto también estamos perdiendo
+[04:57] dinero tenemos que hacer algo al respeto estos como decíamos son los kpi objetivos va a depender
+[05:03] del número que le metemos aquí el emeto 30 ya vais a ver que estos números bajan lo normal sería
+[05:09] un 20 por ciento que el objetivo sea este un 20 por ciento entonces sabemos que si nuestro cpp es
+[05:15] 22 como a 53 estamos llegando a ese target y sabemos que si nuestros roas es 22 también
+[05:21] estamos llegando a este target una vez más los números más importantes son cpp lo que nos
+[05:26] cuesta conseguir una venta y el roas el returno onates pente aquí abajo os dejo un link para que
+[05:31] os podáis hacer una copia pero eso muy muy importante conocer vuestros números
