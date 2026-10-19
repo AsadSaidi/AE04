@@ -1,0 +1,75 @@
+# 34-07-7-crear-adv-shopping-campaing — 7. Crear ADV Shopping Campaing.mp4 (07:54)
+[00:00] una vez tengamos tres creativos o más que nos estén dando dinero de forma rentable por tres o
+[00:05] más días que como mínimo tengan un gasto publicitario de 100 con un roas por encima de nuestro
+[00:11] benchmark roas o en palabras más fáciles que nos esté dando dinero por tres o más días lo que
+[00:17] vamos a hacer va a ser escalar esto en una campaña advantage plus vamos a venir aquí create
+[00:22] damos a ventas continuar tenemos el producto el objetivo campaña calamiento que mercados como
+[00:35] ya hemos dicho aquí ya tenemos cierto gasto en nuestra cuenta publicitaria ya podemos empezar a
+[00:39] ver si algún mercado funciona mejor que otro en caso de que encontremos a alguno que funciona
+[00:44] mejor vamos a optimizar y atacar solo ese mercado si los otros funcionan significativamente peor
+[00:51] venimos aquí ahora en este ejemplo vamos a meter top 5 audiencia y este sí ésta va a ser nuestra
+[01:00] primera campaña cbo campaign budget optimizacion y vamos a arrancar con 150 de gasto aquí no hay
+[01:07] que tocar nada más muy importante que esté seleccionado esto campaign budget aquí tenéis que
+[01:12] fijaros que os salga advantage plus le damos a next aquí le podemos poner 001 broad nuestra
+[01:21] audiencia mf 18 pla de esto no es muy importante sólo para nosotros a ver exactamente qué estamos
+[01:28] haciendo venimos aquí maximizar número de conversiones siempre retro gamers vamos a optimizar por
+[01:35] compras por chasis esto ya no nos va a salir vamos a ignorar aquí no hay que tocar absolutamente
+[01:42] nada como mucho puede setear que arranque el día siguiente a las 12 vamos a meter nuestra
+[01:47] mejor audiencia en este caso el top 5 aquí sí ya muy importante cuando hagamos advantage plus
+[01:54] ya no le vamos a dar ningún tipo de limitación a facebook esto va a ser 100 por 100 broad sin
+[01:59] limitación de edad es absolutamente nada lo que queremos es darle la máxima libertad a facebook
+[02:05] tenemos united kingdom canada australia y new zealand más adelante cuando vayamos avanzando
+[02:16] algo que también se puede hacer es separar tener cinco campañas de escalamiento una por cada uno
+[02:23] de nuestros mercados pero por ahora vamos a meter todas las campañas de aquí dentro no tocamos
+[02:28] absolutamente nada le damos a next y aquí es donde es muy importante usar lo que hemos hablado
+[02:35] antes del post id yo lo voy a sacar de otra cuenta publicitaria como hemos dicho tenemos dos
+[02:39] opciones la primera sería venir aquí facebook post with comments recordamos que lo del post id lo
+[02:45] hacíamos para mantener el engagement de este anuncio si lo creamos de cero si metemos crear
+[02:51] anuncio en vez de usar existing post este anuncio arranca de cero es decir no tiene ningún
+[02:58] comentario ningún like ni nada y esto es algo que ayuda muchísimo a a dar credibilidad y
+[03:03] por lo tanto aumentar el número de conversiones venimos aquí copiamos el post id si lo queréis
+[03:10] hacer de la otra forma venís aquí abajo seleccionáis us existing post y aquí vemos que también nos da
+[03:19] el post id lo copiamos ahora en vez de crear anuncio vamos a meter us existing post esto lo
+[03:27] sacamos y aquí aquí pegamos nuestro post nuestro post id y le damos a ok ya vais a ver que se copía
+[03:37] todo exactamente como el post original básicamente porque es el post original vosotros como ya tendréis
+[03:42] ventas en este anuncio vamos a ver que aquí ya tiene likes tiene comentarios ya tiene engagement
+[03:49] bajamos aquí le podéis sacar todo igual que hacíamos antes os aseguráis de que no hay
+[03:55] nada seleccionado le damos a guardar y atendríamos nuestro primer anuncio muy importante aquí meterle
+[04:02] el título del anuncio bit 0 21 y ahora le daríamos a duplicar mínimo dos veces y haríamos
+[04:12] exactamente lo mismo la razón por la cual se hace advantage plus es porque estas campañas
+[04:18] están pensadas especialmente para e-commerce la teoría es que dan mucho mejores resultados a
+[04:23] nosotros en nuestra experiencia propia si es así nos dan mejores métricas y mejores
+[04:27] resultados así que es lo que vamos a utilizar para escalar ahora vendríamos aquí buscaríamos el
+[04:32] segundo anuncio ganador que como hemos dicho mínimo tiene 100 si puede ser 150 de gasto rentable
+[04:40] venimos aquí pillamos el post id copiar ahora este ponemos que sería 31 3
+[04:51] bajamos cambiamos lo pegamos volveríamos aquí abajo haríamos lo mismo una vez más
+[04:58] buscamos el otro anuncio ganador que tenemos porque como ya hemos dicho mínimo 3 creativos por
+[05:04] advantage campaign venimos aquí este sería el 44 pegamos el post id también
+[05:14] y ya tendríamos nuestra primera campaña advantage plus seteada aquí hay dos teorías está la
+[05:20] gente que dice que si metes 20 o 30 anuncios en una campaña advantage plus estás desperdiciando
+[05:26] anuncios ganadores porque lo que pasa es que uno o dos anuncios normalmente se
+[05:31] comen todo el gasto entonces como todos eran ganadores y sólo dos gastan no les gusta y lo
+[05:37] que hacen es meter como mucho de 3 a 5 creativos pero nosotros hemos estado testeando y hay la
+[05:43] otra parte que dice que se puede meter hasta 100 anuncios en una campaña advantage plus y la
+[05:49] verdad es que nos está dando mejores resultados por lo cual para simplificar las cosas aquí
+[05:54] se pueden meter tantos anuncios como queráis vamos a poner un límite de 60 o 70 y si
+[06:00] tenemos un anuncio aquí dentro que lleva más de una semana sin gastar directamente lo podemos
+[06:04] apagar y si queréis podéis crear otra campaña advantage plus y todos estos que no gastan los
+[06:10] metéis ahí pero por ahora quedarlos con la idea de que podéis meter muchísimos anuncios aquí
+[06:16] dentro y lo ideal es ir engordando esta campaña tanto como sea posible porque también está lo
+[06:22] que se llama el aprendizaje a nivel de campaña entonces nosotros no queremos tener 25
+[06:28] campañas y que todas gasten mil preferimos tener una que gaste 25 mil y vaya ganando lo que se
+[06:34] llama aprendizaje a nivel de campaña vamos a hacer un recap desde el principio hemos hecho
+[06:40] una campaña de calentamiento la hemos matado cuando ha gastado mínimo cinco dólares luego
+[06:45] hemos testeado intereses hemos sacado intereses ganadores a partir de que tenemos un
+[06:51] interés ganador hemos hecho una triple duplicación y está funcionando lo que hacemos
+[06:55] es testear todos los nuevos creativos con esos intereses ganadores y cuando llegamos a las 100
+[07:00] ventas empezamos a targetear broad que significa no poner ningún interés aquí dentro cuando
+[07:06] tenemos algún conjunto de anuncios que funciona bien por tres días o más tiene un roas rentable
+[07:12] lo que hacemos es triple duplicación y cuando está triple duplicación es rentable por tres
+[07:18] días o más y tenemos mínimo tres post id con 100 150 de gasto de forma rentable copiamos
+[07:25] el post id y lo metemos en una campaña de escalamiento en esta campaña de escalamiento podemos
+[07:30] meter hasta 60 70 anuncios y el objetivo es de engordarla muchísimo si vemos que hay muchos anuncios
+[07:36] que no gastan al cabo de una semana podemos apagar esos anuncios y probar de testearlos en una nueva
+[07:42] campaña de escalamiento pero por ahora al principio arranca con una sola campaña de
+[07:47] escalamiento y el objetivo es ir engordando esta campaña y que todo el gasto esté concentrado

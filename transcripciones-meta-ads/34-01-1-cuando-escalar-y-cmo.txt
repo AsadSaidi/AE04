@@ -1,0 +1,53 @@
+# 34-01-1-cuando-escalar-y-cmo — 1. Cuando Escalar y Cómo.mp4 (04:49)
+[00:00] Bienvenidos a la fase de escalado de Facebook Ads. Antes de poder escalar como se debe, lo que
+[00:06] necesitaríamos es mínimo haber hecho la triple duplicación a uno de nuestros conjuntos de
+[00:10] anuncios y ser rentable por tres o más días. Lo ideal sería tener tres anuncios ganadores,
+[00:16] pero si tenemos sólo uno o dos, ahora vamos a ver también lo que tenemos que hacer. Recordad
+[00:22] siempre que la clave cada vez más en Facebook Ads está en los creativos. La estrategia es
+[00:28] esta, testear creativos, encontramos ganadores y los escalamos en una campaña Advantage Plus que
+[00:34] ahora vamos a ver a la práctica cómo se hace esto, pero una vez más. La clave del éxito está
+[00:39] en los creativos. Lo primero que queremos es evitar los intereses, es lanzar nuestros anuncios
+[00:45] Broad que se llama, que significa sin seleccionar ningún interés y para hacer esto necesitamos
+[00:50] 100 compras en nuestro pixel. Esto significa que vamos a ir a Ads Manager, vamos a filtrar desde
+[00:56] el primer día que arrancamos a ranear anuncios, vamos a venir aquí y necesitamos que aquí ponga 100.
+[01:05] Aquí ponemos registradas en nuestro pixel porque ya vais a ver que hay muchas veces que las ventas
+[01:09] reales no concuerdan del todo con las de Facebook, con las que el pixel registra,
+[01:14] así que nosotros queremos 100 ventas aquí en nuestro pixel. Así que nosotros queremos 100
+[01:19] ventas en el pixel antes de poder pasar a hacer Broad ya para siempre digamos. El
+[01:25] segundo paso es poner los anuncios ganadores en una campaña Advantage Plus que esto sería lo
+[01:29] mismo que una CBO, Campaign Budget Optimization. Hemos hecho la triple duplicación, nuestros anuncios
+[01:36] o uno de nuestros anuncios nos está dando resultados por más de tres días, lleva tres días
+[01:41] raneando y sigue siendo rentable. Lo que vamos a hacer va a ser pillar el post ID que luego
+[01:46] vemos exactamente lo que es y lo metemos en una campaña de Advantage Plus. Para hacer
+[01:51] esto es muy recomendable tener al menos tres creativos que estén raneando en triple duplicación
+[01:57] por más de tres días de forma rentable. Para poner un número exacto lo que necesitamos son tres
+[02:02] creativos que hayan gastado mínimo 100 y el ROAS esté por encima de nuestro benchmark ROAS.
+[02:08] El benchmark ROAS es el breakeven ROAS más un 20% como hemos visto en el documento de
+[02:14] los KPIs. A partir de ahora todos los creativos nuevos que vamos a testear los vamos a
+[02:19] testear con el interés ganador que tenemos o si tenemos ya 100 compras en nuestro pixel los vamos
+[02:25] a testear ROAS que significa sin intereses. Para que os hagáis una idea ahora deberíamos de tener la
+[02:30] campaña de calentamiento que ya está apagada deberíamos de tener la campaña de testeo de
+[02:35] intereses aquí dentro vosotros vais a tener muchos más pero tendríamos unos cuantos intereses
+[02:41] que ya no funcionan unos cuantos intereses que les hemos hecho la triple duplicación y los
+[02:46] estamos descalando como hemos visto en el documento de media buying y a partir de ahora para testear
+[02:51] los nuevos anuncios como ya hemos dicho vamos a usar nuestro interés ganador o si ya tenemos 100
+[02:56] ventas vamos a meterle broati vamos a crear una campaña nueva que se va a llevar a llamar
+[03:02] campaña de testeo de creativos o anuncios que es exactamente lo mismo. Aquí la idea es que
+[03:09] un 80% de nuestro dinero vaya a los anuncios ganadores a lo que ya tenemos que funciona
+[03:14] pero un 20% tenemos que seguir testeando nuevos creativos que luego vamos a escalar en una campaña
+[03:20] advantage plus ahora puede sonar un poco lioso pero luego lo vemos en la práctica va a quedar todo
+[03:25] mucho más claro las campañas antiguas que nos siguen funcionando que nos están dando dinero aquí
+[03:30] dentro las vamos a dejar activas porque la norma número uno en facebook es que nunca se apaga
+[03:36] nada o se mata nada que sea rentable pero a partir de ahora los nuevos creativos los vamos
+[03:41] a testear en la otra campaña que ahora vamos a montar. Por mucho que ya tengamos algo que nos
+[03:46] funciona es muy muy importante no parar de testear cosas has todo tipo de pruebas usa get hooked y tus
+[03:53] competidores para pillar inspiración prueba todos los ángulos de mercado prueba todo tipo de foto
+[03:59] ads y de vídeo ads y de lo que ya tenemos que funciona de los creativos que nos están dando
+[04:04] buenos resultados hay que hacerle muchísimas variaciones y margi ha hecho un vídeo en el
+[04:08] cual habla más en detalle de esto pero es mucho más fácil encontrar algo que funciona a partir de
+[04:14] algo que ya está funcionando que no volver a crear algo de cero las campañas de escalamiento que vamos
+[04:19] a usar que se llama advantage plus o cibo funcionan mejor si tenemos mínimo tres creativos si aún no
+[04:26] tenemos los tres creativos vamos a seguir testeando anuncios en la campaña de testeo de nuevos
+[04:31] creativos en caso de que tengamos las 100 ventas los vamos a poner broad y en caso de que no
+[04:37] tengamos las 100 ventas vamos a usar nuestro interés ganador para seguir testeando anuncios una vez
+[04:43] tengamos tres ahí sí vamos a poder crear ya nuestra primera campaña advantage plus o cibo

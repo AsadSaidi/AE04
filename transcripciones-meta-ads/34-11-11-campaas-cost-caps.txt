@@ -1,0 +1,50 @@
+# 34-11-11-campaas-cost-caps — 11. Campañas Cost Caps.mp4 (05:12)
+[00:00] Otra estrategia que podemos usar para escalar es lo que se llaman las campañas cost cap, vamos a crear
+[00:05] una campaña como hacemos siempre, tenemos aquí lo que hemos hablado en otros vídeos, podéis meterle
+[00:11] cost cap en vez de scaling o campaña de escalado, metéis campaña cost cap, venís aquí y en vez de
+[00:18] highest volume lo que vamos a hacer va a ser seleccionar cost per result igual, aquí le vamos
+[00:23] a meter un budget de mínimo 1000, le damos a next y aquí lo que vamos a hacer va a ser decirle a
+[00:30] facebook, ey consígueme ventas siempre y cuando las encuentres a este precio, para saber qué número
+[00:36] tenemos que poner aquí vamos a buscar nuestro average CPA, filtramos por los últimos 10 días,
+[00:41] podéis hacer por las dos últimas semanas, el último mes no importa mucho depende si acabáis
+[00:46] de arrancar igual 10 días está bien, si lleváis un año lanzando ads podéis hacer el último
+[00:51] mes vamos a buscar el cost per purchase, venimos aquí en nuestro caso es 42, lo que vamos a hacer va
+[00:58] a ser poner 5 campañas, una con 42 y las siguientes van a ser 2 con 2 euros menos y 2 con 2 euros más,
+[01:07] es decir vamos a tener 5 conjuntos de anuncios, creo que dije campaña antes me refería a
+[01:12] conjunto de anuncios, vamos a meter 38, 40, 42, 44 y 46 y aquí dentro lo que haremos va a
+[01:20] ser meter nuestros mejores anuncios, lo vamos a setear como ya hemos hecho diferentes vídeos, aquí
+[01:26] por ejemplo tenemos 6 creativos, siempre como ya hemos dicho vamos a tener mínimo 3 creativos por
+[01:32] campaña Advantage Plus y aquí vamos a setear diferentes cost caps, muy importante poner post
+[01:38] IDs, no vamos a crear anuncios, vamos a poner post ID, a esta altura ya deberíais tener clarísimo
+[01:45] que es todo esto, venimos aquí metemos nuestros mejores creativos, seteamos el cost per result
+[01:51] goal, lo duplicamos 4 veces más y aquí en el nombre le podéis poner best ads cost cap 42 y
+[02:03] le metéis cuánto es el cost cap, cuánto es el cost cap, en este vamos a meter 40, 38, 44 y 46,
+[02:19] esto al ponerle cost cap lo que hace es que facebook va a gastar solo si consiguen contarnos
+[02:25] ventas a este precio, luego para saber cuándo matar o cuándo escalar esta campaña cost cap vamos a
+[02:32] seguir las mismas normas que siempre y ya vais a verlo en el vídeo de media buying de la fase
+[02:37] de escalado es exactamente lo mismo y cuando tengamos que escalar lo vamos a hacer a nivel de
+[02:42] campaña, aquí se arranca con con budgets altos, nosotros a veces arrancamos con 3000 o 5000
+[02:47] y la idea es esta, seteamos cost per result goal y facebook no va a gastar a no ser que consiga
+[02:53] gastar al precio que nosotros nos interesa, si os queréis asegurar podéis meter solo vuestro
+[02:59] average cpa, 2 dólares menos y 2 dólares menos o euros y aquí dentro de esto solo meteríamos
+[03:05] nuestros mejores países y como hemos visto en el vídeo anterior también lo podéis separar
+[03:10] por país, es decir podríamos tener una cost cap para usa, una para UK, una para Australia y
+[03:16] una para México, al principio vais a ver que puede ser que facebook gaste de más, es decir puede
+[03:21] ser que gaste 150 sin tener ninguna venta pero luego se va equilibrando, si veis que está gastando más
+[03:28] de lo que os interesa podéis venir aquí y vamos a ir reduciendo el cost cap en saltos de 2, normalmente
+[03:34] se hacen saltos de 2, si este h te está gastando de más y está 42 lo vamos a meter a 40, sigue
+[03:39] gastando de más 38, si vemos que no es rentable según nuestros números lo lo matamos, vamos a
+[03:46] recapitular venimos aquí creamos una campaña sales, esto también son campañas advantage plus la
+[03:54] única diferencia es esta que aquí en vez de highest volume le vamos a meter cost per result goal y
+[03:59] luego a nivel de conjunto de anuncios vamos a seleccionar el cost per result, en nuestro caso
+[04:04] el average CPA es 42 entonces haríamos cinco assets con nuestros mejores creativos con los post
+[04:11] IDs de 38 40 42 44 46 si vemos que el asset de 42 gasta demasiado podemos probar a bajar el cost cap en
+[04:23] saltos de 2, si vemos que no gasta nada no gasta suficiente podemos incrementar el gasto en saltos
+[04:29] de 2 también, si alguno de estos conjuntos de anuncios no es rentable y otros sí vamos a pagar
+[04:35] los que no son rentables y dejarlos que sí y si la campaña pasa en un par de días y estamos perdiendo
+[04:42] dinero seguimos nuestras normas de media buying y la pagamos, esto se puede hacer con todos los
+[04:47] mercados podéis arrancar solo con el mercado que funcione mejor si os da buenos resultados luego
+[04:52] lo hacéis en los otros mercados por separado como hemos explicado en el vídeo anterior y
+[04:57] esto hay cuentas publicitarias con las en las cuales esto funciona muy muy bien y hay otras que no
+[05:02] tanto la única forma de saberlo es testearlo y esto acordarse siempre de meter el coste por
+[05:10] resultado que queremos aquí

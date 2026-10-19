@@ -1,0 +1,22 @@
+# 34-10-10-seleccionar-mejores-pases — 10. Seleccionar Mejores Países.mp4 (02:04)
+[00:00] cuando vamos avanzando es muy importante analizar la data de todo el gasto publicitario que hacemos en
+[00:05] facebook una de las cosas más importantes que tenemos que ver si hay algún país que funciona
+[00:09] especialmente bien vamos a venir aquí a breakdowns luego desglose le damos a país una vez tenemos
+[00:16] esto se os va a abrir así con esto plegado aquí abajo le tenéis que dar a esta flechita luego
+[00:23] os va a poner la suma total del gasto y todas las métricas por país y vamos a analizar si
+[00:29] es que hay algún país que tiene un roas mucho mejor que otro aquí vemos que japon tiene muy
+[00:35] buen roas como mínimo para que algo sea significativo queremos que haya gastado más de mil por
+[00:41] ejemplo si ha gastado 10 dólares y tiene un roas de 4 no es nada significativo mínimo que tenga
+[00:47] un gasto publicitario de mil tenemos a japon malta y puerto rico ponle aquí lo que podríamos
+[00:57] hacer es crear una campaña de escalamiento por cada uno de estos países en vez de tener los
+[01:03] metidos todos aquí en una campaña general lo que podríamos hacer es esto creamos duplicamos
+[01:09] esta campaña y atacamos sólo a uno de estos países en este caso los países que hemos visto no son un
+[01:16] gran ejemplo porque son un poco pequeños y no son muy escalables pero aún así nos podrían dar
+[01:21] 4 o 5 o 6 mil de ventas diarias por un por un buen tiempo para hacerlo vendríamos aquí dupliquete
+[01:28] dupliquete aquí en vez de top 5 pondríamos por ejemplo japon esto es un caso raro seguramente
+[01:34] esto os va a pasar con estados unidos de australia canada y tiene mucho más sentido vendríamos
+[01:39] a nivel de anuncio sacaríamos estos países y le meteríamos japon le damos a publicar y ahora
+[01:45] ya estaríamos atacando sólo este país que es el que nos da mejor roada a la mañana
+[01:50] siguiente o en los próximos días venimos aquí analizamos las métricas y vemos que el país sólo no
+[01:55] funciona también simplemente apagamos esta nueva campaña que ataca a ese país en concreto y seguimos
+[02:02] con nuestras vidas

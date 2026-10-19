@@ -1,0 +1,24 @@
+# 34-02-2-post-id — 2. Post ID.mp4 (02:16)
+[00:00] a la hora de escalar nuestros anuncios en una campaña advantage plus siempre lo vamos a hacer
+[00:04] usando algo que se llaman post i disk que esto básicamente sería el identificador de nuestros
+[00:10] anuncios la razón por la cual hacemos esto es que si nosotros tenemos este anuncio de que está
+[00:15] funcionando muy bien le hemos hecho triple duplicación está gastando 100 al día de forma rentable y
+[00:20] vamos creamos la campaña de escalamiento y ponemos este anuncio tal cual si este de
+[00:26] aquí que nos está funcionando bien tiene 20 me gustas 30 comentarios y 50 compartidos el
+[00:32] nuevo va a arrancar de cero pero si nosotros hacemos esto que voy a hacer ahora que es ir a
+[00:37] buscar el post id que para hacerlo venimos aquí share facebook comments copiamos esto de aquí
+[00:43] le damos a copiar y ahora cuando hagamos un nuevo anuncio en la otra campaña lo voy a
+[00:50] hacer aquí para poneros de ejemplo si nosotros el nuevo anuncio lo metemos así tal cual tipo
+[00:57] creando un nuevo anuncio los comentarios el engagement de este que ya nos está funcionando bien no va a
+[01:03] pasar a este pero si venimos aquí le damos us existing post usar el post existente y pegamos
+[01:11] el post id que hemos copiado anteriormente este anuncio de aquí también va a tener el
+[01:18] engagement que tiene este de aquí básicamente es exactamente el mismo post no es solo el mismo
+[01:23] creativo en dos posts distintos como pasaría si aquí le damos a crear anuncio de cero sino
+[01:31] que es exactamente el mismo entonces si este va sumando comentarios y me gustas y este también
+[01:36] nos va a servir para los dos otra forma que tenemos de buscar este post id es venir aquí
+[01:43] le damos a us existing post y nos lo podemos copiar de aquí volvemos a recapitular tenemos
+[01:51] dos formas de buscar el post id una es esta venimos aquí estamos en criatat le damos a
+[01:57] us existing post bajamos y lo copiamos y la otra forma es le damos aquí a la flechita
+[02:03] facebook post with comments y nos copiamos el segundo número no el primero este de aquí
+[02:08] sino el segundo y esto lo hacemos para que el engagement de este post también esté en el de
+[02:14] la campaña de escalamiento

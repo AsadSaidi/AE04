@@ -1,0 +1,22 @@
+# 34-13-13-repaso-estrategia-de-triple-duplicacin — 13. Repaso Estrategia de Triple Duplicación.mp4 (01:58)
+[00:00] Vamos a hacer un repaso rápido de la estrategia de triple duplicación tanto en la fase de testeo de
+[00:05] intereses como cuando estemos testeando creativos de ahora en adelante, vamos a usar la estrategia de
+[00:10] triple duplicación para escalar más rápido. Nosotros lanzamos un conjunto de anuncios a 20 y la teoría
+[00:16] es que nunca se puede aumentar más el budget de un 25% porque esto hace que el conjunto de
+[00:22] anuncios vuelva a la fase de aprendizaje que se llama. Como no podemos aumentar más el
+[00:27] budget de un 25%, si aquí le subiéramos un 25% cada día sería 25, 30 y algo, iríamos muy lentos
+[00:35] para escalar de forma más rápida, más agresiva lo que hacemos es una triple duplicación de este
+[00:40] conjunto de anuncios a cinco veces el budget inicial. En este caso nuestro budget es 20,
+[00:47] vamos a hacer una triple duplicación, vamos a triplicar tres veces este conjunto de anuncios
+[00:53] a 100 y cuando uno de estos tres saque una venta vamos a pagar los dos. Si estos tres gastan
+[00:58] cada uno nuestro break even CPA y ninguno de ellos tiene una venta lo apagamos y igual es señal de
+[01:04] que este conjunto de anuncios podría gastar de forma rentable a 20 pero no puede hacerlo a 100.
+[01:09] Si siguen pasando los días, tres o cuatro días más y este conjunto de anuncios que está a
+[01:14] 20 sigue siendo rentable podemos intentar una vez más la triple duplicación. Cuando uno de estos
+[01:20] conjuntos de anuncios triplicado nos da una venta lo dejamos ranear y luego vamos a seguir estas
+[01:25] normas para escalar o matarlo. Ya hemos entrado bastante en detalle podéis echarle un vistazo más,
+[01:30] aquí vendríamos y el ROAS de ayer es más grande que el ROAS objetivo, me metemos 125.
+[01:37] El día siguiente pasa lo mismo lo seguimos descalando, cuando este conjunto de anuncios
+[01:42] es rentable por tres días o más vamos a pillar el post ID del anuncio que tenga
+[01:49] mejores resultados que como mínimo necesita un gasto de 100 o 150, pillamos el post ID y lo
+[01:55] metemos en una campaña de escalamiento.

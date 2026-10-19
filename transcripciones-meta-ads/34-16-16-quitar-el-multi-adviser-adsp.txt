@@ -1,0 +1,6 @@
+# 34-16-16-quitar-el-multi-adviser-adsp — 16. Quitar el Multi-Adviser Adsp.mp4 (00:25)
+[00:00] Esto de aquí si lo tenemos seleccionado le estamos dando permiso a Facebook de mostrar
+[00:05] nuestros anuncios junto con los anuncios de otras marcas. Esto que hace hace que baje
+[00:10] el CPM que es el coste publicitario pero a no ser que vuestro producto sea mucho mejor que el de
+[00:16] la competencia. Lo vamos a dejar sin seleccionar porque no queremos que Facebook muestre nuestro
+[00:21] anuncio al lado del anuncio de un producto similar.

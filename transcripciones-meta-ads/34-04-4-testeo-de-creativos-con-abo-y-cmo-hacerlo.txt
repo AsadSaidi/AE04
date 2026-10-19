@@ -1,0 +1,50 @@
+# 34-04-4-testeo-de-creativos-con-abo-y-cmo-hacerlo — 4. Testeo de Creativos con ABO y Cómo Hacerlo.mp4 (04:47)
+[00:00] En esta fase de escalado ya tenemos mínimo un interés ganador, si tenemos 100 ventas como hemos dicho vamos a dejar de targetear
+[00:07] intereses, si aún no tenemos las 100 ventas vamos a seguir targeteando nuestros intereses
+[00:12] ganadores, a partir de ahora todos los creativos nuevos que testemos lo vamos a hacer en una campaña separada que va a ser la campaña de testeo
+[00:20] de creativos, vamos a hacer lo mismo que esta, una campaña chat budget optimization, pero en vez de testear intereses vamos a testear creativos
+[00:29] así es como se debería ver vuestro ads manager, tenemos la campaña de calentamiento apagada
+[00:33] tenemos la campaña de testeo de intereses, aquí dentro vais a tener algún interés que ya no funciona, lo hemos apagado, vamos a tener algún interés
+[00:41] que funciona muy bien, le hemos hecho triple duplicación y esta triple duplicación la estamos
+[00:47] escalando, ahora vamos a ver cómo creamos la campaña de testeo de creativos, le damos aquí a create, siempre optimizaremos por ventas
+[00:55] siempre, aquí hacemos lo mismo
+[00:58] nombre el producto
+[01:03] testeo
+[01:05] creativos, si cuando habéis hecho lo del breakdown por países, habéis encontrado algún país que funciona mucho mejor, podéis testear
+[01:12] los nuevos creativos solo con ese país, si nos seguimos con top 5 o en caso de que estéis haciendo México o
+[01:19] Estados Unidos en español con estos dos países y aquí le metemos también nuestra audiencia, mail female
+[01:26] 18 plus, esto también va a ser una campaña
+[01:29] adset budget optimization y aquí a nivel de campaña no tenemos que hacer nada más, le damos a siguiente
+[01:35] una vez más, si hemos llegado a las 100 ventas a partir de ahora ya no vamos a usar intereses, si aún no tenéis 100 ventas para testear los nuevos creativos
+[01:44] vamos a utilizar los intereses que ya nos están dando buenos resultados, entonces aquí sería o bien
+[01:49] interés ganador
+[01:51] número 1
+[01:53] o bien broad, que broad es sin sin interés
+[01:58] en el caso de que estéis haciendo broad, aquí le podéis meter ya el número del conjunto de anuncios
+[02:04] nuestro ejemplo vamos a poner que ya tenemos las 100 ventas, aquí le metemos bit 020, vamos bajando siempre
+[02:10] maximizar por número de conversiones, nuestro pixel
+[02:13] purgeis
+[02:15] este error ya nos va a salir porque ahora ya tenemos ventas en el pixel
+[02:19] vamos bajando, el budget lo vamos a dejar exactamente igual que en la fase de testeo de intereses
+[02:26] hacemos que arranque el día siguiente a las 12, le metemos nuestra mejor audiencia
+[02:35] vamos a poner que es top 5, pero como ya he dicho, si habéis detectado que algún país funciona mucho mejor
+[02:42] podéis optimizar por ese país, sobre todo si es Estados Unidos que es el país más grande y el que tiene más potenciado siempre
+[02:50] el Zealand, Canadá
+[02:53] vamos bajando, aquí no vamos a meter ningún interés porque ya tenemos las 100 ventas
+[02:59] en caso de que no tuviéramos las 100 ventas y estéis usando uno de vuestros intereses ganadores
+[03:03] lo pondríais aquí, el interés ganador y aquí vendríais y meteríais el nombre de ese interés
+[03:09] vamos bajando, ya estaría todo, ahora rellenaríamos esto como hemos hecho en los vídeos anteriores
+[03:17] una vez lo tengamos todo rellenado, duplicaríamos por 3 o por 4
+[03:22] y meteríamos bit 0.21, bit 0.22, bit 0.23, bit 0.24
+[03:27] importante duplicar una vez ya tengamos todo esto rellenado, así luego solo tenemos que cambiar el vídeo y ya estaría
+[03:33] importante duplicar una vez ya tengamos todo esto rellenado, así solo tenemos que hacerlo una vez
+[03:38] y en los duplicados le cambiaríamos el vídeo por el que le toque, el bit 0.22, bit 0.23 y ya estaría listo
+[03:45] ahora le daríais a publicar, volveríamos atrás y aquí tendríamos nuestra campaña de testeo de creativos
+[03:52] dentro tendríamos el bit 0.20 o en caso de que aún estemos targeteando intereses, aquí pondría el nombre del interés
+[03:59] si este conjunto de anuncios gasta de forma rentable por 3 o más días aplicaríamos la estrategia de triple duplicación
+[04:07] y esa triple duplicación cuando funcionara por 3 o más días o tuviéramos algún interés que ha gastado 100, 150
+[04:13] gasta de forma rentable por 3 o más días, pillaríamos el post ID, lo escalaríamos en una campaña Advantage Plash
+[04:20] que es lo que vamos a hacer en uno de los próximos vídeos pero hasta aquí es exactamente lo mismo que hacíamos
+[04:25] en la campaña de testeo de intereses, lo único que ahora ya tenemos o un interés ganador o estamos targeteando
+[04:32] broad, cuando este que hemos puesto aquí tiene 3 o más días de gasto de forma rentable, lo escalamos con triple
+[04:39] duplicación y si sigue funcionando por 3 o más días luego lo metemos en una campaña Advantage Plash donde vamos a escalar de forma más agresiva

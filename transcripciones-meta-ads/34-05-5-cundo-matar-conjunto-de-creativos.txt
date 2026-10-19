@@ -1,0 +1,9 @@
+# 34-05-5-cundo-matar-conjunto-de-creativos — 5. Cuándo Matar Conjunto de Creativos.mp4 (00:46)
+[00:00] Para saber cuándo tenemos que matar un conjunto de creativos nuevo, vamos a aplicar las mismas
+[00:04] normas de antes, vamos a dejarle mínimo que gaste un día completo si al final del día ha gastado
+[00:10] cero, vemos que ha pasado el break even CPA y tiene cero compras, lo podemos apagar, aquí os podéis
+[00:18] adaptar un poco en el sentido de que si veis que tiene muy buenos añadidos al carrito,
+[00:21] muy buenos checkouts, las métricas de hook rate, hold rate son buenísimas, igual podemos dejarlo
+[00:26] gastar un día más, pero si no, si ha pasado el break even CPA y tiene cero ventas, vamos a matarlo.
+[00:36] Una vez más nos guiamos por estas métricas de aquí, mínimo deja pasar un día completo y si
+[00:42] cumple alguna de estas normas le damos a apagar.

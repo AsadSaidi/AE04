@@ -1,0 +1,22 @@
+# 34-09-9-excluir-buyers-look-a-like — 9. Excluir Buyers Look a Like.mp4 (01:44)
+[00:00] al principio esto no es importante pero la que vamos avanzando algo que queremos
+[00:04] hacer es crear una audiencia con toda la gente que nos ha comprado y luego a la
+[00:08] hora de lanzar anuncios vamos a poner que facebook no pueda enseñar los
+[00:12] anuncios a esta gente que ya nos ha comprado porque en la mayoría de los
+[00:16] casos en dropshipping la gente que nos compra una vez no va a volver a
+[00:19] comprar y no queremos que esa gente siga viendo los anuncios porque esto
+[00:23] es gasto publicitario sin ningún sentido vamos a crear una audiencia
+[00:28] venimos aquí custom audience le damos a website y aquí le vamos a poner
+[00:33] tenemos que seleccionar nuestro pixel vamos a meter purgeis en este caso a mí no
+[00:37] me sale porque este pixel no tiene ninguna venta vosotros va a salir purgeis aquí
+[00:42] vamos a poner que esta p es purgeis 180 días y aquí vamos a meter buyers 100 days
+[00:51] buyers 180 days perdón venimos aquí creamos la audiencia
+[00:57] y esto lo que va a hacer es va a sacar información de nuestro pixel con toda la gente
+[01:01] que nos ha comprado y luego a la hora de lanzar los anuncios ahora lo vais a ver
+[01:06] vamos a pillar la campaña de escalamiento misma venimos aquí editamos
+[01:13] vamos bajando que vamos a hacer es excluir esta audiencia es decir no le
+[01:18] vamos a dejar a facebook que muestre los anuncios a esa gente que ya nos ha
+[01:22] comprado venimos aquí custom audiences buyers seleccionamos esta audiencia que vamos a crear
+[01:30] y le damos a publicar a partir de ahora toda la gente que ya nos ha comprado no va a poder ver
+[01:36] los anuncios de esta campaña esto es muy importante hay que hacerlo en cada adjet que
+[01:40] tengamos en el adge manager
