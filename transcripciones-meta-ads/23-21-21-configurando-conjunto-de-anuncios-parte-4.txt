@@ -1,0 +1,11 @@
+# 23-21-21-configurando-conjunto-de-anuncios-parte-4 — 21. Configurando Conjunto de Anuncios Parte 4.mp4 (00:58)
+[00:00] siempre vamos a arrancar los anuncios el día siguiente a las 12 de la noche la razón por la
+[00:05] cual hacemos esto es porque hay diferentes franjas horarias en las cuales la gente compra más las
+[00:11] golden hours o horas doradas son lo que se llaman son de 6 a 8 de la mañana o a 9 antes de que la
+[00:17] gente entre en el trabajo de 12 a 2 el mediodía y de 6 a 10 de la noche entonces queremos que
+[00:23] nuestro conjunto de anuncios tenga al menos un día entero para pillar todas estas franjas
+[00:28] horarias así que por norma general vamos a meter el día siguiente a las 00 aquí podríamos seleccionar
+[00:35] si queremos que nuestros anuncios dejen de ranear en una hora concreta pero nunca nunca
+[00:41] nunca vamos a tocar esto porque si tocamos esto por ejemplo le pongo pasado mañana y luego le doy
+[00:48] a publicar ya no voy a poder eliminar esto de aquí siempre lo dejamos sin seleccionar y ponemos
+[00:55] que arranquen el día siguiente a las 12 de la noche

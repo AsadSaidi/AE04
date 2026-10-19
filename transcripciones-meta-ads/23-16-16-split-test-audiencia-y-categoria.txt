@@ -1,0 +1,8 @@
+# 23-16-16-split-test-audiencia-y-categoria — 16. Split Test, Audiencia y Categoria.mp4 (00:39)
+[00:00] Lo siguiente que tenemos aquí es la sección de ab test. Esto sería para hacer split tests, que split
+[00:05] test significa que la mitad de la gente va a ver una cosa y la otra mitad va a ver otra, pero en este
+[00:11] caso nosotros todos los test los vamos a hacer desde Shopify y luego Mark os va a explicar cómo,
+[00:18] así que siempre va a estar desactivado. Esto lo vamos a dejar exactamente como está siempre,
+[00:24] no lo vamos a utilizar y aquí en Special Ad Categories Facebook nos pide que si caemos en
+[00:29] alguna de estas categorías, finanzas, empleo o tal, que se lo hagamos saber pero no va a ser
+[00:35] nuestro caso tampoco. Le damos a Next y los veo en el siguiente.

@@ -1,0 +1,19 @@
+# 23-18-18-configurando-conjunto-de-anuncios-parte-1 — 18. Configurando Conjunto de Anuncios Parte 1.mp4 (01:31)
+[00:00] aquí le vamos a decir a facebook qué es lo que queremos nosotros queremos sales y
+[00:05] conversions en nuestra website siempre siempre siempre vamos a optimizar por
+[00:10] websites y por ejemplo lo que queremos es conseguir llamadas telefónicas igual
+[00:15] nos interesa poner esto pero siempre en e-commerce siempre vamos a optimizar por
+[00:20] website vamos a ir bajando en performance igual siempre vamos a
+[00:25] tener maximizar el número de conversiones conversiones serían ventas todo
+[00:30] esto no nos interesa para nada le damos aquí data set esto es nuestro pixel que
+[00:36] vamos a crear luego vamos a seleccionar el pixel vosotros sólo vais a tener uno
+[00:41] le damos a pixel y aquí también importantísimo siempre vamos a
+[00:46] seleccionar compras por 6 facebook nos va a decir nos va a dar este aviso es
+[00:52] muy normal no hay que preocuparse de nada pero siempre vamos a seleccionar por
+[00:57] ventas porque facebook está tan optimizado es tan increíblemente
+[01:01] maravilloso que si nosotros le decimos que lo que queremos son añadidos al
+[01:06] carrito literal nos va a conseguir gente que añade al carrito pero no
+[01:10] compra entonces siempre vamos a poner purcheis y muy importante también
+[01:15] ignorar este mensaje básicamente lo único que nos está diciendo es que
+[01:19] este evento no ha tenido ninguna conversión en 14 días lo cual es verdad y es
+[01:25] normal porque este pixel acaba de ser creado entonces tiene cero conversiones

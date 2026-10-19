@@ -1,0 +1,11 @@
+# 23-19-19-configurando-conjunto-de-anuncios-parte-2 — 19. Configurando Conjunto de Anuncios Parte 2.mp4 (00:43)
+[00:00] Si quisiéramos hacer lo que se llaman cost caps, vendríamos aquí y le
+[00:04] diríamos la meta, por ejemplo. Hey, mi budget es de 1.000 euros, pero yo quiero
+[00:09] que me consigas ventas a 40. Si me puedes conseguir ventas a 40, gasta tanto
+[00:14] como quieras. Si no puedes conseguir ventas a 40, no puedes gastar.
+[00:19] Esto sería lo que se llaman cost caps, ahora en la fase de testeo de
+[00:23] intereses, no nos interesa para nada, así que vamos por lo siguiente. Esto
+[00:28] tampoco nos interesa ahora al principio y esto de aquí exactamente igual. Esto es
+[00:33] lo que se llama attribution settings. Nosotros nunca lo hemos tocado en más de
+[00:37] un año y medio raneando anuncios en Facebook, así que por ahora podemos
+[00:41] olvidarnos de esto.

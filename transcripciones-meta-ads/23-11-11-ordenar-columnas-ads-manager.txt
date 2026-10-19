@@ -1,0 +1,11 @@
+# 23-11-11-ordenar-columnas-ads-manager — 11. Ordenar Columnas Ads Manager.mp4 (00:56)
+[00:00] algo muy importante que vamos a hacer también antes de arrancar a lanzar anuncios es ordenar las
+[00:06] columnas las columnas serían esto de aquí aquí vamos a tener todas las métricas relevantes para
+[00:12] nuestros anuncios para luego poder decidir cuando tenemos que escalar cuando tenemos que matar si
+[00:17] esto es bueno o malo y optimizar en función de esto ya vamos a entrar en detalle más adelante las
+[00:24] vamos a ordenar como queremos y vamos a explicar muy detalladamente qué es cada cosa pero bueno
+[00:29] para que tengáis una idea principal y algo que también quiero que quede muy claro es que en Facebook
+[00:35] uno no gasta dinero lo que hace es comprar data y luego vamos a optimizar según esa data y para poder
+[00:42] entender bien qué está pasando con nuestros números con nuestro gasto con nuestros anuncios es crucial
+[00:49] tener esto bien ordenadito así que luego vamos a hacer esto y vamos a explicar paso a paso que es
+[00:55] cada cosa

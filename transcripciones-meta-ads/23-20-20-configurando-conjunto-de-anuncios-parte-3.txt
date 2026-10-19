@@ -1,0 +1,11 @@
+# 23-20-20-configurando-conjunto-de-anuncios-parte-3 — 20. Configurando Conjunto de Anuncios Parte 3.mp4 (00:56)
+[00:00] Aquí vamos a elegir cuánto se puede gastar nuestro conjunto de anuncios. Siempre vamos a meter 20 si
+[00:05] vuestro presupuesto es un poco ajustado. Podéis incluso meter 10. No pasa absolutamente nada. Lo
+[00:12] único es que vamos a comprar data, información más lento, pero por norma general vamos a meter
+[00:17] 20, 5 conjuntos de anuncios, por lo cual vamos a gastar 100 al día. Como ya he dicho, si no
+[00:23] tenéis mucho presupuesto arrancad con 10 y también está bien. Aquí vamos a seleccionar el
+[00:28] presupuesto que se puede gastar al conjunto de anuncios a nivel de ADSET, a nivel de conjunto de
+[00:33] anuncios, porque aquí hemos seleccionado ABO, ADSET BAGET OPTIMISATION. Si aquí seleccionamos CBO
+[00:40] o ADVANTAGE PLUS, que ahora es lo mismo, CAMPAIGN BAGET OPTIMISATION, nuestros anuncios gastarían
+[00:46] a nivel de campaña. Pero como estamos haciendo testeo de intereses y queremos hacer ADSET BAGET
+[00:52] OPTIMISATION, le damos aquí y aquí seleccionamos 20.

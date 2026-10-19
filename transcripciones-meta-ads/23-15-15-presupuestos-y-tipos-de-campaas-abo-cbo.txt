@@ -1,0 +1,24 @@
+# 23-15-15-presupuestos-y-tipos-de-campaas-abo-cbo — 15. Presupuestos y Tipos de Campañas (ABO - CBO).mp4 (01:55)
+[00:00] Tenemos dos tipos de campaña, es claro que se llaman CBOs y ABOs, lo vais a escuchar
+[00:06] muchísimo, CBO significa Campaign Budget Optimization y significa que le decimos
+[00:12] a Facebook cuánto se puede gastar a nivel de campaña y ABO, o Ad Set Budget
+[00:17] Optimization, significa que le decimos a Facebook cuánto se puede gastar a nivel
+[00:22] de conjunto de anuncios. Si por ejemplo ponemos aquí 100 y tenemos 10
+[00:29] conjuntos de anuncios dentro de esta campaña, Facebook va a repartir estos 100,
+[00:34] según le parezca mejor. Igual, este conjunto de anuncios se gasta 10, pero este 20, este
+[00:40] 4 y este 50. Si nosotros ponemos ABO o Ad Set Budget Optimization, luego vamos a
+[00:48] tener que decidir cuánto se puede gastar cada conjunto de anuncios aquí. Si a
+[00:53] este le ponemos 100, se va a gastar 100. Si le ponemos 10, se va a gastar 10.
+[00:58] No importa que haya otros conjuntos de anuncios, este siempre se va a poder
+[01:03] gastar 100. Para escalar, nosotros vamos a utilizar CBOs, pero a la hora de testear
+[01:08] anuncios, vamos a utilizar ABOs porque queremos que cada conjunto de anuncios
+[01:12] que testeamos, se gaste un cierto presupuesto. Esto es algo que ha sacado
+[01:18] nuevo Facebook, lo podéis dejar así como está, no afecta demasiado, pero
+[01:22] básicamente lo que va a hacer es que si Facebook detecta que hay otro
+[01:26] conjunto de anuncios que le está yendo muy bien, puede sacar algo del gasto de
+[01:31] este conjunto de anuncios y pasarle al otro. Campaign Beat Strategy, ya vamos a ver
+[01:36] luego que está el Highest Volume, está lo que se llaman Cost Caps y un par de
+[01:40] cosas más, esto ya es un poco más técnico, no hace falta entrar en
+[01:43] detalle. Ahora aquí tampoco se puede seleccionar nada, así que lo vamos a
+[01:47] dejar exactamente como está y una vez más esto de aquí no importa demasiado.
+[01:52] Podéis tanto dejarlo así como de seleccionarlo.

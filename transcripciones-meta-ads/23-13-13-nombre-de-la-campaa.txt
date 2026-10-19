@@ -1,0 +1,12 @@
+# 23-13-13-nombre-de-la-campaa — 13. Nombre de la Campaña.mp4 (01:09)
+[00:00] Lo primero que vamos a hacer una vez creada la campaña es seleccionar el nombre, ahora al principio
+[00:05] esto no es tan importante pero a la que vayamos avanzando sí que es muy importante tener todo
+[00:10] bien organizado, vamos a meter nombre producto, objetivo de la campaña que en este caso al
+[00:18] principio va a ser testeo intereses, vamos a meter los países que targeteamos, normalmente
+[00:26] va a ser top 5 que sería Estados Unidos, Reino Unido, Australia, Canadá y Nueva Zelanda, luego vamos
+[00:33] a ver otras estrategias que hay pero por norma general top 5 y nuestra audiencia, nuestra audiencia
+[00:41] sería por ejemplo hacemos un producto para mujeres de anti envejecimiento, vamos a ponerle
+[00:46] woman 35 plus, si no especificamos nada de esto ni hombre ni mujer ni edad lo podemos dejar
+[00:53] vacío y ya sabremos qué significa que targeteamos a todo el mundo, así como norma general vamos a
+[01:00] tener nombre del producto, objetivo de la campaña, países y nuestra audiencia, en este caso mujeres de
+[01:07] más de 35 años.

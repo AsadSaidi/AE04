@@ -1,0 +1,11 @@
+# 23-04-4-qu-es-el-pixel — 4. Qué es el Pixel.mp4 (00:55)
+[00:00] El pixel, o conjunto de datos, es una de las cosas más importantes a la hora de lanzar anuncios en Facebook, lo tenemos aquí,
+[00:06] conjunto de datos, conjunto de datos y pixels, para explicarlo de la forma más fácil posible,
+[00:12] imaginaros algo que se conecta a nuestra página y recoge información de todas las personas que entran en la página.
+[00:19] Luego Facebook utiliza esta información para enseñar nuestros anuncios a la persona correcta.
+[00:24] Para poner un ejemplo práctico, si nuestro pixel detecta que la mayoría de gente que nos compra
+[00:29] tiene entre 40 y 50 años y le gusta el basket, lo que va a ser Facebook va a ser enseñar más nuestros anuncios
+[00:35] a gente de 40 y 50 años que le guste el basket.
+[00:39] Por ahora no hace falta saber mucho más, esto es solo para que tengáis una primera idea.
+[00:43] Para crear los pixels se hace desde aquí, vendríamos a Create New Data Set, le pondríamos el nombre del producto y listo.
+[00:49] Y luego vamos a ver cómo se conecta esto a la página, pero por ahora con esto es suficiente.
