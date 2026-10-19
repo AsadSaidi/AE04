@@ -1,0 +1,17 @@
+# 19-45-45-poner-nombre-a-los-anuncios — 45. Poner nombre a los anuncios.mp4 (01:45)
+[00:00] a la hora de poner nombreados creativos se puede hacer de mil formas nosotros antes hacíamos at
+[00:05] el número del anuncio y qué día era si era el día 1 poníamos 1 si al día siguiente volvíamos
+[00:12] a hacer anuncios arrancamos de 0 otra vez digamos le poníamos at 1 del día 2 o sea el siguiente
+[00:19] batch del siguiente conjunto de anuncios que lanzamos ahora lo que estamos haciendo que nos va
+[00:25] bastante mejor es poner bit 001 y el número de vídeo de ese día a la mañana siguiente volvemos
+[00:32] a lanzar anuncios al cabo de tres días cuatro días le pondríamos bit 002 y arrancaríamos otra vez
+[00:38] con el número 1 lo que es importante aquí es que si este vídeo termina siendo un winner podáis
+[00:45] encontrarlo en capcat para hacerle mil variaciones si aquí se llama bit 001 2 en capcat también se
+[00:52] tiene que llamar bit 001 2 si queréis incluso se puede meter más información aquí a nivel
+[00:58] de creativo esto ya es a gusto del consumidor si en este caso este de aquí se llamara Jake podemos
+[01:03] meter bit 001 2 ugc Jake y el ángulo de mercado safety nosotros ahora estamos haciendo esto que
+[01:11] veis en pantalla bit 001 y el número de vídeo al día siguiente bit 002 en caso de que sea una
+[01:18] imagen lo ponemos bit 001 2 pero si en algún momento veis algo así a 1 2 es exactamente lo mismo esto
+[01:29] será anuncio 1 del día 2 si luego al cabo de cuatro días volvemos a lanzar anuncios sería anuncio
+[01:35] 1 del día 3 y ahí y subiendo nos compliquéis de más esto es algo muy fácil a gusto del
+[01:42] consumidor lo que os sea más útil os quedáis con eso

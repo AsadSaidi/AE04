@@ -1,0 +1,45 @@
+# 19-44-44-elevenlabs-v3-alpha — 44. Elevenlabs V3 (alpha).mp4 (05:03)
+[00:00] Estamos de nuevo en Eleven Labs, la aplicación que ya hemos visto anteriormente, para ver el
+[00:05] nuevo modelo que ha sacado Eleven V3 ALZA, este es mucho más real y podemos modificarlo
+[00:13] según las expresiones que queremos que haga. Vamos a ver, por ejemplo, con el normal
+[00:18] Úberos como lo hace.
+[00:21] Descubre el nuevo AquaKeep Thermal Mug.
+[00:23] Se mantiene el café hotado por horas y el agua caliente todo el día. Perfecto
+[00:27] Está bien, está bien, pero es muy monótono. Vamos a ver la diferencia con el nuevo modelo.
+[00:35] Si le damos ahí, apretamos aquí, nos sale las novedades, lo que podemos añadir, para que,
+[00:43] por ejemplo, para que se ría, lo que queramos. Esto lo mejor es hacerlo manual, pero para ir rápido
+[00:50] podemos hacer la típica de nuestro buen amigo Chochipete.
+[00:54] Copiamos ese link, se lo damos, y le podemos decir que tenemos ese script. Aquí nos puede ayudar,
+[01:02] pero luego nosotros, para hacerlo bien, aquí vamos a hacerlo rápido, pero para hacerlo bien
+[01:28] entendíamos que mirárse realmente lo que queremos que haga aquí, o bueno, probarlo.
+[01:32] Vamos a copiarlo y vemos cómo queda. Veis que nos ha puesto que lo haga más energético esta frase.
+[01:39] Vamos a ver cómo queda. Nos va a dar dos resultados distintos, no va a ser con el mismo tono de voz,
+[01:47] va a ser un poco distinto. Esto está bien, porque cada vez que generas no es lo mismo, entonces esto es bueno.
+[01:55] Luego, antes de que se me pase, esto de aquí, si le ponemos a más creativo, es más creativo,
+[02:02] pero es más, puede ser que se lo flipe, por decir algo, que lo haga más exagerado.
+[02:09] Este de aquí va a ser más natural, como más similar a la voz, y este va a ser más como tipo el modelo V2.
+[02:19] Entonces, esto también podéis ir jugando, pero irá a oeste o este, uno de los dos, y aquí os funciona bien mejor.
+[02:27] Ya vamos a generar. Este tarda un poco más en generarse, pero porque es mejor y además nos da dos resultados. Vamos a ver.
+[02:39] Discover the new AquaKeep Thermal Mug. It keeps your coffee hot for hours, and your water cold all day. Perfect for the office, the gym, or on the go. Experience comfort in every sip.
+[02:52] Vemos que... Discover the new AquaKeep Thermal Mug. It keeps your coffee hot for hours.
+[02:58] ¿Veis que es un poco distinto? Y ahora si lo volvíamos a generar, también sería un poco diferente.
+[03:03] Otra cosa, en vez de hacerlo con el Chache PT, podemos hacerlo directamente desde la aplicación.
+[03:10] Pero esto, luego nosotros modificarlo, porque no siempre va a quedar perfecto como nosotros queremos.
+[03:17] Si le damos ahí, ¿veis? Ahora, Chache PT nos ha puesto uno en cada frase.
+[03:24] Aquí el Level Up solo nos ha puesto este, el de abajo.
+[03:29] Entonces esto, lo mejor, lo mejor es hacerlo nosotros, según lo que nos pone ahí, y hacerlo como queremos.
+[03:37] Pero a veces sirve hacerlo así, siempre se tiene que revisar. Pero es una buena forma.
+[03:47] Miráos bien el documento este, que sale aquí, si le dais en donde pone aquí.
+[03:53] Y incluso está la opción de poner que haga pausas. Por ejemplo, muchas veces hay que, después de una coma o un punto,
+[04:02] dice la frase seguida, como que se come el punto. Le podéis poner que haga una pausa de 0,5 segundos, por ejemplo.
+[04:09] Entonces esto también está muy bien.
+[04:11] Y dicho esto, vuelvo a repetir, no me cansaré de decirlo, que yo le metería mínimo, mínimo, no sé si lo hacéis el calendario,
+[04:19] pero si no lo hacéis, os lo recomiendo, porque va muy, muy bien.
+[04:23] Y mínimo le pondría de una hora al día investigar sobre ella, de lo que sea.
+[04:29] Ya sea de ver un vídeo en YouTube que hable de otra aplicación como Chache PT,
+[04:35] otra para hacer lo mismo que hace Level Labs, otra para sustituir el Haygen para cualquier cosa,
+[04:42] porque la inteligencia artificial avanza muy, muy, muy rápido, muchísimo.
+[04:46] En cuatro días te cambian una cosa y es cien veces mejor.
+[04:51] Entonces nosotros vamos a ir haciendo actualizaciones, pero os recomiendo mucho
+[04:56] que os forméis sobre inteligencia artificial, porque a la larga os va a servir.
+[05:00] Hicho esto, nos vemos en el siguiente vídeo.
