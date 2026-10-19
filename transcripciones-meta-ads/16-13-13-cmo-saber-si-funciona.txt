@@ -1,0 +1,56 @@
+# 16-13-13-cmo-saber-si-funciona — 13. Cómo Saber si Funciona.mp4 (05:22)
+[00:00] ¿Cómo sabemos si funciona algo? Es decir, vale, Mario, sí, muy bien el testeo, pero ¿y cómo se yo si esto está funcionando?
+[00:06] Ok, le damos un clic encima, aquí, al nombre, y ya nos abre esto, de verdad, es para tontos, o sea, de verdad, me llamó el decirlo así, ¿vale?
+[00:14] Entonces, aquí te pone total sesiones, a esto no lo podéis hacer ni caso, no importa, aquí te ponen las fechas, como si fuese el dashboard de Shopify.
+[00:20] Aquí te pone precio original y precio testeo, tenemos los dos precios. Te pone, ¿cuántos agregados al carrito ha tenido el precio original?
+[00:27] ¿Cuántos agregados al carrito ha tenido el precio de testeo? ¿Cuántos checkout? ¿Cuántos checkout? ¿Y cuántas órdenes? ¿Cuántas órdenes?
+[00:33] Te lo pone todo, pero lo más importante es esto que pone aquí sesions. Esto que pone aquí sesions es lo más importante, ¿por qué?
+[00:41] Porque vamos a empezar a evaluar si funciona o no funciona a partir de 50 sesiones en los dos. Imagínate que este tiene 50 y este tiene 15, no hacemos nada.
+[00:51] Que este tiene 50 y este tiene 50. Bien, aquí decimos, ¿vale? ¿Cuál es el que ha funcionado?
+[00:56] Y a partir de 50 sesiones ya podemos sacar conclusiones. Menos de 50, no. Si este tiene 100 y este tiene 15, no toméis nada en cuenta.
+[01:04] Tienen que tener mínimo 50. Si este tiene 150 y este 50, entonces tomamos conclusiones, sacamos conclusiones. ¿Vale?
+[01:10] ¿Qué conclusiones sacamos? Muchos vais a ver aquí, ¿vale? ¿Precio original? ¿Ha vendido un 4%?
+[01:17] ¿O hay el testeo? ¿Ha vendido un 2,5? Claramente ha ganado el precio original. No, no, no, no, no.
+[01:22] No te confundas. Claramente, si lo vendes a 10 euros más baratos, vas a tener más conversión.
+[01:26] Pero la conversión no importa. Lo que importa es esto. Profit Percession, Percession, Abrage Order Value.
+[01:33] Si aquí el precio original, aunque tengas un 4% de conversión, te sale que la Profit Percession te sale a 4 euros,
+[01:40] pero el precio de testeo te sale a 5, tienes que hacer números. O sea, esto te está diciendo que con este precio vendes menos,
+[01:47] pero sacas más dinero. Al fin y al cabo es lo que quieres. Estamos de acuerdo. Tú lo que quieres es sacar más dinero.
+[01:52] No quieres vender más. Quieres sacar más dinero. Entonces, no te fijes en la conversión, que obviamente es una buena métrica,
+[01:59] pero sobre todo nos fijamos en el Abrage Order Value y en el Profit Percession.
+[02:04] Entonces, muy importante que nos dejes llevar por los números grandes.
+[02:07] Esta ha tenido 20 órdenes y este 10, claramente ha ganado de 20 más. Claramente, no, claramente, no.
+[02:12] Porque a lo mejor esas 20 te han dado más dinero que, o sea, esas 10, te han dado más dinero que esas 20. No importa, ¿vale?
+[02:18] Entonces, obviamente es una buena métrica para ver si agregan al carrito, si no, si sí.
+[02:23] Es decir, vamos sacando conclusiones, pero siempre nos fijamos en el Revenu Pervisito, que es también Profit Percession, ¿vale?
+[02:30] A veces ponen Revenu Pervisito, a veces Profit Percession. Si tenéis dudas, le mandáis la foto al mentor,
+[02:35] nos mandáis la foto y nosotros ayudamos a decidir. Pero, importante, 50 sesiones como mínimo y nos fijamos en el dinero.
+[02:42] No es la conversión que a veces os liáis. Y, muy importante, tú imagínate que estás 50 sesiones, 50 sesiones.
+[02:48] Casi es un 50 a 50. Y más o menos, sí, tienes diferente conversión, pero bien, esa Profit Percession ya es más o menos igual.
+[02:55] Dices, hostia, Marc, ¿y qué hago? Bien, déjalo 50 más. Es decir, déjalo rodar 50 a 50 más.
+[03:02] Si a los 50 a 50 más vuelves a estar igual, déjalo rodar 50 a 50 más, porque como estás igual, no te está haciendo ni ganar ni perder.
+[03:09] Entonces, no te importa. Lo vas dejando, lo vas dejando, y si ves que ya lleva 200, 300 sesiones y sigue igual,
+[03:15] pues entonces sí que deja el que de un poco más y empiezas a hacer otro testeo diferente, ¿vale?
+[03:19] Entonces, 50 sesiones, 50 sesiones, nos fijamos en el Profit Percession o en el Revenue Pervisitor, ¿vale?
+[03:25] Que a veces lo cambia, dependiendo de cómo hayas hecho la configuración, lo cambia.
+[03:28] Y si no tenemos data clara, lo dejamos 50 más. Si tenemos más data, imagínate, ¿no?
+[03:33] Este te da 5 y este 3, pues claramente el de 5 ha ganado. Le das a, vienes aquí, le das a aquí, perdón.
+[03:40] Le das encima del clic, le das a End Experiments en plan que ya estoy y solucionado, ha ganado ese y ya está.
+[03:47] Es decir, vienes aquí, le das a End, ¿vale? y le das aquí.
+[03:51] O lo que puedes hacer también, que sería lo más lógico es venir aquí a la derecha, More Actions, le damos a Roll Out Test
+[03:59] y aquí seleccionamos el ganador, el que queremos fijar, ¿vale?
+[04:03] Pues tú imagínate que ha ganado el precio testeo, le doy a Aplie y te pone que End Experiments, le damos a End
+[04:09] y entonces automáticamente este testeo se acaba.
+[04:13] Es decir, se finaliza porque ha ganado, pues el que tú le dices que ha ganado, ¿vale?
+[04:17] Entonces automáticamente lo que hace es sumarte, o sea, crearte ese producto y venderlo a 10 euros más caro.
+[04:24] ¿Qué? Como veis aquí, he entrado el producto y está 10 euros más caro.
+[04:27] Es decir, nos lo ha aplicado con el precio de comparación que le hemos puesto.
+[04:30] Porque le hemos dicho que a partir de ahora es lo que queremos.
+[04:32] ¿Vale? Por eso nos pedían acceso a nuestra tienda para tener todas estas ventajas o libertades para poder hacer esto.
+[04:39] Y aquí lo que tendríamos que hacer, en el caso de que haya sido el precio que ha ganado, venimos aquí, le damos a Create New Test,
+[04:46] le damos a Price Test, Create Price Test, seleccionamos este, le damos a Next y volvemos a hacer lo mismo.
+[04:52] Imagínate que ahora has hecho. Estás en 39,95 original price, pero claro, si ha funcionado este,
+[04:59] pues vamos a probar a 44,95 y ponemos más 5 price, ¿vale?
+[05:05] Y aquí hacemos este, como ha sido el ganador, ponemos 80, y este como es el nuevo, ponemos 20, ¿vale?
+[05:12] Y hacemos lo mismo que antes, es decir, lo estructuramos todo y volvemos a hacer otro testeo, y otro, y otro, y otro,
+[05:17] pero hay otros testeos que hacer y yo los explico en los siguientes vídeos.

@@ -1,0 +1,41 @@
+# 16-12-12-split-test-80-20 — 12. Split Test 80_ - 20_.mp4 (02:59)
+[00:00] Imagínate que tú ya llevas testeando, vamos a poner 5 días y empezaste 50 a 50, pero luego
+[00:06] encontraste una oferta ganadora. Encontraste una oferta ganadora que te dio las claves del
+[00:11] testeo que estaban súper bien, que ahora te explico cómo leer para saber cuál está
+[00:14] bien y cuál está mal, ¿vale? Y ya tienes una oferta ganadora, pero como te hemos dicho
+[00:18] que tienes que seguir testeando, pues quieres volver a testear. Bien, aquí como ya
+[00:22] tienes una oferta ganadora, si mandas de 100 personas, mandas 50 a una y 50 a
+[00:27] otras, esas 50, como la cagues, con esa oferta vas a perder dinero ese día o no vas a ser
+[00:31] tan rentable, porque ya teníamos una oferta ganadora. Entonces para no apurar tanto, para
+[00:36] no ir tan tan tan tan jodidos, nosotros lo que hacemos es cuando ya tenemos una oferta
+[00:40] ganadora que ya no se está dando dinero y hemos explico esteado y nos está dando
+[00:44] dinero, pero queremos probar otra, empezamos con un 80 a 20, es decir, 80 a la buena
+[00:49] y 20 a lo que sería la nueva, ¿vale? ¿Por qué? Porque con este 80 nos aseguramos
+[00:54] de que no vamos a perder dinero y la oferta ganadora va a seguir dando dinero,
+[00:57] pero vamos mandando un poquito de tráfico a la oferta nueva para ver qué datos
+[01:01] recoge. Entonces lo que hacemos es, si después de las visitas que luego os
+[01:06] explico, tenemos buenos números, volvemos a venir al split test, le damos a 70, 30 y
+[01:13] vamos subiendo progresivo hasta 50 a 50 si los números de la nueva empiezan a
+[01:18] ser un poquito mejores o pueden llegar a ser mejores que los de la
+[01:21] primera. Entonces empezamos 80 a 20, imagínate que este te está dando dos
+[01:28] dólares por visita y este te da 2,5, dices, uy, estoy en 80 a 20, pero es que en la
+[01:35] oferta nueva me está dando 5 centavos más por visita que el del precio original,
+[01:41] pero claro, no voy a coger y voy a poner los 50 a 50 de golpe porque a lo mejor
+[01:44] solo ha sido un día, pues ¿qué hacemos? Para asegurar, hacemos un 70 a 30,
+[01:48] imagínate que al siguiente día te vuelva a dar 10 centavos más por visita,
+[01:52] dices, uy, esto está empezando a ganar, pues ponemos 40, 60 y al siguiente día o
+[01:58] al siguiente dos días o cuando reúnan los requisitos que luego te voy a
+[02:02] explicar dices, uy, es que en la segunda la nueva me sigue dando más por visita,
+[02:07] pues haces 50, 50 y aquí ya lo dejas funcionar y la que gane es la que
+[02:13] gana, vale, o sea decir, la que ha ganado pues ya la dejas como principal,
+[02:16] pero vamos a escalar ando progresivamente porque como éste era la oferta buena,
+[02:19] no te jode en el caso de que pongas 50 a 50 y ésta si te funciona pues no hubieses
+[02:24] jodido nada, pero tú imagínate que la oferta ésta era malísima y claro ese 20% del
+[02:29] tráfico no te ha comprado, entonces ese 20% del tráfico te ha hecho perder dinero
+[02:32] ese día por haber puesto 50 a 50, entonces hacemos así, empezamos 80 a 20,
+[02:37] si el 20 ese día o esos dos días cuando tenemos la data nos da buenos
+[02:41] resultados, le subimos a 30, si da buenos resultados, le subimos a 40, si da
+[02:44] buenos resultados le hacemos 50 a 50 y si en 50 a 50 la que gane la dejas,
+[02:49] si no tienes claro pues deja más días que ahora te explico eso, vale,
+[02:52] entonces así hacemos el 80 a 20, cuando ya tenemos una oferta ganadora le
+[02:56] metemos caña, no me quiero repetir más, vamos con lo siguiente.
