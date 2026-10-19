@@ -1,0 +1,82 @@
+# 19-04-4-el-hook — 4. El hook.mp4 (07:19)
+[00:00] Vamos a hablar de la parte más importante de un anuncio que es el gancho, el hook. Como ya hemos
+[00:05] dicho, si no se comen los primeros tres segundos, por muy bien que esté el resto del vídeo,
+[00:09] no importa. Un 90% de nuestro esfuerzo va a ser en el hook y si hacemos un buen hook,
+[00:15] si aprendemos a retener la atención de la gente en esos primeros tres segundos,
+[00:19] nuestras posibilidades de éxito aumentan muchísimo, muchísimo. El objetivo principal
+[00:24] del hook es convencer al cliente potencial que deje de escrolear y hay varias formas de
+[00:29] hacer eso. La primera es llamando la atención sobre un problema. Si decimos estás cansado de
+[00:34] tener ojeras a tus 30 años, vamos a llamar la atención exactamente a gente que tiene ojeras y
+[00:39] que tiene 30 años. Si este es nuestro cliente ideal, va a ser perfecto. Otro ejemplo sería,
+[00:44] estás cansado de verte 10 años más viejo de lo que eres. Si estamos haciendo un producto de
+[00:49] anti-aging, este hook puede funcionar muy bien. Otra forma de conseguir llamar la atención de la
+[00:54] gente, hacer que paren de escrolear, es señalando un beneficio o resultado deseado. En el mismo caso
+[00:59] del anti-aging podríamos decir, quieres volver a verte como cuando tenías 20 años, esto creo que
+[01:05] es algo que todo el mundo quiere, podría ser una buena idea. Ahora estoy tirando hooks así
+[01:09] rápidos, pero para que os hagáis la idea de las formas que hay de llamar la atención a la gente.
+[01:14] Otra es llamando directamente a nuestro cliente ideal. Si estamos haciendo un producto de perros,
+[01:18] podemos decir, si eres dueño de perro, sí o sí necesitas ver esto. Sería una buena forma
+[01:23] de llamar exactamente a gente que tiene perro y si encima nuestro producto es para gente que tiene
+[01:29] perros pequeños, podemos decir, si eres dueño de un perro pequeño, instantáneamente la gente que
+[01:35] se va a comer nuestro anuncio es nuestro cliente ideal. Y otra forma que tendríamos de hacer eso
+[01:40] es despertando la curiosidad o el interés de la gente. Por ejemplo, podríamos decir, me quité
+[01:45] 12 años de encima y te explico cómo. Sí o sí, la gente que quiere sacarse años de
+[01:49] encima va a querer mirar ese vídeo. A la hora de hacer el hook hay tres partes. Hay los subtítulos,
+[01:55] el texto que escribimos, la voz que suena por detrás y los visuales. Las tres cosas son muy,
+[02:01] muy importantes. Son un pack. Para pillar inspiración para vuestros hooks os he dejado un documento que
+[02:07] ahora revisamos, pero una vez más como siempre, como principiante lo mejor es pillar de referencia
+[02:13] a lo que está haciendo la competencia. Si estáis usando get hooked podéis venir aquí y la
+[02:18] misma app os genera los mejores hooks de la competencia. Y si no puedes venir aquí,
+[02:23] veis los mejores 10 anuncios y los lo vais mirando y veis por qué estos anuncios funcionan bien.
+[02:29] Mira, este hook ya me gusta, pone why every bet recommends regular potreaming. Porque todos
+[02:35] los veterinarios recomiendan eso. Primero, que quieres saber el por qué y segundo,
+[02:40] que da credibilidad mencionando a veterinario. Get hooked ya lo dije varias veces,
+[02:44] pero una herramienta que os puede ser muy, muy útil. Vamos a analizar el documento que os dejo
+[02:49] aquí abajo. Creo que os puede servir muchísimo a la hora de buscar inspiración para vuestros hooks,
+[02:54] aunque una vez más, intentar pillar de referencia a lo que haga la competencia y trabajar sobre eso.
+[03:00] Pero también quiero que tengáis este recurso. Ya vais a ver que hay 30 ejemplos de hooks.
+[03:05] Os pongo el título de cada uno. Problema pregunta. Y aquí os pongo un ejemplo concreto.
+[03:10] Y luego os doy como la estructura para que lo podáis adaptar a vuestros productos o a vuestros
+[03:16] problemas. Echarle un ojo a todos los hooks y ya vais a ver que alguno no va a servir para vuestro
+[03:20] producto, pero estoy seguro que podéis sacar bastantes cosas de aquí. Luego también tenemos
+[03:25] un prompt para chat gbt, como siempre. Lo vamos a pillar. Lo vamos a ver a nuestro buen amigo.
+[03:33] Pegamos. Aquí ponemos el nombre del producto y una pequeña descripción.
+[03:41] O directamente le metéis la página del producto. Está mejor. Y le dejamos la chat gbt que haga su magia.
+[03:50] Aquí tenemos los resultados. Obviamente esto es solo el hook, lo habría que desarrollar el vídeo,
+[03:56] pero por ejemplo tu perro ya no salta como antes. Aquí el argumento sería que como tiene el pelo
+[04:02] este debajo de las patas le cuesta más. Tu perro puede estar experimentando mucho dolor y ni lo
+[04:07] sabes. También despierta la curiosidad, dueños de perro. Echarle un vistazo y ya vais a ver que
+[04:11] es increíble las respuestas que te puede llegar a dar. Chat gbt si no os gustan, literal temor. Y
+[04:18] por ejemplo si os gusta el 3, 7 y 8 venís aquí. Aquí vemos que nos da mucho más y esto es
+[04:31] literalmente infinito. Pillar inspiración también de aquí y luego tengo un último
+[04:36] recurso que esto es literal oro. Vais aquí, copiáis el prompt, os vais a genespark, lo pegáis. Lo que
+[04:43] queremos que haga aquí nuestro agente, genespark es otra inteligencia artificial, mucho más rápida
+[04:48] y eficiente que chat gbt para según qué. Hay como una prueba gratis y diría que os va a dar
+[04:54] justo para poder hacer eso. Lo que queremos hacer es que este agente, esta inteligencia
+[04:58] artificial, analice todos los vídeos de tiktok relacionados con nuestro problema,
+[05:03] no con nuestro producto, sino con el problema que soluciona nuestro producto. Por ejemplo,
+[05:08] vamos a meter envejecimiento para hombres que identifique los vídeos que tienen el mejor
+[05:15] rendimiento en relación con el tamaño general del canal. Y esto lo que va a hacer es que no
+[05:19] sólo nos pille vídeos virales porque hay algún vídeo que igual va viral porque es de un
+[05:23] canal enorme con muchos seguidores, no lo queremos ver, los mejores hooks en cuanto
+[05:28] a rendimiento y esto, los resultados que nos está dando a nosotros son irreales. Ahora le doy
+[05:33] y analizamos los resultados. Como siempre, meterle en inglés. Aquí vemos exactamente lo que está
+[05:42] haciendo la inteligencia artificial y los resultados que hemos ido sacando cuando hemos hecho esto
+[05:47] son muy, muy, muy buenos y nos está dando muy buenos resultados. Creo que es algo que
+[05:52] prácticamente nadie hace, muy recomendable que lo hagáis para vuestros vídeos. Aquí
+[05:56] tenemos los resultados y ahora le voy a decir que me lo de todo uno detrás del otro para que lo
+[06:02] podáis ver más claramente, pero también está bien leerse todo esto. Aquí sí, ya estarían los
+[06:07] resultados. Vamos a ver qué se cuenta Jenes Park y al primero que leo es increíble. Alguien de 35
+[06:12] años que parece un teenager revela sus secretos. Ya instantáneamente quiero saber qué está
+[06:18] pasando aquí. Descubre los secretos de tal, tal, tal. El hombre que tiene 58 años, pero
+[06:24] parece de 30. Esta rutina de dos pasos cambió mi piel a los 40. Esto es también, son todos
+[06:30] increíbles. Espero que veáis el valor de eso y lo uséis porque es increíble y una vez más recordad
+[06:36] que el hook es la parte más importante del anuncio y que al principio lo que queremos es pillar mucha
+[06:41] inspiración de la competencia. Y una nota final que os quiero dar acerca de esto de Jenes Park,
+[06:46] aquí lo que estamos haciendo por si alguien no se dio cuenta del potencial que tiene eso es
+[06:51] estamos pillando todos los hooks orgánicos que están dando los mejores resultados en cuanto
+[06:56] a retención y a performance y los estamos convirtiendo en anuncios. Es decir, muchos de estos
+[07:01] creadores no monetizan sus vídeos, sacan hooks increíbles como estos y luego hacen
+[07:07] vídeos orgánicos sin monetizar. Nosotros nos vamos a aprovechar de eso pillándoles
+[07:12] los hooks y metiéndoles anuncios. Y exactamente lo mismo que hemos hecho para TikTok se puede
+[07:17] hacer para Instagram e incluso para YouTube.
