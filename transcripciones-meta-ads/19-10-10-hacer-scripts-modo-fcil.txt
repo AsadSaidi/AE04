@@ -1,0 +1,57 @@
+# 19-10-10-hacer-scripts-modo-fcil — 10. Hacer Scripts Modo Fácil.mp4 (05:11)
+[00:00] Este vídeo es perfecto para principiantes porque vamos a ver las formas más fáciles de hacer
+[00:04] scripts pero también puede ser muy útil para todos los demás. La primera y más obvia es
+[00:09] copiarse de la competencia, vamos a ir a get hooked, brand spy, buscamos nuestros competidores,
+[00:13] aquí tenemos sus mejores 10 vídeos, vamos a pillar el que más nos guste, nos lo descargamos y
+[00:20] lo que vamos a hacer va a ser poner este vídeo en capcat, le vamos a hacer overlay,
+[00:24] vamos a utilizar el script e incluso la voz que usa esta gente y vamos a cambiar los visuales,
+[00:30] podríamos incluso copiarnos el vídeo tal cual pero primero que no me parece ético y segundo
+[00:35] que nos puede causar problemas pero quiero que entendáis una cosa al principio, por copiar no
+[00:40] debería pasar nada por la simple razón de que no estáis haciendo dinero, no tenéis visibilidad,
+[00:44] nadie os va a venir a decir nada pero si empezamos a escalar sí que es recomendable crear nuestros
+[00:49] propios scripts, nuestra propia voz, visuales absolutamente todo pero al principio queremos
+[00:53] testear el máximo en el mínimo tiempo posible así que no me parece una mala idea pillar o copiar
+[00:59] directamente de la competencia para hacer todo el proceso más eficiente y luego a la que veamos que
+[01:04] un tipo de vídeo, un estilo de vídeo funciona, vamos a crear nuestra propia voz y todo pero al
+[01:08] principio no me importa si pilláis literal los scripts o voces de la competencia. Ahora
+[01:14] Nika os va a poner todo esto en un caso práctico y va a quedar mucho mucho más claro,
+[01:18] lo que también podemos hacer es variar ese script, venimos aquí, nos copiamos el script,
+[01:24] podemos ir a chat gpt que le decimos que nos dé variaciones de este o simplemente venimos
+[01:30] aquí, tiramos un poco de cerebro y le cambiamos el hook que como hemos dicho varias veces un
+[01:35] 90% del vídeo entonces si esto les está dando dinero podemos probar diferentes hooks o al revés
+[01:41] podemos mantener el hook y cambiar lo que viene después con la ayuda de chat gpt tirando
+[01:46] imaginación combinando varios vídeos de la misma competencia y luego tenemos esta última opción
+[01:53] que es mi favorita que es apoyarse de esta funcionalidad que tiene gpt hook que se llama AI
+[01:58] scripts, venimos a crear nuevo vamos a crear script test yo aquí ya tengo una carpeta creada
+[02:04] que se llama también test y no la podéis crear desde aquí mismo test 2, creamos y ahora
+[02:11] vamos a hacer un script que vamos a meter dentro de esta carpeta es 2, seleccionado la carpeta que
+[02:20] acabamos de crear y ya vais a ver que esto es épico, si estamos testeando un producto no hace
+[02:26] falta que perdáis mucho tiempo creando todo esto pero que sepáis que está la opción si ya tenéis
+[02:31] una marca o estáis descalando podéis venir aquí y darle toda la información a gpt hook de
+[02:37] vuestra marca pero lo que nos interesa ahora es esto primero muy importante le vamos a dar
+[02:42] un vídeo de referencia asegurarse que es un vídeo ganador podemos ir como hemos hecho todo el rato
+[02:48] a buscar a la competencia en bland spy seleccionamos el vídeo que queremos en este caso por ejemplo este
+[02:54] vemos que lleva 40 días que tiene cinco estrellas es un vídeo un anuncio ganador lo guardamos
+[03:00] también la carpeta que acabamos de crear volvemos donde estábamos a la funcionalidad de crear
+[03:04] scripts con ia le damos de aquí y seleccionamos este mismo vídeo esta ia va a utilizar de
+[03:10] referencia el vídeo que le acabamos de poner para crear nuestro script lo cual es increíble y real
+[03:16] porque podemos hacer este mismo proceso mil millones de veces cambiando el vídeo que le damos de referencia
+[03:22] el resultado que nos va a dar obviamente va a ser diferente aquí le ponemos el nombre de nuestra
+[03:27] marca el nombre del producto y para rellenar estos campos os dejo un prom de chat gpt venimos
+[03:34] aquí ya lo hice antes pero volvemos a hacer juntos copiamos el link de nuestra página acordarse
+[03:43] siempre de pedir el resultado en inglés le damos a copiar volvemos a la ia pegar copiar pegar
+[03:52] aquí abajo veis que podéis jugar con muchísimas cosas hay muchos filtros y probando que es lo
+[03:57] que os da mejores resultados yo no tocaría mucho ahora al principio por lo menos lo que sí podemos
+[04:01] poner es la duración unos 30 a 40 segundos normalmente metemos 30 y ya con eso podríamos darle
+[04:09] a aquí al right script dejo momento que se genere y ahora vuelvo a comentar los resultados el primer
+[04:15] hook que nos genera es stream your dog without the drama if you are like me you know how stressful
+[04:20] those noises clippers can be ya me parece increíble muy muy buen hook vemos que si le damos aquí
+[04:26] a la flechita hay más opciones si no nos gustará podemos volver a darle a regenerar aquí
+[04:30] tenemos el body exactamente lo mismo si no nos gusta le damos a regenerar y lo mismo con la
+[04:36] llamada la acción la leemos que no nos gusta no hay problema regenerar y esta sería una muy muy
+[04:42] buena manera de escribir scripts como principiantes ahora mi buen amigo nikahos va a hacer un caso
+[04:47] práctico de cómo editar un vídeo desde cero el script que yo os he mostrado antes él lo va a
+[04:53] hacer va a poner la voz va a buscar las imágenes los vídeos a poner los subtítulos
+[04:58] absolutamente todo y luego va a hacer lo mismo para un vídeo entre comillas robado de la competencia
+[05:03] para que veáis las dos opciones y espero que quede todo esto mucho más claro dadle duro nos vemos en
+[05:10] el siguiente módulo

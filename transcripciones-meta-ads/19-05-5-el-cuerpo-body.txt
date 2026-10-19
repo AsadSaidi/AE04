@@ -1,0 +1,100 @@
+# 19-05-5-el-cuerpo-body — 5. El Cuerpo - Body.mp4 (09:05)
+[00:00] ahora que ya sabemos cómo generar hooks para nuestros anuncios vamos a hacer lo que es el body la parte
+[00:05] principal del anuncio que sería básicamente todo lo que viene después del hook hasta antes de la
+[00:10] llamada la acción pillaremos de ejemplo el script que os enseñé antes lo vamos a hacer paso a paso
+[00:15] nos vamos a apoyar de chat gpt como siempre pero quiero que quede clarísimo que esto que estamos
+[00:20] haciendo ahora es lo más difícil de e-commerce el copywriting tanto escribir los scripts como
+[00:26] el copy de nuestra página es lo más difícil es normal si te cuesta al principio faltaría más es
+[00:32] un skill que se tiene que ir aprendiendo de a poco y como principiante muy recomendable
+[00:37] pillar de referencia los anuncios de nuestra competencia por ejemplo podemos venir a get hooked
+[00:43] es más creo que si eres 100 por 100 principiante ni intentaría escribir un script de cero lo
+[00:49] que haría sería esto vendría a get hooked por ejemplo ponemos doggie kings luego voy a
+[00:54] hacer un vídeo paso a paso de cómo reescribir anuncios ganadores con inteligencia artificial
+[00:59] pero os lo comento ahora muy rápido para que no perdáis el tiempo haciendo todo esto si sois
+[01:04] 100 por 100 principiantes creo que podéis saltar directamente este vídeo y lo que haríamos es entramos
+[01:10] en el anuncio ganador de la competencia este que os enseñar no es muy buen ejemplo para
+[01:15] buscar un ganador vamos a brand spy buscamos la marca que nos interesa nuestra competencia
+[01:20] venimos aquí a los 10 mejores anuncios seleccionamos este por ejemplo details y aquí veis que os da
+[01:26] el script de este vídeo sabemos que este vídeo ha estado activo por 40 días aquí tenemos el script
+[01:32] y podemos hacer varias cosas o bien nos copiamos exactamente el mismo script o se lo pasamos
+[01:37] por chat gpt y le pedimos que que lo mejore después de todos estos vídeos más teóricos mi
+[01:42] amigo nika os va a hacer un caso práctico de cómo editar un vídeo desde cero a cien que os
+[01:47] va a ir increíble y vais a ver cómo poner en práctica todo esto que hablamos ahora para los que
+[01:52] queréis ya hacer vuestros propios anuncios desde cero ya hemos visto cómo generar el hook y ahora
+[01:57] vamos a ver cómo hacemos el body veréis que os he puesto tres hooks los tres salen de janes park
+[02:03] metiéndole el prompt que comentábamos en el otro vídeo es irreal los resultados que da los
+[02:07] tres me encantan y la razón de poner tres hook es porque esto es un 90 por ciento del vídeo
+[02:12] podría ser que este vídeo de aquí funcione muy mal con este hook pero se lo cambiamos
+[02:17] le ponemos este y funciona perfectamente ya veremos más adelante cómo analizar esto hay una
+[02:23] métrica en facebook ads que se llama hold rate si por ejemplo tenemos un hook rate que es otra
+[02:28] métrica que luego vemos muy malo pero el hold rate es increíble lo que vamos a hacer es simplemente
+[02:34] cambiar el hook y luego volveríamos a analizar los resultados vamos a pillar este prompt que
+[02:39] tenemos aquí abajo vamos a meter a chat gpt como siempre cambiar la información según el
+[02:45] producto que estáis vendiendo en este ejemplo vamos a seguir con el anti envejecimiento
+[02:51] a la hombres cuanto más detallada sea la información que le metemos a chat gpt mejor serán los
+[02:56] resultados esto es siempre así es hombres de 35 a 70 años ocupados por el envejecimiento
+[03:08] esto de aquí es opcional le podéis dar la estructura que estábamos hablando ahora le
+[03:13] metemos lo que estamos haciendo aquí es decirle que tenemos una tienda y comers vendiendo tal
+[03:18] estamos haciendo facebook ads ayúdame a redactar guiones que cumplan esto altamente efectivos
+[03:24] optimizados blablá aquí le metemos lo que queremos que incluyan estos anuncios que serían un buen hook
+[03:30] beneficio del producto sentido urgencia elementos emocionales porque la emoción es lo que
+[03:35] vende una llamada la acción garantía y tal y luego aquí abajo le dejamos claro cuál es
+[03:40] nuestra audiencia objetivo y si queréis le podéis dar también la estructura del anuncio de la que
+[03:45] hablamos antes pero esto no es obligatorio porque ya veréis que hay muchos tipos de anuncios a veces
+[03:49] incluso mejor darle más libertad y jugando con esto los proms siempre son orientativos mejorar lo
+[03:56] que queráis cambiar lo que queráis y si podéis hacer esto en la misma conversación en la cual
+[04:01] hemos hecho todo el hemos metido nuestro análisis de mercado los resultados que os va a dar van
+[04:06] a ser mucho mucho mejores aquí abajo le vamos a añadir usa esto como hook y le metemos uno de
+[04:13] los hooks que ya hemos preseleccionado y dame toda formación en inglés ya veréis que los
+[04:22] resultados que nos dan o son para nada definitivo esto es solo para tener un poco de orientación
+[04:27] luego hay que ir jugando y mejorando eso pero aquí vemos que el problema que menciona es que
+[04:32] la persona no se reconoce en el espejo esto está bien porque es algo que le puede pasar a nuestro
+[04:37] cliente ideal menciona los problemas que son exactamente los problemas principales que tiene
+[04:43] nuestro cliente ideal y aquí ya empieza a introducir cómo vamos a solucionar esto como
+[04:49] ya he dicho este script de chat gpt es solo orientativo lo que vamos a hacer es vamos a
+[04:54] pillar la estructura que hemos hablado antes y con la información que tenemos de nuestro
+[04:58] producto vamos a ir rellenando tenemos ya el hook que es como me saqué 12 años de mi cara en solo
+[05:05] 7 días y aquí vamos a lo que vamos a hacer va a ser introducir el problema que puede tener
+[05:09] nuestro cliente ideal si no viene nada a la cabeza como siempre va a estar chat gpt muy
+[05:14] importante ir a la conversación que ya tenéis iniciada con él con toda la información
+[05:19] del producto y le decimos y aquí os va a tirar los problemas y luego intentamos
+[05:31] introducir estos problemas en esta parte del anuncio en nuestro caso vamos a utilizar esto
+[05:37] nunca le presté mucha atención a la piel hasta que un día me vi viejo creo que es algo que nuestro
+[05:42] cliente ideal le puede representar muchísimo y esta parte de aquí es medio opcional es decir
+[05:48] si queréis en otros anuncios podéis pasar directamente a hablar del beneficio más
+[05:53] importante del producto en este caso sería algo como así es como me saqué 12 años de
+[05:59] encima en 7 días mi amigo jack me habló de esta crema 6 en 1 anti aging formula echa
+[06:05] específicamente para hombres que me ayudó a tal tal tal en este caso si que vamos a hablar
+[06:09] del problema decimos que nos veíamos viejos nombramos uno a uno todos los problemas que
+[06:14] la persona puede tener y ya luego en el siguiente apartado producimos la solución como siempre
+[06:20] si nos vienen ideas vais a chat gpt le ponéis esta parte que ya tenéis hecha y le decís
+[06:25] sigue el script hablando de la solución a tal problema cuanto más detallado se hay mejor será
+[06:31] la respuesta nosotros pusimos más tarde esa semana mi amigo jack porque queremos hacerlo como muy muy
+[06:37] a menos muy real alguien que está contando su historia mi amigo jack me dio algo muy simple
+[06:42] que lo cambió todo aquí vamos a rebatir alguna de las objeciones que puede tener el cliente
+[06:47] que es que seguro que era algún tratamiento caro o una rutina complicada le decimos que
+[06:52] no se preocupe que lo que era era una fórmula y aquí sí que ya introducimos el producto y decimos
+[06:58] que está hecha específicamente para hombres y luego seguiremos hablando de los beneficios porque
+[07:03] recordaros que no vais a vender un producto si no le dejáis claro a la persona que lo tiene
+[07:08] que comprar qué beneficios va a sacar de compraros el producto vamos a mencionar que
+[07:13] muy rápido ya vimos resultados después de siete días estos problemas ya se habían ido y encima
+[07:19] les diremos que es sólo un minuto por la mañana y un minuto por la noche porque uno de los problemas
+[07:24] que puede tener mucha gente a la hora de cuidarse la piel es que no tiene tiempo justo por eso vamos
+[07:28] a dejar claro que no no les va a robar mucho de su tiempo esto lo siguiente va a ser hablar
+[07:33] del social proof una vez más si no os vienen ideas podéis ir a ver qué hace la competencia
+[07:38] o vais a chat gpt le ponéis todo esto le decís hey dame social proof para mi script de este
+[07:43] vídeo tal tal tal nosotros vamos a usar más de 100.000 hombres como jack y como yo ya están viendo
+[07:49] resultados si en vuestra página tenéis 20.000 hombres obviamente aquí vamos a meter 20.000
+[07:55] luego le meteremos garantía que esto es algo que también ayuda muchísimo y obviamente si en la
+[08:01] página tenéis una garantía de 30 días aquí vais a tener que meterle 30 también a mí lo que
+[08:06] me va increíble para hacer esto es ir a ver las grandes marcas os vais a facebook
+[08:11] library a get hooked y buscáis marcas top top top que estén haciendo millones al mes y veis qué
+[08:17] tipo de social proof y de garantía usan ellos porque esto es muy aplicable a cualquier producto lo que
+[08:23] hagan para un producto de la piel puede servir también para un producto para perros por decir
+[08:27] algo eso sería todo a la hora de escribir el cuerpo el body la parte principal del
+[08:32] anuncio recuerdo una vez más que esto es lo más complicado de e-commerce si sois principiantes
+[08:38] 100% mejor y al otro método el de copiar o pillar de referencia lo que está haciendo la
+[08:44] competencia luego voy a meter un vídeo de cómo reescribir anuncios de la competencia con con
+[08:50] inteligencia artificial que creo que os puede ir increíble ya los valientes que decida es hacer
+[08:56] esto apoyarse de chat gpt usad de esta estructura y la práctica hace al monje la única forma
+[09:00] de mejorar es hacer y mucho por lo cual os animo a que a que le metáis sin miedo

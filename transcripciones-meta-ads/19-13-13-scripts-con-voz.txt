@@ -1,0 +1,93 @@
+# 19-13-13-scripts-con-voz — 13. Scripts con Voz.mp4 (08:29)
+[00:00] algo súper importante la gente no entra a redes sociales para leer, para pensar, la gente
+[00:07] entra redes sociales para matar el tiempo, así de claro, vale, entonces como vamos a poner mucho
+[00:11] texto normalmente, vamos a tener que poner voz, ¿para qué? para que la gente no tenga que leer,
+[00:16] que presta atención al vídeo y no tenga que leer, solo escuchar. Entonces, por ejemplo,
+[00:20] el vídeo que hemos robado nosotros o del que nos hemos inspirado, este vídeo ya tiene voz,
+[00:26] entonces lo único que tendríamos que hacer es darle botón derecho, como hemos hecho antes,
+[00:29] extraer audio y este audio ponerlo aquí. Entonces, si ahora yo hago así, le doy a que suene, fijaros.
+[00:45] Vale, o sea, fijaros que cuadra la perfección, lo cual podéis utilizar el mismo audio, pero,
+[00:50] cuando empecéis a vender, cuando empecéis a escalar, deberíais de cambiar mar, pero si ya
+[00:54] ha funcionado deberíais de cambiar, porque os pueden decir algo, ¿vale? Entonces, ¿cómo lo
+[00:59] cambiamos? De entrada a probar con el mismo, pero tú imagínate que estamos vendiendo y lo tenemos
+[01:04] que cambiar, ¿cómo lo cambiamos? Bien, importante, nos vamos a chat gpt, le pasamos el script y le
+[01:09] decimos que nos lo dé para pasárselo a una idea de voz, que esa idea es y level labs,
+[01:13] como ya os ha dicho Marc, le damos a text to speech y lo copiamos. ¿Qué hacemos aquí?
+[01:18] Le damos a voice y seleccionamos la voz que queramos, en este caso queremos una voz
+[01:22] de una chica, ¿por qué? Porque está nuestro cliente ideal, es una mujer y todo el rollo, ¿vale?
+[01:27] Entonces, lo que tenemos que hacer es buscar una chica que nos cuadre aquí, le damos a woman y te
+[01:34] salen un montón, ¿vale? Entonces, tienes que ir mirando qué es lo que más te cuadra o lo que
+[01:39] no te cuadra, de si vendes en UK, pues que tenga el acento de UK, si vendes en España,
+[01:44] pues no pongas a alguien latino, es decir, tienes que ir un poco a conciencia, ¿vale?
+[01:48] Por ejemplo, este es South African, si vamos a lanzar en Estados Unidos, quizás no tiene mucho
+[01:52] sentido. Entonces, tenemos que ir buscando, a veces esté dioso, pero hay que echarle rato. Por ejemplo,
+[01:57] esta, si le damos a Alice, si le damos a reproducir, suena muy... bueno, no sé cómo decirlo,
+[02:06] vamos a dejarlo ahí, ¿vale? Por ejemplo, si le doy a Charlotte, a mí me suena a UK,
+[02:12] me suena a Reino Unido, entonces meterlo en Estados Unidos no tendría ningún sentido, ¿vale?
+[02:16] Entonces, Dorothy, ese acento me suena a British, también, la verdad.
+[02:26] Este me suena como muy apagado, entonces tendríamos que ir buscando la voz que más nos conecte con lo
+[02:32] que queremos transmitir. Por ejemplo, esta, me parece como de una persona seria, animada, firme,
+[02:40] no me parece mal, ¿vale? Entonces, para hacer el ejemplo, vamos a seleccionar esta,
+[02:44] tanto de lo único que tenemos que hacer es darle un clic y aquí podemos tocar diferentes cosas,
+[02:48] la velocidad en la que habla, la estabilidad, absolutamente todo. Nosotros normalmente no
+[02:53] lo tocamos y lo que hacemos es le damos a Generate Speech, es decir, que nos lo dé.
+[02:57] Bien, una vez lo tenemos, como podéis ver aquí, ¿vale? Le doy al play y te hace esto con tal
+[03:02] cual se lo has puesto, fijaros.
+[03:14] Bueno, está bien. Perdón, vemos, que hecho hay un BP, vemos que tiene parones, pero eso lo vamos
+[03:20] a arreglar, le damos a descargar, ¿vale? Le damos a download, se ha descargado, venimos aquí,
+[03:25] le damos a importar, lo vais a ver un corte, le damos a importar, lo seleccionamos y lo subimos.
+[03:30] Una vez lo hemos subido, lo ponemos aquí, ¿vale? Entonces, fijaros que si yo le doy al más,
+[03:35] más, más, más, más, más, más, hay un montón de parones, fijaros aquí, ¿vale? Mirar.
+[03:41] Perdón, ¿eh? Fijaros.
+[03:44] Espera, lo he hecho muy grande, perdón, aquí. ¿Veis que tardan a hablar? ¿Veis que hay aquí un vacío?
+[03:53] Bien, pues esto lo recortamos, ¿vale? Es decir, no queremos vacíos, entonces,
+[03:59] fijaros que empieza de golpe. Ya hemos recortado, luego, por ejemplo, aquí hay un parón
+[04:04] histórico, fijaros. De best, hace como un... Como que le cuesta, ¿sabes?
+[04:12] Pues entonces, que hacemos, pues le recortamos un poco, es decir, esto, lo cortamos,
+[04:17] venimos aquí, ¿vale? Cortamos aquí, como es un de best que arrastra un poco la té,
+[04:22] vamos a ver si queda bien. ¿Veis? Ya no hace ese parón. ¿Veis? Aquí igual, hace mucho parón,
+[04:31] no es necesario, entonces, podemos hacer así, lo recortamos, lo juntamos y vamos quitando los
+[04:37] rellenos. ¿Vale? Es decir, cuando vemos que se extiende mucho, pues le vamos recortando,
+[04:43] por ejemplo, todo esto es una locura, es decir, es un vacío que la gente se aburrir y va a pasar
+[04:47] nuestro vídeo. Pues lo quitamos y esto lo pegamos al otro y, ¿me fijaros? ¿Veis? Le da ritmo,
+[04:58] le da dinamismo, ¿vale? Entonces, no os preocupéis, si tiene parones, luego los vamos recortando,
+[05:03] por ejemplo, aquí hay un parón, pero es un parón que se entiende, pero también puedes probar a
+[05:08] quitarlo, es decir, yo lo quito, lo arrastro para aquí, este lo arrastro un poquito, bueno, no, lo dejo,
+[05:16] ¿vale? Aquí le he quitado nada y pruebo si se escucha bien. ¿Vale? Se escucha bien, pues lo
+[05:21] dejo así. ¿Vale? Es decir, si veis parones o huecos, ir mirando si os gusta o no os gusta y
+[05:27] en el caso de que no os guste, ¿vale? Pues lo quitáis y si lo quitáis, no me gusta,
+[05:31] pues le dais para aquí y a la flechita para atrás y se rehace lo que acabéis hecho,
+[05:34] paralante, igual, ¿vale? Entonces, así de sencillo, cogemos el mismo script, ¿vale? El mismo,
+[05:41] lo pasamos por level labs con una voz que nos guste, lo descargamos, lo metemos aquí, le quitamos los
+[05:46] rellenos y exactamente igual, ¿vale? Y en el caso de que sea otro script, es decir, que la hagas
+[05:51] variaciones, pues lo mismo, vas al level labs, lo pasas y listo. Y otra opción que a mí me gusta
+[05:56] mucho, pero tiene que ser de ese país, es meter vuestra propia voz. Al principio no hace falta que
+[06:02] lo hagáis, ¿vale? Pero tú imagínate que tú eres mexicano, español, ¿vale? Y vas a vender en México
+[06:07] siendo mexicano. Tú imagínate que este script, vamos a tirarlo en español, ¿vale? Voy a traducirlo y
+[06:14] ahora lo muestro. Bien, una vez me lo ha traducido al idioma que yo quiero, le puedo poner
+[06:18] también, tradúcemelo a como hablaría alguien mexicano, ¿no? En plan, es un anuncio para México,
+[06:25] tradúcemelo de manera profesional, como hablaría una mujer de 30 a 55 años. Me lo voy a inventar,
+[06:36] ¿vale? Bien, ya aquí nos lo da. Entonces, ¿qué hacemos? Lo copiamos y vendríamos aquí,
+[06:41] lo tiraríamos en español, pero otra opción que a mí me gusta mucho es leer esto y tener
+[06:47] mi audio cuando ya funciona. De entrada no hace ni falta, ¿eh? Pero tú imagínate que tú tienes,
+[06:53] por ejemplo, tú eres chica, ¿no? Y tu producto se vende para chicas, pues tú te pones a leer. ¿Por qué
+[06:58] es, por qué esta es sin duda la mejor recortadora para perros que he probado? Tiene un diseño de
+[07:03] bajo ruido, lo que evita que mi perro se asuste o se estrese. Además, cuenta con bordes de
+[07:07] seguridad, así que no tengo que preocuparme por lastimarlo. Es inalámbrica, no usa pilas,
+[07:11] simplemente la cargas y queda lista para usar. También es resistente al agua,
+[07:15] es decir, le das como una entonación, así un poco anuncio y te grabas tú tu propio audio,
+[07:19] donde agarras el teléfono, le das a grabadora de audio si tienes un micro mejor para que se
+[07:23] escuche bien, luego ese audio lo pasas al ordenador o si lo tienes en el móvil o en el móvil, lo metes
+[07:27] aquí, le das importar, lo subes y es tu voz. Te quitas tú los huecos, ¿vale? Y entonces es
+[07:33] mucho más original, es como UGC. Ojo, de entrada no hace falta que lo hagas, pero prueba también.
+[07:38] Algunos creativos, métele tu voz, tu forma de hablar, tu acento mexicano, tu acento
+[07:42] español, tu acento francés, lo que sea, ¿vale? Métele tu punto de diferenciación,
+[07:47] a veces no gustará, a veces sí, pero nosotros casi todo, como vendemos en Estados Unidos,
+[07:52] habla inglés, a lo metemos con iLevel Labs, casi todo, pero cuando lanzamos cosas en México tenemos
+[07:57] un colega, un amigo mexicano que nos hace los audios, ¿vale? Entonces de vez en cuando lo
+[08:01] testeamos, pero no es obligatorio, nosotros casi nunca lo hacemos, pero que sepáis que
+[08:06] funciona muy bien y tardáis literalmente, o sea, tardar en leer esto, bueno, lo que hemos
+[08:10] visto, es decir, esto tardar en leerlo son 30 segundos, ¿vale? Entonces que sepáis que una
+[08:16] así se hace, el tema de las voces, dos así se importan, tres quitarle el relleno y cuatro
+[08:21] que lo podéis hacer vosotros y cinco ir cambiando las voces. Y iLevel Labs tiene plan gratis,
+[08:26] luego es de pago, es bastante barato, así que darle caña vamos con lo siguiente.
