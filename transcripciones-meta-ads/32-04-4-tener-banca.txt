@@ -1,0 +1,17 @@
+# 32-04-4-tener-banca — 4. Tener Banca.mp4 (01:36)
+[00:00] Ya lo he dicho en el primer vídeo pero quiero hacer un vídeo sólo de esto para que la gente lo tenga y los sepa encontrar
+[00:05] nada más, quiera o nada más lo necesite. No vais a cobrar al momento.
+[00:09] Ejemplo, diferentes, ¿vale? Una, eres de España y tienes Shopify Payments. Shopify Payments tarda entre tres, cuatro, cinco días hábiles dependiendo
+[00:17] en pagarte, es decir, lo que ingresas hoy, es decir, lo que has vendido hoy, lo ingresas de aquí cuatro, cinco días.
+[00:23] Vale. Si trabajas con Stripe, más o menos igual. Si trabajas con PayPal, sí que llega al momento.
+[00:28] Pero no es lo suyo que entre dinero en PayPal y salga al momento. No es lo suyo, ¿vale? Porque te pueden bloquear que creo que ya hemos hablado de eso o hablaremos pero no
+[00:35] os preocupéis. Luego, si trabajas con Shopify Payments México, tardan entre siete a ocho días en
+[00:41] pagarte. Si trabajas con Irwollex, tarda un poco más y, por ejemplo, si trabajas haciendo contra entrega
+[00:48] hasta que tengas dinero en la wallet de que se haya vendido el producto y te hayan puesto en la wallet, a lo mejor pasan dos, tres días.
+[00:53] Y luego sacarlo de ahí para pagar la publica, es decir, tardas en tener ese dinero en tu cuenta del banco
+[00:59] con cabeza. Esto nos pasa a todos. Y no pasa nada porque si sabes que no vas a tener dinero, aumenta los días de envío en tus políticas
+[01:06] y no pasa absolutamente nada, pero que lo tengáis en cuenta. No cobráis al momento. Si hacéis hoy mil euros,
+[01:12] no los cobráis hoy. Los cobráis de aquí cuatro días, tres, uno, cinco, te depende, ¿vale?
+[01:18] Pero los cobráis a posteriores, es decir, al final de semana o al principio o al siguiente, como sea.
+[01:22] Ir con mucho cuidado, estructurar bien los números para no morir de éxito, porque encima casi encontró un producto para escalar que no te
+[01:30] quedes sin cover. Por culpa de lo haber contado con esta tontería, pero qué hay que decirlo. Y aquí se acaba la sección, no te aburro más.
