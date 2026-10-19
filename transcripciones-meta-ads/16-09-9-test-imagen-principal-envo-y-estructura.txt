@@ -1,0 +1,58 @@
+# 16-09-9-test-imagen-principal-envo-y-estructura — 9. Test Imagen Principal, Envío y Estructura.mp4 (03:57)
+[00:00] El siguiente testeo que podemos testear, nunca mejor dicho, es la imagen principal. La imagen principal hace que compren más o que compren menos.
+[00:08] Y esto lo tenemos que testear después del precio de la oferta súper importante. Entonces, ¿cómo testeamos esto?
+[00:14] Bien, le damos a Create New Test, le damos a PDP Contest, ¿vale? y le damos a Content Test. Aquí lo que hacemos es
+[00:21] una imagen, me lo voy a inventar, caja versus gif. Vamos a poner un gif en vez de una imagen. Aquí te pones una descripción.
+[00:29] Seleccionas el producto, que en este caso es el de sin gatos. Agregar. Y fíjate, lo dejamos en revenue per visitot.
+[00:35] Y fíjate que aquí lo que te sale es esto. Aquí puedes tocar absolutamente todo, ¿vale? Las fotos. Es decir, aquí puedes en el testeo,
+[00:42] en el primero no, puedes cambiar todo. Puedes cambiar hasta el título. Imagínate que quieres hacer un testeo de título.
+[00:48] En el caso de, en vez de poner sin estrés, silencioso y en casa, podrías poner sin gasto de peluquerías y profesional.
+[00:56] Lo que sé, me lo estoy inventando, ¿vale? Entonces, ¿testeas el nombre? No, no de esto, ¿vale? Pues, sin problema, lo dejas así.
+[01:03] Entonces, el nombre hay que testearlo, pero es de lo último, primero la foto. Entonces, aquí lo que puedes hacer, por ejemplo,
+[01:08] es quitar fotos, cambiarle el orden, pero nosotros lo que siempre recomendamos es que cambies la imagen principal,
+[01:13] ya que es lo que la gente ve de entrada. Entonces, ¿cómo lo cambiamos? Le das a Ad, ¿vale? Seleccionas la foto,
+[01:18] imagínate que es esta, aquí y otro guapo, ¿vale? Seleccionas la foto, ¿vale? Es una miniatura mía de YouTube.
+[01:23] La arrastras como principal y esta la borras. Y dejas la buena como principal, es decir, haces el testeo.
+[01:28] Aquí seleccionas, si ya tienes una imagen ganadora, haces 80-20, si acabas de lanzar y tienes dudas de cuál poner,
+[01:35] pues haces un 50-50, cosa que ya sabes y te explico luego, ¿vale? Entonces, le damos a Create Test.
+[01:40] Y aquí lo que hacemos es esperar las métricas, que luego te explico cómo leer esas métricas.
+[01:44] Entonces, mandaría x% del tráfico a ver una foto y x% del tráfico a ver una foto.
+[01:49] Entonces, con eso, sacas conclusiones de qué foto te convierte mejor y qué foto te da más revenue per visitor,
+[01:54] más profit per visitor. Y como os habéis fijado, también puedes hacerlo con el nombre.
+[01:58] Esta aplicación nos da cosas, es un sinfín, o sea, podemos testear absolutamente todo.
+[02:03] ¿Qué? Lo voy a juntar todo aquí para dejaros lo más o menos claro, ¿vale?
+[02:07] El Price Test, acordaros que es el Price Test.
+[02:09] Shipping Test, podéis hacer testeo de precios, es decir, no cobrar o cobrar, cobrar x o cobrar y.
+[02:14] Eso está bastante bien. ¿Por qué? Porque podemos testear qué es lo que mejor funciona.
+[02:18] También podemos testear en el SIM Test, podemos testear la estructura.
+[02:22] Es decir, porque en la plantilla 1, ¿vale? Voy a ir aquí.
+[02:25] En la plantilla del Pau Gato, ¿vale? Que ahora se ha cambiado la URL, pues se se ha quedado un poco loco.
+[02:30] Lo que podemos hacer es, por ejemplo, cambiar las fax. ¿Vale? Podemos cambiar las fax.
+[02:35] El orden, ¿vale? Y ponerlo arriba.
+[02:38] Entonces, testear eso. Si la plantilla está arriba, convierte mejor que esto.
+[02:44] Podemos poner las reseñas más arriba, más abajo.
+[02:47] Podemos poner esto más arriba, más abajo.
+[02:49] Diferente Semoyu Benefit. Esto lo hacemos desde la plantilla.
+[02:52] Igual que lo otro, es decir, aquí en URL Redirect Test.
+[02:55] Y lo que testeas es eso.
+[02:57] Entonces, esta aplicación te da para testear mil cosas.
+[03:00] Ahora bien, tenéis el... O sea, os hemos dado que primero es el precio, la oferta, la foto.
+[03:05] ¿Vale? Entonces, hacernos casos.
+[03:07] Si ya habéis hecho todo eso y queréis seguir testeando cosas, pues probar todo.
+[03:10] El precio del envío, la foto, los emoji benefits, el nombre del producto, probar todo.
+[03:15] Cada día debería haber un testeo diferente, todos los días.
+[03:18] Pero no os confundáis con las prioridades.
+[03:21] ¡Ah, Marc! Yo creo que poner las fax arriba me daría más ventas.
+[03:24] Y aún no has testeado el precio.
+[03:25] Aún no has testeado la oferta.
+[03:27] Aún no has testeado las imágenes.
+[03:29] No tiene ningún sentido que testes las fax o dónde van las reseñas.
+[03:32] No tiene sentido, ¿vale?
+[03:34] Prioridad a lo importante, precio, oferta y foto principal.
+[03:38] Son las tres cosas que más funcionan.
+[03:40] Luego ya tocamos nombre de producto, emoji benefits, los regalos también.
+[03:44] Que se me olvidaba que está dentro de la oferta, pero no solo oferta de los quantity,
+[03:47] sino oferta de regalos.
+[03:49] Pero seguimos el orden del documento del drive que tenéis.
+[03:52] Igualmente, las llamadas, con el seguimiento.
+[03:55] Si tenéis dudas, os ayudamos con absolutamente todo.

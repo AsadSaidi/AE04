@@ -1,0 +1,34 @@
+# 16-10-10-testeo-de-ofertas-en-productos-duplicados — 10. Testeo de ofertas en productos duplicados.mp4 (03:07)
+[00:00] hola chicos chicas hago este vídeo muy rápido pero muy importante porque es algo que yo daba
+[00:06] por hecho que se sabía pero nunca se puede dar por hecho las cosas y pido disculpas aquí en el vídeo
+[00:10] vale cuando utilizamos el ave convert y duplicamos el producto para hacer un testeo de vandals que
+[00:17] habréis visto cómo se hace es decir hacer un testeo de oferta como duplicamos el producto el
+[00:22] descuento automático se lo hemos creado a un producto pero el duplicado no tiene hecho el
+[00:28] descuento entonces a la gente no se le va a aplicar bien el descuento no se le va a aplicar
+[00:33] bien el pack entonces vamos a perder ventas en el tráfico que mandemos al duplicado del producto
+[00:39] si no hemos hecho esto me explico rápidamente vale tú imagínate que yo voy a hacer un testeo
+[00:44] y voy a hacer un testeo de url o voy a hacer un testeo de tema vale y en ese tema o en la url o
+[00:50] en el template template perdón vamos a duplicar como habéis visto en la plantilla van para
+[00:55] hacer oferta de vandals vale vamos a hacer oferta de las vamos a hacer a ibis perdonarme de las
+[01:03] diferentes ofertas es decir tenemos esta oferta vale y vamos a hacer un testeo con lo voy a poner
+[01:10] aquí con el de gatos entonces os acordáis que creamos esto bueno lo acabáis de ver son diferentes
+[01:16] ofertas claro pero si imagínate que la oferta 1 que estás testeando es me va a inventar compra
+[01:22] 1 y compra una y llevate la segunda al 50 por ciento de descuento tienes que crear un descuento con
+[01:29] este producto que la segunda se le añada un 50 por ciento de descuento pero claro si vamos a
+[01:33] testear dos ofertas y la segunda oferta es compra 2 y llevate 1 al 30 por ciento tenemos que crear
+[01:39] para este producto que es una plantilla duplicada este descuento espero haberme explicado bien
+[01:45] si tenéis cualquier tipo de dudas pues lo lo decís al mentor no lo decís en las llamadas
+[01:49] e intentaré grabar el vídeo mejor pero voy a hacer un breve resumen por si alguien lo acabó
+[01:53] de entender vale cuando empezamos a hacer ofertas de testeo de precios de ofertas como sabéis tenemos
+[02:00] que crear dos plantillas y mandar a las dos url diferentes bien ese producto lo duplicamos podemos
+[02:08] duplicar el producto vale como ya sabéis entonces al duplicar el producto el descuento que
+[02:14] habíamos creado para el producto 1 está creado que es este ahora bien si el segundo producto queremos
+[02:23] que tenga otro descuento imagínate compra una y llevate otra al 30 por ciento e imagínate que al
+[02:28] duplicar quieres una que es compra una y llevate otra gratis entonces lo que tenemos que hacer es
+[02:33] crear descuento compra una y compra toda gratis y seleccionar el producto duplicado porque si
+[02:40] no no se va a aplicar entonces el tráfico que estás mandando a la segunda lándela de testeo no va a
+[02:46] tener bien las ofertas puestas no va a tener no van a funcionar entonces no vas a vender pero no
+[02:51] porque la oferta no fuese buena sino porque realmente no estaba bien aplicada vale espero
+[02:55] haberme explicado es un poco lío pero creo que tiene sentido si duplicamos el producto le
+[02:59] creamos el descuento a ese duplicado y a ese producto porque antes no lo tenía vale perdón
+[03:04] si me rollo mucho no hacía falta pero quería explicarlo bien así que darle caña

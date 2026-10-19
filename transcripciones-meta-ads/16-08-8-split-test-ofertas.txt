@@ -1,0 +1,191 @@
+# 16-08-8-split-test-ofertas — 8. Split Test Ofertas.mp4 (08:45)
+[00:00] El siguiente testeo es un testeo de ofertas, ¿de acuerdo? Perdón, de ofertas, es un testeo de ofertas
+[00:06] y ¿cómo vamos a hacer esto? Bien, vamos a duplicar el producto, ¿vale? Vamos a duplicar el producto ¿por qué?
+[00:12] Porque vamos a hacer un testeo de ofertas y hay que tener dos productos creados
+[00:16] en el caso de que no lo hayas duplicado, vienes encima, le das a duplicar aquí
+[00:20] y le puedes poner el nombre que quieras, ¿vale? Y en este caso acordaros que tenemos el de
+[00:25] gatos y tenemos el de en casa normal, ¿vale? Bien, ¿qué tenemos que hacer? Venimos a tienda online
+[00:31] en el tema principal le damos a personalizar y aquí lo que tenemos que hacer es crear una...
+[00:37] le damos a productos una plantilla predeterminada, acordaros, que pone paugato
+[00:42] creamos una plantilla predeterminada ¿para qué? Para cuando pongamos esto es este producto
+[00:47] y cuando pongamos el otro es el otro producto, acordaros que para hacerlo tenemos que venir a productos
+[00:53] una vez hemos creado esa plantilla dentro de cada producto abajo derecha
+[00:57] tenemos que seleccionar la plantilla en el paugato, que es el de gatos, tenemos esta
+[01:01] y en el otro, que es este, que es el normal, tenemos la plantilla predeterminada
+[01:06] o el nombre que queramos, ¿vale? Entonces ¿por qué hacemos esto? Porque ahora
+[01:10] cuando vayamos a editar vamos a cambiar los bundles, entonces para cambiar los bundles
+[01:14] y que no se cambien en todos los productos tenemos que editarlo desde diferentes plantillas
+[01:18] entonces lo que vamos a hacer es aquí, imagínate, vamos a poner los bundles de...
+[01:23] me lo voy a inventar, este es el de gatos, que este sería el testeo, el original sería el otro
+[01:27] lo que vamos a hacer es le vamos a añadir aquí a quantity selector
+[01:30] y le vamos a poner la cantidad que queremos, por ejemplo en este caso
+[01:33] tenemos regalo uno, que esto está mal, compra dos y lleva tú una gratis, ¿vale?
+[01:38] entonces como sabéis aquí está puesto absolutamente todo el tema de los testeos
+[01:43] y todo el rollo, que están aquí, que hay que bajar y bajar, ¿vale?
+[01:46] entonces aquí vamos a poner, por ejemplo, compra uno, ¿vale?
+[01:51] sí, compra y dejamos el quantity, compra uno
+[01:55] y el precio son 29,95, ahorra 16 euros
+[01:58] y luego en el siguiente podemos poner compra dos, ¿vale?
+[02:02] vamos a poner, por ejemplo, compra dos y llevate una al 50%
+[02:08] es decir, que la siguiente le cueste, pues en vez de 30
+[02:13] que la siguiente le cueste 15, o llevate otra al 30%, ¿vale?
+[02:17] la oferta que queráis, esto ya es, dependiendo de cada uno
+[02:20] yo simplemente se estoy enseñando a cómo hacerlo
+[02:22] entonces aquí lo que tenemos que hacer es ponerle el descuento que queremos
+[02:27] que aquí en option 2, que sería la segunda opción, fixate amount
+[02:31] pues si queremos que sea 29 más el 30%, no sé la cantidad que sería, ¿vale?
+[02:37] voy a poner aquí, me lo voy a inventar, 50 dólares, ¿vale?
+[02:40] como que sean 45, ¿vale? que se ahorre 45 dólares
+[02:44] entonces le daría a guardar, obviamente que os salga rentable
+[02:46] y ahora lo que tendría que hacer muy importante es venir a descuentos
+[02:50] y para ese segundo producto le doy a crear descuento, descuento en producto
+[02:55] selecciono descuento automático, acordaros, título pongo
+[03:00] los clientes verán esto en su carrito, pues le pones el caso puesto, ¿no?
+[03:03] compra una y llevate otra al 30%, ¿vale?
+[03:08] porcentaje, aquí ponemos 30% o el porcentaje que sea
+[03:12] en colecciones específicas le damos a producto específico
+[03:15] y seleccionamos el de gatos, no el otro, porque queremos un descuento para este
+[03:20] ¿vale? aquí ponemos todos los requisitos como ya visteis
+[03:22] le damos a guardar, aquí voy a poner un descuento por poner, ¿vale?
+[03:24] no me lo tengáis en cuenta, aquí ponemos esto
+[03:26] le damos a guardar y ya hemos creado para esto
+[03:29] para que cuando se le den click, ¿vale? para cuando le den click
+[03:33] se descargue, se le salga, le salga el descuento
+[03:36] como habíamos visto en las demás secciones que no quiero aburriros
+[03:39] porque me repito mucho, ¿vale?
+[03:41] entonces ahora fíjate que tenemos en la plantilla predeterminada
+[03:45] de Pau, gato, 1 por 29, 2 por 44,85
+[03:50] ¿vale? la oferta no es muy buena, entenderme, es una tontería
+[03:53] pero mirar esto y si yo ahora le doy a productos
+[03:56] y le doy al producto predeterminado
+[03:58] me encuentro, perdón, producto predeterminado
+[04:01] voy a seleccionar el trimpau que toca porque si no
+[04:04] estamos jodidos, ¿vale? que sería este que no es de gatos
+[04:07] el normal, podemos ver que vale 39,25 y compra dos
+[04:11] y llévate una gratis, ¿vale?
+[04:13] entonces es una oferta diferente, entonces ahora
+[04:16] con el A-B-T mandamos a alguien aquí
+[04:19] y al otro a la otra plantilla
+[04:22] entonces lo único que tenemos que hacer es voy a darle aquí
+[04:25] ¿vale? pero voy a hacerlo desde aquí mejor
+[04:28] para que lo veáis junto
+[04:30] en el caso de que os falten cosas, por ejemplo
+[04:33] voy a darle aquí producto predeterminado, le voy a darle aquí
+[04:36] a Pau, gato, por ejemplo aquí no tenemos los regalos
+[04:39] pues acordaros de incluirlos, es decir, venimos aquí
+[04:42] ¿vale? y incluimos los regalos como lo tenemos aquí
+[04:44] es decir, tenemos que dejarlo todo igual, ¿vale?
+[04:46] porque en esa no hemos puesto regalos, entonces
+[04:48] lo único que tenemos que hacer es venir aquí
+[04:50] poner los regalos y dejarlo todo igual
+[04:52] no quiero aburriros con la misma información
+[04:54] y ahora yendo a la aplicación
+[04:57] tenemos aquí apps A-B-Convert, ¿de acuerdo?
+[05:00] como ya tenemos las ofertas creadas con los descuentos creados
+[05:03] y todo creado, acordaros de crear los descuentos
+[05:05] para cada cosa que hagáis porque si no no aplica
+[05:07] ya os lo expliqué, como ya tenemos esto
+[05:09] imaginaros que no tenemos este activo, ¿vale?
+[05:11] le damos a Create New Test, ¿vale?
+[05:13] no deja, porque lo tenemos activo, perdón
+[05:15] le damos a finalizar Test, En, En Test
+[05:18] y ahora le vamos a dar a crear el otro
+[05:20] y lo vamos a hacer así, Create New Test
+[05:22] le damos a URL Redirect Test, Create URL
+[05:25] que tenemos, me lo voy a inventar
+[05:27] oferta 1, 39 más 1 gratis
+[05:31] 39, 25 más 2, llevate 1
+[05:35] 2 Bogo, ¿vale?
+[05:37] Versus, oferta 2
+[05:40] 29, 95 más 30%
+[05:43] y aquí al lado te lo explicas, ¿vale?
+[05:45] siempre en revenue per visitot, acordaros
+[05:47] que no tocamos nada de esto
+[05:49] pero aquí sí que ponemos lo siguiente
+[05:52] aquí ponemos Barra Products
+[05:54] Barra importante, ¿vale?
+[05:56] hacerlo así sin espacio como acabáis de ver
+[05:58] y bajamos aquí y aquí tenemos que meter
+[06:00] las 2 URLs y el porcentaje, ¿vale?
+[06:02] ¿Cuál es la URL 1?
+[06:04] bien, esta es la buena, la del No Gatos
+[06:06] que es la principal, la que ya tenemos
+[06:08] venimos aquí
+[06:10] ¿vale? me entiendo lo he perdido
+[06:12] aquí, venimos aquí
+[06:14] y pegamos esa URL
+[06:16] que yo he copiado la URL entera
+[06:18] pero es solo lo de Barra Products
+[06:20] y la segunda que sería la de
+[06:22] gatos, ¿vale?
+[06:24] que en este caso no está aquí, espera, gatos
+[06:26] vamos a verlo
+[06:28] entonces la URL de gatos sería este
+[06:30] ¿Qué? para hacerla más corta lo que podéis hacer
+[06:32] es venir aquí a productos
+[06:34] venís a productos como ya sabéis
+[06:36] la de gatos que se ha hecho muy larga
+[06:38] bajamos aquí, le damos a editar
+[06:40] y aquí ponemos, pues me lo voy a inventar
+[06:42] gatos, ¿vale?
+[06:44] o testeo o lo que queráis, ¿vale?
+[06:46] obviamente ponerlo algo medianamente decente
+[06:48] y ahora lo único que vamos a hacer
+[06:50] es venir aquí, poner Barra Products
+[06:52] Barra Gatos
+[06:54] y en el caso de que no os fíéis, pues simplemente venís aquí
+[06:56] este que de gatos, le damos a actualizar
+[06:58] se habrá cambiado y si nos ha cambiado ahora lo hago
+[07:00] un momentito
+[07:02] aquí, gatos
+[07:04] ¿vale? y ya debería de salir
+[07:06] que en este caso sale esto
+[07:08] pero porque estoy como visitante ¿vale? entonces solo es esto
+[07:10] o desde aquí, desde el producto
+[07:12] le dais a ver
+[07:14] y os sale, ¿vale? aquí arriba
+[07:16] fijaros, Barra Products Barra Gatos
+[07:18] venimos aquí, lo ponemos y hasta aquí ponemos obviamente
+[07:20] el porcentaje que queramos
+[07:22] aquí ponemos original
+[07:24] y aquí ponemos versión
+[07:26] gatos o para que vosotros
+[07:28] lo tengáis presente
+[07:30] que sepáis cuál es cuál, para luego cuando veáis
+[07:32] las métricas sepáis cuál es cuál
+[07:34] y no os volváis locos y después de eso
+[07:36] lo que tenéis que hacer es revisar
+[07:38] que estén bien, por ejemplo en este
+[07:40] que es el original, acordaros el de 39,95
+[07:42] más
+[07:44] que compra una y lleva tú una gratis
+[07:46] ¿vale? entonces lo que tenemos que hacer
+[07:48] es revisar que esté bien, cuando yo le voy a agregar
+[07:50] al carrito que me salga lo de que me cuesta
+[07:52] 89, por ejemplo ahora este está mal
+[07:54] ¿vale? pero porque yo he hecho los descuentos no lo he hecho
+[07:56] ¿vale? pero revisar que salga bien, si no está
+[07:58] bien, tenéis que ir a descuentos
+[08:00] y hacer los descuentos bien, de compra dos y
+[08:02] lleva tú una gratis, todo lo que ya sabéis
+[08:04] simplemente estoy enseñando a cómo hacer ese testeo
+[08:06] ¿vale? y en el siguiente igual, le damos a mirar
+[08:08] vemos que 29,45
+[08:10] bien, todo bien, le damos a agregar al carrito
+[08:12] no, no está bien, ¿vale? pues me voy a descuentos
+[08:14] y lo arreglo, y hasta que no esté bien, no le
+[08:16] dais a Create Test, una vez esté bien
+[08:18] listo, entonces le damos a Create Test
+[08:20] y ya tendríamos el test
+[08:22] creado, no lo he hecho perfecto porque los descuentos
+[08:24] estaban mal hechos, de hecho no lo he hecho y tal
+[08:26] pero simplemente quería enseñaros cómo hacer
+[08:28] con la aplicación, porque luego el tema de los descuentos
+[08:30] ya lo he explicado, el tema de qué ofertas
+[08:32] poner, ya lo sabéis, qué precio poner
+[08:34] ya lo sabéis, es decir, ya sabéis
+[08:36] todo eso y no quería aburriros ¿vale?
+[08:38] entonces hacemos de esta manera, muy
+[08:40] importante, si tenéis que ver este vídeo 50 veces
+[08:42] pues 50 veces, y si tenéis dudas obviamente
+[08:44] no decís, vamos con el siguiente

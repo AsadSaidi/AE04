@@ -1,0 +1,105 @@
+# 16-04-4-qu-app-utilizamos-para-hacer-a-b-test — 4. Qué APP Utilizamos Para Hacer A-B Test.mp4 (04:35)
+[00:00] Bien, ¿Qué aplicación vamos a usar para hacer el A-B testing? ¿De acuerdo? Tenéis el enlace en la descripción, que es esta A-B A-B Convert.
+[00:07] Vale, entonces voy a decir en inglés, pero como no sé, pues lo digo en español, ¿vale?
+[00:10] Bien, registraros desde el enlace que tenéis en la descripción.
+[00:14] Y dirás, vale, Marc, lo hacemos sin problema. ¿Qué beneficios tenemos? Ninguno.
+[00:18] Pero entonces, ¿tú eres tonto? ¿Qué? No.
+[00:21] Podéis ir a Shopify y buscarlo si queréis. Pero estos cabrones ganan mucho dinero
+[00:26] y solo le dan descuentos a la gente que les manda mucha gente.
+[00:30] Entonces si os registráis desde el enlace que tenemos abajo, nosotros podemos demostrarles
+[00:34] qué mandamos a mucha gente y cuando mandemos a mucha gente notarán un descuento para vosotros
+[00:38] porque la aplicación barata no es ahora bien hacer lo que queráis, ¿vale?
+[00:41] Pero simplemente es, pues si nos echáis un cable, pues ayudaremos a todos
+[00:45] porque luego habrá un descuento que podréis utilizar todos, obviamente, ¿vale?
+[00:48] Entonces, importante, tiene diferentes planes gratis, no sirve de nada.
+[00:52] Es para tiendas que aún no se ha lanzado, entonces no te sirve.
+[00:55] Básico. 60 euros al mes, ¿qué es el que utilizaremos?
+[00:58] Y luego 150 al mes, ¿qué es el que utilizaremos también?
+[01:01] Marc, no me entero de nada. Bien.
+[01:03] Tiene 14 días de prueba gratis. Ahora os explico lo de los dos planes porque usaremos los dos.
+[01:07] El plan de 59 tiene redirección de URL más plantilla, más temas.
+[01:12] Es decir, puedes hacer testeos en diferentes temas.
+[01:14] Si quieres cambiar el color, la foto principal, etc.
+[01:17] Puedes hacer pruebas de pago, diferentes pasarelas, cositas así,
+[01:20] pruebas de contenido, cambiar los gifs, cambiar las secciones, cambiar la foto, como te he dicho.
+[01:24] Esto te lo permite el de 60. Por eso es el que usaremos.
+[01:27] Pero si quieres hacer testeo de precio, que es lo más importante,
+[01:31] no son tontos y tienes que escoger el plan de 150 dólares al mes, que es bastante dinero,
+[01:35] pero bueno, si estás vendiendo se convierte un poco porque son 5 dólares al día,
+[01:39] que si estás vendiendo eso no es nada, ¿vale?
+[01:41] Entonces es todo lo mismo que ese.
+[01:43] Pero tienes pruebas de precio, soporte de chat, por si pasa cualquier cosa,
+[01:48] e integración de tema dedicada, que esto no es necesario.
+[01:51] Sobre todo lo queremos para esto.
+[01:53] ¿Qué usaremos los dos? Bien, os lo explico. Le damos a instalar.
+[01:56] Y vamos a seguir el paso a paso y lo voy a explicar a medida que lo vayamos haciendo.
+[01:59] Le damos a instalar, como siempre, como todas las apps.
+[02:01] Y una vez lo tenemos, nos sale aquí.
+[02:03] Veis que pone aquí arriba Apple y Discount.
+[02:05] Los cabrones no nos lo dan, así de claro, ¿vale?
+[02:07] Entonces vamos a meterle presión para que nos lo den, porque es caro, ¿vale?
+[02:10] Entonces, ¿qué hacemos aquí?
+[02:12] Tenemos 14 días de prueba gratis y realmente para lo que queremos esto
+[02:16] es para el pricing test, sobre todo al principio.
+[02:19] Entonces lo que tenéis que hacer es choose this plan,
+[02:22] es decir, seleccionamos el de 149 y a los 12 días, no a los 13,
+[02:26] porque a veces, dependiendo del horario, te lo cobran, ¿vale?
+[02:29] A los 12 días, si ya hemos hecho testeo de precio
+[02:32] y ya lo tenemos, cosa que deberíais y seguís con ese producto,
+[02:35] entonces hacéis un downgrade,
+[02:37] bajáis al plan de 60 y ya os quedáis con este
+[02:39] porque el testeo de precio ya está hecho.
+[02:42] Vale, entonces seleccionamos el de 150,
+[02:44] pero a los 12 días lo bajamos al de 60
+[02:47] porque ya habremos hecho el pricing test, ¿vale?
+[02:50] Importante, le damos a choose this plan, pero acordaros,
+[02:52] no me mal, mal 40, 50, más engañado.
+[02:54] No, yo lo he dicho, ¿vale?
+[02:56] Entonces, le damos y automáticamente te ponen aquí
+[02:59] cada 30 días, 149 dólares.
+[03:01] Vence el 17 de agosto, estoy grabando esto a día 3,
+[03:03] pues eso, 14 días, ¿vale? 150 dólares.
+[03:05] Le doy a aprobar y hasta ese día
+[03:07] no me van a cobrar, entonces el día 15,
+[03:09] en el caso de que ya hayáis hecho los pricing test,
+[03:11] ¿vale? Lo que voy a hacer es venir a pricing
+[03:14] y bajar el plan, ¿vale?
+[03:16] Entonces, aquí lo que tenemos que hacer
+[03:18] es poner mi nombre, aquí y el mail,
+[03:20] pues ponemos el mail de la tienda
+[03:22] o ponemos nuestro mail, lo que queráis, ¿vale?
+[03:24] Yo voy a poner un mail mentira, ¿vale?
+[03:27] Es decir, no es mi mail de verdad, no os asustéis.
+[03:29] Le doy a next, aquí.
+[03:31] ¿Cuál es tu rol en la compañía?
+[03:33] Pues soy, yo que sé, order y pongo,
+[03:35] o pongo SEO or founder, me he creado la cuenta, ¿vale?
+[03:37] ¿Cuál es tu industria? Aquí pones lo que quieras.
+[03:40] O sea, de verdad, no importa, ¿vale?
+[03:42] Es decir, ponemos pues order,
+[03:44] por si cuadra algo bien y si no pones order
+[03:46] y pones ISO,
+[03:48] pet product, me lo estoy inventando, ¿vale?
+[03:50] Le damos a las cuestiones
+[03:52] y aquí lo que hacemos es do you have experience,
+[03:54] si tenéis experiencia le decís que sí,
+[03:56] si no tenéis experiencia le decís que no.
+[03:58] Entonces, le ponéis, yo normalmente pongo
+[04:00] que pongáis beginner, ¿vale?
+[04:02] Y como habéis encontrado a Bitcoinvert,
+[04:04] ponéis YouTube y ya como
+[04:06] veréis desde mi enlace, pues
+[04:08] ellos sabrán que es con mi YouTube, ¿vale?
+[04:10] Le damos a create fair test,
+[04:12] ¿vale? para seguir este paso
+[04:14] y ya lo tendríamos. Entonces,
+[04:16] para los 14 días de prueba,
+[04:18] cuando lleveis 12, queréis cambiar el plan, venís a pricing,
+[04:20] tenéis este plan aquí,
+[04:22] lo único que tenéis que hacer es cambiar aquí,
+[04:24] es decir, le dais un clic y seleccionáis este,
+[04:26] no lo quiero hacer para que no se me cambia, ¿vale?
+[04:28] Entonces lo cambiáis a los 12 días, ya seguís con este
+[04:30] y listo. Si queréis otra tienda, pues otro enlace
+[04:32] y hacéis otra vez lo mismo y ya está. Vamos con lo siguiente
+[04:34] que os explico cómo hacerlo todo.

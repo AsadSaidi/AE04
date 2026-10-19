@@ -1,0 +1,48 @@
+# 16-07-7-testear-los-regalos — 7. Testear los Regalos.mp4 (04:07)
+[00:00] otra cosa que podéis testear es los regalos que ponéis en la web como hemos dicho hay que poner
+[00:05] regalos sí o sí vale porque aumenta mucho la conversión pero a veces poner un tipo de regalo
+[00:10] aumenta disminuye o se queda igual y eso lo tenemos que testear porque eso está dentro de la oferta
+[00:16] la oferta también sería los bundles que luego os lo enseño como cambiarlo pero lo que tenemos que
+[00:21] hacer es crear un a b test de lo que sería primero por ejemplo los regalos o la oferta
+[00:28] vale de igual el orden pero ir haciéndolo todo entonces le damos a crer y un test y aquí le
+[00:32] damos a cim test importante vale una vez lo seleccionamos le damos a crer y aquí ponemos por
+[00:38] ejemplo en en pues vamos a ponerle regalos de siempre versus regalos nuevos pero va a inventar
+[00:48] vale igualmente poner qué regalos vamos a cambiar por ejemplo uno vamos a poner corta uñas corta
+[00:54] uñas y el otro vamos a poner regalos nuevos en correa vale aquí escribimos la descripción como
+[01:00] ya sabéis dejamos todo esto como ya sabéis hacemos 50 50 si no tenemos data y si tenemos data pues
+[01:07] obviamente 80 20 que esto ya lo sabéis y aquí lo que tenemos que hacer es es rein sin pro y aquí
+[01:12] tenemos que poner otro tema lo que tenemos que hacer es venir a tienda online vale le damos
+[01:17] lo abrimos en otra pestaña y lo que hacemos es darle aquí y le damos a duplicar para qué
+[01:22] para tener esa copia del tema vale al tener esa copia del tema venimos aquí le damos a seleccir
+[01:28] vale ahora se tiene que actualizar porque está está copiando voy a esperar a que termine yo lo muestro
+[01:32] una vez se ha publicado aquí ya nos debería de salir que en este caso no voy a actualizar no
+[01:37] sé si va a ser buena idea o a lo mejor se ca un poco loco vale pero se va a cambiar esto le
+[01:42] ponemos regalos viejos uñas versus regalos nuevos correa vale venimos aquí está seleccionado
+[01:50] el tema el primero select team le damos a la copia vale importante y aquí al device móvil device
+[01:58] de esto yo le dejaría en todo aquí no tocaría absolutamente nada le damos al launch test y aquí
+[02:03] lo que tenemos que hacer es activar esto que nos pide vale le damos al link to invite up
+[02:07] for blog team es decir que que nos lo active vale en el en la copia porque la copia no lo
+[02:12] tenemos activado que es esto de aquí vale todo lo que sea de a b convert lo activamos le
+[02:18] damos a guardar volvemos aquí y como ya está puesto le damos a launch test entonces ahora lo
+[02:25] único que tenemos que hacer es venir atiendo online vale podemos ver que en es rein sim en el
+[02:30] tema principal le damos a ver ver todos los detalles y podemos ver que están estos dos
+[02:36] regalos esto no no lo tengáis en cuenta que es de la otra app que lo enseñé para el tema
+[02:39] de cenderlo vale cada uno le he quitado tenemos estos dos regalos correa para para paseo y
+[02:44] premio para masticar vale tenemos estos dos regalitos entonces decimos vale pues estos
+[02:49] dos regalos quiero probar a dar a otros dos pues en la copia que es este de aquí le damos
+[02:54] a personalizar que es el testeo que estamos haciendo le damos a ver todos los detalles
+[02:59] y donde tenemos estos estos regalos lo único que tenemos que hacer es venir aquí y cambiarlos
+[03:03] productos en este caso le vamos a cambiar productos seleccionamos el corta uñas y me
+[03:07] lo voy a inventar el cepillo quita pelos me lo estoy inventando vale entonces le
+[03:12] damos a guardar si los queremos dar gratis los ponemos gratis y los queremos cobrar
+[03:17] los podemos cobrar si hacer es testeo de regalos pues claramente los regalos no se cobran
+[03:21] nada así que los pondríamos en cero vendríamos a temas vale le daríamos a productos y pondríamos
+[03:26] esos productos en cero vale marma y me cuesta el dinero si como la correa y el juguete vale
+[03:30] pero yo lo que haría sería eso vale entonces de esta manera cuando hagáis todo eso de
+[03:36] del 50 a 50 con con esto aquí perdón que se me ha quitado este testeo que tenéis aquí
+[03:41] lo mandará a un tema o los mandará otro que mirar los lo enseño dependiendo el porcentaje
+[03:47] mandará un 20 un 50 por 100 a esta web que se encontrará la correa y el premio para masticar
+[03:52] y el 50 por ciento lo mandará al corta uñas y al cepillo entonces sabréis que regalos
+[03:56] funciona mejor cual da mejor conversión y ahí pues como os explicaré luego ya vais mirando
+[04:01] cuál es el que tenéis que dejarlo como ganador que esto lo explico luego nos preocupéis
+[04:05] vamos con la siguiente cosa que podéis testear

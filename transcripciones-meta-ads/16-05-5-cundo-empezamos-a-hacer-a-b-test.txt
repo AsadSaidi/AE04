@@ -1,0 +1,23 @@
+# 16-05-5-cundo-empezamos-a-hacer-a-b-test — 5. Cuándo Empezamos a Hacer A-B Test.mp4 (01:36)
+[00:00] ¿Cuándo empezamos a hacer A-B testing? De entrada. La verdad, o sea, decir, si tenéis
+[00:07] campañas activas, que no me salía palabra, campañas activas, lo más lógico sería
+[00:12] tener un testeo ya abierto, ¿no? Es decir, si lo has puesto a 25, pues ponerlo a
+[00:16] 25 y luego ponerlo a 40 con uno gratis. Me lo estoy inventando, ¿vale? Ahora bien.
+[00:20] Esto es, si vais a lanzar con un budget, con un presupuesto medianamente decente,
+[00:25] si vais a lanzar con 5 o 10 dólares al día o en, depende qué país, la verdad es
+[00:29] que al principio no hace ni falta. Entonces, empezar a utilizarlo cuando tengáis
+[00:32] 20, 50 visitas... 50, vamos a decir 50. Cuando tengáis unas 50 visitas de media
+[00:38] al día ya no hacer A-B test, sería de tontos. Hablando claro, ¿vale? Entonces, si
+[00:44] tenéis menos de 50 visitas al día, en la web, podéis ahorrarlo, ¿vale? Igualmente
+[00:50] tenéis un plan gratis, me refiero, que sería estúpido en utilizarlo, ¿vale? Pero
+[00:53] si queréis podéis no hacerlo, pero yo recomiendo hacerlo desde el día 1. ¿Por qué?
+[00:56] Porque a lo mejor un producto con una oferta es perdedor y con una oferta
+[00:59] ganador. Entonces, con esto lo podríamos saber. Muy importante, ¿vale? Pero si no
+[01:04] queréis usarlo de entrada, que recordad, 14 días gratis, o sea decir, ni pagaríais,
+[01:07] lo da ahí de baja y listo. Entonces, hacerlo cuando tengáis es unos 40, 50
+[01:14] visitantes en la web al día, ¿no? Un par de días, 16, 40, 50 personas.
+[01:17] Mañana 50, pues el tercero ya empieza con el A-B test para empezar a
+[01:21] encontrar el producto, perdón, la oferta ganadora, el precio ganador,
+[01:25] etcétera, ¿vale? Entonces, entre 40 y 50 sesiones al día, yo lo pondría, aunque,
+[01:30] si podéis, yo lo pondría de entrada. Siempre. Es muy importante, pues de verdad,
+[01:35] es una locura.

@@ -1,0 +1,79 @@
+# 16-06-6-validar-tema-y-price-test — 6. Validar Tema y Price Test.mp4 (07:00)
+[00:00] bien vamos primero con el test de precio que es el más más más más más más más más
+[00:06] importante el más importante junto con la oferta porque sería también dentro del precio vale
+[00:10] entonces en a b convert le damos a create new test y nos sale todo esto si tenemos ese plan vale
+[00:17] el plan de 150 dólares le damos a price test vale que está seleccionado podemos seleccionar
+[00:21] otros pero sólo vamos a hacer el price test y lo que hacemos es le damos a request theme check
+[00:27] perdón que jodem mi inglés es malísimo vale aquí le damos a que usen mi mail para darme el
+[00:33] update y le damos a submit y aquí lo que haces revisión del tema a veces tardan una hora a
+[00:39] veces tardan 10 minutos y es fin de semana pueden tardar bastante más vale entonces sólo os tendríais
+[00:45] que esperar a que estuviese listo entonces yo lo que voy a hacer es esperar a que esté listo y
+[00:49] entonces os lo muestro que también lo que tenemos que hacer que yo que ya voy por faena en
+[00:53] get started seguimos el orden vale es decir le hemos dado a review vale le damos a enable de
+[00:59] app le damos como siempre cuando esté hecho vale entonces me voy a esperar y ahora hacemos juntos
+[01:03] bien ya tengo el tema aprobado es día siguiente porque tuve que hacer cosas y lo dejé para hoy vale
+[01:08] nos preocupéis tardaron un par de horas pero ya era tarde para mí entonces una vez activan
+[01:13] el tema tenemos que seguir en get started el orden que sigue vale enable de app le damos
+[01:18] bastante bien vale y le hemos puesto pues eso le hemos hecho enable voy a cambiar una cosa perdonarme
+[01:24] que lo tenía para hacer un ejemplo voy a poner el tema bueno vale que estaba explicando antes
+[01:29] ya lo veréis una cosa de cendrop aquí vale entonces vuelvo a las apps vuelvo aquí le doy
+[01:34] a get started para que lo veáis le doy a create a product price price test le damos a
+[01:40] create new test y aquí te pone es lo siguiente tenemos que seleccionar el que queremos vale
+[01:44] este es el sin estrés silencioso en casa este es el de gatos entonces queremos este le damos un click
+[01:49] vale tenemos un producto seleccionado si lo queremos hacer con 2 con 2 pero normalmente lo
+[01:53] queremos con el producto principal le damos a next aquí te pone name origin price aquí podemos
+[01:59] poner precio original para nosotros tenerlo controlado vale precio original y aquí podemos
+[02:04] testeo o precio precio testeo y por ejemplo si lo vamos a poner 10 euros más caro pues
+[02:11] ponemos más 10 euros vale para nosotros estos para nosotros para nosotros tener cuál es el
+[02:17] el testeo vale bien qué es esto de porcentajes esto quiere decir que shopping esta aplicación
+[02:24] mandará al 50 por ciento del tráfico al precio original y al 50 por ciento del tráfico al precio
+[02:31] de testeo es decir si entran 100 personas mandará a 50 a ver este precio y 50 a ver
+[02:36] este precio qué recomendamos nosotros bien si estáis testeando si lanzáis campaña soy y no
+[02:42] sabéis qué oferta ganadora es y lanzáis con abe testin lanzar 50 a 50 porque como no lo sabéis
+[02:47] lanzar 50 a 50 para tener más data vale entonces si ya tenéis una oferta ganadora y simplemente
+[02:55] queréis testear más nosotros lo que hacemos es hacer un 80 20 20 al testeo nuevo para qué
+[03:01] porque sigo 50 a 50 y este testeo es malo voy a perder dinero porque ya tenía una oferta
+[03:06] ganadora entonces con un 20 por ciento del tráfico al testeo voy sacando data y si va ganando voy quitándole
+[03:12] voy haciendo esto voy quitándole quitándole quitándole hasta llegar a 50 a 50 luego en 50
+[03:17] 50 sacó conclusiones lugar de vídeos explicando cada uno más en profundidad vale entonces
+[03:22] vamos a suponer que es la primera vez que lanzamos campañas y no tenemos oferta bien 50 a
+[03:26] 50 quieres que se enseñe solo en una específic contra imaginate que tú vendes en estados
+[03:31] unidos y vendes me lo voy a inventar en canadá y no quieres que se enseñe en canadá pues le das
+[03:35] a yes y aquí pones los países que quieras yo te recomiendo que lo lanzes en todos los países
+[03:40] obviamente quieres do you want to set advance option to display test price on audient traffic source
+[03:47] no le ponemos que no vale es decir que si queremos una opción avanzada para dividir el test
+[03:53] bueno no me sale la traducción exacta pero no le ponemos que no aquí do you want to set
+[03:57] advance option to display test price on the cookie value ni de coña nada de las cookies no da igual y
+[04:03] do you want to set conditio for new and returning visitor tampoco aquí podemos poner que si es un
+[04:08] returning visitor alguien que haya visitado que se pueda con una condición nada lo dejamos así le
+[04:13] damos a next y aquí lo que hacemos es poner el precio que queremos testear aquí lo que
+[04:18] tenemos que hacer es pues si éste es 29 y hemos puesto más 10 euros pues ponemos 39 con 95 y
+[04:24] el precio de comparación este caso sería 59 con 95 que sería 10 euros más 10 euros más o podemos
+[04:30] poner 59 con 95 vale entonces esto del cost lo podemos lo tenemos que poner y os explico el
+[04:36] porqué esto no lo va a ver la gente no lo vale no lo va a ver la gente pero esto lo que no lo que
+[04:41] les sirve a la data de esta app es para decirnos que cuál nos está dando más dinero entonces si
+[04:47] el producto te cuesta 17 pones 17 vale si el producto te cuesta 18 ponen 18 esto no
+[04:52] ven nadie esto es para ti entonces con la data de cuánto te cuesta el producto la app te sabe decir
+[04:57] cuál de los dos te está si te está saliendo más rentable por lo que compras el producto vale
+[05:01] entonces intentar ponerlo es bastante exacto si son 18 con 50 pues poner 18 con 50 si pagáis
+[05:07] en dólares a la gente privado pues hacen la conversión de hoy ponéis el precio y hasta
+[05:10] vale tampoco importa le damos a nex bastante importante y aquí lo que hacemos es poner
+[05:16] pues para nosotros vale para nosotros tenerlo claro pues testeo precio más de 10 euros y
+[05:23] ponemos el día no pues 0 el 4 8 para tenerlo controlado y la descripción pues si queréis
+[05:27] podemos explicar estoy testeando el producto 10 euros más caro para ver si me da más dinero
+[05:36] como para que tú te acuerdes porque a veces se nos olvidan las cosas vale y aquí importante no
+[05:41] lo pongáis por conversion rate no lo lo pongáis por haber horder value ponerlo por revenue per visito
+[05:47] per visitor es lo único que nos importa cuál de los dos testeos cuál de las dos ofertas nos
+[05:53] da más dinero por cada usuario por cada visitante la conversión por eso un producto a 10 puedes tener
+[05:58] un 100 por 100 de conversión pero a lo mejor luego por el dinero te sale más a cuenta ponerlo
+[06:03] a 100 te compran dos pero ha sacado más dinero entonces lo dejamos en revenue per visitor
+[06:07] súper importante pero cuando digo súper súper esto de hipótesis yo no lo tocaría
+[06:11] tráfico split lo dejamos aquí 50 50 y le damos a create test vale una vez le hemos dado a create
+[06:18] test ya tenemos creado ese ese testeo de precio entonces qué va a hacer esta aplicación cuando
+[06:23] empiezas a mandar tráfico a la web sin que tú hagas nada vale sin que tú hagas nada va a
+[06:29] mandar 50 por ciento a un lado y 50 por ciento a otro y eso está más vale pues yo lo tenía
+[06:33] en 80 20 que luego te lo explico ven no pasa nada le das encima y puedes y puedes perdón le das aquí
+[06:39] le das a editar y puedes modificarlo todo vale o sea puedes modificar absolutamente todo el
+[06:44] porcentaje si quieres cambiar algo o sea puedes modificarlo todo nunca modifices el precio si quieres
+[06:49] modificar el precio tienes que hacer otro testeo finalizar este ya está vale entonces esto
+[06:55] sería el testeo de precio que es el más importante y os sigo contando en los siguientes
