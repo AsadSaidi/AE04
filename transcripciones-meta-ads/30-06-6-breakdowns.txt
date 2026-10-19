@@ -1,0 +1,16 @@
+# 30-06-6-breakdowns — 6. Breakdowns.mp4 (01:33)
+[00:00] Vamos a ver qué son los breakdowns. El desglose, creo que se llama en español, es esta opción
+[00:06] de aquí, lo que te permite Facebook es ver los resultados según país, según género,
+[00:11] según edad. Entonces ahora al principio cuando estamos testeando se puede dar el caso que las
+[00:16] métricas de un país sean mucho mejores que las otras. Si este es vuestro caso podríamos
+[00:22] incluso considerar volver a lanzar la campaña o toda la campaña o el conjunto de anuncios que
+[00:27] mejor funcione, targeteando solo este país en cuestión. Venimos aquí, le damos a Country,
+[00:33] aquí abajo vais a ver que os sale una flechita. Venís aquí y ahora aquí tenemos todos los países
+[00:40] que estamos targeteando, en vuestro caso van a ser menos, van a ser seguramente 5, si estáis
+[00:47] haciendo los top 5, venimos aquí a la derecha y el número que nos interesa aquí es el Roas.
+[00:52] De ejemplo en este caso vemos que Puerto Rico y Sudáfrica despuntan, tienen rojas por encima de
+[00:59] 2, si veis algo así como Puerto Rico que funciona mucho mejor podéis probar de lanzar el mejor
+[01:07] conjunto de anuncios que tengáis atacando solo este país en cuestión. Lo mismo que hemos hecho
+[01:12] por países se puede hacer también por sexo, venimos aquí. Ahora al principio no recomiendo
+[01:19] que segmentéis por sexo pero más adelante también es una opción que podéis tener en cuenta y lo
+[01:24] mismo por edad. Venimos aquí y vemos por lo que es de edad, cuáles son los que nos dan los mejores resultados.
