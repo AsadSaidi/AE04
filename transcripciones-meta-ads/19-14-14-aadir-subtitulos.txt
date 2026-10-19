@@ -1,0 +1,129 @@
+# 19-14-14-aadir-subtitulos — 14. Añadir Subtitulos.mp4 (12:33)
+[00:00] Una vez tenemos el audio recortado a nuestra voz lo que sea y tenemos el vídeo ya acabado lo que tenemos que
+[00:05] hacer es añadir los subtítulos. ¿Por qué? Porque como os he dicho, la gente no lee.
+[00:10] CapCat tiene una función de subtítulos automáticos para que no tengas que escribirlo tú.
+[00:14] Entonces lo único que tienes que hacer es venir aquí arriba, fíjate que donde pone
+[00:17] audio, le das a la flechita y le pones subtítulos. Aquí idioma de origen, le das español,
+[00:23] pones inglés, que es donde está, entonces identificar las muletillas, si quieres ponerlo,
+[00:27] si no quieres no. Podemos darle a la plantilla qué tipo de letra queremos, vale, es decir,
+[00:32] ahora os explicaré todo el tema de las letras, pero depende mucho del producto, de entrada lo vamos a
+[00:36] poner así bastante limpio, vale, vamos a ponerlo así. Entonces el resaltado podemos poner, pero bueno
+[00:42] esto lo podemos editar luego, vale, entonces subtítulos automáticos y le damos a generar.
+[00:47] Entonces tarda un ratito, ahora cuando lo hago lo muestro. Un minutito después como podemos
+[00:51] ver, fijaros que el texto, o sea el audio llega hasta aquí y el texto llega hasta aquí, entonces lo que
+[01:02] nosotros hacemos es lo llevamos hasta donde toca y lo dividimos en dos o lo dejamos tal cual,
+[01:07] porque en este caso son tres segundos, con el vídeo anterior eran tres segundos, entonces fíjate que
+[01:13] vale, ya que empezaría el siguiente audio, vale, perdón que la estoy liando, vale, podemos ver que
+[01:34] podemos ver que cuando empieza a hablar lo de lo de que es silencioso ya ha pasado el clip de silencioso,
+[01:41] entonces quiere decir que este clip dura menos de lo que duraba el anterior, vale, es decir este
+[01:46] clip dura 2,5, o que la voz va más lenta de lo que iba la otra, a lo mejor la otra iba más rápido,
+[01:54] vale, entonces le tendríamos que ir a level labs, tendríamos que venir a level labs donde
+[01:58] estábamos antes, vale, poner esto que estábamos y donde pone speed le damos a faster, vale, le
+[02:06] ponemos aquí pues en 1.10, entonces le damos a regenerate speech, vale, entonces esto obviamente
+[02:15] hacerlo antes de hacer todos los cortes, vale, es decir cuadrarlo bien, lo podría haber metido en el
+[02:20] otro pero no importa, puede tener que verlos todos juntos, entonces ahora lo que hacemos es lo
+[02:23] descargamos, venimos aquí, le damos importar, como ya sabéis, los subtítulos dan igual,
+[02:29] entonces borramos todos los audios, le damos aquí archivo multimedia, importar, vais a ver un corte y
+[02:36] fijaros que dura 5 segundos menos, es más rápido, lo pongo aquí, le quito esto que ya se lo hemos
+[02:41] quitado antes, acordaros de que le hemos quitado muchas cosas pero no lo voy a hacer para que me
+[02:45] entendáis y fijaros ahora acaba bien, ahora sí, no bien del todo pero ahora acaba bien,
+[02:54] entonces ya lo hemos cuadrado seguramente, si le damos al más, al más habrá aquí algo que podremos
+[02:59] recortar, fijo, el dog trimer se hace como un parón pero bueno no quiero invertir mucho tiempo en esto
+[03:07] que es básico que lo podría haber metido con el otro, os pido disculpas pero bueno son vídeos
+[03:12] en consecuencia, vale, entonces fijaros que aquí es I tried by far, aquí acaba, entonces
+[03:22] empieza el siguiente, siempre tiene que empezar junto con el texto, fijaros,
+[03:29] aquí acaba el design, por lo tanto cortamos aquí y ponemos el siguiente,
+[03:41] no se va a ir corriendo ni va a tener miedo, acaba aquí, lo ponemos aquí y este lo pegamos,
+[03:48] siguiente, ves hay un parón enorme entonces aquí lo que teníamos que hacer es cortarlo,
+[03:55] venir aquí más o menos, cortarlo esto fuera y lo pegamos, siempre intentar hacerlo de principio
+[04:03] a fin porque por ejemplo aquí hay un corte entonces cuando lo quite se me va a descuadrar el
+[04:08] delante, vale lo que yo no lo estaba haciendo para invertir mucho tiempo en esto que ya lo
+[04:11] ha explicado pero si yo ahora lo pego aquí ya entonces me descuadra todo, fijaros,
+[04:18] va un poco más tarde, el fiar acaba aquí, lo recorto y pongo esto aquí,
+[04:31] edges acaba aquí, fijaros, aquí, el edges acaba aquí, entonces le pego este,
+[04:40] aquí vemos que hay un parón, se lo quito, vale y vamos haciendo esto todo rato para cuadrar,
+[04:45] ya ahora os digo cómo tocar la letra, ponerla más grande, ponerle fondo, que el tipo de letra
+[04:49] ponemos y todo, vale, entonces vamos haciendo esto, aquí tiene este clip, vale, que feo,
+[04:56] entonces lo vamos a tirar hasta aquí, para que lo entendáis, entonces lo que tenemos que hacer
+[05:01] ahora es lo siguiente, una, en qué posición ponemos el texto, bien normalmente en anuncios
+[05:07] de pago se suele poner aquí, en zona segura, un poquito más grande se suele poner aquí
+[05:11] que no tape nada, se podría poner aquí pero taparíamos mucha cosa, aunque hay que probar,
+[05:15] no hay una respuesta que digas Dios, esta es la respuesta única, hay que probar porque a veces
+[05:19] lo pones aquí y como se lee mejor la gente le gusta ahí, a veces lo pones aquí como no
+[05:24] tapa nada es mejor, vale, entonces siempre en zona segura, es decir aquí en medio no es
+[05:29] recomendable o aquí, por ejemplo en este caso aquí como toda la información está aquí,
+[05:34] lo vamos a dejar aquí, también nos fijamos dónde lo tiene la gente con la que competimos,
+[05:39] fijaros, abajo, bueno, pues yo voy abajo, bien, entonces cuando yo muevo el primero, fijaros,
+[05:45] si yo muevo el primero, mirar que el segundo y el tercero y el cuarto se han movido también,
+[05:50] entonces si yo lo pongo abajo, fijaros que ahora este está abajo, abajo, abajo, pero si yo quito
+[05:56] esta opción, aplicar en todos los subtítulos principales, si yo muevo este solo se mueve
+[06:02] ese, vale, entonces si queréis que se haga todo en masa para no tener que estar haciéndolo
+[06:07] a uno, tener esta opción preseleccionada, vale, importante, bien, qué tipo de letra ponemos,
+[06:13] por ejemplo aquí tapa, pero bueno, vamos a dejarlo aquí, vale, qué tipo de letra ponemos,
+[06:18] depende mucho del producto y del cliente ideal que tengas, normalmente se tiene que poner así
+[06:22] siempre, vale, es decir, si lo ponéis en blanco sin fondo, que ahora hablamos del fondo,
+[06:28] lo tenéis que poner así para que se vea, porque fijaros, no se ve un carajo, se ve bien,
+[06:32] esto es una locura y meterlo así en color ayuda, pero hay que tener cuidado con querer llamar la
+[06:38] atención demasiado, vale, entonces siempre con negrita, ahora bien, la gran mayoría de anuncios,
+[06:43] como vais a ver en Get Hookit, como vais a ver en un montón de sitios, vale, llevan lo del texto
+[06:49] en blanco abajo, fijaros, o en otros colores, este no, este sí, este lleva fondo, este lleva
+[06:55] fondo, vale, entonces es importante, vale, le voy a dar a Explore para que lo veamos,
+[07:00] era Doc Trimmer, creo que era, no me acuerdo, siempre me confundo con la palabra, vale, entonces
+[07:05] fijaros que casi todos utilizan, voy a poner que solo sean vídeos para que lo veamos, fijaros que
+[07:11] casi todos utilizan letras con fondos, entonces si todo el mundo usa letras con fondos, nosotros no
+[07:17] usar letras con fondos sería de estúpido, pero a lo mejor vas a Clothing Brand, lo voy a inventar,
+[07:23] y a lo mejor la gente no usa con fondo, vale, mira, fíjate, no usan con fondo, no usan
+[07:29] con fondo, entonces si tienes una marca de ropa, no deberías de usar letras con fondo,
+[07:33] entonces en este caso hemos podido comprobar que usan letras con fondo, pues venimos aquí,
+[07:37] la gran mayoría eran blancas, podemos probar a ponerlas en otro color, por ejemplo,
+[07:42] el amarillo queda bien por los colores, llama la atención, es decir, podemos ir haciendo
+[07:45] testeos, porque repito, no hay, no hay una respuesta clara, no lo hay, o sea, no es que no la hay,
+[07:52] vale, entonces aquí la podemos poner negrita, fijaros, podemos hacer un montón de cosas,
+[07:57] nosotros lo que recomendamos es que os fijéis en la competencia, vale, fijaros que todo el mundo,
+[08:02] aquí perdón, todo el mundo cuando estábamos en Doctrimer, voy a ir otra vez, Doctrimer,
+[08:08] voy a poner vídeos, fijaros que todo el mundo lo pone abajo o en medio, abajo o en medio con
+[08:16] fondo, abajo, en medio, abajo, en medio, abajo, en medio, abajo, en medio, vale, ya me están
+[08:19] diciendo que es donde lo tengo que poner, abajo o en medio, en medio tapa, pues abajo, lo
+[08:23] tienen en blanco, vale, pues yo en blanco, entonces a mí lo que me gusta hacer, muy importante, es en
+[08:30] todos los subtítulos las primeras letras ponerlas en mayúscula, vale, le da como más sentido, no sé
+[08:37] cómo explicarlo, vale, quizás no es la mejor explicación de un mentor, pero como que empieza
+[08:44] una nueva frase y como que le da sentido, la gente lo ve como que hay más cosas, vale,
+[08:49] es súper importante, luego imagínate en el caso, por ejemplo, aquí dice, hostia Mar, yo no lo
+[08:54] quiero en dos, lo quiero en una, es decir, que pongas tu perro, no saldrá corriendo del miedo,
+[09:02] vale, pues lo único que tienes que hacer es venir aquí donde pones run away, le das espacio y entonces
+[09:07] ya lo tienes en dos, fíjate, ya lo tienes en dos, en este caso es una frase conjunta, lo cual
+[09:14] no tiene sentido, pues pasarlo en dos, vale, entonces como veis, se toca todo desde aquí,
+[09:19] en ordenador, en móvil, los lo enseña luego en Nica, aquí se toca, imagínate que hay alguna
+[09:22] falta de ortografía, o hay algo que no está bien escrito, pues aquí le das, lo corriges y ya está,
+[09:27] vale, entonces bastante sencillo, en texto podemos poner todos, o sea, los fondos, podemos poner
+[09:33] la escala, o sea, grande, pequeño, podemos ponerlo todo, la posición, que esto se mueve mejor
+[09:38] a manos, es decir, no lo hagáis con eso, vale, es decir, no tiene ningún sentido, podemos ponerle
+[09:44] trazo, cosa que no recomiendo, el fondo puedes poner que sea como más cuadrado o que sea como
+[09:49] más así, como que ocupe más, a mí me gusta más, por ejemplo, el cuadrado, vale, que es como más
+[09:54] justito, no es tan agresivo, entonces vamos tocando cosas, pero sobre todo fijaros en
+[09:59] las marcas de competencia, le podemos poner el brillo, cosa que no recomiendo, sombra,
+[10:04] o sea, le podemos poner de todo, no hagáis cosas raras, luego en plantillas tenemos tipos de letra y cosas
+[10:10] que hacen, por ejemplo, lo que funciona muy bien, espera, que he dejado, he dejado la sombra,
+[10:13] no, esto voy a darle para atrás, vale, entonces esto de plantilla funciona muy bien, porque a veces
+[10:18] hay cositas, como por ejemplo, vamos a ver alguna esta, vale, que lo que va haciendo es, fijaros,
+[10:24] le va dando como interacción, vale, le va dando como interacción, por ejemplo, aquí es lo de
+[10:31] y va lento, es decir, cuando dice, hay try by far, no va bien, entonces está claramente es una mierda,
+[10:39] hablando mal y pronto, vale, entonces tendríamos que buscar alguna que nos guste, recomiendo ponerlas,
+[10:44] sí, recomendamos ponerlas porque le da mucha más interacción, aunque, como ya he dicho, por
+[10:48] quinta vez fijaros en lo que hace la competencia, pero también hacer testeos, no hay una respuesta
+[10:53] clara y yo os podría decir, sí, sí, sí, hacer esto que os va a funcionar, pero es mentira,
+[10:56] vale, a lo mejor ponéis este y para vuestro producto funciona un montón, mirad,
+[11:05] está raro, o sea, hace cosas raras, entonces tenéis que probar, vale, tenéis que probar que es lo que
+[11:09] mejor funciona, si tenéis dudas, como la competencia, sin complicaciones, qué hace la competencia,
+[11:13] nada, no aparece, o sea, aparece ahí el texto y nada, pues eso es lo que hacemos nosotros y listo,
+[11:19] vale, es decir, chao, pa' atrás, nos vamos a donde estábamos y ahora lo que hacemos es
+[11:26] por ejemplo, aquí teníamos que tapar el texto, podríamos mover solo este durante un momento,
+[11:34] vale, como hemos visto antes, es decir, podríamos mover este, vale, aquí, por ejemplo,
+[11:42] vemos que se corta tarde, entonces este también lo teníamos que mover o este, que saliese un
+[11:50] poco más tarde y este que lo acompañase para que no se viese un poquito más,
+[11:56] vale, y que no se vea, o directamente lo que podéis hacer es literalmente todos arriba,
+[12:03] un poquito más para arriba para que no tengan que hacer saltos, que sería lo más lojico y sencillito,
+[12:14] y así lo haríamos obviamente con todo entonces, que quede muy claro, luego Nica os explicará más en
+[12:19] profundidad, pues todo el tema de qué tipo de letra, cómo la pone, a veces cómo cambia
+[12:24] los colores, bueno, Nica es un puto maestro, vale, entonces yo quería explicarlo a nivel técnico
+[12:29] y luego lo explicará más a nivel práctico, así que vamos con lo siguiente.

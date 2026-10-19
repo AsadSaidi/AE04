@@ -1,0 +1,89 @@
+# 19-15-15-movimiento-con-zooms-transiciones-etc — 15. Movimiento con Zooms, Transiciones, etc.mp4 (06:03)
+[00:00] Algo que funciona muy bien en el mundo de los vídeos es darle movimiento porque la gente no quiere ver cosas estáticas
+[00:07] ¿A qué me refiero? Por ejemplo, este clip se ve la mano moviéndose, entonces ya hay movimiento, se ve el perro por ahí, ya hay movimiento
+[00:15] Pero por ejemplo, este no pasa nada, literalmente no pasa nada
+[00:19] Entonces, ¿qué podemos hacer? Bien, desde móvil es mucho más sencillo, os lo explicará Nika
+[00:25] Pero desde ordenador le podemos dar encima del clip darle animación, por ejemplo, vamos a hacer algo, un ejemplo rápido
+[00:33] Podemos poner una animación de entrada, es decir, cuando empieza el clip de salida o combinado, es decir, que lo hagan los dos
+[00:38] Por ejemplo, si le damos a combinado zoom 1, fijaros que cuando entra ese clip hace un zoom y otro zoom
+[00:47] Eh, muy feo, la verdad, nos voy a engañar, ¿vale? Entonces, ¿qué recomiendo hacer yo en los clips que son muy estáticos?
+[00:53] Ponemos un zoom, pero un poquito sutil, podemos ponerlo de entrada, ¿vale? Podemos poner aquí zoom 1, ¿vale?
+[01:02] Vamos a ver, a ver, a ver, ¿vale? Aquí tenemos, aquí vamos viendo todas las opciones, ¿vale?
+[01:09] Entonces, ponemos el zoom 1, aquí podemos poner la duración, si queremos que sea durante todo el clip
+[01:15] O queremos que sea solo al inicio, ¡pam!, de golpe, ¿sabes? En plan, pues lo que queramos
+[01:20] Yo, por ejemplo, me parece muy agresivo, lo que sí que desenfoca un poco, entonces no me gusta
+[01:24] Entonces, voy a quitarlo y vamos a probar con el de salida, ¿vale? Vamos a probar con el zoom, aquí le damos la salida
+[01:32] Y a ver, deslizamiento hacia abajo, a ver, girar, acercamiento, a ver, este no me gusta
+[01:41] Este tampoco como de los lados, tampoco, tampoco, este de acercamiento está bien
+[01:47] Demasiado agresivo, a ver, este me gusta, lo que no me gusta es que luego el que desaparezca
+[01:53] Esa parte no me gusta mucho, a ver
+[01:58] Bueno, para que me entendáis, ¿vale? En móvil es mucho más fácil hacer todo esto
+[02:02] Pero fijaros, que antes el clip era estático, este se mueve, el otro era estático
+[02:06] Y ahora tiene un poquito de movimiento, como que le das más énfasis
+[02:10] Y sí que es verdad que este tiene acercamiento, entonces tiene ese punto feo
+[02:15] Que luego se ve como en así oscuro, lo cual este no sería el más idóneo, pero para que me entendáis
+[02:20] Entonces, se hace así, es muy sencillo, en móvil lo podéis hasta buscar
+[02:23] Aquí es un poquito más complejo, pero bueno, seguir buscando, ir viendo
+[02:27] Pues si quieres un combinado, si quieres una entrada, es decir, de entrada de salida
+[02:32] Vas viendo cuál es el que te gusta más, no llaméis la atención de más
+[02:35] Es para darle un poco de movimiento, no me seáis animales
+[02:38] Y algo muy importante también es agregar secciones, perdón, transiciones
+[02:42] De las secciones entre los clips, ¿vale? Como le hemos hecho cortes, a veces se ven demasiado agresivos
+[02:47] Por ejemplo, en éste se ve bien, pero de éste a éste como que no tiene mucho sentido
+[02:51] Entonces lo que podríamos hacer es aquí dentro, le damos aquí arriba transiciones, ¿vale?
+[02:55] Cuando estéis aquí, le dáis a transiciones
+[02:57] Y aquí, pues por ejemplo, pliegue, abajo derecha y te das diferentes, ¿no?
+[03:02] Pues desenfocar, por ejemplo, ¿no? Este es un brillo, este es bastante feo
+[03:06] Este es con luz, este no me gusta mucho
+[03:08] Algo sutil, ¿no? Que no rompa el vídeo, que no sea súper agresivo
+[03:12] ¿vale? Este tampoco, pues básico, parpadeo, no me gusta
+[03:16] Deslizar, tampoco derecha, abajo, no me gusta, más cara
+[03:21] No me gusta, demasiado agresivo
+[03:23] Deslizar, a ver
+[03:26] Y aquí te va saliendo lo que hace, ¿vale? Es decir, te pone, te da la información que hace
+[03:32] En este caso me parecen muy agresivas
+[03:34] Y no me acaba de gustar
+[03:36] Pero hay muchas opciones, como estáis viendo, entonces falla a ver qué es esto
+[03:41] Vale, tampoco me gusta, distorsión
+[03:44] Se tiene que ser algo más sutil, como...
+[03:48] Este puede estar bien
+[03:49] Entonces, le doy, ¿vale? Es decir, lo doy y lo pongo entre medio, importante
+[03:54] Fijaros que se pone, entonces puedo arrastrar si quiero que dure más o que dure menos
+[03:59] ¿vale? Entonces fijaros que si yo lo borro ahora mismo, ¿vale?
+[04:03] Lo voy a poner en otro
+[04:05] Por ejemplo, este, que es un poco raro, la verdad, combinar, este puede estar bien
+[04:09] Como son clips tan cortos
+[04:11] Este, le desvaneciendo, este me gusta
+[04:13] Lo voy a poner aquí para que lo veáis
+[04:15] Entonces lo voy a poner justito, y entonces fijaros
+[04:18] Que aquí, cuando cambia el clip, lo hace como con una transición
+[04:24] Lo puedo poner más, un poquito más, que se va haciendo oscuro más ahí
+[04:29] Como una transición, en cambio, si lo quito, ¿vale?
+[04:32] A veces, mira, ¡pam!, sale de golpe
+[04:35] A veces no es malo, pero muchas veces para que no sea tan brusco, le podemos meter la transición
+[04:41] ¿vale? Pero no queráis llamar la atención en todo, es decir, mucho cuidado
+[04:47] ¿vale? Mucho cuidado, lo ponemos en éste, lo ponemos así
+[04:51] Lo ponemos en éste, lo ponemos así
+[04:54] Y por ejemplo, hemos dicho que no hacía falta, pero lo ponemos así
+[04:57] Que cuando tenemos este vídeo, se va viendo como que va, que va con sentido
+[05:04] Como que entra el siguiente clip, como que, como que no para
+[05:07] En cambio, si le quitamos todas esas transiciones, ¿vale?
+[05:10] Voy a hacerlo, quito, quito, y quito
+[05:12] Podemos ver que los vídeos tienen más cortes
+[05:15] Es decir, de aquí paso a ¡pam!, corte
+[05:17] De aquí pa, ¡pam!, corte, bueno, ni se no puede tener eso
+[05:20] Corte, y de aquí, corte
+[05:22] Vale, entonces hace como menos fluido, como más cortes
+[05:25] Como que se note más que has cogido vídeos de muchos lados
+[05:28] ¿Vale la mejor manera de comprobarlo? Ver qué hace la gente
+[05:31] Es decir, entro aquí, veo este vídeo
+[05:34] Y veo si tienen transiciones o si van a corte, corte, corte
+[05:37] En esta gente va a corte, corte, corte
+[05:39] Entonces prueba uno con transiciones, prueba uno sin
+[05:41] ¿Vale? No hay una respuesta que digas esto, es esto o no hay nada
+[05:45] ¿Vale? Entonces, le metemos algún efecto
+[05:48] Si vemos que es muy estático, que le tenemos que meter algo de movimiento
+[05:52] ¿Vale? Y en el caso de que veamos que cambia de clip
+[05:55] y brusco y que no tiene mucho sentido, le metemos transiciones
+[05:58] Igualmente nica luego en la práctica, cosa que hecho yo
+[06:00] Pero en móvilos lo enseña mejor, vamos con lo siguiente

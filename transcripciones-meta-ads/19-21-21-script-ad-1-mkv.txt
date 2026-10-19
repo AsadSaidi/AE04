@@ -1,0 +1,37 @@
+# 19-21-21-script-ad-1-mkv — 21. Script Ad 1.mkv.mp4 (04:16)
+[00:00] vamos a editar una anunciidad de cero, copiando un vídeo de la competencia que ya esté funcionando,
+[00:05] por ejemplo este que lleva 41 días tirando, que es decir que es bueno, entonces vamos a mejorarlo,
+[00:10] este es formato 916 que es 1080 por 1920, vamos a hacer dos variaciones que van a ser cambiar el
+[00:20] formato, lo vamos a hacer 1080 por 1080, que sería este, es formato cuadrado y luego vamos
+[00:25] a cambiar los visuales, porque vamos a ver el vídeo, son un poco aburridos que todo el rato es lo mismo,
+[00:30] entonces vamos a hacer esto.
+[00:56] Perfecto, primer paso, vamos a tener que coger el script tal cual, si os habéis fijado al principio,
+[01:03] bueno aquí a la derecha en git hook os sale el script, pero si os habéis fijado al principio,
+[01:08] se deja la primera palabra, trim, aquí no está, entonces hay dos opciones, este porque es corto
+[01:15] y no va a costar mucho mirarlo uno por uno a ver si está bien el script, pero se puede hacer
+[01:22] o así mirándolo poco a poco a ver si está bien o la segunda opción es descargar el vídeo,
+[01:27] aquí mismo en git hook lo podéis descargar y luego hay una página que se llama turboscribe,
+[01:34] es esta turboscribe, ahí es gratis, me parece que no sé cuánto se pueden hacer,
+[01:43] si no la suscripción vale 20 euros y es limitado como podéis ver, entonces aquí simplemente
+[01:49] tenemos que coger el vídeo que acabamos de descargar, le vamos a transcribir y aquí lo arrastramos,
+[01:54] hay distintos, bueno como animales, ballena es el más preciso, siempre ya sale por predeterminado,
+[02:03] aquí le sale el idioma, es inglés, perfecto, vamos a transcribir, una vez lo ha transcrito,
+[02:07] le vamos a los tres puntitos y vemos que lo podemos exportar en el formato que queramos,
+[02:13] yo siempre lo hago en texto, lo descargamos y aquí vamos a ver,
+[02:19] una vez tenemos el script perfecto, lo copiamos y nos lo guardamos en una hoja de excel por ejemplo,
+[02:26] para tenerlo guardado y le ponemos ads1, esto es para cada uno que se lo haga como quiera,
+[02:37] es para tenerlo ordenado, por ejemplo aquí va a ser, aquí pondremos la fecha de hoy,
+[02:42] fecha y esto va a ser, esto va a ser el ad1 del grupo 1, luego el segundo va a ser ad2,
+[02:56] 1, es decir de este día que vamos a lanzar los anuncios, cada uno va a estar numerado y el 1 va
+[03:04] a significar que es de esta misma fecha, esto sirve para tenerlo ordenado y a la hora de colgar
+[03:09] los anuncios en facebook, si alguno va a ser ganador, luego a la hora de buscar solo vamos a
+[03:14] tener que buscar el número que va a ser su nombre, si en facebook dice que el 1 entre paréntesis 1
+[03:21] está funcionando y está vendiendo, luego nos vamos aquí en el excel y en donde lo tengamos
+[03:27] editado para hacerle variaciones, si este ya es ganador vamos a hacer variaciones de cambiar
+[03:33] los hooks, cambiar los visuales para ver si conseguimos tener otro, otro anuncio ganador,
+[03:38] esto está bien para tenerlo todo ordenado porque si no cuando tienes 400 vídeos y
+[03:42] algún te está funcionando luego no lo encuentras, entonces así es una forma de tenerlo todo bien
+[03:48] ordenado, incluso si lo queréis tener aún mejor para saber del vídeo original que estáis
+[03:53] copiando podéis tener descargado el vídeo original y le ponéis algún nombre también, por
+[03:59] ejemplo get hook, vídeo 1 y esto lo guardáis en la carpeta que queráis, vídeos competencia
+[04:08] y aquí al lado le podéis meter el mismo título
