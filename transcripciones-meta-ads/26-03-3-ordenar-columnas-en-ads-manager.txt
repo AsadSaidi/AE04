@@ -1,0 +1,67 @@
+# 26-03-3-ordenar-columnas-en-ads-manager — 3. Ordenar Columnas en Ads Manager..mp4 (07:41)
+[00:00] vamos a ordenar las columnas de lads manager, esto nos va a servir muchísimo a la hora de
+[00:05] analizar los resultados de nuestros anuncios, voy a dejar este documento aquí abajo, este es el
+[00:10] orden exacto que necesitamos, lo dejo en español y aquí está en inglés, el mismo orden, lo primero
+[00:17] que vamos a hacer va a ser venir aquí, customize columns y vamos a borrar todo esto, ahora voy
+[00:23] ahí a poner todas las columnas, las dejamos en el orden que queremos, os comento un poco
+[00:28] que es cada cosa pero luego vamos a entrar en otro vídeo en profundidad sobre cada métrica y porque
+[00:33] es importante, lo primero que haremos es darle aquí a custom, vamos a crear dos métricas que son el
+[00:40] hook rate y el hold rate, el hook rate es cuánta gente se come los tres primeros segundos del vídeo
+[00:47] para crearlo, venimos aquí, vamos a buscar la métrica que es 3 segundos video plays dividido
+[00:54] por video plays, vemos aquí, the second video plays dividido por video plays y esto nos da el
+[01:06] porcentaje de gente que se come nuestro vídeo, muy importante darle aquí a porcentaje porque si no
+[01:15] nos va a dar un valor absoluto y no es lo que queremos y aquí le podéis meter hook rate,
+[01:20] aquí le meto bueno porque ya tengo bastantes creadas, lo mismo aquí y le damos a create
+[01:29] métric, vamos a hacer lo mismo con el hold rate que el hold rate sería cuánta gente de los que se han
+[01:35] comido los primeros tres segundos se comen también los 15 siguientes y esto es porque como ya habréis
+[01:42] visto en otras partes del curso el hook es la parte más importante del vídeo por razones obvias y
+[01:47] alguien no se come el hook no va a ver el resto del vídeo pero esto también aplica a los primeros
+[01:53] 15 segundos del vídeo, después del hook es la segunda parte más importante, aquí vamos a venir,
+[01:59] le metemos through plays dividido por 3 second video plays, muy importante también en porcentaje,
+[02:06] through plays sería esto, los 15 segundos decíamos through plays dividido por 3 second video plays,
+[02:15] muy importante también darle a porcentaje y los through plays es esto que decíamos,
+[02:21] son los 15 segundos después del hook, entonces haciendo esto esta división vamos a saber cuánta
+[02:27] gente de los que se han comido los tres primeros segundos han llegado al segundo 15, venimos aquí
+[02:37] vamos a meter lo mismo esto es para vosotros jugadores creamos la métrica ahora volvemos
+[02:44] aquí a all y vamos a ir ordenando las columnas siguiendo el documento este entrega a ver si
+[02:55] delivery esto es si el anuncio está activo o no, el segundo vamos a meter at set name,
+[03:00] tenemos aquí nombre del conjunto de anuncios, set name, luego vamos a meter budget, estos
+[03:08] cuántos se puede gastar el anuncio en un día, amount spent, esto es el dinero que ha gastado
+[03:17] el anuncio, ya vais a ver todos los que tengáis de lads manager en español podéis venir aquí
+[03:25] arriba y hacer exactamente lo mismo que estamos haciendo el cpm es lo que se llama el coste
+[03:30] publicitario es el cost, el coste de mil impresiones una impresión es cada vez que tu anuncio salta
+[03:36] en la pantalla de alguien esta métrica el número que nos da es cuánto nos cuesta que
+[03:41] mil personas vean el anuncio pero no que vean mucha parte del anuncio poca parte del anuncio
+[03:46] sino que a mil personas les va a saltar tu anuncio en pantalla algunas lo van a pasar en un segundo
+[03:52] algunas se lo van a comer todo pero esto las impresiones es cuántas veces tu anuncio salta
+[03:57] en pantalla luego tenemos unique outbound CTR, el CTR es el click through rate es cuánta
+[04:05] gente le da click a tu anuncio en porcentaje y también tenemos el CTR normal pero si le
+[04:13] diéramos a este por ejemplo lo que pasa es que calcula o tiene en cuenta todos los clicks que la
+[04:18] gente hace en el anuncio si por ejemplo alguien le da a desplegar comentarios o se va a la página
+[04:24] de facebook a choosmearnos esto también cuenta por lo cual nosotros queremos unique outbound CTR
+[04:31] y esto lo que hace es que outbound significa fuera de facebook entonces sólo va a contar
+[04:40] los clicks que van fuera de facebook o sea a nuestra página y unique es que sólo va a contar uno por
+[04:46] personas si alguien le da click cuatro veces a nosotros nos da igual sólo queremos los unique
+[04:52] outbound CTR que en esto en español sería CTR de salida único luego queremos unique outbound clicks
+[05:03] en español clicks de salida únicos y esto exactamente lo mismo es cuántas veces la gente le
+[05:13] da click al anuncio aquí sería en un número total y aquí sería en porcentaje pero exactamente
+[05:20] lo mismo que en el caso anterior nosotros queremos saber cuántos clicks da la gente a nuestra página
+[05:25] web no clicks en la página de facebook clicks en los comentarios así que queremos que sean
+[05:31] outbound y queremos que sean unique sólo uno por persona ahora queremos el cost que es este
+[05:38] aquí costo por click de salida único cuánto nos cuesta cada click añadidos al carrito total y
+[05:48] esto lo vamos a sacar todo siempre muy importante sacar todo esto no nos sirve de nada queremos el
+[05:53] coste también luego queremos los checkouts es total también vamos a hacer exactamente lo
+[06:00] mismo sacamos todo esto y también queremos el coste para que veáis la diferencia entre
+[06:06] checkout y el añadido al carrito vemos de ir a una página de Shopify añadidos al carrito es esto
+[06:14] de aquí cuenta este paso de aquí aquí y checkouts iniciados cuenta este paso de aquí aquí al
+[06:20] checkout volvemos a buscar compras chéis queremos el total le sacamos todo esto también queremos
+[06:30] el coste por compra y el valor de la compra y también le vamos a sacar todo esto porque no es lo
+[06:36] mismo que nos compren por valor de 30 que por valor de 100 obviamente vamos a buscar el purche y roas
+[06:42] que esto es lo más importante el roas es el retorno es el retorno nada spent le sacamos
+[06:49] de esto también la siguiente columna que queremos es la frecuencia luego cuando vayáis avanzando
+[06:56] si vienes verdad que hay otras columnas que pueden ser interesantes ahora al principio sobre todo con
+[07:01] esto nos va de sobra nosotros estamos gastando 200 300 k más 400 k al mes de gasto publicitario en
+[07:10] facebook y usamos exactamente estas columnas la frecuencia sería la cantidad promedio de
+[07:16] veces que una misma persona ve tu anuncio ahora que le clavamos el hook rate y el
+[07:21] hold rate que hemos creado antes le damos a safe as column preset esto muy importante guardar
+[07:33] como columna predeterminada y aquí le podemos meter e o m o coloque o la petezca y le damos a guardar

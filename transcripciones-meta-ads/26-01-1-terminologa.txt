@@ -1,0 +1,46 @@
+# 26-01-1-terminologa — 1. Terminología.mp4 (03:59)
+[00:00] Antes de pasar a Launch Manager y lanzar nuestra primera campaña, vamos a ver ciertas palabras
+[00:05] muy típicas en publicidad que vais a ver en los siguientes vídeos. No vamos a entrar mucho en
+[00:10] detalle pero creo que está bien que tengáis una idea general. Lo primero que vamos a ver son las
+[00:16] impresiones que esto es la cantidad de veces que tus anuncios aparecen en pantalla. Este número
+[00:21] no es único, es decir, si una persona ve veinte veces tu anuncio va a contar como veinte,
+[00:26] no como uno. Lo siguiente es el CPM, que es lo que pagas por cada mil veces que tu anuncio se
+[00:32] muestra. Cuanto más bajo es, mejor. Por ejemplo, si tenemos un CPM de cincuenta, significa que mil
+[00:38] impresiones nos cuestan cincuenta. Lo siguiente es el CTR o click through rate, que es el porcentaje
+[00:45] de personas que hicieron click después de ver tu anuncio. Cuanto más alto sea, significa
+[00:50] que mejor está funcionando nuestro anuncio. Luego tenemos el CPC, que es el cost per click
+[00:55] en tu anuncio. Cuanto más bajo sea el CPC, mejor. El ATC o at your cart es la tasa de
+[01:01] añadidos al carrito y es el porcentaje de personas que hacen click en añadir al carrito.
+[01:06] Luego tenemos el ICH, que es initiated checkout y es la tasa de inicio de pago, es el porcentaje de
+[01:12] personas que inician checkout en nuestra página. La tasa de conversión es de todas las personas
+[01:17] que visitaron nuestra página web, cuantas terminaron comprando. Luego tenemos el ROAS,
+[01:21] que significa return on a spent y es cuánto dinero ganas por cada euro o dólar que gastas
+[01:28] en publicidad. Es decir, si tenemos un ROAS de dos significa que por cada euro que hemos gastado en
+[01:33] anuncios hemos ingresado dos. El ROAS de equilibrio, que es return on a spent de equilibrio o en
+[01:39] inglés se llama break even ROAS, es el ROAS mínimo que necesitas para cubrir tus costos. Es
+[01:44] decir, si nuestro ROAS de equilibrio que luego veremos cómo se calcula es 1,5 y el ROAS
+[01:49] que tenemos es 1,4, estamos perdiendo dinero. Si es 1,6 o cualquier número por encima de 1,5
+[01:56] significa que estamos ganando dinero. Luego tenemos las campañas. Ya os he dicho que todo esto vamos
+[02:02] a entrar más en detalle en los próximos vídeos, pero es bueno que tengáis una primera idea.
+[02:06] Las campañas donde definimos el objetivo principal de nuestros anuncios. Por ejemplo,
+[02:10] se pueden optimizar las campañas para conseguir más visitas, interacción o ventas,
+[02:15] pero nosotros y en e-commerce en general siempre optimizaremos por ventas. Luego están los conjuntos
+[02:22] de anuncios o assets que es donde definimos a quiénes se muestran nuestros anuncios,
+[02:26] cuánto dinero vamos a gastar, cuándo quieres que se muestren, es decir, cuándo quieres que
+[02:30] empiecen a gastar y a quién se los vamos a enseñar. Aquí podemos definir, por ejemplo,
+[02:35] que solo se enseñan a gente de ciertos países, de cierta edad, cierto sexo o todo lo que
+[02:40] queramos. El anuncio es lo que realmente las personas ven. Puede ser una imagen,
+[02:44] vídeo o carrusel. Nosotros nos centraremos mucho en vídeos, pero también es verdad que
+[02:49] depende del producto, depende del niche. Las imágenes o carruseles funcionan muy, muy bien y aquí es
+[02:56] donde decidimos el texto primario, el título y el creativo. Luego tenemos la palabra avó,
+[03:02] que significa asset budget optimization, que ya veréis que también lo vamos a estar
+[03:07] utilizando mucho y esto significa que vamos a optimizar nuestros anuncios por conjunto de
+[03:12] anuncios. Significa que tú decides cuánto gastar en cada grupo de anuncios. Facebook no
+[03:17] puede mover el dinero entre ellos. CBO en cambio, que es campaign budget optimization, tú eliges
+[03:23] el presupuesto total para toda la campaña y Facebook decide cómo repartirlo entre los
+[03:28] diferentes conjuntos de anuncios según crea que es mejor. Y por último tenemos el pixel,
+[03:33] que ya lo hemos comentado antes, que es un pequeño código que se pone en tu página web
+[03:38] o tienda online y sirve para que Facebook pueda traquear la actividad de todas las personas que
+[03:44] entren a tu página, tanto si compran como si no y luego optimizar según según esos resultados.
+[03:51] Con esto ahora ya estamos listos para pasar al Ads Manager. Primero vamos a organizar
+[03:56] las columnas y luego vamos a lanzar nuestra primera campaña.

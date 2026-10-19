@@ -1,0 +1,85 @@
+# 26-10-10-nivel-de-anuncio — 10. Nivel de Anuncio.mp4 (08:59)
+[00:00] estamos ya a nivel de anuncio, recordamos que esto es nivel de campaña, esto es nivel de conjunto de
+[00:05] anuncios y esto es nivel de anuncio, aquí le vamos a poner bit0011, como nosotros lo hacemos es el
+[00:12] primer conjunto de anuncios que lanzamos, va a ser el bit001 y dentro de este conjunto de
+[00:19] anuncios vamos a tener el 1, el 2, el 3, el 4 y el 5, venimos aquí nos aseguramos que esta
+[00:24] es la página de facebook que hemos creado para este producto, si habéis creado página de instagram
+[00:30] la vamos a seleccionar, os va a salir aquí abajo, ya se pone automática creo pero no hace, no hace
+[00:36] falta como ya hemos dicho al principio queremos testear tan rápido como sea posible, este
+[00:41] mensaje nos está diciendo que no vamos a poder lanzar anuncios en threads, si no conectamos
+[00:46] una cuenta de instagram que por ahora no es algo que nos preocupe, aquí creamos anuncio,
+[00:51] vamos a seleccionar manual upload, vamos a subir este anuncio manual, vamos a seleccionar imagen o vídeo,
+[00:59] esta la opción de hacer carrucells que son combinaciones de imágenes y vídeos pero por ahora no
+[01:05] vamos a hacer esto, vamos a sacarle lo de multi advertiser, ya hemos explicado en otro vídeo que
+[01:11] marcando esto le estaríamos dando permiso a facebook para poner nuestro anuncio al lado
+[01:16] del anuncio de otra persona, es decir en el mismo momento saldrían los dos anuncios en
+[01:20] pantalla, esto hace que el coste publicitario baje un poco pero a no ser que vuestro producto
+[01:26] sea mucho mejor que la competencia no nos recomendamos seleccionar esto, venimos aquí vamos a meter la
+[01:33] url de la página de producto de nuestro producto muy importante, no vamos a meter la url de la tienda
+[01:39] sino la url de la página de producto, esta sería nudogui.com, barra products, barra nudogui,
+[01:47] para asegurarnos de que hemos puesto la url correcta, vamos a venir aquí le damos a previo url y
+[01:53] vemos que en este caso sí es la correcta, vamos bajando, esto lo vamos a dejar exactamente como
+[02:00] está, non y aquí es donde vamos a seleccionar nuestro anuncio, en este ejemplo vamos a hacer
+[02:05] vídeo, le damos a vídeo, aquí no tenemos que hacer nada, esto tiene que estar así sin
+[02:13] seleccionar, lo que haría esto es que aplicaría descuentos que tenemos en la página de Shopify,
+[02:19] automáticamente a nuestros anuncios, Facebook, le estaríamos dando la libertad a Facebook de
+[02:24] usar los descuentos que tenemos en la tienda de Shopify para enseñar a nuestros posibles clientes
+[02:32] pero no es algo que queremos, venimos aquí, esto lo sacamos, esto lo que hace es que
+[02:37] Facebook enseña otros links de la página pero podría ser que si lo tenemos marcado Facebook
+[02:43] mande a gente por ejemplo a la página de contacto o a la página de un producto que no nos interesa,
+[02:49] si por ejemplo tenemos la protección de envío podría ser que Facebook envíe la gente a ese
+[02:55] producto y no es algo que nos interesa, le damos a next, aquí vamos a subir nuestros vídeos que
+[03:01] deberíais ya tener descargados, le voy a dar a subir eso tarda un momento, ahora vuelvo,
+[03:07] vamos a seleccionar el primer vídeo, el bit 0011, le damos a next, skippen continuo,
+[03:15] esto te recomienda la duración ideal del vídeo pero nosotros vamos a ignorar esto,
+[03:20] el vídeo es perfecto como lo hemos colgado, aquí te dice si quieres cambiar el formato
+[03:26] del vídeo, siempre lo vamos a tener en original, esto puede hacer que en algún placement, en alguna
+[03:32] ubicación como decíamos antes Instagram feed, Instagram reels, no se enseña el vídeo porque
+[03:37] no se puede adaptar al formato que nosotros lo estamos poniendo pero no, no importa y aquí
+[03:43] vamos a decidir el texto principal, el título, la descripción y la llamada la acción del
+[03:49] anuncio, os voy a dejar aquí en este mismo documento un par de ejemplos que podéis seguir,
+[03:55] aquí los veis pero como siempre lo mejor es copiarse de la competencia, si queréis también
+[04:01] tenéis prompts de chat gpt que podéis usar pero un 90% de las veces lo más fácil ahora al
+[04:08] principio es ir a la marca referencia de nuestro producto, venimos aquí, nos copiamos, bueno en
+[04:17] este caso está hablando de dog jacket en vez de lo de las uñas pero ya me entendéis,
+[04:23] buscáis la marca referencia, copiamos esto, venimos aquí y esto lo vamos a meter en primary text,
+[04:29] aquí le meteremos la url de nuestro producto una vez más y esto al ponerlo así va a ser un
+[04:41] link, cuando la gente vea el anuncio y lea el primary text va a poder darle aquí y también
+[04:46] se va a ir a la página, esto lo vamos a sacar, es para que Facebook cree variaciones de nuestro
+[04:53] texto, no se tiene nunca seleccionado, headline volvemos a lads library y buscamos que ponen estos
+[05:02] por ejemplo ponen 50% hoy, aquí también os voy a dejar algunos ejemplos de headlines y un prompt para
+[05:11] meter en chat gpt y que os de la headline normalmente queremos hablar de los beneficios
+[05:17] principales del producto y no tiene que ser más largo de siete palabras, si son ocho nueve no pasa
+[05:23] nada pero normalmente siete palabras o menos y hablando de los beneficios principales del producto,
+[05:29] en nuestro caso, trim your dog nails from home, cualquier cosa así como ya he dicho,
+[05:39] todo esto es importante, sí pero el creativo del anuncio en sí es un 95% del trabajo,
+[05:44] aquí exactamente lo mismo, no queremos que Facebook haga variaciones y en la descripción también os
+[05:50] dejo aquí abajo un par de ejemplos pero aquí normalmente metemos cosas como garantía de evolución
+[05:55] de 60 días en bio gratis más de x clientes satisfechos y podemos poner 100,000 plus happy parents listo
+[06:09] la llamada la acción vamos a seleccionar shop now si estamos mandando el tráfico a una
+[06:14] página de producto a una tienda de Shopify como todo dropshipper hace, siempre siempre siempre
+[06:19] queremos seleccionar shop now, hay muchas opciones pero está más que testeado que esta es la que
+[06:25] mejor funciona, le damos a next, aquí Facebook te da la opción de darle permiso a que haga
+[06:33] variaciones en tu anuncio pero ya que nos hemos esforzado tanto a crear nuestro anuncio como
+[06:38] lo queremos vamos a desactivar absolutamente todo, no queremos que Facebook nos toque nuestro
+[06:44] anuncio hemos metido mucho esfuerzo así que vamos a dejarlo exactamente como está, le damos a adan y
+[06:49] habríamos subido nuestro primer vídeo, estos errores que vemos aquí es por el formato del
+[06:54] vídeo en este caso es 916, nosotros recomendamos que siempre pongáis 4 o 5 porque es el que
+[07:00] se adapta a más placements, placements sería todo esto de aquí, Facebook feed, Facebook video
+[07:05] feeds, Marketplace, Instagram Reels y todos los demás pero esto lo podemos ignorar completamente no
+[07:14] hay ningún problema aquí comprobamos que el primary text esté bien, tenemos la url de nuestra tienda
+[07:20] todo esto sin seleccionar, headline que sería el título y la descripción y la llamada
+[07:26] la acción, para ver cómo van a ver nuestros clientes del anuncio podemos venir aquí y
+[07:31] tenemos el preview según el placement, lo cual es increíble, vamos a ver que todo quede perfecto,
+[07:37] esto de aquí es la headline, esto es el primary text que sería el texto principal y título y esto
+[07:44] de aquí abajo es la descripción, aquí podéis echar un vistazo y comprobar que todo esté perfecto,
+[07:50] vamos bajando y aquí ya no tenéis que tocar absolutamente nada y ya tendríamos nuestro
+[07:55] primer vídeo subido con la descripción, el texto principal, la llamada, la acción y la url a
+[08:04] nuestra tienda, ahora vamos a hacerlo cuatro veces más, venimos aquí le damos a duplicar 4, le
+[08:11] cambiamos el nombre, bajamos, venimos a buscar el vídeo, lo eliminamos y subimos el siguiente y le
+[08:21] damos a next, volvemos a repasar que todo esté bien, bit 0012, skip, original, aquí vemos que ya se
+[08:33] mantiene todo lo que hemos hecho antes, así que no hay que preocuparse mucho, nos aseguramos de que
+[08:39] esté todo sin marcar, le damos a dan y ya tendríamos el segundo vídeo, vamos a hacer lo
+[08:44] mismo por el tercero, el cuarto y el quinto, metemos el último y ahora en el próximo vídeo
+[08:49] vamos a ver cómo duplicar este conjunto de anuncios para poder atacar a cuatro intereses
+[08:54] diferentes, vamos al último y los veo en el siguiente.

@@ -1,0 +1,63 @@
+# 25-02-2-creando-campaa-calentamiento — 2. Creando Campaña Calentamiento.mp4 (06:48)
+[00:00] vamos a darle a crear, seleccionamos interacción, engagement, siempre vamos a usar sales, ventas
+[00:07] porque lo que queremos son ventas pero en esta campaña de calentamiento vamos a escoger engagement,
+[00:12] interacción, venimos aquí, le damos vamos a seleccionar manual, le damos a continuar,
+[00:17] aquí ponemos campaña de calentamiento, vamos a ponerle 5 euros, no hay que tocar nada más
+[00:27] aquí, le damos al nivel de adseto, podemos venir aquí, le damos a next, es lo mismo, aquí con version
+[00:34] location vamos a seleccionar facebook page y automáticamente ya se nos va a seleccionar esto,
+[00:40] vamos a maximizar por número de likes, vamos a seleccionar la página de facebook que os habéis
+[00:47] creado, vosotros seguramente tendréis sólo una pero si tenéis más aseguraros de seleccionar la
+[00:52] página de facebook de el producto en cuestión, vamos bajando, aquí ponemos que la campaña
+[00:57] arranque a las 12 del día siguiente como siempre, si no hay que tocar nada más y aquí en países
+[01:05] vamos a seleccionar los países a los cuales vamos a hacer la publicidad, de normalmente
+[01:10] será el top 5 que sería Australia, Holanda, vamos a borrar nuestro país, España en mi
+[01:20] caso, tenemos United Kingdom, United States y Canadá, esta campaña la vamos a dejar raneando
+[01:32] mínimo por un día, que gaste el total de 5 euros pero si no tenéis mucha prisa para empezar a
+[01:38] lanzar anuncios y no es importante meterle 10 euros más la podéis dejar raneando por 3 días,
+[01:43] aquí no vamos a tocar absolutamente nada y si queréis de título del adset podemos meter
+[01:50] número de likes, esto no importa demasiado pero siempre es bueno ser organizado, vamos a darle
+[01:55] o a next o a nivel de anuncio, es exactamente lo mismo, aquí vamos a crear 5 anuncios, el objetivo
+[02:02] es poner cosas que sean muy verdes que se llama que no nos pueda dar absolutamente ningún tipo
+[02:07] de problema, sean frases motivacionales, fotos de perros o de gatos, cualquier cosa así pero
+[02:13] incluso si por ejemplo metéis a personas que no sean personas que se les vea carne porque
+[02:18] puede ser que facebook lo tome por donde no toca, ahora queremos el objetivo es que facebook nos
+[02:25] apruebe los cinco anuncios y si luego cuando arrancamos a tirar anuncios de verdad digamos nos
+[02:31] rechazan uno el ratio va a ser más bajo y si por ejemplo lanzamos cuatro de estos cuatro nos
+[02:36] rechazan uno es un 25% pero si ya tenemos cinco anuncios aprobados por facebook antes es mucho
+[02:44] mejor, aquí podéis meter cualquier cosa, perro feliz, bajamos, tenemos aquí setup creative,
+[02:54] aquí es donde vamos a poner el anuncio pero antes tenemos que descargarnos alguna foto, podemos
+[02:59] ir a camba, creáis un diseño de camba con formato 1080 por 1080, venís aquí, elementos podéis
+[03:07] poner happy dog, cualquier foto sirve, vamos a sacar esta, esto lo haríamos cinco veces porque
+[03:21] queremos poner cinco anuncios, como he dicho aquí cualquier cosa sirve pero que sea muy verde,
+[03:34] que no nos pueda dar absolutamente ningún tipo de problema, no hace falta que haga cinco,
+[03:39] hacéis esto, os las descargáis, venís aquí, formato 1080 por 1080, download, volvemos a facebook
+[03:48] ahora que ya hemos descargado las fotos, le damos aquí image at, vamos a buscar las fotos,
+[03:53] seleccionamos la foto, open, le damos a next, cuando lancemos los anuncios aquí sí vamos a
+[03:59] tener que poner algo, ahora no importa, aquí facebook te va a decir si quieres que te haga
+[04:05] variaciones a tu foto, por norma general le vamos a decir que no, le damos un momento que piense y aquí
+[04:11] si alguna de estas fotos gusta más que la vuestra, podríais usarla pero yo no lo recomiendo, al menos
+[04:18] a mí si me paso horas haciendo un anuncio quiero que la gente lo vea exactamente igual como lo he
+[04:24] hecho, no como quiere facebook, ahora ya tendríamos la primera foto para poner más,
+[04:30] vamos a venir aquí, le damos a duplicar, 4, duplicate, aquí podéis meter cualquier nombre,
+[04:42] no importa para absolutamente nada, ferro feliz, trase motivacional, ferro feliz 3, 4, ya os digo,
+[04:51] esto es absolutamente indiferente y ahora iríamos uno por uno de estos anuncios y cambiaríamos
+[05:00] lo que queremos aquí es no tener solo un creativo aprobado sino tener por lo menos 5, aquí podemos
+[05:06] hacerlo de varias formas, una es darle aquí para limpiar todo, la otra es venir aquí, change media,
+[05:11] aquí seleccionamos la otra foto que nos hemos descargado, continuar y ahora aquí ya veis que
+[05:18] tenéis la otra foto, haríamos lo mismo por las otras 3 y le damos a publicar, en este caso como
+[05:25] yo le he dado a publicar a nivel de anuncio solo se ha publicado el anuncio en cuestión, si queréis
+[05:30] que se publique todo de una podéis venir aquí y le dais a publicar, ahora no me deja porque ya
+[05:36] ha publicado esta sola, entonces lo que hacemos es venir aquí, revivo en publish y publicamos las
+[05:42] otras cuatro, muy importante fijarse en esto que nos quede nada aquí, ahora si vemos que no
+[05:47] está el botón azul que teníamos antes que ya está todo publicado, voy a volver a hacer
+[05:52] esto un momento, si cuando hemos creado esto la primera vez venimos aquí a campaña vamos a poder
+[05:57] darle a publicar y se va a publicar todo de una, pero si habéis hecho como yo y lo habéis dado a
+[06:02] publicar a nivel de anuncio, se va a publicar solo el anuncio y el conjunto de anuncios y luego
+[06:08] para publicar los demás tenemos que venir aquí, review en publish, le damos y se publican las
+[06:15] demás fotos, ahora veis que me sale esta foto aquí, esto es la foto de perfil de la página
+[06:19] de facebook, no le hagáis ningún caso, si lo tenéis como lo tengo yo ahora y aquí arriba no hay
+[06:25] nada para publicar es que está perfecto, ya tenemos la campaña raneando, esto va a tardar un rato,
+[06:31] a veces tarda ahora, a veces tarda menos o a veces tarda más, pero ya tendríamos la campaña
+[06:36] de calentamiento raneando, como mínimo lo vamos a dejar ranear por un día que gaste 5 euros y
+[06:43] podéis dejarla dos o tres días, si no tenéis mucha prisa para empezar a lanzar los anuncios
+[06:47] incluso a mejor.

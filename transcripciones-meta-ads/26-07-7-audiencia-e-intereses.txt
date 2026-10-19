@@ -1,0 +1,101 @@
+# 26-07-7-audiencia-e-intereses — 7. Audiencia e Intereses.mp4 (08:10)
+[00:00] aquí es donde podemos seleccionar la edad de las personas que van a ver nuestros
+[00:04] anuncios si estáis haciendo un producto que no es ni para gente muy joven ni para
+[00:08] gente muy grande que es un producto para todos digamos recomiendo que dejéis
+[00:12] esto así y a facebook optimiza y busca a las personas con más posibilidad de
+[00:17] que nos compren si estáis haciendo un producto de anti envejecimiento por
+[00:21] ejemplo podéis venir aquí y seleccionar es más de 35 más de 30 yo
+[00:26] recomendaría meterle más de 30 y lo mismo que acabamos de decir y luego
+[00:31] facebook se encarga de encontrar a las personas ideales pero por norma
+[00:37] general queremos darle la máxima libertad posible a facebook así que lo vamos a
+[00:42] dejar exactamente como está lo mismo para géneros si estamos haciendo un
+[00:46] producto que es sólo para mujeres obviamente vamos a venir aquí
+[00:49] seleccionamos mujeres si estamos haciendo un producto que es tanto para
+[00:53] hombres de mujeres lo dejamos así y a facebook va a decidir a quién quiere
+[00:58] enseñarles los anuncios esto por ahora no vamos a tocarlo ya más adelante vais
+[01:03] a ver un vídeo en el cual vamos a enseñar cómo excluir a la gente que ya nos
+[01:07] ha comprado porque en nuestro caso en dropshipping muchas veces la gente no
+[01:12] vuelve a comprar así que no queremos que facebook siga enseñando los
+[01:16] anuncios a esa gente como ya he dicho más adelante vais a tener un
+[01:20] vídeo el tema de los idiomas si bien es verdad que antes era recomendable por
+[01:25] ejemplo si hacías anuncios en español seleccionar aquí Spanish all sería todos
+[01:31] los tipos de Spanish cada vez facebook está más optimizado es más inteligente
+[01:36] la inteligencia artificial de facebook detecta perfectamente si nuestros
+[01:40] anuncios están en español y en caso de que sea así va a enseñar nuestros
+[01:44] vídeos sólo a la gente que habla español aquí es donde vamos a
+[01:48] seleccionar los intereses como hemos dicho ahora estamos haciendo una campaña de
+[01:52] testeo de intereses aquí también quiero que entendáis algo una vez más queremos
+[01:57] darle libertad total a facebook es decir no queremos limitarlo diciéndole enseña
+[02:04] los anuncios sólo a gente que le interesa esto pero al principio como nuestro
+[02:08] pixel nuestro conjunto de datos está frío que se llama es decir no tiene
+[02:13] ninguna información le damos un empujoncito a facebook y le decimos
+[02:16] yo creo que a mi cliente ideal le interesa tal cosa por ejemplo si estamos
+[02:21] haciendo un producto para perros aquí vendríamos y podemos poner pet owners o a
+[02:28] ver ponemos pet y nos sale pet pet store lo ideal es que metamos un
+[02:35] interés de uno a 25 millones porque si por ejemplo meto este interés 400
+[02:41] millones es casi casi como no poner nada pero no es obligatorio incluso
+[02:45] podéis poner un par de intereses que sean más pequeños de uno a 25
+[02:49] millones y luego tener un par de intereses más amplios como sería este de
+[02:54] pets y luego uno lo vamos a dejar lo que se llama broad que significa que no vamos
+[02:59] a poner ningún interés y vamos a dejar a facebook que haga absolutamente lo que
+[03:03] quiera para buscar los intereses para nuestro producto aquí en este mismo
+[03:07] documentos de home prompt para chat gpt copiamos el prompt
+[03:12] vamos a chat gpt lo metemos aquí aquí vamos a meter la url nuestro
+[03:17] producto luego tenemos un follow-up prompt esto que viene aquí ya vemos que nos
+[03:22] tirado grooming doghouse que está perfecto le vamos a meter el prompt de
+[03:26] seguimiento el primero que vemos por ejemplo cesar millán vamos a ver si está en
+[03:31] facebook no todos los intereses van a estar en facebook tenéis que ir jugando y
+[03:37] ver que encontráis lo del prompt de chat gpt es orientativo por ejemplo si
+[03:42] estamos haciendo un producto para perros para el grooming que sería como
+[03:47] cortarles el pelo a las uñas lo que sea tenéis aquí metéis literal pet grooming
+[03:52] veo que no sale nada perfecto entonces vamos a tener que tirar más de
+[04:00] imaginación metemos pet
+[04:03] pet food aquí los podemos ordenar por tamaños vamos viendo qué es lo que
+[04:07] nos llama la atención animal planet me suena que es un canal grande a ver
+[04:13] si lo encontramos en facebook ahí lo tenemos por ejemplo este estaría bien no es
+[04:21] muy grande tiene unos 50 millones vamos a seleccionar animal planet y luego venimos
+[04:27] aquí arriba y le cambiamos el nombre una vez hayamos puesto los anuncios y
+[04:32] tengamos todo listo toda esta parte de aquí que ahora vamos a hacer en un
+[04:37] momento vendríamos aquí duplicaríamos cuatro veces y cada uno de estos
+[04:42] conjuntos de anuncios tendrían los mismos anuncios dentro pero
+[04:46] atacarían intereses diferentes por ejemplo este de aquí volveríamos a buscar el
+[04:50] interés y cambiaríamos animal planet por algún otro
+[04:58] podemos poner dog mam y dog dad por ejemplo a ver
+[05:03] dog mam
+[05:06] uy
+[05:10] no van a salir si no ya veis que facebook te da sugerencias le ponéis dog y
+[05:17] aquí buscamos un interés que no sea muy grande porque ahora vamos a querer hacer
+[05:22] dos que no sean tan grandes y luego ya metemos un parque que sean más grandes
+[05:27] este podemos probar dog lovers venimos aquí no es muy pequeño pero como ya os
+[05:33] he dicho está bien
+[05:35] el interés para que os hagáis una idea es un 5% del trabajo es decir si el
+[05:41] creativo es bueno no importa mucho qué interés le metamos que facebook va a
+[05:45] conseguir encontrarnos a nuestro cliente ideal y ahora cada vez más
+[05:49] importan menos los intereses porque facebook está tan optimizado que la
+[05:54] inteligencia artificial analiza tus creativos y según el texto según los
+[05:59] visuales según absolutamente todo lo que aprende del creativo ya le enseña a
+[06:04] una persona o otra aquí buscamos más intereses podemos probar todos estos y
+[06:09] no nos termina de gustar como siempre le podemos decir
+[06:14] dame cosas más concretas como dog
+[06:20] y ahora lo mismo podéis venir aquí pet her care pet care pet grooming
+[06:25] absolutamente todo lo que se os ocurra y vamos a buscar un par de intereses más
+[06:30] pet grooming vemos que tampoco nos sale vamos a jugar con dog y con pet
+[06:36] breed
+[06:39] este es demasiado pequeño y no es un interés veis que pone esto nosotros estamos
+[06:43] buscando intereses otra estrategia que está buena también es buscar marcas
+[06:50] grandes por ejemplo a ver si sale pet lap
+[06:54] pet lap co no no sale pero hay veces que hay marcas grandes que también salen
+[07:00] por aquí entonces van a poner dog y vemos si hay algo que nos llave la
+[07:06] atención obviamente que esté relacionado con nuestro producto no vemos nada
+[07:11] volvemos aquí pet care podemos probar a ver pet health esto está bueno pet care
+[07:22] vemos que está en ese rango de una 25 millones una vez más ya he dicho esto
+[07:28] es muy orientativo cada vez más el creativo hace el targeting así que
+[07:32] lo de los intereses importa cada vez menos vamos a buscar otro aquí y el último
+[07:37] lo vamos a meter lo que se llama broad
+[07:40] vamos bajando
+[07:43] borramos el interés y en este conjunto de anuncios aquí facebook puede hacer
+[07:47] exactamente lo que le dé la gana este es el objetivo nosotros queremos no
+[07:53] tener que poner ningún interés y que facebook nos encuentre nuestro cliente
+[07:57] ideal porque así tiene todas las opciones del mundo y el mercado es
+[08:01] mucho más amplio pero al principio como hemos dicho le damos un empujoncito y
+[08:05] hasta que no lleguemos a las 100 ventas o así vamos a seguir probando intereses

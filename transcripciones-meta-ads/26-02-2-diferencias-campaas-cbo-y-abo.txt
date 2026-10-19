@@ -1,0 +1,29 @@
+# 26-02-2-diferencias-campaas-cbo-y-abo — 2. Diferencias Campañas CBO y ABO.mp4 (02:53)
+[00:00] En Facebook hay dos tipos de campañas, es claro que se llaman ABO y CBO. Como ya hemos dicho, aparte
+[00:06] de la campaña de calentamiento, siempre vamos a optimizar por ventas porque lo que queremos es
+[00:11] conseguir justo esto, ventas. Venimos aquí. Next. Y aquí veis que pone presupuesto de campaña y
+[00:19] presupuesto de conjunto de anuncios, campaign budget y asset budget. Esto es lo que se
+[00:24] llaman CBOs y ABOs. Si seleccionamos el gasto que Facebook puede hacer de nuestros anuncios a
+[00:32] nivel de campaña, es decir, aquí, campaign budget, esto es lo que se llama un CBO que ahora es lo
+[00:39] mismo que Advantage Plus, es decir, si estamos haciendo un CBO, estamos haciendo un Advantage
+[00:46] Plus y si venimos aquí y seleccionamos asset budget, estamos haciendo lo que se llama un
+[00:52] ABO, asset budget optimization y le estamos diciendo a Facebook cuánto se puede gastar a nivel de
+[00:59] conjunto de anuncios. Luego aquí vendríamos y aquí seleccionamos cuánto se puede gastar. Para
+[01:04] poner un ejemplo práctico, si estamos haciendo un CBO o Advantage Plus, que es exactamente lo
+[01:10] mismo ahora, antes era diferente, pero ahora es exactamente lo mismo y le metemos 100 euros y
+[01:16] aquí dentro tenemos 10 conjuntos de anuncios. Facebook va a repartir estos 100 euros entre
+[01:25] estos conjuntos de anuncios según le convenga, es decir, si este va muy bien y este va muy mal,
+[01:30] no va a gastar 10 y 10. Seguramente va a gastar mucho más en este que va bien y este que va mal lo
+[01:36] va a ignorar. Si nosotros estamos haciendo asset budget optimization, vamos a venir aquí,
+[01:42] vamos a seleccionar el número que queramos, en este caso 100. Facebook se va a gastar 100 en este
+[01:50] conjunto de anuncios, no en toda la campaña. Como estamos seleccionando asset budget optimization,
+[01:58] vamos a tener que venir a cada uno de estos assets y seleccionar cuánto queremos que se
+[02:03] gaste Facebook. Cuando estemos en la fase de testeo, cuando estemos probando un producto
+[02:08] y testeando, cuando estemos haciendo campañas de testeo, cuando estemos probando el producto,
+[02:13] vamos a hacer siempre AVOs, que se llama asset budget optimization y vamos a meter nuestros
+[02:19] creativos dentro de estos conjuntos de anuncios y le vamos a decir a Facebook cuánto se puede
+[02:24] gastar. Recomendamos arrancar con 20 de presupuesto por cada conjunto de anuncios y ya vamos a ver
+[02:30] luego en más profundidad todo eso y luego cuando estemos escalando, cuando ya tengamos un
+[02:36] producto ganador y tengamos varios creativos ganadores, los vamos a meter en CBOs o en campañas
+[02:42] de Advantage Plus y vamos a decidir cuánto se puede gastar Facebook a nivel de campaña.
+[02:47] Todo esto ya vamos a entrar más en detalle luego, pero para que tengáis una primera idea.

@@ -1,0 +1,9 @@
+# 26-13-13-error-a-evitar-cuidado — 13. Error a Evitar (Cuidado).mp4 (00:46)
+[00:00] Uno de los errores principales que comente mucha gente es que cuando llegamos a este paso en vez
+[00:05] de optimizar por compras al ver este error ponen por ejemplo añadidos al carrito o algo así luego
+[00:11] vienen preguntándonos que porque tienen muchos añadidos al carrito pero ninguna venta. Facebook
+[00:16] es tan potente que si nosotros le decimos que optimice por añadidos al carrito esto es
+[00:21] exactamente lo que hace. Este error de aquí nos está diciendo que este pixel no tiene ninguna
+[00:27] conversión ninguna venta en los últimos 14 días no es nada malo es un pixel nuevo obviamente no
+[00:33] tiene ninguna venta entonces podemos ignorar completamente este mensaje y seguir con nuestra
+[00:41] vida una vez más siempre siempre siempre optimizamos por compras.

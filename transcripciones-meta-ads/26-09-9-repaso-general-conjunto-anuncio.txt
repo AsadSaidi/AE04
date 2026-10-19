@@ -1,0 +1,24 @@
+# 26-09-9-repaso-general-conjunto-anuncio — 9. Repaso General Conjunto Anuncio.mp4 (01:13)
+[00:00] Ahora vamos a borrar todo esto porque, como ya he dicho, lo tenemos que hacer una vez tengamos los anuncios aquí dentro.
+[00:06] Ahora lo vais a ver, borramos todo.
+[00:09] Vamos a hacer una repasada general.
+[00:11] Aquí, AdSetBadgetOptimization es lo único que tenemos que tocar.
+[00:15] Aquí vamos a poner el nombre del interés que acabamos de seleccionar.
+[00:21] Siempre Website.
+[00:22] Maximizar el número de conversiones.
+[00:24] Aquí elegimos el pixel que hemos creado antes.
+[00:27] Purchase.
+[00:28] Vamos a ignorar esto siempre.
+[00:30] El budget, como ya hemos dicho, 20.
+[00:33] Si no tenéis mucho presupuesto, le podéis meter 10 o incluso 5.
+[00:38] País es muy recomendable arrancar con el top 5.
+[00:41] Otra estrategia es hacer México y Estados Unidos solo en español.
+[00:46] O si no pagáis diva, podéis probar alguno de los países grandes de Europa también.
+[00:50] Incluyendo España, edad.
+[00:52] Siempre que se pueda, se deja así.
+[00:54] Género, a no ser que sea un producto específico de hombre o mujer, lo dejamos así.
+[00:58] Aquí metemos el interés.
+[01:00] Esto, por norma general, no lo vamos a tocar nunca.
+[01:05] Vamos bajando y aquí ya le daríamos a siguiente.
+[01:09] Ahora ya estamos a nivel de anuncio.
+[01:10] Vamos a ver cómo seteamos todo esto.
