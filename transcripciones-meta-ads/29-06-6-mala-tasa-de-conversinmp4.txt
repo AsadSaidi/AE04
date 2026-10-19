@@ -1,0 +1,21 @@
+# 29-06-6-mala-tasa-de-conversinmp4 — 6. Mala Tasa de Conversiónmp4.mp4 (01:48)
+[00:00] La tasa de conversión obviamente es lo más importante porque al final lo que todos queremos es vender
+[00:04] para verla tenéis que venir aquí a Shopify Analytics y es la tercera métrica que nos da,
+[00:11] aquí tenemos los Initiate Checkout y los añadidos al carrito. Como referencia vamos a apuntar a un
+[00:17] 2, 4% de conversión pero esto depende muchísimo del precio al cual estáis vendiendo. Si vuestro
+[00:23] producto vale mil euros no es lo mismo que si vale 10 por norma general apuntaremos a un 2,
+[00:28] 4%. A la hora de mejorar la conversión es un poco más complicado porque no es una métrica que esté
+[00:34] aislada sino que hay muchísimos factores que lo influencian pero alguna de las cosas que podemos
+[00:39] hacer es primero asegurarse de que la tienda carga rápido para hacerlo podemos ir a pagespeed.web.de
+[00:46] aquí le metéis la url de la tienda y veis que os da un resultado todo lo que esté por arriba de
+[00:52] 70 está ok todo lo que esté por abajo de 50 es bastante malo. Lo siguiente que podemos hacer es
+[00:59] mejorar nuestros creativos si el tráfico que llega a la página está más caliente está más listo para
+[01:04] comprar obviamente la conversión va a mejorar poner en práctica todo lo que hemos dicho en el
+[01:09] apartado de la tasa de añadidos al carrito por razones obvias también va a ayudar a la
+[01:15] conversión y lo último que os puedo recomendar es si algo no está funcionando como queremos
+[01:19] seguir haciendo pruebas probar diferentes ángulos de mercado diferentes tipos de creativo hasta
+[01:25] hasta encontrar lo que nos funciona pero no perdáis ni demasiado dinero ni demasiado tiempo en el proceso
+[01:31] ya hemos dicho que no queremos gastar más de 500 por producto y los test deberían ser
+[01:37] cuanto más rápidos mejores no puede ser que estemos un mes para decidir si un producto es
+[01:42] bueno o no si no encontramos algo que funciona relativamente rápido cambiamos y vamos al
+[01:47] siguiente producto

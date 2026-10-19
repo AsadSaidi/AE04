@@ -1,0 +1,7 @@
+# 30-07-7-ejemplo-prctico-1-0-ventas-y-0-aadidos-al-carrit — 7. Ejemplo Práctico 1 - 0 Ventas y 0 Añadidos al Carrito - Apagamos.mp4 (00:28)
+[00:00] Vamos a poner un ejemplo práctico para cada uno de los escenarios, en el caso de que estemos raneando
+[00:05] nuestros cinco conjuntos de anuncios. Pasa un día y tenemos cero ventas y cero añadidos al carrito,
+[00:11] lo que vamos a hacer va a ser muy fácil. Venimos aquí y vamos a pagar todos los anuncios.
+[00:16] Como ya hemos dicho, muy recomendable si el primer día, después de haber gastado cien
+[00:20] dólares, tenemos cero ventas, cero añadidos al carrito, no hay ninguna intención de compra,
+[00:25] vamos a ir a por el siguiente producto.

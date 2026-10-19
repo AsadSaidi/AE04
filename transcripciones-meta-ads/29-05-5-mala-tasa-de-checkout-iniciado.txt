@@ -1,0 +1,15 @@
+# 29-05-5-mala-tasa-de-checkout-iniciado — 5. Mala Tasa de Checkout Iniciado.mp4 (01:24)
+[00:00] La siguiente métrica que queremos ver es la tasa de inicio de checkout, esto va muy ligado a la tasa de añadidos al carrito
+[00:07] y es el porcentaje de personas que hicieron clic en checkout después de añadir tus productos al carrito.
+[00:12] La tasa de añadidos al carrito cuenta cuánta gente le da clic a este botón y la tasa de checkouts iniciados es cuánta gente le da a este.
+[00:21] Como referencia queremos que un 75% de la gente que añade al carrito termine dándole a checkout lo cual sería un 4-7%.
+[00:29] Si vemos que la caída es de más de un 75%, seguramente es que hay algún problema en el carrito.
+[00:35] Lo primero que tenemos que chequear es si hay algún problema visual o técnico.
+[00:39] Asegúrate de que los descuentos mostrados en tu página de producto aparecen correctamente en el carrito y evita inicialmente añadir cualquier ápsel o producto extra en el carrito
+[00:48] porque esto puede afectar muchísimo la conversión.
+[00:51] Puede ser que sea por una falta de elementos de confianza en el carrito desplegable, ya sea porque no hay garantía de evolución del dinero,
+[00:57] no hay lo que se llama payment badges que sería esto de aquí, esto de aquí abajo,
+[01:03] o lo último sería por falta de urgencia o escasez en el carrito desplegable.
+[01:07] Esto yo solo lo probaría si tenemos una caída muy extrema porque el abusar de esto puede ser que parezca un poco escami
+[01:16] o que estemos pusheando de más al cliente y puede llegar a ser negativo.
+[01:20] Hay que ir con mucho cuidado de que le metemos y cómo lo metemos.

@@ -1,0 +1,76 @@
+# 30-02-2-escenarios-fase-testeo — 2. Escenarios Fase Testeo.mp4 (06:34)
+[00:00] ya hemos lanzado nuestros primeros anuncios estamos de pleno en lo que es la fase de testing ahora
+[00:05] vamos a ver los diferentes escenarios y que hacer en cada caso pero quiero que quede muy claro que los
+[00:10] primeros días o incluso la primera semana es muy normal y muy probable que no seas rentable el objetivo
+[00:16] aquí es encontrar cosas que funcionan ya sean intereses o anuncios y luego optimizar según
+[00:22] eso si nos hemos gastado 100 en publicidad y tenemos 0 ventas vamos a pagar las campañas y
+[00:26] testear nuevos productos la única excepción sería si ha habido algún problema técnico o si tenemos
+[00:33] muchísimos añadidos al carrito es decir si ha habido mucha intención de comprar en este caso lo que
+[00:37] podemos hacer es intentar analizar por quién nadie compró mejorar la oferta incluso bajar el precio
+[00:43] y volver a ejecutar el mismo test si no se da ninguno estos casos os recomiendo muchísimo que
+[00:48] abandonéis el producto y vayáis a por lo siguiente para optimizar tanto esfuerzo como dinero no
+[00:53] vale la pena enaborarse de un producto si algo tenemos bueno los dropshippers que podemos estar
+[00:58] testeando un producto el lunes el martes a ver que no es bueno haber perdido solo 100 dólares y
+[01:04] el miércoles estarán testeando uno nuevo si hemos gastado 100 dólares y hemos tenido como
+[01:09] mínimo una venta esto es buena señal significa que el producto tiene demanda lo que vamos a
+[01:14] hacer va a ser buscar los ad sets conjuntos de anuncios que son o bien rentables o break
+[01:19] y ven es decir que no estamos ni ganando ni perdiendo dinero vamos a pagar los que no sean
+[01:23] rentables o break y ven después del primer día es decir al final del día a la noche y lo que vamos
+[01:28] a hacer aquí es testear cada día tres intereses nuevos esto obviamente va a depender un poco de
+[01:33] vuestro batlle pero muy recomendable que después del primer día pone pongamos que de los cinco
+[01:39] intereses que hemos intentado uno está bien es decir es rentable o break y ven vamos
+[01:44] a matar los otros cuatro e intentar tres intereses nuevos por día esto ya lo hemos hablado brevemente
+[01:49] pero durante esta fase de testeo es muy importante tener claro que probablemente durante los primeros
+[01:55] días no vamos a ser rentables tenemos que tener una cantidad de dinero que estemos dispuestos a perder
+[02:00] si no nos hace falta ni que hagamos publicidad y también os recomiendo que nunca paséis de
+[02:05] los 500 por producto si no tenéis mucho presupuesto incluso podéis llegar a 200 con la
+[02:10] excepción de si es un producto que algunos de los mentores os hemos dicho que si o si es buenísimo
+[02:15] ahí podríais considerar invertir un poco más pero si hemos gastado máximo 500 y no somos rentables
+[02:22] yo iría a por el siguiente producto los anuncios que sean rentables los vamos a mantener raneando
+[02:27] durante tres días y luego vamos a analizar los resultados aquí tenemos dos escenarios si
+[02:32] estos anuncios siguen siendo rentables vamos a venir aquí lo que vamos a hacer va a ser
+[02:37] utilizar la estrategia de triple duplicación no vamos a entrar en detalle ahora porque hay un
+[02:42] vídeo en el cual explico exactamente lo que es esto cuando tengamos una venta vamos a pagar los
+[02:48] otros dos haches y si al final del día seguimos siendo rentables vamos a aumentar un 25% el presupuesto
+[02:54] esto lo vamos a hacer cada día si estamos haciendo esto del 25% y seguimos rentables
+[02:59] por tres cuatro días vamos a usar otros métodos para escalar que vamos a ver en el siguiente
+[03:04] módulo aquí si el primer día somos rentable pero vemos que el segundo día baja muchísimo la
+[03:09] rentabilidad lo que podemos hacer es considerar aumentar un 10% en vez de un 25 y cuando estemos
+[03:16] haciendo esto y tengamos haches que lleven más de cuatro días raneando siempre acordarse de filtrar
+[03:22] por tres días más hoy lo que realmente nos importa es esto el roas de los últimos tres días más
+[03:28] hoy si hacemos la triple duplicación y al final del día no somos rentables lo que vamos a
+[03:32] hacer va a ser scale down reducir el budget un 10% y si el siguiente día volvemos a no ser rentables
+[03:38] vamos a pagar ese hache en caso de que el hache original el que está a 20 el aivio que está a
+[03:45] 20 sigue siendo rentable podemos considerar volver a ranear la triple duplicación si la
+[03:51] soft metrics que es el ctr el cpc el costo de añadido al carrito son buenísimas podemos
+[03:56] también volver a considerar ranear la triple duplicación o si esa prueba la hicimos durante
+[04:01] un periodo festivo que la gente no está en modo de compra también a no ser que se cumpla uno de
+[04:05] estos requisitos y hemos intentado la triple duplicación y no la hemos podido escalar significa que
+[04:11] estos anuncios seguramente no son tan buenos como para gastar a presupuestos más altos y vamos
+[04:16] a ir a seguir testeando otras cosas en caso de que hagamos la triple duplicación y no tenemos
+[04:21] ninguna venta en ninguno de los tres haches después del breakeven point apagamos los
+[04:26] haches y consideramos probar cosas diferentes volvemos aquí arriba este aivio de 20 lo dejamos
+[04:32] ranear por cuatro días y no somos rentables vamos a apagar los haches y aquí ya sea que seamos
+[04:38] rentables o que no lo que es muy importante que hagamos es analizar el country breakdown esto
+[04:43] que hemos visto también en otro vídeo e identificar si hay algún país en el cual sí
+[04:47] somos rentables en caso de que sea así vamos a optimizar por ese país en caso de que no
+[04:52] hayamos sido rentables apagamos los haches y lo que vamos a hacer va a ser analizar lo que se
+[04:57] llaman las soft metrics que sería el hook rate el ctr el atc cpm y todo esto y según estos datos
+[05:03] vamos a probar diferentes cosas y volver a testear si tenemos un hook rate bajo pero todas
+[05:08] las otras métricas son buenas es muy fácil lo que tenemos que hacer es cambiar el hook y
+[05:12] mantener el resto del vídeo vamos a hacer con tres hooks nuevos y volvemos a testear si
+[05:17] tenemos un mal ctr directamente lo que vamos a hacer va a ser probar anuncios
+[05:21] completamente nuevos usando los mismos intereses porque esto significa que el problema seguramente
+[05:26] es el anuncio y no los intereses si lo que nos falla es la tasa de añadidos al carrito podemos
+[05:32] probar con una oferta nueva como ya hemos dicho en vez de vender 1 2 y 3 hacer 1 2 más 1 gratis y
+[05:39] 3 más 2 gratis por ejemplo hacer lo que se llama bogo que es buy one get one free o simplemente
+[05:45] va a bajar el precio si bajando el precio seguimos estando dentro de los rangos de roas que
+[05:50] nos interesan también es algo que podemos considerar en caso de que el problema sea que
+[05:55] tenemos cpm es altos y hemos visto en el otro vídeo varias formas de cambiar esto pero lo más
+[05:59] fácil sería o bien cambiar de mercado o incluso considerar testear foto ads si es
+[06:05] que estamos haciendo vídeos porque normalmente tienen mucho mejores cpm las fotos que los
+[06:10] vídeos esto sería todo aquí recordad que es muy importante no perder más de 500 por
+[06:16] producto no os enamoreis de más de algún producto intentad testear el máximo en el
+[06:20] mínimo tiempo posible y recordad que al principio es muy normal que no seamos rentables estamos
+[06:25] aprendiendo muchas cosas nuevas y la única diferencia entre los que lo consiguen y los que
+[06:30] no es que los que no lo consiguen dejan de intentarlo vamos a darle duro

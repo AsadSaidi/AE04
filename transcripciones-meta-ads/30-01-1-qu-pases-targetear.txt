@@ -1,0 +1,58 @@
+# 30-01-1-qu-pases-targetear — 1. Qué países targetear.mp4 (04:17)
+[00:00] vídeo rápido en el que vamos a ver qué países tenemos que targetear y por qué, lo
+[00:04] recomendable es arrancar con top 4, US, UK, Australia y Canadá, Nueva Zelanda es
+[00:10] opcional porque si bien es verdad que tiene bastante poder adquisitivo y es de habla
+[00:14] inglesa como los otros cuatro, el problema que tiene es que es muy pequeño, son
+[00:18] cuatro millones de habitantes entonces los anuncios se cansan muy rápido, no
+[00:22] es nada escalable, arrancamos por estos cuatro porque son los países de
+[00:26] habla inglesa con más poder adquisitivo, ya vais a ver que hagáis lo que hagáis
+[00:30] del mercado rey siempre es de Estados Unidos pero aquí hay varias cosas a
+[00:35] tener en cuenta, al ser los mejores países que pasa, que absolutamente todo el
+[00:39] mundo quiere hacer publicidad en estos países entonces el CPM es más alto que
+[00:45] en otros países y lo que puede llegar a pasar es que por ejemplo si targetemos
+[00:48] un país como Saudi Arabia, Saudáfrica, México, países que también tienen
+[00:54] dinero aunque no tanto como puede ser Estados Unidos, lo que pasa es que el CPM es
+[00:59] más bajo es decir el coste publicitario es más bajo y aunque convierta peor puede
+[01:04] ser que nos termine saliendo a cuenta, ahora vamos a ver todo esto en un ejemplo
+[01:09] pero la idea sería esta, arrancamos con top 4 y cuando ya tengamos algo que
+[01:12] funciona vamos a probar de ranear ese mismo H pero en vez de atacar solo el
+[01:17] top 4 aquí dentro le vamos a meter países como podría ser México,
+[01:21] Saudi Arabia y United Arab Emirates, ahora os voy a enseñar nuestro ads manager y
+[01:27] ahí vais a ver qué países estamos usando nosotros y qué países nos están
+[01:31] funcionando y algo muy importante también aquí es a la hora de ranear anuncios
+[01:35] tened en cuenta que por ejemplo si lanzáis anuncios en Alemania o en cualquier
+[01:40] país de Europa habrá que pagar IVA, estos países son buenísimos por
+[01:44] ejemplo Alemania, Francia, Italia, incluso España, Polonia y algún otro pero
+[01:48] tienen el problema del IVA y esto hace que muchas veces ya no nos sea rentable
+[01:53] tarquetear países de Europa que pagan IVA, nosotros no lo hacemos pero también es
+[01:58] verdad que hay gente que tiene LLC en USA y les da igual el tema del IVA y atacan
+[02:02] países de Europa sin pagar IVA aunque no sea del todo correcto no debería pasar
+[02:07] nada esto ya es más a gusto del consumidor, aquí como siempre no hay
+[02:11] una respuesta ni buena ni mala hay países que pueden funcionar muy bien
+[02:14] por un producto y muy mal por otro producto así que la única forma de
+[02:18] saberlo es split-testeando para hacerlo venimos aquí imaginaros que este
+[02:23] ad set o conjunto de anuncios está funcionando increíble lo que vamos a
+[02:27] hacer va a ser vamos a duplicar y en vez de atacar el top 4 vamos a atacar todos
+[02:33] los países que nos de la gana una forma de encontrar países podéis ir a chat
+[02:37] gpt le decís dime todos los países con más poder adquisitivo que crees que
+[02:42] les puede interesar mi producto y si queréis le podéis añadir y que no
+[02:45] paguen IVA, ahora os voy a enseñar los países que estamos targeteando nosotros
+[02:50] también os podéis copiar de estos venís aquí country, le damos a la flechita de
+[02:55] esta de abajo ahora podemos ir a la columna del ROAS, le damos clic y nos va a
+[02:59] ordenar los países de más a menos ROAS, ahí es aquí por ejemplo tenemos
+[03:04] Alemania pero es sólo una venta esto no es indicativo algo es indicativo
+[03:07] cuando por lo menos ha gastado mil de at a spent que esto lo vais a ver
+[03:13] aquí Israel por ejemplo no lo recomiendo porque nos ha dado muchos problemas con el
+[03:17] tema de la guerra así que ahora ya no añadimos más y aquí vais a ver todos los
+[03:22] países que hemos estado targeteando y qué ROAS tiene lo que os recomendamos
+[03:26] hacer es testear todos los países que veis aquí más los del golf country países
+[03:30] árabes países como singapur como Hong Kong todos estos México incluso
+[03:35] podéis probar Colombia todo lo que se os ocurra y a los días cuando
+[03:39] tengáis esta data venís aquí buscáis cuáles son los países que tienen un buen
+[03:44] ROAS y cuáles no los que tienen un buen ROAS los seguís metiendo en los nuevos
+[03:49] assets y los que tienen un mal ROAS los vais eliminando aquí la gracia es que
+[03:53] muchos de estos países aunque convierta peor el tráfico que llega a la página
+[03:57] porque obviamente tienen menos poder adquisitivo que Estados Unidos como meter
+[04:01] ese tráfico a la página es más barato porque los cpm son mucho
+[04:05] mejores mirad aquí 30 22 esto hace que aunque el tráfico convierta peor nos
+[04:10] siga saliendo a cuenta atacar países de estos menos por decirlo de alguna forma
