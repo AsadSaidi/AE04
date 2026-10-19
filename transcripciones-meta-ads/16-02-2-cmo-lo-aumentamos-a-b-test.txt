@@ -1,0 +1,26 @@
+# 16-02-2-cmo-lo-aumentamos-a-b-test — 2. Cómo lo Aumentamos A-B Test.mp4 (02:35)
+[00:00] para tu saber qué hacer o si funciona o no funciona la gente que no tiene ni idea lo que hace es hoy
+[00:07] pone el precio a 30 y mañana lo pone a 35 dice ui hoy he vendido más vale pues dejo este
+[00:13] eso es la puta lotería o sea eso es de no tener ni idea de hacer drop ship it ni comers ni nada vale no tienes ni idea entonces
+[00:19] lo único que tenemos que hacer que ahora lo explico es una entender cómo se aumenta el orden value se aumenta pues con
+[00:26] ofertas bogo de comprar una lluvatuno gratis con ofertas del 50 por ciento con vandals dando regalos
+[00:32] ofreciendo post por chase ofreciendo ápsel sopreciendo ofreciendo productos complementarios
+[00:36] bueno todo lo que os he explicado y os voy a explicar a continuación os vamos a explicar a continuación vale esa sería la manera de aumentar el
+[00:43] orden value bien hasta ahí estamos claros pero
+[00:46] hacer pruebas de hoy cambio hoy no hoy sí hoy no no es no está bien iras vale mar que entonces que hago bien hay
+[00:53] aplicaciones que es la que vamos a utilizar y ahora os voy a enseñar a utilizarla hay
+[00:59] aplicaciones que te dejan en sin tocar nada hacer pruebas es decir tú imagínate yo tengo este producto a
+[01:07] 30 euros vale yo tengo este producto a 30 euros pero también lo quiero probar a 40 pero claro tengo que estar cambiando para ver
+[01:14] cuál vende más o cuál vende menos entonces tendría que estar cambiando la url tendría que estar haciendo por pruebas de hoy
+[01:20] a lo mejor el tráfico era peor bueno por lo dejo un día más y no sabes qué haces entonces hay aplicaciones que se
+[01:25] aman a y b test que hará la ola o la enseño que lo que hace es tú sin tocar nada simplemente pones una comparación de precio como
+[01:31] hemos hecho con los ápsel manda un 50 por ciento del tráfico al precio de 30 euros y un 50 por ciento del tráfico al precio de 40
+[01:39] y luego te da las conclusiones con estadísticas con datos con datos reales no a ojo es decir te dice mira el de 40 ha
+[01:46] convertido peor pero te ha dado más dinero por cada cliente el de 30 tal y sacas conclusiones con datos y no tienes que
+[01:51] estar cambiando tú manualmente haces un testeo y esto es brutal yo sin esto nunca sería rentable
+[01:57] escucharme nunca entonces en esta sección os he explicado esto ahora os enseño la app la instalamos os
+[02:04] explico cómo utilizarla cuando utilizarla cuando parar un test qué test hacemos cuáles son lo más
+[02:09] importantes absolutamente todo pero esto es oro sólo esta sección vale los x dinero porque algunos
+[02:17] habréis pagado mil otros mil 500 otros 2 mil sólo esta sección sólo esta vale todo lo que os hemos
+[02:23] cobrado con la formación con esto os hacéis de oro porque porque esto nadie lo explica casi nadie
+[02:29] sabe esto y casi nadie lo utiliza bien así que os dejo de hacer hype de crear hype y vamos a ello

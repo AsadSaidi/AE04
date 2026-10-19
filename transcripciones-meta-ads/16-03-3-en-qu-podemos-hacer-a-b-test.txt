@@ -1,0 +1,126 @@
+# 16-03-3-en-qu-podemos-hacer-a-b-test — 3. En Qué Podemos Hacer A-B Test.mp4 (08:35)
+[00:00] antes de enseñaros a utilizar la app os tengo que decir qué es lo que se puede
+[00:05] testear vale qué es lo que se puede hacer ab test tienes decir mandas a un
+[00:09] 50 por ciento el tráfico un 20 por ciento que hablaremos de eso a gente que
+[00:13] vea una cosa o ve otra y y por orden de relevancia e importancia bien uno
+[00:20] precio siempre tenéis que testear primero el precio siempre mandáis a uno
+[00:25] a 20 dólares ya otro a 25 con 95 y testeáis porque a veces creemos que
+[00:29] a 20 dólares vende bien pero a veces lo pones a 29 con 95 que son 10 dólares
+[00:33] más y tienes menos conversión pero sacas más dinero entonces esto no lo sabrías
+[00:38] si no utilizas esta app entonces el factor que más influye siempre suele ser el
+[00:43] precio es decir lo que más influye para que una persona te compre o no es el
+[00:47] precio generalmente observamos mejores resultados al probar primero un precio
+[00:51] más alto antes que uno más bajo que quiere decir que si tú estás vendiendo
+[00:55] a 30 o lo ibas a poner a 30 hace un testeo a 40 pero es hombre mar pero voy a
+[01:00] vender menos si vas a vender menos pero a lo mejor esas ventas que te dan menos a
+[01:06] lo mejor te dejan más dinero por cada cliente me explico tú imagínate que
+[01:10] tienes un 2 por ciento de conversión a 30 dólares a lo mejor tienes un 1.5 de
+[01:17] conversión o 1.6 y lo pones a 40 dólares de un me mar vendo menos si
+[01:21] pero es que a lo mejor con ese 1.5 te da más dinero que vendiendo la 30 y encima
+[01:26] tienes menos pérdidos menos problemas de cherry bags de devoluciones de
+[01:30] reembolsos entonces tenéis que desearlo por el dinero que os da cada usuario no
+[01:35] por cuánto vendéis eso es pa tontos hablando claro vale no tengáis miedo a
+[01:39] subir los precios dicho esto no hay nunca una respuesta correcta incorrecta
+[01:45] la única forma de saberlo es testeando es decir mar que es mejor
+[01:48] 29 o 35 ni puta idea de verdad no lo sé si no lo testeas no lo sabes pero lo
+[01:53] tienes que testear con datos con la app que ahora te explico a ponerla vale puedes
+[01:57] experimentar experimentar tanto con precios más altos como con más bajos hasta
+[02:00] encontrar el precio óptimo tú imagínate lo pones de 30 normal y haces un
+[02:04] testeo a 40 y el de 40 no gana luego pones 30 a 35 y 35 no gana dices oye pues
+[02:10] voy a probar en vez de 30 a ponerlo 27 o a 25 si ganas menos pero es que a
+[02:15] lo mejor vendes el doble que lo que vende a 30 entonces te interesa
+[02:17] porque ganas más dinero porque entrar más gente y compra más y esto solo lo vas a
+[02:21] saber si testeas con datos no hoy pongo un precio mañana otro y si yo he tenido 6
+[02:25] ventas y el tuve 4 que el de hoy funciona mejor no puede ser casualidad que la
+[02:30] gente ha convertido más vale entonces muy importante lo hacemos con testeo y lo
+[02:34] primero que testeamos es el precio luego la oferta que sería más o menos el
+[02:39] precio pero la oferta es decir el siguiente factor más influyentes como
+[02:43] estructura es tu oferta esto podría implicar cambiar tu regalo gratuito si
+[02:46] tienes alguno es decir cambiar estos regalos a lo mejor al cambiar estos
+[02:50] regalos hace que vendas más y esto lo tienes que testear con un eiv testin con
+[02:54] un testeo vale luego como pones aquí modificar la estructura de descuentos
+[02:58] por cantidad en lugar de ofrecer compra 2 y llevate un 20% extra puedes probar
+[03:02] con cosas como compra uno y obtener segundo al 50% es decir aquí es compra
+[03:07] uno y compra dos y lleva uno gratis imagínate que esta oferta la tenemos
+[03:11] funciona bien y a lo mejor lo que podemos hacer es el eiv testin poner
+[03:16] directamente esta oferta como principal de compra uno lleva uno gratis
+[03:20] directamente a 59 y compra 3 y lleva uno gratis más los regalos me lo estoy
+[03:25] inventando testeas una oferta diferente para ver cuál es la que más dinero te
+[03:28] deja súper importante vale compra uno y obtener uno gratis por ejemplo
+[03:32] etcétera si en vuestra oferta vendéis más de una unidad del mismo producto
+[03:35] hacer el split test es decir el testeo de preseleccionar la segunda o
+[03:40] tercera opción es decir si estáis vendiendo diferentes unidades como es
+[03:44] este caso nosotros ponemos como la opción principal la segunda pero tenemos que
+[03:49] hacer un testeo poniendo la opción principal la primera para ver cuál
+[03:52] cuál aumenta conversión o cuál hace que la gente se gaste más o si tenemos tres
+[03:55] o de hecho crear una tercera poner la tercera como la principal para que la
+[03:59] gente seleccione esa es decir como la que está preseleccionada entonces podemos
+[04:03] testearlo todo primero precio y luego oferta y es algo que a nosotros nos ha
+[04:07] servido mucho para que incrementar el orden value cuando vendes tres vendes
+[04:11] menos pero nos deja más dinero y a la larga es lo que queremos ganar dinero no
+[04:14] vender más porque vender es sólo para la foto lo que queremos es dinero vale
+[04:17] entonces importante como segundo la oferta y tercero es el above the fall sabe
+[04:24] que mi inglés es muy malo que es la parte superior visible sin desplazarse es
+[04:27] decir cuando esto sale en teléfono móvil miraros lo enseño cuando esto
+[04:30] sale en teléfono móvil como está viendo aquí esto sería el above
+[04:33] the fall por decir alguna manera que es la oferta el banner este la barra
+[04:38] anuncios la foto las reseñas y hasta aquí vale emoji benefits título reseñas y
+[04:43] los bandels un poquito y los regalo pero esto sea sería esto que es lo primero que
+[04:48] ve la gente que es lo más importante nada más que esto esto ya sería descripción y
+[04:52] absolutamente todo que eso también se testea vale pero de entrada sería esto
+[04:55] entonces como tenemos aquí puesto vale sería una vez optimizas precio y
+[05:02] ofertas decir ya esté estado todo lo que lo que tenías que testear con
+[05:05] oferta ahora empezamos a testear esto bien puedes mejorar esta sección
+[05:08] superior de tu página de tu página perdón que me trabo esta sección
+[05:12] incluye el anuncio en bar es decir la barra de anuncios vale esta sección
+[05:17] incluye la primera imagen del producto es decir esto cambiarla imagínate esta
+[05:21] imagen tu la tienes pero a lo mejor haciendo una con más textos o con fondo
+[05:26] mostrando un perro en grande o poner un gif a veces poner un gif con mi
+[05:30] imagen principal funciona vale entonces tenemos que testear que luego os
+[05:34] enseñaremos cómo vale entonces funciona muy bien vale entonces sería aquí
+[05:38] primera imagen de producto la propuesta de valor sería como el antes y el después
+[05:42] es decir bueno el precio a oferta todo lo que tenemos arriba emoji benefits es
+[05:46] decir todo esto que ya tenemos aquí el cambiarlos a veces cambiarlo hace que la
+[05:50] gente compre más y los elementos con mayor a menor impacto a probar son
+[05:54] uno primera imagen del producto es decir lo que es lo que es lo que es
+[05:58] lo primero a probar son uno primera imagen del producto es decir en vez de
+[06:01] cambiar esto poner un gif o cambiar la foto poner una foto con un perro una
+[06:05] señora contenta con el perro y el producto en la mano es decir hacer pruebas
+[06:08] segundo sería la frase de propuesta de valor vale que sería aquí esto el título
+[06:13] es decir sin estrés silencioso y en casa cambiar esto poner otro trim
+[06:17] paus sin sonido de manera profesional ahorra dinero sería
+[06:22] diferente vale luego sería sección de emoji benefits que sería esto de
+[06:25] aquí como ya sabemos y por último sería el color de botón de compra es super
+[06:29] importante el agregar al carrito en vez de que fuese azul ponerlo naranja como
+[06:34] amazon o ponerlo negro vale es decir o ponerlo con esta azul es decir ir
+[06:38] cambiando de color porque ojo el color influye mucho por eso más lo tiene
+[06:41] naranja vale super importante pero nunca tocamos esta sección sin tener a
+[06:46] ver sin haber hecho la ibis del precio y de la oferta esto es después
+[06:49] vale estos cambios no tendrá un impacto tan grande como los de precio
+[06:52] oferta pero son pruebas rápidas que puedes incrementar la conversión entre
+[06:55] un 5 y un 10% literal prueba sólo una cosa a la vez que esto hablaremos así
+[07:00] sabrás con certeza que está afectando la tasa de conversión una por una una por
+[07:03] una vale entonces aquí van bien algunas cosas que las trataremos en la sección
+[07:07] luego vale es decir luego trataremos esto que aquí te toca aquí tocamos por
+[07:13] ejemplo el microsoft clarity es decir la la importancia la rapidez vale la
+[07:18] rapidez de la de la web coño que no me salía perdón y también podremos
+[07:23] estear el orden de todo esto es decir a lo mejor poner esta sección como
+[07:26] secundaria y primero las fax puede aumentar la conversión entonces como vemos
+[07:30] aquí puedes mover o incluso eliminar secciones menos eficaces generalmente
+[07:33] las secciones de testimonios preguntas frecuentes funcionan bien cuando se
+[07:36] colocan más arriba es decir fax arriba en los testimonios que tenemos
+[07:40] ponerlos arriba vale a lo mejor hacer esos testeos cambiar el orden de las
+[07:44] secciones o borrar algunas aumenta la conversión entonces eso también hay
+[07:47] que desearlo luego una nueva plantilla de producto este cambio puede
+[07:51] tener mayor impacto que modificar sola parte superior es decir hacer un producto
+[07:54] totalmente nuevo vale pero es más tiempo y testear si cobras en vio o no
+[08:00] cobras en vio y si cobras en vio a qué precio cobras el envío todas estas serían
+[08:05] las ofertas a hacer vale tenéis este documento abajo en la descripción de
+[08:10] este vídeo le dais un clic vale nos pondrá hacer copia le dais una copia
+[08:14] y tendréis esto para para tenerlo vale igualmente ver este vídeo ya
+[08:17] está entonces no me enrolló más simplemente era para explicarlo precio
+[08:20] oferta lo más lo que más se importa y más en este orden luego en la book
+[08:23] default de este me lo pronuncio mal perdón y luego sería el orden de las
+[08:27] secciones otra plantilla en vio gratis etcétera igualmente vais serviendo las
+[08:30] llamadas y con el seguimiento todo lo que tenéis que hacer y ahora sí que sí
+[08:33] vamos a instalar la app y a darle caña
