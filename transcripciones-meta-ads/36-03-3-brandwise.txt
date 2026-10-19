@@ -1,0 +1,71 @@
+# 36-03-3-brandwise — 3. Brandwise.mp4 (06:43)
+[00:00] Una vez vayamos descalando es muy importante tener los comentarios tanto en la página de
+[00:05] facebook como en la página de instagram controlados y hay un momento en el cual es prácticamente
+[00:10] imposible hacer esto manualmente a mano digamos esta herramienta brandwise.ai os va a ir increíble
+[00:17] para hacer justo esto os creáis una cuenta os vamos a dejar el link aquí abajo una vez
+[00:23] tenemos la cuenta creada venimos aquí a home y vamos a conectar nuestra página de facebook
+[00:28] y nuestra página de insta en caso de que estéis haciendo tiktok ads lo mismo con la página de tiktok
+[00:33] venís aquí os va a pedir que conectéis la cuenta de meta y como nuestra página de facebook y cuenta
+[00:40] de instagram ya van a estar linkadas en meta vais a poder hacer la conexión yo no lo hago porque ya
+[00:45] lo tengo hecho también podéis hacer exactamente lo mismo con el email nosotros por ahora no lo
+[00:51] estamos haciendo no lo estamos utilizando para gmail sólo para la página de facebook y la página
+[00:56] de insta aquí vais bajando y aquí donde pone knowledge base que sería esto de aquí lo que podéis
+[01:02] hacer es meterle toda la información que queráis si tenéis algún archivo con información sobre
+[01:07] vuestro producto sobre cómo os gusta contestar los correos los comentarios en facebook podéis meterle
+[01:12] aquí como siempre os podéis apoyar de chat gpt podéis ir a chat gpt y decirle estoy creando
+[01:17] un archivo por mi marca tal para poner en brandwise una herramienta que me ayuda a contestar
+[01:24] los comentarios en las redes sociales y le metéis aquí toda la información que queráis pero esta
+[01:30] herramienta va aprendiendo de sí misma es decir cada vez que nosotros contestemos a un comentario a
+[01:35] través de la herramienta esa información se va a quedar guardada aquí y los siguientes comentarios
+[01:42] los va a contestar teniendo en cuenta esa información los smart labels nosotros no lo
+[01:47] estamos utilizando por ahora pero si si queréis podéis jugar con esto podríais marcar los
+[01:52] comentarios por si son comentarios positivos quejas del producto cosas relacionadas con el
+[01:58] shipping pero como ya os he dicho nosotros ahora no lo estamos usando hace poco descubrimos de
+[02:03] estábio estamos aún investigando las funcionalidades más útiles las vamos a ver ahora en un momento
+[02:08] aquí en insights podéis ver por semana cuántos comentarios contestó la inteligencia artificial
+[02:14] cuántos comentarios ha escondido y un resumen de la semana aquí en settings esto te da la
+[02:20] opción de decidir qué quieres que haga la inteligencia artificial si quieres que conteste
+[02:26] los comentarios automáticamente vienes aquí auto reply si quieres que te los dejen draft que luego
+[02:32] tú solo tengas que darle un botón vienes aquí le das a autodraft al principio mientras la ia va
+[02:38] aprendiendo no recomiendo que hagáis auto reply podéis hacer autodraft y una vez la ia tenga
+[02:44] más información sobre el producto haya visto como nosotros contestamos a los mensajes y tal
+[02:49] podéis venir aquí le dais a auto reply lo mismo aplica a esta sección de comentarios que serían
+[02:53] los que necesitan respuesta ya vais a ver que la ia os marca los comentarios que cree que necesitan
+[02:58] respuesta con un needs reply bajando esto si habéis hecho algo de labels que es esto que vimos
+[03:05] aquí podéis hacer lo mismo que hicimos aquí al principio lo dejamos en autodraft y luego le
+[03:11] metemos auto reply cuando la ia ya sepa casi más que nosotros y lo mismo podemos hacer con
+[03:16] esto lo tenéis que hacer por cada página por separado y aquí es donde vamos a ver todos los
+[03:21] comentarios aquí en páginas vais a ver todas las páginas que tenéis conectadas si algo necesita acción
+[03:26] os va a salir aquí aquí veis todos los comentarios que se escondieron todos los comentarios que
+[03:32] necesitan respuesta y aquí vamos a ver en el medio todos los comentarios si por ejemplo solo
+[03:37] queremos ver esta página le damos aquí y venimos aquí ahora vamos a buscar uno que
+[03:44] necesite respuesta y lo hacemos juntos por ejemplo este de aquí vosotros no lo vais a ver porque
+[03:49] esto va a estar todo tapado porque es nuestro producto principal pero es es muy intuitivo y
+[03:56] a vais a ver si no podéis venir aquí cualquier duda hay un chat en vivo y responden muy muy
+[04:02] rápido seleccionamos el comentario que pone needs reply vamos a leer el comentario y si le
+[04:07] damos aquí abajo la ia te crea el comentario leemos el comentario si nos gusta le damos a post
+[04:14] si no nos gusta le podemos decir aquí a la ia make it more friendly haz lo más amistoso
+[04:21] pum le das vosotros no vais a ver el resultado pero te cambia el comentario y lo hace más
+[04:27] amistoso si queréis por ejemplo es un comentario bastante malo queréis esconderlo del post que
+[04:34] no se vea en el vídeo y contestar por DM por mensaje privado le dais aquí reply via diem lo envíais
+[04:41] por diem y aquí en el post vamos a esconder ese comentario malo eso sería prácticamente todo lo
+[04:47] más importante son estos que la ia marca como needs reply que necesita respuesta ya vais a ver
+[04:53] que hay bastantes funcionalidades también se pueden hacer campañas de mensajes privados y tal
+[04:58] investigado un poco como ya he dicho cualquier duda que tengáis podéis venir aquí live chat y
+[05:03] le preguntáis a esta gente en esta parte de aquí podéis ver las analíticas podéis filtrar por el
+[05:08] rango de tiempo que queráis vais a ver cuántos comentarios recibiste cuántos comentarios escondió
+[05:13] brand wise cuántos comentarios respondió la ia puede parecer un poco complicado al principio pero
+[05:19] esto es muy muy muy útil a la que vas escalando aquí podéis poner palabras que queréis que
+[05:24] estén prohibidas como bullshit fake sheet lo que sea cualquier comentario que lleve una de estas
+[05:31] palabras no se va a publicar esto de aquí sería para crear campañas de DM es algo también bastante
+[05:37] útil es una funcionalidad nueva nosotros lo vamos a estar investigando en estos días pero imaginaros
+[05:44] si esto funciona campañas de DM es dinero gratis porque obviamente te cuesta 0 euros y por pocas
+[05:50] ventas que saquemos esto es muy fácil de setear vale vale la pena intentarlo aquí tenéis toda
+[05:57] información de billing miembros si queréis añadir a alguien o tenéis algún empleado que se encarga
+[06:03] de esta parte lo podéis añadir desde aquí aquí veis todas las cuentas que tenéis conectadas también
+[06:08] podéis conectar la tienda de Shopify y el gmail como hemos dicho y cualquier cosa como hemos
+[06:14] dicho venís aquí habláis con esta gente y contestan bastante rápido a la que vamos
+[06:19] escalando tener los comentarios controlados es muy importante porque un vídeo que nos está
+[06:23] funcionando muy bien si tiene 20 comentarios malo se puede ir literal a la mierda y facebook
+[06:29] valora muchísimo el engagement en nuestros posts esto el hecho de contestar comentarios puede puede
+[06:35] que nos ayude a bajar cpm también testear la app y cualquier cosa hablad con ellos aquí en el live chat
